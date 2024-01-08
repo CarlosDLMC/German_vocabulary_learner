@@ -8,7 +8,7 @@ def get_words_by_subject(pdf_file_name):
     current_subject = list()
     words_by_subject = dict()
     subject_name = None
-    for page in reader.pages[2:]:
+    for page in reader.pages[2:]: # nos saltamos la portada y el índice
         words = page.extract_text().split("\n")
         for word in words:
             if f"{current_subject_index + 1}." in word:

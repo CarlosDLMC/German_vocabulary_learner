@@ -1,0 +1,2310 @@
+'''
+das Land, ¨er A1
+Español: el país, los países
+Русский: страна, страны
+English: the country, the countries
+
+Ejemplos de frases en alemán usando esta palabra:
+
+- Ich komme aus einem kleinen Land in Europa. (Vengo de un pequeño país en Europa.)
+- Er hat viele Länder bereist. (Él ha viajado a muchos países.)
+- Deutschland ist ein Land mit einer reichen Geschichte und Kultur. (Alemania es un país con una rica historia y cultura.)
+'''
+ausschalten, A2
+Español: apagar
+Русский: выключать
+English: turn off
+
+Frases en alemán usando ausschalten:
+
+- Ich schalte das Licht aus, bevor ich ins Bett gehe. (Presente: Apago la luz antes de irme a la cama.)
+- Er schaltete den Fernseher aus, weil er nichts Interessantes fand. (Präteritum: Apagó el televisor porque no encontró nada interesante.)
+- Hast du das Handy ausgeschaltet, bevor du in die Schule gegangen bist? (Perfekt: ¿Apagaste el móvil antes de irte a la escuela?)
+'''
+der Baum, - ¨e A2
+Español: el árbol
+Русский: дерево
+English: the tree
+
+Frases en alemán usando esta palabra:
+
+- In unserem Garten steht ein großer **Baum**. (En nuestro jardín hay un árbol grande.)
+- Als Kind kletterte er oft auf den **Baum**. (De niño, él solía trepar al árbol.)
+- Er hat gestern einen **Baum** gepflanzt. (Él plantó un árbol ayer.)
+'''
+der Berg, -e A2
+Español: montaña
+Русский: гора
+English: mountain
+
+- Ich sehe einen hohen **Berg** in der Ferne. (I see a high mountain in the distance.)
+- Als Kind bin ich oft auf den **Berg** geklettert. (As a child, I often climbed the mountain.)
+- Wir sind gestern auf den **Berg** gewandert. (We hiked up the mountain yesterday.)
+'''
+die Blume, -n A2
+Español: la flor, las flores
+Русский: цветок, цветы
+English: the flower, the flowers
+
+Ejemplos de frases en alemán usando esta palabra:
+
+- Ich habe meiner Mutter eine **Blume** zum Geburtstag geschenkt. (Le regalé una flor a mi madre por su cumpleaños.)
+- Als wir Kinder waren, pflückten wir oft **Blumen** im Garten. (Cuando éramos niños, a menudo recogíamos flores en el jardín.)
+- Er hat ihr einen Strauß **Blumen** mitgebracht, um sich zu entschuldigen. (Él le trajo un ramo de flores para disculparse.)
+'''
+chemisch, A2
+Español: químico
+Русский: химический
+English: chemical
+
+- Das chemische Symbol für Wasser ist H2O.
+- Er studierte Chemie und wurde ein berühmter chemischer Ingenieur.
+- Sie hat eine chemische Reaktion ausgelöst, indem sie zwei Substanzen gemischt hat.
+'''
+die Dose, -n A2
+Español: la lata, las latas
+Русский: банка, банки
+English: the can, the cans
+
+- Ich kaufe eine Dose Tomaten im Supermarkt. (I buy a can of tomatoes at the supermarket.)
+- Er öffnete die Dose mit einem Dosenöffner. (He opened the can with a can opener.)
+- Sie haben viele Dosen im Keller gesammelt. (They have collected many cans in the basement.)
+'''
+dreckig, A2
+Español: sucio
+Русский: грязный
+English: dirty
+
+- Das Geschirr ist dreckig. Wir müssen es abwaschen. (The dishes are dirty. We have to wash them.)
+- Er kam dreckig vom Fußballspielen nach Hause. (He came home dirty from playing soccer.)
+- Sie hat das Zimmer dreckig gemacht und nicht aufgeräumt. (She made the room dirty and did not clean up.)
+'''
+der Fluss, - ¨e A2
+Español: el río
+Русский: река
+English: the river
+
+- Der Fluss ist sehr breit und tief. (The river is very wide and deep.)
+- Gestern sind wir mit dem Boot den Fluss hinuntergefahren. (Yesterday we went down the river by boat.)
+- Sie haben schon viele Länder gesehen, die an diesem Fluss liegen. (They have already seen many countries that lie on this river.)
+'''
+heizen, A2
+Español: calentar
+Русский: нагревать
+English: heat
+
+Frases en alemán usando heizen:
+
+- Im Winter heizen wir das Haus mit Holz. (En invierno calentamos la casa con leña.)
+- Er heizte seinen Wagen auf und fuhr los. (Él calentó su coche y se fue.)
+- Sie hat die Suppe zu stark geheizt und sie ist angebrannt. (Ella calentó demasiado la sopa y se quemó.)
+'''
+die Heizung, - en A2
+Español: la calefacción
+Русский: отопление
+English: the heating
+
+Frases en alemán usando esta palabra:
+
+- Im Winter brauchen wir **die Heizung**, um nicht zu frieren. (En invierno necesitamos la calefacción para no congelarnos.)
+- Er **stellte** die Heizung **an** und wartete, bis das Zimmer warm wurde. (Él encendió la calefacción y esperó hasta que la habitación se calentó.)
+- Hast du **die Heizung ausgestellt**, bevor du gegangen bist? (¿Apagaste la calefacción antes de irte?)
+'''
+die Natur, - en A2
+Español: la naturaleza
+Русский: природа
+English: nature
+
+- Ich liebe die Natur und gehe oft spazieren. (I love nature and often go for walks.)
+- Als Kind verbrachte er viel Zeit in der Natur. (As a child, he spent a lot of time in nature.)
+- Sie haben die Natur mit ihren Fotos wunderschön eingefangen. (They have captured nature beautifully with their photos.)
+'''
+die Ökologie, -n A2
+Español: la ecología
+Русский: экология
+English: ecology
+
+Frases en alemán usando esta palabra:
+
+- Die Ökologie ist die Wissenschaft von den Beziehungen der Lebewesen zu ihrer Umwelt. (La ecología es la ciencia de las relaciones de los seres vivos con su entorno.)
+- Wir müssen die Ökologie unseres Planeten schützen. (Tenemos que proteger la ecología de nuestro planeta.)
+- Er studierte Ökologie an der Universität. (Él estudió ecología en la universidad.)
+'''
+ökologisch, A2
+Español: ecológico
+Русский: экологический
+English: ecological
+
+- Dieses Produkt ist ökologisch und nachhaltig. (This product is ecological and sustainable.)
+- Früher war er nicht so ökologisch, aber jetzt fährt er nur noch Fahrrad. (He used to be not so ecological, but now he only rides a bike.)
+- Sie haben ökologisch gelebt und viel für die Umwelt getan. (They lived ecologically and did a lot for the environment.)
+'''
+das Pferd, -e A2
+Español: el caballo
+Русский: лошадь
+English: the horse
+
+- Ich mag **Pferde**, weil sie sehr schöne und intelligente Tiere sind. (I like **horses** because they are very beautiful and intelligent animals.)
+- Als Kind bin ich oft mit meinem Großvater zum Reiten gegangen. Er hatte zwei **Pferde** auf seiner Farm. (As a child, I often went riding with my grandfather. He had two **horses** on his farm.)
+- Hast du schon mal ein **Pferd** gestreichelt? Es fühlt sich sehr weich und warm an. (Have you ever petted a **horse**? It feels very soft and warm.)
+'''
+die Temperatur, - en A2
+Español: la temperatura
+Русский: температура
+English: the temperature
+
+- Die Temperatur ist heute sehr hoch. (The temperature is very high today.)
+- Gestern war die Temperatur niedriger als heute. (Yesterday the temperature was lower than today.)
+- Wir haben die Temperatur des Wassers gemessen. (We measured the temperature of the water.)
+'''
+das Tier, -e A2
+Español: el animal, los animales
+Русский: животное, животные
+English: the animal, the animals
+
+Frases en alemán usando esta palabra:
+
+- Ich mag **Tiere**, besonders Hunde und Katzen. (Me gustan los animales, especialmente los perros y los gatos.)
+- Er hat gestern im Zoo viele verschiedene **Tiere** gesehen. (Él vio ayer muchos animales diferentes en el zoológico.)
+- Hast du schon mal ein wildes **Tier** gestreichelt? (¿Alguna vez has acariciado a un animal salvaje?)
+'''
+trocken, A2
+Español: seco
+Русский: сухой
+English: dry
+
+- Das Wetter ist heute sehr trocken. (The weather is very dry today.)
+- Er trocknete sich die Haare mit einem Handtuch. (He dried his hair with a towel.)
+- Sie hat die Wäsche schon getrocknet. (She has already dried the laundry.)
+'''
+der Vogel, -¨ A2
+Español: el pájaro
+Русский: птица
+English: the bird
+
+- Ich sehe einen **Vogel** auf dem Baum. (I see a bird on the tree.)
+- Gestern fütterte ich die **Vögel** im Park. (Yesterday I fed the birds in the park.)
+- Hast du schon mal einen **Vogel** gestreichelt? (Have you ever petted a bird?)
+'''
+Aquí está la información de las palabras que me escribiste:
+
+der Wald, -¨er A2
+Español: el bosque
+Русский: лес
+English: the forest
+Ejemplos:
+- Ich gehe gern im **Wald** spazieren. (Me gusta pasear por el **bosque**.)
+- Der **Wald** ist voller Tiere und Pflanzen. (El **bosque** está lleno de animales y plantas.)
+- Er hat einen großen **Wald** geerbt. (Él heredó un gran **bosque**.)
+
+der Regen, - A2
+Español: la lluvia
+Русский: дождь
+English: the rain
+Ejemplos:
+- Es **regnet** heute. (Hoy **llueve**.)
+- Er ist im **Regen** nass geworden. (Se mojó en la **lluvia**.)
+- Sie hat den **Regen** genossen. (Ella disfrutó de la **lluvia**.)
+'''
+regnen, A2
+Español: llover
+Русский: дождь
+English: rain
+
+Ejemplos de frases en alemán usando regnen:
+
+- Es regnet heute sehr stark. (Está lloviendo muy fuerte hoy.)
+- Gestern regnete es den ganzen Tag. (Ayer llovió todo el día.)
+- Es hat die ganze Woche geregnet. (Ha llovido toda la semana.)
+'''
+sauber, A2
+Español: limpio
+Русский: чистый
+English: clean
+
+- Das Zimmer ist sehr sauber. (The room is very clean.)
+- Er sauberte sein Fahrrad gestern. (He cleaned his bike yesterday.)
+- Sie hat die Küche sauber gemacht. (She has cleaned the kitchen.)
+'''
+scheinen, A2
+Español: parecer, brillar
+Русский: казаться, светить
+English: seem, shine
+
+Frases en alemán usando scheinen:
+
+- Die Sonne scheint heute sehr hell. (El sol brilla hoy muy fuerte.)
+- Er schien sehr müde zu sein. (Él parecía estar muy cansado.)
+- Sie hat mir gesagt, dass sie die Prüfung gut geschrieben hat. Das scheint mir nicht zu stimmen. (Ella me ha dicho que ha escrito bien el examen. Eso no me parece cierto.)
+'''
+der Schnee, A2
+Español: la nieve
+Русский: снег
+English: the snow
+
+Frases en alemán usando esta palabra:
+
+- Im Winter gibt es oft viel **Schnee**. (En invierno, a menudo hay mucha nieve.)
+- Gestern hat es den ganzen Tag geschneit. Der **Schnee** war sehr dick. (Ayer nevó todo el día. La nieve era muy espesa.)
+- Hast du schon mal einen Schneemann gebaut? Das macht Spaß mit dem **Schnee**. (¿Alguna vez has hecho un muñeco de nieve? Es divertido con la nieve.)
+'''
+schneien, A2
+Español: nevar
+Русский: снег
+English: snow
+
+Frases en alemán usando schneien:
+
+- Es schneit heute sehr stark. (Está nevando mucho hoy.)
+- Gestern schneite es den ganzen Tag. (Ayer nevó todo el día.)
+- Es hat letzte Woche viel geschneit. (Ha nevado mucho la semana pasada.)
+'''
+sonnig, A2
+Español: soleado
+Русский: солнечный
+English: sunny
+
+- Heute ist ein **sonniger** Tag. (Today is a sunny day.)
+- Gestern war es nicht so **sonnig** wie heute. (Yesterday was not as sunny as today.)
+- Wir haben viele **sonnige** Tage in diesem Sommer gehabt. (We have had many sunny days this summer.)
+'''
+der Stern, -e A2
+Español: la estrella
+Русский: звезда
+English: the star
+
+- Ich sehe einen **Stern** am Himmel. (I see a star in the sky.)
+- Er war ein berühmter **Stern** in den 80er Jahren. (He was a famous star in the 80s.)
+- Sie hat einen **Stern** aus Papier gebastelt. (She made a star out of paper.)
+'''
+das Wetter, - A2
+Español: el tiempo
+Русский: погода
+English: weather
+
+Frases en alemán usando esta palabra:
+
+- Wie ist das Wetter heute? (¿Cómo está el tiempo hoy?)
+- Gestern war das Wetter sehr schön. (Ayer el tiempo fue muy bonito.)
+- Wir haben das Wetter für unsere Reise gecheckt. (Hemos comprobado el tiempo para nuestro viaje.)
+'''
+die Luft, - ¨e A2
+Español: el aire
+Русский: воздух
+English: the air
+
+- Ich atme frische **Luft**. (I breathe fresh **air**.)
+- Gestern war die **Luft** sehr kalt. (Yesterday the **air** was very cold.)
+- Er hat die Prüfung mit Bravour bestanden. Er ist überglücklich und fühlt sich wie in der **Luft**. (He passed the exam with flying colors. He is overjoyed and feels like in the **air**.)
+'''
+der Mond, -e A2
+Español: la luna
+Русский: луна
+English: the moon
+
+- Der Mond ist heute sehr hell. (The moon is very bright today.)
+- Als Kind wollte er Astronaut werden und zum Mond fliegen. (As a child, he wanted to become an astronaut and fly to the moon.)
+- Sie hat gestern Abend den Mond fotografiert. (She photographed the moon last night.)
+'''
+das Abgas, -e B1
+Español: el gas de escape
+Русский: выхлопной газ
+English: the exhaust gas
+
+- Die Abgase der Autos verschmutzen die Luft in der Stadt.
+- Er hat gestern seinen alten Wagen verkauft, weil er zu viel Abgas produzierte.
+- Hast du schon mal einen Abgastest für dein Motorrad gemacht?
+'''
+der Ast, - ¨e B1
+Español: la rama
+Русский: ветка
+English: the branch
+
+Frases en alemán usando esta palabra:
+
+- Der Vogel sitzt auf dem **Ast**. (The bird sits on the branch.)
+- Er brach einen **Ast** vom Baum ab. (He broke a branch off the tree.)
+- Die Äste sind mit Schnee bedeckt. (The branches are covered with snow.)
+'''
+sich ausbreiten, B1
+Español: extenderse, propagarse
+Русский: распространяться
+English: spread, expand
+
+Ejemplos:
+
+- Das Feuer breitete sich schnell über den Wald aus. (The fire spread quickly over the forest.)
+- Die Viren haben sich in der ganzen Welt ausgebreitet. (The viruses have spread all over the world.)
+- Er breitet seine Arme aus, um sie zu umarmen. (He spreads his arms to hug her.)
+'''
+ausreichen B1
+Español: bastar, ser suficiente
+Русский: хватать, быть достаточным
+English: suffice, be enough
+
+- Das Essen reicht für alle. (La comida basta para todos.)
+- Er reichte ihr die Hand. (Él le tendió la mano.)
+- Das Geld hat nicht ausgereicht. (El dinero no ha sido suficiente.)
+'''
+der Bach, ¨e B1
+Español: el arroyo
+Русский: ручей
+English: the stream
+
+- Der Bach fließt durch den Wald. (The stream flows through the forest.)
+- Als Kind spielte er oft am Bach. (As a child, he often played by the stream.)
+- Sie haben den Bach überquert. (They have crossed the stream.)
+'''
+bedrohen, B1
+Español: amenazar
+Русский: угрожать
+English: threaten
+
+- Der Löwe bedroht die Gazelle mit seinen scharfen Zähnen. (The lion threatens the gazelle with its sharp teeth.)
+- Er bedrohte sie mit einer Waffe, aber sie konnte entkommen. (He threatened her with a weapon, but she could escape.)
+- Sie hat ihn nie bedroht, sondern nur gewarnt. (She never threatened him, but only warned him.)
+'''
+begrenzen B1
+Español: limitar, restringir
+Русский: ограничивать, сдерживать
+English: limit, restrict
+
+Frases en alemán usando begrenzen:
+
+- Die Regierung will die Ausbreitung des Virus begrenzen. (El gobierno quiere limitar la propagación del virus.)
+- Er begrenzte seine Ausgaben auf das Nötigste. (Él restringió sus gastos a lo esencial.)
+- Sie hat ihre Reise nicht begrenzt, sondern ist so lange geblieben, wie sie wollte. (Ella no limitó su viaje, sino que se quedó tanto tiempo como quiso.)
+'''
+begrenzt, B1
+Español: limitado, restringido
+Русский: ограниченный, суженный
+English: limited, restricted
+
+- Die Anzahl der Teilnehmer ist **begrenzt**, bitte melden Sie sich rechtzeitig an.
+- Er hat seine Reise **begrenzt**, weil er krank wurde.
+- Sie hat ihre Arbeit **begrenzt** abgeschlossen.
+'''
+die Begrenzung, - en B1
+Español: el límite, la limitación
+Русский: ограничение, предел
+English: the limit, the restriction
+
+- Die Begrenzung der Geschwindigkeit auf dieser Straße ist 50 km/h. (The limit of the speed on this road is 50 km/h.)
+- Er begrenzte seine Ausgaben auf das Nötigste. (He limited his expenses to the essentials. Präteritum)
+- Sie haben die Anzahl der Besucher begrenzt. (They have limited the number of visitors. Perfekt)
+'''
+bekämpfen, B1
+Español: combatir, luchar contra
+Русский: бороться, противостоять
+English: fight, combat
+
+Ejemplos de frases en alemán usando bekämpfen:
+
+- Die Polizei muss die Kriminalität bekämpfen. (La policía debe combatir el crimen.)
+- Er bekämpfte den Drachen mit seinem Schwert. (Él luchó contra el dragón con su espada.)
+- Sie haben die Krankheit erfolgreich bekämpft. (Ellos han combatido la enfermedad con éxito.)
+'''
+bestehen aus, D B1
+Español: consistir en
+Русский: состоять из
+English: consist of
+
+Beispiele:
+- Die Erde **besteht aus** verschiedenen Schichten. (The earth **consists of** different layers.)
+- Er hat die Prüfung **bestanden**, weil er viel gelernt hat. (He **passed** the exam because he studied a lot.)
+- Sie haben die Prüfung **bestanden**. Herzlichen Glückwunsch! (You have **passed** the exam. Congratulations!)
+'''
+bewirken B1
+Español: causar, provocar, producir
+Русский: вызывать, обуславливать, действовать
+English: cause, bring about, effect
+
+- Dieses Medikament kann Schläfrigkeit **bewirken**. (This medicine can cause drowsiness.)
+- Er **bewirkte** eine Veränderung in der Gesellschaft. (He brought about a change in society.)
+- Sie hat mit ihrer Arbeit viel Gutes **bewirkt**. (She has effected much good with her work.)
+'''
+das Blatt, -¨er B1
+Español: la hoja
+Русский: лист
+English: the leaf
+
+- Das Blatt ist grün und hat eine ovale Form. (The leaf is green and has an oval shape.)
+- Er nahm ein Blatt Papier und schrieb einen Brief. (He took a sheet of paper and wrote a letter.)
+- Die Blätter sind im Herbst von den Bäumen gefallen. (The leaves fell from the trees in autumn.)
+'''
+blühen, B1
+Español: florecer
+Русский: цвести
+English: blossom
+
+- Die Blumen blühen im Frühling. (The flowers blossom in spring.)
+- Als ich ein Kind war, blühte ein Apfelbaum in unserem Garten. (When I was a child, an apple tree blossomed in our garden.)
+- Hast du gesehen, wie schön die Kirschblüten geblüht haben? (Did you see how beautifully the cherry blossoms blossomed?)
+'''
+die Blüte, -n B1
+Español: la flor, las flores
+Русский: цветок, цветы
+English: the flower, the flowers
+
+- Die Blüte des Apfelbaums ist weiß und duftend. (The flower of the apple tree is white and fragrant.)
+- Im Frühling blühten viele Blumen in unserem Garten. (In spring, many flowers bloomed in our garden.)
+- Er hat ihr einen Strauß bunter Blüten geschenkt. (He gave her a bouquet of colorful flowers.)
+'''
+brennen, B1
+Español: quemar
+Русский: гореть
+English: burn
+
+- Das Feuer brennt seit Stunden. (The fire has been burning for hours.)
+- Er brannte sich die Zunge an dem heißen Tee. (He burned his tongue on the hot tea.)
+- Sie hat alle seine Briefe verbrannt. (She burned all his letters.)
+'''
+die Büchse, -n B1
+Español: la lata
+Русский: банка
+English: the can
+
+- Er öffnet die Büchse und gießt die Tomatensoße in den Topf. (He opens the can and pours the tomato sauce into the pot.)
+- Als Kind sammelte sie leere Büchsen und bastelte daraus Spielzeug. (As a child, she collected empty cans and made toys out of them.)
+- Hast du die Büchse mit dem Geld gefunden, die ich unter dem Bett versteckt habe? (Did you find the can with the money that I hid under the bed?)
+'''
+der Busch, -¨ B1
+Español: el arbusto
+Русский: куст
+English: the bush
+
+- Der Busch ist grün und hat viele Blätter. (The bush is green and has many leaves.)
+- Er versteckte sich hinter dem Busch, als er die Polizei sah. (He hid behind the bush when he saw the police.)
+- Sie hat gestern einen schönen Busch im Garten gepflanzt. (She planted a beautiful bush in the garden yesterday.)
+'''
+das CO 2  ( das Kohlendioxid, - e) B1
+Español: el dióxido de carbono
+Русский: углекислый газ
+English: carbon dioxide
+
+- Das CO 2  ist ein farb- und geruchloses Gas, das bei der Verbrennung von Kohlenstoff entsteht.
+- Früher wurde Kohlendioxid als Kältemittel verwendet, aber heute wird es vor allem für die Herstellung von kohlensäurehaltigen Getränken genutzt.
+- Die Erhöhung des CO 2 -Gehalts in der Atmosphäre führt zu einer globalen Erwärmung und einem Klimawandel.
+'''
+Donner, B1
+Español: trueno
+Русский: гром
+English: thunder
+
+- Ich höre den **Donner** und sehe den Blitz. (I hear the **thunder** and see the lightning.)
+- Gestern donnerte es sehr laut. (Yesterday it thundered very loudly.)
+- Es hat schon mehrmals gedonnert. (It has thundered several times already.)
+'''
+das duale System, -e B1
+Español: el sistema dual
+Русский: двойная система
+English: the dual system
+
+- Das duale System ist eine Form der Berufsausbildung in Deutschland. 
+- Gestern habe ich mich für das duale System angemeldet.
+- Ich habe das duale System abgeschlossen und einen Abschluss als Elektriker erhalten.
+'''
+enthalten, B1
+Español: contener
+Русский: содержать
+English: contain
+
+Ejemplos de frases en alemán usando enthalten:
+
+- Dieses Getränk enthält viel Zucker. (Esta bebida contiene mucho azúcar.)
+- Die Polizei enthielt sich der Gewalt. (La policía se abstuvo de la violencia.)
+- Er hat mir nicht alles erzählt, was der Brief enthalten hat. (Él no me contó todo lo que contenía la carta.)
+'''
+entstehen, B1
+Español: surgir, originarse, nacer
+Русский: возникать, происходить, появляться
+English: arise, originate, emerge
+
+- Aus der Asche des Krieges entstand eine neue Hoffnung. (From the ashes of war, a new hope emerged.)
+- Wie ist das Universum entstanden? (How did the universe originate?)
+- Er ist aus dem Nichts entstanden. (He arose from nothing.)
+'''
+die Erdatmosphäre, -n B1
+Español: la atmósfera terrestre
+Русский: земная атмосфера
+English: the Earth's atmosphere
+
+Frases en alemán usando esta palabra:
+
+- Die Erdatmosphäre besteht aus verschiedenen Schichten, die sich in Temperatur und Druck unterscheiden.
+- Ohne die Erdatmosphäre gäbe es kein Leben auf der Erde, denn sie schützt uns vor der Sonnenstrahlung und Meteoriten.
+- Gestern habe ich einen Dokumentarfilm über die Erdatmosphäre gesehen, der sehr interessant war. Er hat erklärt, wie der Klimawandel die Erdatmosphäre beeinflusst.
+'''
+die Erde, -n B1
+Español: la tierra, los planetas
+Русский: земля, планеты
+English: the earth, the planets
+
+- Die Erde ist der dritte Planet von der Sonne aus gesehen. (The earth is the third planet from the sun.)
+- Früher glaubten die Menschen, dass die Erde flach sei. (In the past, people believed that the earth was flat.)
+- Die Erde hat sich in den letzten Jahrzehnten stark erwärmt. (The earth has warmed up a lot in the last decades.)
+'''
+(sich) erwärmen, B1
+Español: (se) calentar
+Русский: (само)нагреваться
+English: (self) heat up
+
+Frases en alemán usando (sich) erwärmen:
+
+- Die Suppe hat sich in der Mikrowelle erwärmt. (The soup has heated up in the microwave.)
+- Er erwärmte seine Hände an der Tasse. (He warmed his hands on the cup.)
+- Sie hat sich für die neue Idee erwärmt. (She warmed up to the new idea.)
+'''
+die Erwärmung, - en B1
+Español: el calentamiento
+Русский: нагрев
+English: the warming
+
+Frases en alemán usando esta palabra:
+
+- Die Erwärmung der Erde ist eine große Herausforderung für die Menschheit. (El calentamiento de la Tierra es un gran desafío para la humanidad.)
+- Er spürte eine angenehme Erwärmung in seinem Körper, als er den heißen Tee trank. (Sintió un agradable calentamiento en su cuerpo cuando bebió el té caliente.)
+- Die Milch ist schon erwärmt, du kannst sie ins Müsli geben. (La leche ya está calentada, puedes echarla al muesli.)
+'''
+feucht, B1
+Español: húmedo, mojado
+Русский: влажный, мокрый
+English: damp, wet
+
+Frases en alemán usando feucht:
+
+- Der Boden ist noch feucht vom Regen. (The ground is still damp from the rain.)
+- Er wischte sich den feuchten Schweiß von der Stirn. (He wiped the wet sweat from his forehead.)
+- Sie hat feuchte Augen vor Rührung. (She has moist eyes from emotion.)
+'''
+flach, B1
+Español: plano, llano, liso
+Русский: плоский, ровный, гладкий
+English: flat, smooth, level
+Frases en alemán:
+- Die Erde ist nicht flach, sondern rund. (La Tierra no es plana, sino redonda.)
+- Er hat eine flache Stimme, die mich einschläfert. (Él tiene una voz monótona que me adormece.)
+- Sie hat die flachen Schuhe gegen hohe Absätze getauscht. (Ella cambió los zapatos planos por tacones altos.)
+'''
+fließen, B1
+Español: fluir
+Русский: течь
+English: flow
+
+Frases en alemán usando fließen:
+
+- Das Wasser fließt schnell durch den Fluss. (The water flows fast through the river.)
+- Früher floss der Rhein durch die Stadt, aber jetzt ist er umgeleitet worden. (In the past, the Rhine flowed through the city, but now it has been diverted.)
+- Er hat viel Blut verloren, weil seine Wunde nicht aufhörte zu fließen. (He lost a lot of blood because his wound did not stop bleeding.)
+'''
+der Flügel, - B1
+Español: el ala, el piano de cola
+Русский: крыло, рояль
+English: the wing, the grand piano
+
+Frases en alemán usando esta palabra:
+
+- Der Adler breitete seine **Flügel** aus und flog in den Himmel. (The eagle spread its **wings** and flew into the sky.)
+- Sie spielt wunderschön auf dem **Flügel**. (She plays beautifully on the **grand piano**.)
+- Er hat einen **Flügel** an seinem Haus gebaut. (He built a **wing** on his house.)
+'''
+die Gefahr, - en B1
+Español: el peligro
+Русский: опасность
+English: danger
+
+Frases en alemán usando esta palabra:
+
+- Er ist in **Gefahr**, von einem Auto angefahren zu werden. (He is in **danger** of being hit by a car.)
+- Sie hat die **Gefahr** erkannt und ist schnell weggelaufen. (She recognized the **danger** and ran away quickly.)
+- Hast du dich jemals in **Gefahr** gebracht? (Have you ever put yourself in **danger**?)
+'''
+gefährden, B1
+Español: poner en peligro
+Русский: угрожать
+English: endanger
+
+Frases en alemán usando gefährden:
+
+- Die Umweltverschmutzung gefährdet die Gesundheit der Menschen und der Tiere. (La contaminación ambiental pone en peligro la salud de las personas y de los animales.)
+- Er gefährdete seine Karriere, als er sich mit dem Chef stritt. (Él puso en peligro su carrera, cuando discutió con el jefe.)
+- Sie haben die Prüfung nicht gefährdet, obwohl sie wenig gelernt haben. (Ellos no han puesto en peligro el examen, aunque han estudiado poco.)
+'''
+das Gewitter, - B1
+Español: la tormenta
+Русский: гроза
+English: the thunderstorm
+
+Frases en alemán usando esta palabra:
+
+- Ich habe Angst vor **Gewittern**. (Tengo miedo de las tormentas.)
+- Gestern gab es ein heftiges **Gewitter** mit Blitz und Donner. (Ayer hubo una tormenta fuerte con relámpagos y truenos.)
+- Hast du gehört, wie das **Gewitter** aufgehört hat? (¿Has oído cómo ha cesado la tormenta?)
+'''
+das Gift, -e B1
+Español: veneno
+Русский: яд
+English: poison
+
+- Das Gift ist sehr gefährlich und kann zum Tod führen. (The poison is very dangerous and can cause death.)
+- Er gab ihr heimlich ein Gift, um sie loszuwerden. (He secretly gave her a poison to get rid of her.)
+- Sie hat das Gift überlebt und sich an ihm gerächt. (She survived the poison and took revenge on him.)
+'''
+giftig, B1
+Español: venenoso, tóxico
+Русский: ядовитый, токсичный
+English: poisonous, toxic
+
+- Die giftige Schlange biss ihn in den Arm. (The poisonous snake bit him in the arm.)
+- Er aß einen giftigen Pilz und wurde sehr krank. (He ate a poisonous mushroom and became very ill.)
+- Sie hat das giftige Wasser getrunken und ist gestorben. (She drank the toxic water and died.)
+'''
+der Globus, die Globen (auch der Erdball, die Erdbälle)
+Español: el globo terráqueo, los globos terráqueos
+Русский: глобус, глобусы
+English: the globe, the globes
+
+Ejemplos:
+
+- Der Globus zeigt die Länder der Welt. (The globe shows the countries of the world.)
+- Als Kind hatte ich einen Globus in meinem Zimmer. (As a child, I had a globe in my room.)
+- Er hat den Globus gedreht und mit dem Finger einen Ort ausgewählt. (He spun the globe and picked a place with his finger.)
+'''
+Creo que has cometido un error al escribir la palabra. ¿Querías decir **Globus, B1**? Si es así, aquí está la información que me has pedido:
+
+- Español: globo
+- Русский: глобус
+- English: globe
+- Frases en alemán usando Globus:
+  - Der Globus zeigt die Länder der Welt. (El globo muestra los países del mundo.)
+  - Er drehte den Globus und hielt ihn mit dem Finger an. (Él giró el globo y lo detuvo con el dedo.)
+  - Hast du einen Globus zu Hause? (¿Tienes un globo en casa?)
+'''
+gravierend, B1
+Español: grave, serio, severo
+Русский: серьезный, тяжелый, существенный
+English: serious, severe, significant
+
+Frases en alemán usando gravierend:
+
+- Die Folgen der Klimakrise sind gravierend für die Menschheit. (The consequences of the climate crisis are serious for humanity.)
+- Er machte einen gravierenden Fehler in seiner Prüfung. (He made a severe mistake in his exam.)
+- Die Unterschiede zwischen den beiden Parteien sind gravierend. (The differences between the two parties are significant.)
+'''
+das Grundwasser, B1
+Español: el agua subterránea
+Русский: грунтовая вода
+English: the groundwater
+
+- Das Grundwasser ist eine wichtige Ressource für die Landwirtschaft und die Industrie. (The groundwater is an important resource for agriculture and industry.)
+- Wegen der Dürre sank der Grundwasserspiegel in vielen Regionen. (Because of the drought, the groundwater level dropped in many regions.)
+- Die Stadt hat das Grundwasser gereinigt und als Trinkwasser genutzt. (The city cleaned the groundwater and used it as drinking water.)
+'''
+der Hase, -n B1
+Español: el conejo
+Русский: кролик
+English: the rabbit
+
+- Der Hase lebt im Wald. (The rabbit lives in the forest.)
+- Gestern sah ich einen Hasen im Garten. (Yesterday I saw a rabbit in the garden.)
+- Hast du schon mal Hasenfleisch gegessen? (Have you ever eaten rabbit meat?)
+'''
+heiter, B1
+Español: alegre, claro
+Русский: весёлый, ясный
+English: cheerful, clear
+
+- Heute ist ein heiterer Tag, die Sonne scheint und die Vögel singen. (Today is a cheerful day, the sun is shining and the birds are singing.)
+- Gestern war das Wetter nicht so heiter, es hat geregnet und gestürmt. (Yesterday the weather was not so clear, it rained and stormed.)
+- Er hat mir heiter erzählt, dass er die Prüfung bestanden hat. (He cheerfully told me that he passed the exam.)
+'''
+das Huhn, -¨er B1
+Español: el pollo, los pollos
+Русский: курица, курицы
+English: the chicken, the chickens
+
+Tres frases en alemán usando esta palabra son:
+
+- Ich esse gern **Huhn** mit Reis und Gemüse. (Me gusta comer pollo con arroz y verduras.)
+- Er hat gestern ein **Huhn** geschlachtet. (Él mató un pollo ayer.)
+- Sie haben schon drei **Hühner** gelegt. (Ellos ya han puesto tres huevos.)
+'''
+die Katastrophe, -n B1
+Español: la catástrofe
+Русский: катастрофа
+English: the catastrophe
+
+- Die Katastrophe hat viele Menschenleben gefordert. (The catastrophe claimed many lives.)
+- Als er die Nachricht hörte, war er über die Katastrophe erschüttert. (When he heard the news, he was shocked by the catastrophe.)
+- Sie haben die Katastrophe überlebt und sind jetzt in Sicherheit. (They survived the catastrophe and are now safe.)
+'''
+das Klima, A2
+Español: el clima
+Русский: климат
+English: the climate
+
+- Das Klima in Deutschland ist gemäßigt und wechselhaft. (The climate in Germany is moderate and variable.)
+- Im Sommer war das Klima sehr heiß und trocken. (In summer, the climate was very hot and dry.)
+- Sie haben das Klima verändert, indem sie die Umwelt verschmutzt haben. (They have changed the climate by polluting the environment.)
+'''
+Plural, B1
+Español: plural
+Русский: множественное число
+English: plural
+
+Algunas frases en alemán usando la palabra plural son:
+
+- Die **Plural**form von "Haus" ist "Häuser". (La forma plural de "casa" es "casas".)
+- Um den **Plural** eines Substantivs zu bilden, muss man manchmal einen Umlaut hinzufügen. (Para formar el plural de un sustantivo, a veces hay que añadir una diéresis.)
+- Im **Plural** haben die meisten Verben die Endung -en. (En plural, la mayoría de los verbos tienen la terminación -en.)
+'''
+der Klimaforscher, - B1
+Español: el climatólogo
+Русский: климатолог
+English: the climatologist
+
+- Ein Klimaforscher untersucht die Veränderungen des Klimas auf der Erde.
+- Der Klimaforscher warnte vor den Folgen der globalen Erwärmung.
+- Der Klimaforscher hat viele Daten über die Emissionen gesammelt.
+'''
+der Klimaschutz, B1
+Español: la protección del clima
+Русский: защита климата
+English: climate protection
+
+Ejemplos de frases en alemán usando esta palabra:
+
+- Der Klimaschutz ist eine wichtige Aufgabe für die ganze Welt. (La protección del clima es una tarea importante para todo el mundo.)
+- Die Regierung hat ein neues Gesetz zum Klimaschutz beschlossen. (El gobierno ha aprobado una nueva ley de protección del clima.)
+- Wir können alle etwas für den Klimaschutz tun, zum Beispiel weniger Auto fahren oder Strom sparen. (Todos podemos hacer algo por la protección del clima, por ejemplo, conducir menos o ahorrar electricidad.)
+'''
+die Klimaveränderung, - en B1
+Español: el cambio climático
+Русский: климатические изменения
+English: climate change
+
+Frases en alemán usando esta palabra:
+
+- Die Klimaveränderung ist eine der größten Herausforderungen unserer Zeit. (El cambio climático es uno de los mayores desafíos de nuestro tiempo.)
+- Als ich ein Kind war, veränderte sich das Klima noch nicht so schnell. (Cuando era niño, el clima no cambiaba tan rápido.)
+- Wir haben viele Maßnahmen ergriffen, um die Klimaveränderung zu bekämpfen. (Hemos tomado muchas medidas para combatir el cambio climático.)
+'''
+das Kohlekraftwerk, -e B1
+Español: la central térmica de carbón
+Русский: угольная теплоэлектростанция
+English: coal-fired power plant
+
+- Das Kohlekraftwerk produziert viel Strom, aber auch viel CO2. (The coal-fired power plant produces a lot of electricity, but also a lot of CO2.)
+- Früher arbeitete er in einem Kohlekraftwerk, aber jetzt ist er Rentner. (He used to work in a coal-fired power plant, but now he is retired.)
+- Die Regierung hat beschlossen, alle Kohlekraftwerke bis 2030 zu schließen. (The government has decided to close all coal-fired power plants by 2030.)
+'''
+das Kohlendioxid, -e (CO 2) B1
+Español: dióxido de carbono
+Русский: углекислый газ
+English: carbon dioxide
+
+Frases en alemán usando esta palabra:
+
+- Die Pflanzen nehmen **das Kohlendioxid** aus der Luft auf und geben Sauerstoff ab. (Las plantas absorben el dióxido de carbono del aire y liberan oxígeno.)
+- Früher wurde **das Kohlendioxid** oft als Kältemittel verwendet. (Antes, el dióxido de carbono se usaba a menudo como refrigerante.)
+- Er hat zu viel **Kohlendioxid** eingeatmet und ist ohnmächtig geworden. (Él inhaló demasiado dióxido de carbono y se desmayó.)
+'''
+das Kraftwerk, -e B1
+Español: la central eléctrica
+Русский: электростанция
+English: the power plant
+
+- Das Kraftwerk produziert Strom aus erneuerbaren Energien. (The power plant produces electricity from renewable sources.)
+- Früher arbeitete er in einem alten Kraftwerk. (He used to work in an old power plant.)
+- Sie haben das Kraftwerk nach dem Unfall stillgelegt. (They shut down the power plant after the accident.)
+'''
+die Kuh, - ¨e B1
+Español: la vaca
+Русский: корова
+English: the cow
+
+Frases en alemán usando esta palabra:
+
+- Die Kuh gibt Milch. (La vaca da leche.)
+- Gestern sah ich eine braune Kuh auf der Weide. (Ayer vi una vaca marrón en el pasto.)
+- Er hat die Kuh gemolken und den Eimer voll gemacht. (Él ordeñó la vaca y llenó el cubo.)
+'''
+kühlen B1
+Español: enfriar
+Русский: охлаждать
+English: cool
+- Ich muss die Suppe kühlen, bevor ich sie in den Kühlschrank stelle. (I have to cool the soup before I put it in the fridge.)
+- Gestern kühlte er sich im See ab. (Yesterday he cooled off in the lake.)
+- Er hat die Suppe gekühlt und in den Kühlschrank gestellt. (He cooled the soup and put it in the fridge.)
+
+ländlich B1
+Español: rural
+Русский: сельский
+English: rural
+- Er lebt in einem ländlichen Gebiet. (He lives in a rural area.)
+- Die ländliche Bevölkerung ist oft benachteiligt. (The rural population is often disadvantaged.)
+- Sie ist in einem ländlichen Dorf aufgewachsen. (She grew up in a rural village.)
+'''
+die Luftverschmutzung, - en B1
+Español: la contaminación del aire
+Русский: загрязнение воздуха
+English: air pollution
+
+Ejemplos:
+
+- Die Luftverschmutzung ist ein ernstes Problem für die Gesundheit und die Umwelt. (La contaminación del aire es un problema grave para la salud y el medio ambiente.)
+- Gestern war die Luftverschmutzung so hoch, dass die Schule geschlossen wurde. (Ayer la contaminación del aire fue tan alta que se cerró la escuela.)
+- Wir haben in den letzten Jahren viel getan, um die Luftverschmutzung zu reduzieren. (Hemos hecho mucho en los últimos años para reducir la contaminación del aire.)
+'''
+mild, B1
+Español: suave, leve, moderado
+Русский: мягкий, слабый, умеренный
+English: mild, soft, moderate
+
+- Das Wetter ist heute mild und sonnig. (The weather is mild and sunny today.)
+- Er hatte eine milde Erkältung, aber er ging trotzdem zur Arbeit. (He had a mild cold, but he still went to work.)
+- Sie hat ihm eine milde Strafe gegeben, weil er ihr leidtat. (She gave him a mild punishment because she felt sorry for him.)
+'''
+die Mücke, -n B1
+Español: el mosquito, los mosquitos
+Русский: комар, комары
+English: the mosquito, the mosquitoes
+
+- Ich hasse es, wenn **die Mücke** mich sticht und ich einen Juckreiz bekomme.
+- Gestern haben wir viele **Mücken** in unserem Schlafzimmer gesehen und mussten ein Insektenspray benutzen.
+- Hast du schon mal **Mücken** gefangen und sie unter einem Mikroskop betrachtet?
+'''
+der Müll, B1
+Español: la basura
+Русский: мусор
+English: the garbage
+
+- Ich bringe den Müll raus. (I take out the garbage.)
+- Gestern hat er den Müll nicht getrennt. (Yesterday he did not separate the garbage.)
+- Hast du schon den Müll entsorgt? (Have you already disposed of the garbage?)
+'''
+nachfüllen, B1
+Español: rellenar
+Русский: пополнять
+English: refill
+
+- Ich muss den Tank nachfüllen, bevor ich weiterfahren kann. (I have to refill the tank before I can continue driving.)
+- Er hat seinen Kaffee nachgefüllt und sich wieder an die Arbeit gemacht. (He refilled his coffee and got back to work.)
+- Hast du deine Medikamente nachgefüllt? (Have you refilled your medication?)
+'''
+die Nässe, B1
+Español: la humedad
+Русский: влажность
+English: the dampness
+
+Frases en alemán usando esta palabra:
+
+- Die Nässe hat die Wände beschädigt. (The dampness has damaged the walls.)
+- Er spürte die Nässe auf seiner Haut. (He felt the dampness on his skin.)
+- Sie trocknete ihre Haare, die von der Nässe noch feucht waren. (She dried her hair, which was still wet from the dampness.)
+'''
+der Nationalpark, -s B1
+Español: el parque nacional
+Русский: национальный парк
+English: the national park
+
+- In Deutschland gibt es 16 Nationalparks, die die Natur schützen sollen.
+- Wir haben letztes Jahr einen Ausflug in den Nationalpark Berchtesgaden gemacht. Es war sehr schön.
+- Hast du schon mal einen Nationalpark besucht? Ich würde gerne mal den Yellowstone-Nationalpark in den USA sehen.
+'''
+das Naturschutzgebiet, -e B1
+Español: la reserva natural
+Русский: заповедник
+English: the nature reserve
+
+Frases en alemán usando esta palabra:
+
+- Wir haben einen Ausflug in das Naturschutzgebiet gemacht und viele seltene Tiere gesehen. (We made a trip to the nature reserve and saw many rare animals.)
+- Das Naturschutzgebiet wurde vor 50 Jahren gegründet, um die Artenvielfalt zu schützen. (The nature reserve was founded 50 years ago to protect biodiversity.)
+- In diesem Naturschutzgebiet darf man nicht campen oder Feuer machen. (In this nature reserve, you are not allowed to camp or make fire.)
+'''
+der Nebel, - B1
+Español: la niebla
+Русский: туман
+English: the fog
+
+- Der Nebel ist so dicht, dass ich die Straße nicht sehen kann. (The fog is so thick that I can't see the road.)
+- Gestern war es neblig und kalt. (Yesterday it was foggy and cold.)
+- Er ist im Nebel verschwunden. (He disappeared in the fog.)
+'''
+die Pflanze, -n B1
+Español: la planta
+Русский: растение
+English: the plant
+
+- Die Pflanze wächst in meinem Garten. (The plant grows in my garden.)
+- Er hat gestern eine schöne Pflanze gekauft. (He bought a beautiful plant yesterday.)
+- Sie hat viele Pflanzen gegossen. (She watered many plants.)
+'''
+pflanzen, B1
+Español: plantas
+Русский: растения
+English: plants
+
+Frases en alemán usando pflanzen:
+
+- Ich mag es, Blumen zu **pflanzen**. (Me gusta plantar flores.)
+- Er **pflanzte** einen Baum in seinem Garten. (Él plantó un árbol en su jardín.)
+- Sie hat viele **Pflanzen** in ihrer Wohnung. (Ella tiene muchas plantas en su apartamento.)
+'''
+pflücken, B1
+Español: recoger, cosechar
+Русский: собирать, урывать
+English: pick, pluck
+
+Frases en alemán usando pflücken:
+
+- Im Herbst **pflücken** wir Äpfel von den Bäumen. (En otoño recogemos manzanas de los árboles.)
+- Er **pflückte** eine Rose für seine Freundin. (Él le arrancó una rosa a su novia.)
+- Hast du schon die Kirschen **gepflückt**? (¿Ya has cosechado las cerezas?)
+'''
+die Quelle, -n B1
+Español: la fuente
+Русский: источник
+English: the source
+
+- Das Wasser aus dieser Quelle ist sehr sauber und gesund. (The water from this source is very clean and healthy.)
+- Er hat seine Quellen nicht richtig angegeben. (He did not cite his sources correctly.)
+- Die Quelle des Problems ist noch unbekannt. (The source of the problem is still unknown.)
+'''
+radioaktiv, B1
+Español: radiactivo
+Русский: радиоактивный
+English: radioactive
+
+- Das radioaktive Material wurde in einem sicheren Behälter transportiert.
+- Die radioaktive Strahlung kann Krebs verursachen.
+- Er hatte sich radioaktiv verseucht, als er das Labor betrat.
+'''
+der Reaktor, -en; der Kernreaktor, -
+Español: el reactor, el reactor nuclear
+Русский: реактор, ядерный реактор
+English: the reactor, the nuclear reactor
+
+- In diesem Reaktor wird die Kernspaltung kontrolliert. (In this reactor, the nuclear fission is controlled.)
+- Der Kernreaktor wurde im Jahr 1942 von Enrico Fermi gebaut. (The nuclear reactor was built in 1942 by Enrico Fermi.)
+- Die Regierung hat beschlossen, alle Kernreaktoren bis 2025 abzuschalten. (The government has decided to shut down all nuclear reactors by 2025.)
+'''
+en, B1
+Español: en
+Русский: в
+English: in
+
+Frases en alemán usando la palabra en:
+
+- Ich wohne **in** Berlin. (Vivo en Berlín.)
+- Er ist **in** die Schule gegangen. (Él ha ido a la escuela.)
+- Sie hat ihn **in** den Arm genommen. (Ella lo abrazó.)
+'''
+reduzieren, B1
+Español: reducir
+Русский: уменьшать
+English: reduce
+
+- Ich möchte meinen Plastikverbrauch reduzieren. (I want to reduce my plastic consumption.)
+- Er reduzierte die Geschwindigkeit seines Autos. (He reduced the speed of his car.)
+- Sie hat ihre Arbeitszeit um 10% reduziert. (She has reduced her working hours by 10%.)
+'''
+die Reduzierung, - en B1
+Español: la reducción
+Русский: снижение
+English: the reduction
+
+- Die Reduzierung der Treibhausgasemissionen ist eine globale Herausforderung. (The reduction of greenhouse gas emissions is a global challenge.)
+- Die Regierung reduzierte die Steuern für kleine Unternehmen. (The government reduced the taxes for small businesses.)
+- Die Firma hat ihre Kosten um 20 Prozent reduziert. (The company has reduced its costs by 20 percent.)
+'''
+regenerativ, B1
+Español: regenerativo
+Русский: регенеративный
+English: regenerative
+
+- Die regenerative Energie ist eine nachhaltige Alternative zu den fossilen Brennstoffen.
+- Er hatte eine regenerative Pause, nachdem er die ganze Nacht gearbeitet hatte.
+- Sie hat sich von ihrer Krankheit regenerativ erholt.
+'''
+schaden, B1
+Español: dañar, perjudicar
+Русский: вредить, повреждать
+English: damage, harm
+
+- Der Sturm hat viele Häuser geschadet. (The storm damaged many houses.)
+- Er schadete seiner Gesundheit, indem er zu viel rauchte. (He harmed his health by smoking too much.)
+- Sie hat ihm nicht schaden wollen. (She did not want to harm him.)
+'''
+der Schaden, -¨en B1
+Español: el daño, los daños
+Русский: ущерб, повреждения
+English: the damage, the damages
+
+- Der Sturm hat einen großen Schaden angerichtet. (The storm caused a lot of damage.)
+- Er hat den Schaden an seinem Auto selbst repariert. (He repaired the damage to his car himself.)
+- Sie hat den Schaden, den sie verursacht hat, ersetzt. (She compensated for the damage she caused.)
+'''
+der Schatten, - B1
+Español: la sombra
+Русский: тень
+English: the shadow
+
+Frases en alemán usando esta palabra:
+
+- Er stand im **Schatten** eines Baumes und beobachtete die Straße. (He stood in the **shadow** of a tree and watched the street.)
+- Sie warf einen langen **Schatten** auf den Rasen, als die Sonne unterging. (She cast a long **shadow** on the lawn as the sun set.)
+- Er hat seine Vergangenheit endlich hinter sich gelassen und ist aus dem **Schatten** seines Vaters getreten. (He finally left his past behind and stepped out of the **shadow** of his father.)
+'''
+schmeißen, B1
+Español: tirar, lanzar, echar
+Русский: бросать, кидать, выгонять
+English: throw, toss, kick out
+
+Frases en alemán usando schmeißen:
+
+- Er schmeißt den Ball in die Luft. (Él lanza la pelota al aire.)
+- Sie schmiss ihn aus dem Haus. (Ella lo echó de la casa.)
+- Er hat die Prüfung geschmissen. (Él ha suspendido el examen.)
+'''
+der Smog, -s B1
+Español: el smog
+Русский: смог
+English: the smog
+
+Frases en alemán usando esta palabra:
+
+- In vielen Großstädten gibt es ein Problem mit **dem Smog**.
+(En muchas ciudades grandes hay un problema con el smog.)
+- **Der Smog** beeinträchtigt die Gesundheit der Menschen und die Umwelt.
+(El smog afecta la salud de las personas y el medio ambiente.)
+- Gestern war die Luft so schlecht, dass wir wegen **des Smogs** nicht spazieren gehen konnten.
+(Ayer el aire estaba tan malo que no pudimos salir a caminar por el smog.)
+'''
+die Sonnenenergie, -n B1
+Español: la energía solar
+Русский: солнечная энергия
+English: solar energy
+
+- Die Sonnenenergie ist eine erneuerbare und umweltfreundliche Energiequelle. (Solar energy is a renewable and environmentally friendly source of energy.)
+- Gestern haben wir die Sonnenenergie genutzt, um unser Haus zu heizen. (Yesterday we used solar energy to heat our house.)
+- Wir haben eine Anlage zur Umwandlung von Sonnenenergie in elektrischen Strom installiert. (We have installed a system to convert solar energy into electrical power.)
+'''
+der Sonnenkollektor, - en B1
+Español: el colector solar
+Русский: солнечный коллектор
+English: the solar collector
+
+- Der Sonnenkollektor **wandelt** die Sonnenenergie in Wärme um. (The solar collector **converts** the solar energy into heat.)
+- **Hattest** du gestern den Sonnenkollektor **repariert**? (Did you **repair** the solar collector yesterday?)
+- Wir **haben** einen neuen Sonnenkollektor **gekauft**, weil der alte kaputt war. (We **bought** a new solar collector because the old one was broken.)
+'''
+das Sonnenlicht, B1
+Español: la luz del sol
+Русский: солнечный свет
+English: sunlight
+
+- Das Sonnenlicht ist wichtig für die Gesundheit und das Wohlbefinden der Menschen. (Sunlight is important for the health and well-being of people.)
+- Gestern schien die Sonne nicht und es gab kein Sonnenlicht. (Yesterday the sun did not shine and there was no sunlight.)
+- Heute haben wir das Sonnenlicht genossen und sind spazieren gegangen. (Today we enjoyed the sunlight and went for a walk.)
+'''
+der Stall, - ¨e B1
+Español: el establo
+Русский: конюшня
+English: the stable
+
+- Der Bauer füttert die Kühe im Stall. (The farmer feeds the cows in the stable.)
+- Gestern haben wir den alten Stall abgerissen. (Yesterday we demolished the old stable.)
+- Sie haben den Stall sauber gemacht und neu gestrichen. (They have cleaned the stable and painted it anew.)
+'''
+strahlen, B1
+Español: irradiar, radiar
+Русский: излучать, сиять
+English: radiate, shine
+Ejemplos:
+- Die Sonne strahlt heute sehr hell. (The sun is shining very brightly today.)
+- Er strahlte vor Glück, als er die Nachricht hörte. (He radiated happiness when he heard the news.)
+- Sie hat die Blumen mit Wasser bestrahlt. (She irradiated the flowers with water.)
+'''
+der Strom, - ¨e B1
+Español: la corriente, la electricidad
+Русский: ток, электричество
+English: the current, the electricity
+
+- Der Strom ist heute sehr stark. (The current is very strong today.)
+- Gestern fiel der Strom aus. (Yesterday the electricity went out.)
+- Hast du die Stromrechnung bezahlt? (Have you paid the electricity bill?)
+'''
+der Sturm, - ¨e B1
+Español: la tormenta
+Русский: шторм
+English: the storm
+
+Frases en alemán usando esta palabra:
+
+- Der Sturm hat viele Bäume umgeworfen. (The storm knocked down many trees.)
+- Als Kind hatte ich Angst vor Stürmen. (As a child, I was afraid of storms.)
+- Er ist gestern nach dem Sturm angekommen. (He arrived yesterday after the storm.)
+'''
+stürmen, B1
+Español: asaltar, atacar, irrumpir
+Русский: штурмовать, атаковать, врываться
+English: storm, attack, burst
+
+Frases en alemán usando stürmen:
+
+- Die Polizei stürmte das Gebäude, in dem die Geiseln gehalten wurden. (The police stormed the building where the hostages were held.)
+- Die Fans stürmten das Feld, um den Sieg ihrer Mannschaft zu feiern. (The fans stormed the field to celebrate their team's victory.)
+- Er ist gestern in mein Zimmer gestürmt und hat mir die Nachrichten erzählt. (He burst into my room yesterday and told me the news.)
+'''
+das Tal, -¨er B1
+Español: el valle
+Русский: долина
+English: the valley
+
+- Das Tal ist von hohen Bergen umgeben. (The valley is surrounded by high mountains.)
+- Früher lebten die Menschen in diesem Tal sehr einfach. (In the past, the people in this valley lived very simply.)
+- Wir sind gestern durch das Tal gewandert. (We hiked through the valley yesterday.)
+'''
+das Trinkwasser, B1
+Español: agua potable
+Русский: питьевая вода
+English: drinking water
+
+- Das Trinkwasser in dieser Stadt ist sehr sauber und gesund.
+- Früher mussten die Menschen das Trinkwasser aus dem Brunnen holen.
+- Hast du genug Trinkwasser für die Reise mitgebracht?
+'''
+die Trockenheit, - en B1
+Español: la sequía
+Русский: засуха
+English: the drought
+
+- Die Trockenheit hat die Ernte dieses Jahres stark beeinträchtigt. (The drought has severely affected this year's harvest.)
+- Letztes Jahr gab es keine Trockenheit, aber es regnete viel. (Last year there was no drought, but it rained a lot.)
+- Wir haben die Trockenheit überstanden, weil wir Wasser gespart haben. (We survived the drought because we saved water.)
+'''
+überschwemmen, B1
+Español: inundar
+Русский: затоплять
+English: flood
+
+Frases en alemán usando überschwemmen:
+
+- Der starke Regen hat die Straßen überschwemmt. (La lluvia fuerte ha inundado las calles.)
+- Die Flut überschwemmte das ganze Dorf. (La inundación inundó todo el pueblo.)
+- Er hat mich mit Fragen überschwemmt. (Él me ha inundado con preguntas.)
+'''
+die Überschwemmung, - en B1
+Español: la inundación
+Русский: наводнение
+English: the flood
+Ejemplos:
+- Die Stadt wurde von einer **Überschwemmung** heimgesucht. (The city was hit by a flood.)
+- Nach dem starken Regen gab es eine **Überschwemmung** im Keller. (After the heavy rain, there was a flood in the basement.)
+- Die Feuerwehr hat die **Überschwemmung** unter Kontrolle gebracht. (The fire brigade brought the flood under control.)
+'''
+das Ufer, - B1
+Español: la orilla
+Русский: берег
+English: the shore
+
+- Das Ufer des Sees ist mit Schnee bedeckt. (The shore of the lake is covered with snow.)
+- Wir gingen am Ufer des Flusses spazieren. (We walked along the shore of the river.)
+- Er hat das Ufer sicher erreicht. (He reached the shore safely.)
+'''
+die Umwelt, B1
+Español: el medio ambiente
+Русский: окружающая среда
+English: the environment
+
+- Wir müssen die Umwelt schützen, um die Zukunft der Menschheit zu sichern. (We have to protect the environment to secure the future of humanity.)
+- Als sie ein Kind war, lebte sie in einer sauberen und grünen Umwelt. (When she was a child, she lived in a clean and green environment.)
+- Er hat seine Prüfung bestanden, weil er in einer ruhigen Umwelt gelernt hat. (He passed his exam because he studied in a quiet environment.)
+'''
+umweltbewusst, B1
+Español: consciente del medio ambiente
+Русский: экологически осознанный
+English: environmentally conscious
+
+Frases en alemán usando umweltbewusst:
+
+- Umweltbewusste Menschen kaufen oft Bio-Produkte. (Las personas conscientes del medio ambiente a menudo compran productos orgánicos.)
+- Er war schon als Kind sehr umweltbewusst und hat immer den Müll getrennt. (Él era muy consciente del medio ambiente desde niño y siempre separaba la basura.)
+- Sie hat umweltbewusst gehandelt und ihr altes Fahrrad repariert, statt ein neues zu kaufen. (Ella actuó de manera consciente con el medio ambiente y reparó su vieja bicicleta en lugar de comprar una nueva.)
+'''
+das Umweltbewusstsein, kein Niveau
+Español: la conciencia ambiental
+Русский: экологическое сознание
+English: environmental awareness
+
+Beispiele:
+- Das Umweltbewusstsein der Menschen ist in den letzten Jahren gestiegen.
+- Er hatte schon als Kind ein starkes Umweltbewusstsein.
+- Sie haben ihr Umweltbewusstsein durch verschiedene Aktionen gezeigt.
+'''
+Plural, B1
+Español: plural
+Русский: множественное число
+English: plural
+
+Tres frases en alemán usando esta palabra son:
+
+- Die **Plural**form von "Haus" ist "Häuser".
+- Manche Wörter haben im **Plural** keinen Artikel.
+- Wie bildet man den **Plural** von "Kind"?
+'''
+umweltfreundlich, B1
+Español: ecológico, respetuoso con el medio ambiente
+Русский: экологичный, дружественный к окружающей среде
+English: eco-friendly, environmentally friendly
+
+Frases en alemán usando umweltfreundlich:
+
+- Wir sollten umweltfreundliche Produkte kaufen, um die Natur zu schützen. (We should buy eco-friendly products to protect nature.)
+- Er fuhr mit dem Fahrrad zur Arbeit, weil er umweltfreundlich sein wollte. (He rode his bike to work because he wanted to be environmentally friendly.)
+- Sie haben ihr Haus mit umweltfreundlichen Materialien gebaut. (They built their house with eco-friendly materials.)
+'''
+der Umweltschutz, B1
+Español: la protección del medio ambiente
+Русский: охрана окружающей среды
+English: environmental protection
+
+Frases en alemán usando esta palabra:
+
+- Der Umweltschutz ist eine wichtige Aufgabe für die Menschheit. (La protección del medio ambiente es una tarea importante para la humanidad.)
+- Gestern haben wir im Unterricht über den Umweltschutz gesprochen. (Ayer hablamos sobre la protección del medio ambiente en clase.)
+- Wir haben viele Dinge für den Umweltschutz getan. (Hemos hecho muchas cosas para la protección del medio ambiente.)
+'''
+die Umweltverschmutzung, -en B1
+Español: la contaminación ambiental
+Русский: загрязнение окружающей среды
+English: environmental pollution
+
+- Die Umweltverschmutzung ist ein großes Problem für die Menschheit und die Natur. (Environmental pollution is a big problem for humanity and nature.)
+- Gestern sah ich eine Dokumentation über die Umweltverschmutzung in China. (Yesterday I saw a documentary about environmental pollution in China.)
+- Viele Länder haben Maßnahmen ergriffen, um die Umweltverschmutzung zu reduzieren. (Many countries have taken measures to reduce environmental pollution.)
+'''
+verbrennen, B1
+Español: quemar
+Русский: сжигать
+English: burn
+
+- Er verbrennt die alten Fotos, um die Erinnerungen zu löschen. (He burns the old photos to erase the memories.)
+- Sie verbrannte sich die Zunge an dem heißen Tee. (She burned her tongue on the hot tea.)
+- Die Kerze ist schon lange verbrannt. (The candle has burned for a long time.)
+'''
+die Verbrennung, -en B1
+Español: la quemadura
+Русский: ожог
+English: the burn
+
+- Er hat eine **Verbrennung** an der Hand. (He has a burn on his hand.)
+- Sie verbrannte sich am Feuer und musste ins Krankenhaus. (She burned herself on the fire and had to go to the hospital.)
+- Er hat sich beim Grillen verbrannt und hat jetzt eine große Verbrennung. (He burned himself while grilling and now has a big burn.)
+'''
+vergrößern, B1
+Español: agrandar, aumentar
+Русский: увеличивать, увеличить
+English: enlarge, increase
+
+Frases en alemán usando vergrößern:
+
+- Ich muss die Schrift vergrößern, weil ich sie nicht lesen kann. (Tengo que agrandar la letra porque no la puedo leer.)
+- Er vergrößerte sein Geschäft, indem er mehr Mitarbeiter einstellte. (Él aumentó su negocio contratando más empleados.)
+- Sie hat das Bild vergrößert, um die Details zu sehen. (Ella ha ampliado la imagen para ver los detalles.)
+'''
+die Vergrößerung, - en B1
+Español: el aumento, la ampliación
+Русский: увеличение, расширение
+English: the enlargement, the magnification
+
+- Die Vergrößerung der Europäischen Union ist ein kontroverses Thema. (The enlargement of the European Union is a controversial topic.)
+- Er braucht eine Vergrößerung des Fotos, um die Details zu sehen. (He needs a magnification of the photo to see the details.)
+- Sie hat die Vergrößerung ihrer Wohnung gefeiert. (She celebrated the enlargement of her apartment.)
+'''
+verkleinern, B1
+Español: reducir, disminuir
+Русский: уменьшать, сокращать
+English: reduce, shrink
+
+Frases en alemán usando verkleinern:
+
+- Ich muss die Größe des Bildes verkleinern, bevor ich es per E-Mail schicke. (I have to reduce the size of the image before I send it by email.)
+- Er verkleinerte seine Sammlung von Büchern, als er umzog. (He shrunk his collection of books when he moved.)
+- Hast du deine Kleidung verkleinert? Sie sieht viel kleiner aus. (Did you shrink your clothes? They look much smaller.)
+'''
+die Verkleinerung, -en B1
+Español: la reducción
+Русский: уменьшение
+English: the reduction
+
+- Die Verkleinerung der Umweltverschmutzung ist eine wichtige Aufgabe für die Menschheit. (The reduction of environmental pollution is an important task for humanity.)
+- Er verkleinerte sein Bild, um es per E-Mail zu verschicken. (He reduced his image to send it by email.)
+- Sie hat ihre Wohnung verkleinert, nachdem ihre Kinder ausgezogen sind. (She downsized her apartment after her children moved out.)
+'''
+verschmutzen B1
+Español: contaminar
+Русский: загрязнять
+English: pollute
+
+Frases en alemán usando verschmutzen:
+
+- Die Fabrik verschmutzt die Luft und das Wasser. (La fábrica contamina el aire y el agua.)
+- Er verschmutzte seine Kleidung mit Öl. (Él ensució su ropa con aceite.)
+- Sie haben den Fluss mit Müll verschmutzt. (Ellos han contaminado el río con basura.)
+'''
+die Verschmutzung, - en B1
+Español: la contaminación
+Русский: загрязнение
+English: pollution
+
+- Die Verschmutzung der Luft ist ein großes Problem in vielen Städten. (The pollution of the air is a big problem in many cities.)
+- Früher war die Verschmutzung des Wassers noch schlimmer. (In the past, the pollution of the water was even worse.)
+- Wir müssen etwas gegen die Verschmutzung tun, bevor es zu spät ist. (We have to do something against the pollution before it is too late.)
+'''
+verursachen, B1
+Español: causar
+Русский: вызывать
+English: cause
+
+Frases en alemán usando verursachen:
+
+- Der Sturm verursacht viele Schäden in der Stadt. (El huracán causa muchos daños en la ciudad.)
+- Er verursachte einen Unfall, als er das rote Licht ignorierte. (Él causó un accidente cuando ignoró la luz roja.)
+- Sie hat ihm viel Kummer verursacht. (Ella le ha causado mucha pena.)
+'''
+voraussagen, B1
+Español: predecir
+Русский: предсказывать
+English: predict
+
+- Ich kann nicht **voraussagen**, wie das Wetter morgen sein wird. (I cannot **predict** how the weather will be tomorrow.)
+- Er **sagte voraus**, dass seine Mannschaft das Spiel gewinnen würde. (He **predicted** that his team would win the game.)
+- Sie haben richtig **vorausgesagt**, dass es regnen würde. (You have correctly **predicted** that it would rain.)
+'''
+vorhersagen, B1
+Español: predecir
+Русский: предсказывать
+English: predict
+
+Frases en alemán usando vorhersagen:
+
+- Der Meteorologe **sagt** für morgen Regen **voraus**. (El meteorólogo **predice** lluvia para mañana.)
+- Er **sagte** den Ausgang der Wahl richtig **voraus**. (Él **predijo** correctamente el resultado de la elección.)
+- Sie hat **vorausgesagt**, dass sie die Prüfung bestehen wird. (Ella ha **predicho** que aprobará el examen.)
+'''
+die Wasserkraft, - ¨e B1
+Español: la energía hidráulica
+Русский: гидроэнергия
+English: hydropower
+
+Frases en alemán usando esta palabra:
+
+- Die Wasserkraft ist eine erneuerbare Energiequelle, die die Bewegung des Wassers nutzt. (Hydropower is a renewable energy source that uses the movement of water.)
+- In Deutschland wurden im Jahr 2020 etwa 17 Prozent des Stroms aus Wasserkraft erzeugt. (In Germany, about 17 percent of the electricity was generated from hydropower in 2020.)
+- Er arbeitet als Ingenieur in einem Wasserkraftwerk. (He works as an engineer in a hydropower plant.)
+'''
+wegwerfen, B1
+Español: tirar, desechar
+Русский: выбрасывать, отбрасывать
+English: throw away, discard
+
+- Ich werfe den Müll jeden Tag weg. (I throw away the garbage every day.)
+- Er warf die Flasche wütend weg. (He threw the bottle away angrily.)
+- Sie hat ihre alten Kleider weggeschmissen. (She has thrown away her old clothes.)
+'''
+die Wolke, -n B1
+Español: la nube
+Русский: облако
+English: the cloud
+
+- Am Himmel sind viele **Wolken**. (There are many clouds in the sky.)
+- Gestern hat es geregnet, weil die **Wolken** dunkel waren. (Yesterday it rained because the clouds were dark.)
+- Ich habe die **Wolke** fotografiert, weil sie wie ein Tier aussah. (I photographed the cloud because it looked like an animal.)
+'''
+die Wurzel, -n B1
+Español: la raíz
+Русский: корень
+English: the root
+
+- Die Wurzel einer Pflanze ist der Teil, der im Boden wächst. (The root of a plant is the part that grows in the soil.)
+- Er zog die Karotte aus dem Beet und wusch die Wurzel. (He pulled the carrot out of the bed and washed the root.)
+- Die Wurzel aus 25 ist 5. ($\sqrt{25} = 5$) (The square root of 25 is 5.)
+'''
+zerstören, B1
+Español: destruir
+Русский: разрушать
+English: destroy
+
+- Der Sturm hat viele Häuser zerstört. (The storm destroyed many houses.)
+- Er zerstörte seine Karriere mit einem Skandal. (He destroyed his career with a scandal.)
+- Sie haben die Brücke schon zerstört. (They have already destroyed the bridge.)
+'''
+die Zerstörung, - en B1
+Español: la destrucción
+Русский: разрушение
+English: destruction
+
+Ejemplos:
+- Die Zerstörung der Stadt war schrecklich. (La destrucción de la ciudad fue terrible.)
+- Er zerstörte seine Karriere mit einem Skandal. (Él destruyó su carrera con un escándalo.)
+- Sie haben die Brücke vollständig zerstört. (Ellos han destruido el puente completamente.)
+'''
+der Zweig, -e B1
+Español: la rama
+Русский: ветвь
+English: branch
+
+- Der Zweig ist grün und hat viele Blätter. (The branch is green and has many leaves.)
+- Er brach einen Zweig vom Baum ab. (He broke a branch off the tree.)
+- Sie hat einen Zweig mit Blumen geschmückt. (She decorated a branch with flowers.)
+'''
+wärmen, B1
+Español: calentar
+Русский: греть
+English: warm
+
+Frases en alemán usando wärmen:
+
+- Ich **wärme** mir eine Tasse Tee, um mich aufzuwärmen. (Me caliento una taza de té para entrar en calor.)
+- Gestern **wärmte** er seine Hände am Feuer. (Ayer él calentó sus manos en el fuego.)
+- Hast du das Essen schon **gewärmt**? (¿Ya has calentado la comida?)
+'''
+die Ente, -n B1
+Español: el pato
+Русский: утка
+English: the duck
+
+- Die Ente schwimmt im See. (The duck swims in the lake.)
+- Gestern sah ich eine Ente im Park. (Yesterday I saw a duck in the park.)
+- Er hat eine Ente gefüttert. (He has fed a duck.)
+'''
+sich bewölken, B1
+Español: nublarse
+Русский: затягиваться облаками
+English: to cloud over
+
+Frases en alemán usando sich bewölken:
+
+- Der Himmel bewölkt sich und es fängt an zu regnen. (The sky clouds over and it starts to rain.)
+- Gestern bewölkte sich sein Gesicht, als er die schlechte Nachricht hörte. (Yesterday his face clouded over when he heard the bad news.)
+- Es hat sich bewölkt, aber es ist immer noch warm. (It has clouded over, but it is still warm.)
+'''
+die Mischung, -en B1
+Español: la mezcla
+Русский: смесь
+English: the mixture
+
+- Die Mischung aus Milch und Eiern ist die Basis für den Kuchen. (The mixture of milk and eggs is the basis for the cake.)
+- Er mischte gestern verschiedene Farben, um einen neuen Ton zu bekommen. (He mixed different colors yesterday to get a new shade.)
+- Sie hat eine interessante Mischung aus Erfahrung und Talent. (She has an interesting mixture of experience and talent.)
+'''
+der Tropfen, - B1
+Español: la gota
+Русский: капля
+English: the drop
+
+Frases en alemán usando esta palabra:
+
+- Ein Tropfen Wasser fällt vom Himmel. (A drop of water falls from the sky.)
+- Er nahm einen Tropfen Medizin mit einem Löffel. (He took a drop of medicine with a spoon.)
+- Das Fass ist übergelaufen, weil ein Tropfen zu viel hineingefallen ist. (The barrel overflowed because one drop too many fell into it.)
+'''
+der Abfall, - ¨e B2
+Español: el residuo, la basura
+Русский: отходы, мусор
+English: the waste, the garbage
+
+Frases en alemán usando esta palabra:
+
+- Wir müssen den **Abfall** trennen, um die Umwelt zu schützen. (We have to separate the **waste** to protect the environment.)
+- Er hat den ganzen **Abfall** aus dem Haus in die Mülltonne geworfen. (He threw all the **garbage** from the house into the trash can.)
+- Hast du schon den **Abfall** aus der Küche weggebracht? (Have you already taken out the **trash** from the kitchen?)
+'''
+abholzen, B2
+Español: talar, deforestar
+Русский: вырубать, выкашивать
+English: cut down, clear
+
+Frases en alemán usando abholzen:
+
+- Die Bauern haben viele Bäume abgeholzt, um Platz für ihre Felder zu schaffen. (Los granjeros talaban muchos árboles para hacer espacio para sus campos.)
+- Die Umweltschützer protestierten gegen das Abholzen des Regenwaldes. (Los ecologistas protestaron contra la deforestación de la selva tropical.)
+- Er hat gestern einen alten Schrank abgeholt und ihn in kleine Stücke gesägt. (Él recogió ayer un armario viejo y lo cortó en pedazos pequeños.)
+'''
+das Abwasser, B2
+Español: aguas residuales
+Русский: сточные воды
+English: wastewater
+
+- Das Abwasser wird in einer Kläranlage gereinigt.
+- Früher leiteten die Fabriken ihr Abwasser direkt in den Fluss.
+- Die Stadt hat viel Geld in die Verbesserung der Abwasserentsorgung investiert.
+'''
+anrichten, B2
+Español: causar, preparar, disponer
+Русский: причинять, готовить, располагать
+English: cause, prepare, arrange
+
+Frases en alemán usando anrichten:
+
+- Der Sturm hat große Schäden angerichtet. (The storm caused great damage.)
+- Er richtet das Essen für die Gäste an. (He prepares the food for the guests.)
+- Sie richtet die Blumen in der Vase an. (She arranges the flowers in the vase.)
+'''
+ausmachen, B2
+Español: apagar, acabar, terminar
+Русский: выключать, заканчивать, прекращать
+English: turn off, finish, stop
+
+Frases en alemán usando ausmachen:
+
+- Ich mache das Licht aus, bevor ich ins Bett gehe. (Apago la luz antes de irme a la cama.)
+- Das macht nichts aus, du kannst morgen bezahlen. (No importa, puedes pagar mañana.)
+- Er hat die Prüfung mit Auszeichnung ausgemacht. (Terminó el examen con honores.)
+'''
+aussterben, B2
+Español: extinguirse
+Русский: вымирать
+English: to die out
+
+Frases en alemán usando aussterben:
+
+- Viele Tierarten sind in den letzten Jahrhunderten **ausgestorben**. (Many animal species have **died out** in the last centuries.)
+- Die Dinosaurier **starben** vor Millionen von Jahren **aus**. (The dinosaurs **died out** millions of years ago.)
+- Wenn wir nicht auf unseren Planeten aufpassen, könnten wir auch **aussterben**. (If we don't take care of our planet, we could also **die out**.)
+'''
+der Ausstoß, B2
+Español: la emisión
+Русский: выброс
+English: the emission
+
+- Der Ausstoß von Kohlendioxid ist in den letzten Jahren gestiegen. (The emission of carbon dioxide has increased in recent years.)
+- Die Fabrik reduzierte ihren Ausstoß durch neue Technologien. (The factory reduced its emission by new technologies.)
+- Die EU hat strenge Regeln für den Ausstoß von Autos festgelegt. (The EU has set strict rules for the emission of cars.)
+'''
+ausstoßen, B2
+Español: expulsar, emitir
+Русский: выбрасывать, выделять
+English: eject, emit
+
+Frases en alemán usando ausstoßen:
+
+- Der Vulkan stößt Lava und Asche aus. (El volcán expulsa lava y ceniza.)
+- Die Fabrik stößt viel Kohlendioxid aus. (La fábrica emite mucho dióxido de carbono.)
+- Er hat seinen Sohn aus dem Haus ausgestoßen. (Él ha echado a su hijo de la casa.)
+'''
+sich ausweiten, B2
+Español: expandirse
+Русский: расширяться
+English: expand
+
+Frases en alemán usando sich ausweiten:
+
+- Die Wüste weitet sich immer mehr aus. (The desert is expanding more and more.)
+- Die Polizei weitete die Suche nach dem Vermissten aus. (The police expanded the search for the missing person.)
+- Er hat seine Kenntnisse im Bereich der Informatik ausgeweitet. (He has expanded his knowledge in the field of computer science.)
+'''
+beeinträchtigen, B2
+Español: afectar, perjudicar
+Русский: ухудшать, нарушать
+English: impair, affect
+
+Ejemplos:
+
+- Der Lärm beeinträchtigt die Konzentration der Schüler. (El ruido afecta la concentración de los estudiantes.)
+- Er hat seine Gesundheit durch zu viel Alkohol beeinträchtigt. (Él perjudicó su salud por beber demasiado alcohol.)
+- Die Verspätung des Zuges hat unsere Reisepläne nicht beeinträchtigt. (La demora del tren no afectó nuestros planes de viaje.)
+'''
+beschädigen B2
+Español: dañar
+Русский: повреждать
+English: damage
+
+Frases en alemán usando beschädigen:
+
+- Der Sturm hat das Dach beschädigt. (El huracán dañó el techo.)
+- Er beschädigte sein Auto, als er gegen einen Baum fuhr. (Él dañó su coche cuando chocó contra un árbol.)
+- Sie haben die Statue nicht absichtlich beschädigt. (Ellos no dañaron la estatua a propósito.)
+'''
+beseitigen, B2
+Español: eliminar, suprimir, deshacerse de
+Русский: устранять, ликвидировать, избавляться от
+English: remove, eliminate, get rid of
+
+Frases en alemán usando beseitigen:
+
+- Die Polizei hat die Straßensperre beseitigt. (The police removed the roadblock.)
+- Wir müssen die Ursachen der Armut beseitigen. (We have to eliminate the causes of poverty.)
+- Er hat alle Beweise beseitigt, bevor er geflohen ist. (He got rid of all the evidence before he fled.)
+'''
+die Beseitigung, - en B2
+Español: la eliminación, el desecho
+Русский: устранение, ликвидация
+English: the removal, the disposal
+
+- Die Beseitigung von Schadstoffen ist eine wichtige Aufgabe für den Umweltschutz. (The removal of pollutants is an important task for environmental protection.)
+- Nach dem Unfall musste die Polizei die Beseitigung des Fahrzeugs veranlassen. (After the accident, the police had to arrange for the disposal of the vehicle.)
+- Die Regierung hat die Beseitigung des Diktators gefordert. (The government has demanded the removal of the dictator.)
+'''
+die Betonwüste, -n B2
+Español: el desierto de hormigón
+Русский: бетонная пустыня
+English: the concrete desert
+
+- Die Stadt ist eine Betonwüste ohne Grünflächen.
+- Er fühlte sich in der Betonwüste einsam und verloren.
+- Sie sind aus der Betonwüste geflohen, um in der Natur zu leben.
+'''
+bewahren, B2
+Español: conservar, preservar, guardar
+Русский: сохранять, хранить, охранять
+English: preserve, keep, protect
+
+Frases en alemán usando bewahren:
+
+- Er bewahrt seine Briefmarkensammlung in einem Album. (Él guarda su colección de sellos en un álbum.)
+- Sie bewahrte die Ruhe, als das Feuer ausbrach. (Ella mantuvo la calma cuando se desató el fuego.)
+- Er hat seine Unschuld bewiesen und seinen guten Ruf bewahrt. (Él ha demostrado su inocencia y preservado su buena reputación.)
+'''
+binden, B2
+Español: atar, unir, ligar
+Русский: связывать, привязывать, соединять
+English: bind, tie, connect
+
+Frases en alemán usando binden:
+
+- Ich binde mir die Schuhe zu, bevor ich losgehe. (Me ato los zapatos antes de salir.)
+- Er hat die Bücher mit einem Band gebunden. (Él ha unido los libros con una cinta.)
+- Sie haben sich durch einen Eid aneinander gebunden. (Ellos se han ligado el uno al otro por un juramento.)
+'''
+blasen, B2
+Español: soplar
+Русский: дуть
+English: blow
+-Kinder lieben es, Seifenblasen zu blasen. (A los niños les encanta soplar burbujas de jabón - presente)
+-Gestern blies er die Kerzen auf der Geburtstagstorte aus. (Ayer sopló las velas en la tarta de cumpleaños - Präteritum)
+-Wir haben gestern Luftballons für die Party geblasen. (Ayer inflamos globos para la fiesta - Perfekt)
+'''
+bleifrei, B2
+Español: sin plomo
+Русский: без свинца
+English: unleaded
+- Dieses Benzin ist bleifrei. (This gasoline is unleaded.)
+- Früher enthielten viele Farben Blei, aber heute sind sie meistens bleifrei. (In the past, many paints contained lead, but today they are mostly unleaded.)
+- Ich habe gehört, dass bleifreies Benzin besser für die Umwelt ist als bleihaltiges Benzin. (I have heard that unleaded gasoline is better for the environment than leaded gasoline.)
+'''
+der Boden, -¨ B2
+Español: el suelo, el piso
+Русский: пол, земля
+English: the floor, the ground
+
+- Der Boden ist nass, weil es geregnet hat. (The floor is wet because it rained.)
+- Er fiel auf den Boden und verletzte sich. (He fell to the ground and hurt himself.)
+- Sie haben den Boden mit einem schönen Teppich bedeckt. (They covered the floor with a beautiful carpet.)
+'''
+das Brennmaterial, -ein B2
+Español: el combustible
+Русский: топливо
+English: fuel
+
+- Das Brennmaterial für das Feuer war Holz.
+- Wir haben kein Brennmaterial mehr, wir müssen welches kaufen.
+- Welches Brennmaterial ist am umweltfreundlichsten?
+
+der CO 2-Ausstoß (fast nie Plural) B2
+Español: la emisión de CO 2
+Русский: выбросы CO 2
+English: the CO 2 emission
+
+- Der CO 2-Ausstoß ist in den letzten Jahren gestiegen.
+- Um den Klimawandel zu bekämpfen, müssen wir den CO 2-Ausstoß reduzieren.
+- Die Industrie ist für einen großen Teil des CO 2-Ausstoßes verantwortlich.
+'''
+die CO 2-Emission, -en B2
+Español: la emisión de CO 2
+Русский: выбросы CO 2
+English: the CO 2 emission
+Frases en alemán:
+- Die CO 2-Emission ist ein wichtiger Faktor für den Klimawandel. (The CO 2 emission is an important factor for climate change.)
+- Im Jahr 2019 reduzierte Deutschland seine CO 2-Emissionen um 6,3 Prozent. (In 2019, Germany reduced its CO 2 emissions by 6.3 percent.)
+- Die EU hat sich zum Ziel gesetzt, die CO 2-Emissionen bis 2030 um mindestens 55 Prozent zu senken. (The EU has set itself the goal of reducing CO 2 emissions by at least 55 percent by 2030.)
+'''
+der CO 2-Gehalt, -e B2
+Español: el contenido de CO 2
+Русский: содержание CO 2
+English: the CO 2 content
+
+Frases en alemán usando esta palabra:
+
+- Der CO 2-Gehalt der Luft ist in den letzten Jahren gestiegen. (El contenido de CO 2 del aire ha aumentado en los últimos años.)
+- Um den CO 2-Gehalt im Blut zu messen, wird eine Blutgasanalyse durchgeführt. (Para medir el contenido de CO 2 en la sangre, se realiza un análisis de gases en sangre.)
+- Die Pflanzen haben den CO 2-Gehalt im Raum gesenkt. (Las plantas han reducido el contenido de CO 2 en la habitación.)
+'''
+das Düngemittel, - B2
+Español: el fertilizante
+Русский: удобрение
+English: the fertilizer
+
+- Das Düngemittel hilft den Pflanzen, schneller zu wachsen. (The fertilizer helps the plants grow faster.)
+- Er kaufte gestern ein Düngemittel für seinen Garten. (He bought a fertilizer for his garden yesterday.)
+- Sie hat das Düngemittel schon auf die Felder aufgetragen. (She has already applied the fertilizer to the fields.)
+'''
+der Dünger, - B2
+Español: el abono
+Русский: удобрение
+English: fertilizer
+
+- Der Bauer verwendet Dünger, um seine Ernte zu verbessern. (The farmer uses fertilizer to improve his crop.)
+- Früher haben die Menschen oft Mist als Dünger benutzt. (In the past, people often used manure as fertilizer.)
+- Hast du den Dünger schon auf dem Rasen verteilt? (Have you already spread the fertilizer on the lawn?)
+'''
+die Düngung, -en B2
+Español: la fertilización
+Русский: удобрение
+English: fertilization
+
+- Die Düngung der Pflanzen ist wichtig für ihr Wachstum und ihre Gesundheit. (The fertilization of the plants is important for their growth and health.)
+- Früher wurde die Düngung oft mit Tiermist durchgeführt. (In the past, fertilization was often done with animal manure.)
+- Hast du schon die Düngung für deinen Garten geplant? (Have you already planned the fertilization for your garden?)
+'''
+entsprechen, B2
+Español: corresponder, equivaler
+Русский: соответствовать, равняться
+English: correspond, match
+
+Frases en alemán usando entsprechen:
+
+- Die Farbe des Kleides entspricht nicht der Farbe auf dem Bild. (The color of the dress does not match the color in the picture.)
+- Er hat sich nicht an die Regeln gehalten, die seinem Rang entsprechen. (He did not follow the rules that correspond to his rank.)
+- Sie hat die Prüfung bestanden, weil ihre Leistung den Anforderungen entsprochen hat. (She passed the exam because her performance matched the requirements.)
+'''
+entziehen, B2
+Español: quitar, retirar, extraer
+Русский: отнимать, изымать, вытягивать
+English: withdraw, remove, extract
+
+Frases en alemán usando entziehen:
+
+- Der Arzt hat ihm das Fiebermittel entzogen. (El médico le quitó el medicamento para la fiebre.)
+- Die Polizei hat ihm den Führerschein entzogen. (La policía le retiró el carnet de conducir.)
+- Er hat sich der Verantwortung entzogen. (Él se ha sustraído de la responsabilidad.)
+'''
+erhalten B2
+Español: recibir, obtener, conservar
+Русский: получать, сохранять, поддерживать
+English: receive, get, keep, maintain
+
+Frases en alemán usando erhalten:
+
+- Ich habe gestern einen Brief von meiner Freundin erhalten. (Recibí ayer una carta de mi amiga.)
+- Er hat seinen Job erhalten, obwohl er einen Fehler gemacht hat. (Él conservó su trabajo, aunque cometió un error.)
+- Sie haben die Wohnung in einem guten Zustand erhalten. (Ellos mantuvieron el apartamento en buenas condiciones.)
+'''
+die Erhaltung, - en B2
+Español: la conservación
+Русский: сохранение
+English: the preservation
+
+- Die Erhaltung der Umwelt ist eine wichtige Aufgabe für die Menschheit. (The preservation of the environment is an important task for humanity.)
+- Er erhielt das alte Haus in seinem ursprünglichen Zustand. (He preserved the old house in its original state.)
+- Sie hat viele Briefe von ihrem Großvater erhalten. (She has preserved many letters from her grandfather.)
+'''
+fällen B2
+Español: talar, derribar, decidir
+Русский: рубить, свалить, решать
+English: to fell, to knock down, to decide
+
+- Der Förster fällt die kranken Bäume im Wald. (The forester fells the sick trees in the forest.)
+- Der Sturm hat viele Häuser gefällt. (The storm knocked down many houses.)
+- Die Jury hat ein Urteil gefällt. (The jury made a verdict.)
+'''
+fortschreiten, B2
+Español: avanzar, progresar
+Русский: продвигаться, прогрессировать
+English: advance, progress
+
+- Die Zeit fortschreitet schnell, wenn man Spaß hat. (Time advances quickly when one is having fun.)
+- Er fortschritt langsam in seiner Karriere. (He progressed slowly in his career.)
+- Sie sind in den letzten Monaten viel fortgeschritten. (They have advanced a lot in the last months.)
+'''
+fressen, B2
+Español: devorar, comer (animales)
+Русский: жрать, есть (животные)
+English: devour, eat (animals)
+
+- Der Löwe frisst die Gazelle. (The lion devours the gazelle.)
+- Die Katze fraß gestern eine Maus. (The cat ate a mouse yesterday.)
+- Die Hunde haben ihr Futter gefressen. (The dogs have eaten their food.)
+'''
+der Frost, - ¨e B2
+Español: la helada
+Русский: мороз
+English: the frost
+
+- Der Frost hat die Blumen im Garten zerstört. (The frost has destroyed the flowers in the garden.)
+- Als ich aufwachte, sah ich, dass alles mit Frost bedeckt war. (When I woke up, I saw that everything was covered with frost.)
+- Es war so kalt, dass die Fenster gefroren waren. (It was so cold that the windows were frozen.)
+'''
+füttern B2
+Español: alimentar
+Русский: кормить
+English: feed
+
+- Ich füttere jeden Tag meine Katze. (I feed my cat every day.)
+- Er fütterte die Vögel im Park. (He fed the birds in the park.)
+- Sie hat das Baby gefüttert und ins Bett gebracht. (She fed the baby and put it to bed.)
+'''
+geraten, B2
+Español: aconsejar, caer, llegar
+Русский: советовать, попадать, попасть
+English: advise, fall, get
+
+Ejemplos de frases en alemán usando geraten:
+
+- Ich rate dir, vorsichtig zu sein. (Te aconsejo que seas cuidadoso.)
+- Er ist in eine Falle geraten. (Él cayó en una trampa.)
+- Sie ist gestern in einen Stau geraten. (Ella se metió en un atasco ayer.)
+'''
+das Gewässer, - B2
+Español: el cuerpo de agua
+Русский: водоём
+English: the body of water
+
+- Das Gewässer ist sehr sauber und klar. (The body of water is very clean and clear.)
+- Früher gab es viele Fische in diesem Gewässer, aber jetzt sind sie fast ausgestorben. (There used to be many fish in this body of water, but now they are almost extinct.)
+- Hast du schon mal in einem solchen Gewässer geschwommen? (Have you ever swum in such a body of water?)
+'''
+der Giftstoff, -e B2
+Español: la sustancia tóxica
+Русский: токсин
+English: the toxin
+
+Tres frases en alemán usando esta palabra son:
+
+- Die Polizei fand **Giftstoffe** in seinem Blut. (The police found **toxins** in his blood.)
+- Er hat sich mit einem **Giftstoff** vergiftet. (He poisoned himself with a **toxin**.)
+- Sie haben den **Giftstoff** neutralisiert. (They neutralized the **toxin**.)
+'''
+das Glatteis, B2
+Español: hielo resbaladizo
+Русский: гололёд
+English: black ice
+
+- Sei vorsichtig, es gibt **Glatteis** auf der Straße. (Be careful, there is **black ice** on the road.)
+- Gestern bin ich auf dem **Glatteis** ausgerutscht und habe mir den Arm gebrochen. (Yesterday I slipped on the **black ice** and broke my arm.)
+- Er hat mir erzählt, dass er wegen des **Glatteises** zu spät zur Arbeit gekommen ist. (He told me that he was late for work because of the **black ice**.)
+'''
+grasen, B2
+Español: pastar
+Русский: пастись
+English: graze
+
+Frases en alemán usando grasen:
+
+- Die Kühe grasen friedlich auf der Wiese. (The cows graze peacefully on the meadow.)
+- Als Kind bin ich oft hingefallen und habe mir die Knie aufgegrast. (As a child, I often fell and grazed my knees.)
+- Er hat sich beim Rasieren geschnitten und blutet aus der Wunde. (He cut himself while shaving and is bleeding from the wound.)
+'''
+der Grenzwert, -e B2
+Español: el límite
+Русский: предел
+English: the limit
+
+- Der Grenzwert einer Funktion ist der Wert, den die Funktion annimmt, wenn sich die Variable einem bestimmten Wert nähert. (The limit of a function is the value that the function takes when the variable approaches a certain value.)
+- Die Folge konvergiert gegen einen Grenzwert, wenn die Folgenglieder immer näher an diesen Wert herankommen. (The sequence converges to a limit if the sequence elements get closer and closer to this value.)
+- Wir haben den Grenzwert für den Schadstoffausstoß überschritten. (We have exceeded the limit for pollutant emissions.)
+'''
+hervorrufen, B2
+Español: provocar, causar
+Русский: вызывать, возбуждать
+English: evoke, cause
+
+- Der Anblick des Blutes rief bei ihr Übelkeit hervor. (The sight of blood caused nausea in her.)
+- Er rief seine Mutter an, um ihr zu sagen, dass er gut angekommen war. (He called his mother to tell her that he had arrived safely.)
+- Sie hat mit ihrer Rede viel Begeisterung hervorgerufen. (She evoked a lot of enthusiasm with her speech.)
+'''
+das Insekt, - en B2
+Español: el insecto
+Русский: насекомое
+English: the insect
+
+- Das Insekt hat sechs Beine und zwei Flügel. (The insect has six legs and two wings.)
+- Er fand ein seltsames Insekt in seinem Garten und machte ein Foto davon. (He found a strange insect in his garden and took a photo of it.)
+- Sie hat gestern viele Insekten gesammelt und untersucht. (She collected and examined many insects yesterday.)
+'''
+der Käfig, -e B2
+Español: la jaula
+Русский: клетка
+English: the cage
+
+- Der Vogel sitzt in einem Käfig. (The bird sits in a cage.)
+- Er öffnete den Käfig und ließ die Taube frei. (He opened the cage and let the dove go.)
+- Sie haben den Löwen aus dem Käfig gelassen. (They have let the lion out of the cage.)
+'''
+die Kläranlage, -n B2
+Español: la planta de tratamiento de aguas residuales
+Русский: очистительная станция
+English: the sewage treatment plant
+
+- Die Kläranlage reinigt das Abwasser von Schmutz und Schadstoffen. (The sewage treatment plant cleans the wastewater from dirt and pollutants.)
+- Gestern besuchten wir die Kläranlage und lernten, wie sie funktioniert. (Yesterday we visited the sewage treatment plant and learned how it works.)
+- Die Stadt hat eine neue Kläranlage gebaut, die energieeffizienter ist. (The city has built a new sewage treatment plant that is more energy-efficient.)
+'''
+der Klimagipfel, B2
+Español: la cumbre climática
+Русский: климатический саммит
+English: the climate summit
+
+- Der Klimagipfel in Glasgow war ein wichtiger Schritt für den globalen Klimaschutz. (The climate summit in Glasgow was an important step for global climate protection.)
+- Beim letzten Klimagipfel verpflichteten sich die Staats- und Regierungschefs, die Erderwärmung auf 1,5 Grad zu begrenzen. (At the last climate summit, the heads of state and government committed to limiting global warming to 1.5 degrees.)
+- Die Teilnehmer des Klimagipfels haben eine historische Vereinbarung erzielt, die das Ende der fossilen Brennstoffe einläutet. (The participants of the climate summit reached a historic agreement that heralds the end of fossil fuels.)
+'''
+der Kompost, -e B2
+Español: el compost, los composts
+Русский: компост, компосты
+English: the compost, the composts
+
+Frases en alemán usando esta palabra:
+
+- Wir haben einen Kompost im Garten, wo wir unsere organischen Abfälle entsorgen. (We have a compost in the garden, where we dispose of our organic waste.)
+- Er hat gestern den Kompost umgegraben, um ihn zu belüften. (He turned over the compost yesterday to aerate it.)
+- Hast du schon den Kompost auf die Beete verteilt? (Have you already spread the compost on the beds?)
+'''
+kompostieren, B2
+Español: compostar
+Русский: компостировать
+English: compost
+
+- Ich kompostiere meine Küchenabfälle, um den Boden zu verbessern.
+- Gestern kompostierte er das Laub im Garten.
+- Hast du schon die Bananenschalen kompostiert?
+'''
+die Landwirtschaft, - en B2
+Español: la agricultura
+Русский: сельское хозяйство
+English: agriculture
+
+- Die Landwirtschaft ist ein wichtiger Wirtschaftszweig in Deutschland. (Agriculture is an important economic sector in Germany.)
+- Im Mittelalter lebten die meisten Menschen von der Landwirtschaft. (In the Middle Ages, most people lived from agriculture.)
+- Durch den Klimawandel ist die Landwirtschaft vor großen Herausforderungen. (Due to climate change, agriculture faces great challenges.)
+'''
+landwirtschaftlich, B2
+Español: agrícola
+Русский: сельскохозяйственный
+English: agricultural
+
+Frases en alemán usando esta palabra:
+
+- Die **landwirtschaftliche** Produktion ist in diesem Jahr gestiegen. (The agricultural production has increased this year.)
+- Er arbeitete früher als **landwirtschaftlicher** Berater. (He used to work as an agricultural adviser.)
+- Sie haben viele **landwirtschaftliche** Geräte in ihrem Hof. (They have many agricultural machines in their yard.)
+'''
+nachhaltig, B2
+Español: sostenible
+Русский: устойчивый
+English: sustainable
+
+- Wir müssen nachhaltig mit unseren Ressourcen umgehen, um die Umwelt zu schützen.
+(We have to use our resources sustainably to protect the environment.)
+- Die Firma hat im letzten Jahr einen nachhaltigen Gewinn erzielt.
+(The company achieved a sustainable profit last year.)
+- Er hat einen nachhaltigen Eindruck bei mir hinterlassen.
+(He left a lasting impression on me.)
+'''
+die Nachhaltigkeit, B2
+Español: la sostenibilidad
+Русский: устойчивость
+English: sustainability
+
+- Die Nachhaltigkeit ist ein wichtiges Ziel für die Zukunft der Menschheit.
+- Er studierte Nachhaltigkeit an der Universität und arbeitete dann für eine Umweltorganisation.
+- Sie haben ihr Haus nach den Prinzipien der Nachhaltigkeit gebaut und nutzen nur erneuerbare Energien.
+'''
+der Niederschlag, - ¨e B2
+Español: la precipitación
+Русский: осадки
+English: the precipitation
+
+- Der Niederschlag ist ein wichtiger Faktor für das Klima und die Vegetation. (The precipitation is an important factor for the climate and the vegetation.)
+- Gestern gab es einen starken Niederschlag in Form von Schnee. (Yesterday there was a strong precipitation in the form of snow.)
+- In diesem Jahr haben wir mehr Niederschlag als im letzten Jahr gehabt. (This year we have had more precipitation than last year.)
+'''
+das Pestizid, -e B2
+Español: el pesticida
+Русский: пестицид
+English: the pesticide
+
+Frases en alemán usando esta palabra:
+
+- Die Bauern verwenden **Pestizide**, um die Schädlinge zu bekämpfen. (Los agricultores usan pesticidas para combatir las plagas.)
+- Im Mittelalter starben viele Menschen an der **Pest**, die durch Ratten übertragen wurde. (En la Edad Media, muchas personas murieron por la peste, que fue transmitida por las ratas.)
+- Er hat seine Pflanzen mit einem biologischen **Pestizid** behandelt, das keine schädlichen Chemikalien enthält. (Él trató sus plantas con un pesticida orgánico que no contiene químicos dañinos.)
+'''
+der Rohstoff, -e B2
+Español: la materia prima
+Русский: сырье
+English: the raw material
+
+- Deutschland ist reich an verschiedenen **Rohstoffen** wie Kohle, Erdgas und Erz.
+- Im Mittelalter wurde Salz als wertvoller **Rohstoff** gehandelt.
+- Die Firma hat viele **Rohstoffe** aus Afrika importiert.
+'''
+der Rotor, - en B2
+Español: el rotor
+Русский: ротор
+English: the rotor
+
+- Der Rotor eines Hubschraubers dreht sich sehr schnell. (The rotor of a helicopter rotates very fast.)
+- Er baute einen Rotor, der Strom erzeugen konnte. (He built a rotor that could generate electricity.)
+- Sie haben den Rotor ausgetauscht, weil er kaputt war. (They replaced the rotor because it was broken.)
+'''
+schädigen B2
+Español: dañar
+Русский: повреждать
+English: damage
+
+- Der Sturm hat viele Häuser in der Stadt geschädigt. (The storm damaged many houses in the city.)
+- Er schädigte seinen Ruf, als er die Lüge erzählte. (He damaged his reputation when he told the lie.)
+- Sie haben ihre Gesundheit durch Rauchen geschädigt. (They have damaged their health by smoking.)
+'''
+die Schädigung, - en B2
+Español: el daño, la lesión
+Русский: повреждение, ущерб
+English: damage, injury
+
+- Die Schädigung des Gehirns kann zu schweren Folgen führen. (The damage to the brain can lead to serious consequences.)
+- Er erlitt eine schwere Schädigung an seinem Bein, als er vom Fahrrad fiel. (He suffered a severe injury to his leg when he fell off the bike.)
+- Sie haben die Schädigung des Autos selbst verursacht und müssen dafür haften. (They caused the damage to the car themselves and have to be liable for it.)
+'''
+der Schadstoff, -e B2
+Español: el contaminante
+Русский: загрязнитель
+English: the pollutant
+
+Frases en alemán usando esta palabra:
+
+- Die Luftqualität in der Stadt ist schlecht wegen der vielen **Schadstoffe**. (The air quality in the city is bad because of the many pollutants.)
+- Er hat eine Allergie gegen einige **Schadstoffe** in der Kosmetik. (He has an allergy to some pollutants in the cosmetics.)
+- Die Fabrik hat ihre **Schadstoff**-Emissionen in den letzten Jahren reduziert. (The factory has reduced its pollutant emissions in the last years.)
+'''
+die Sonneneinstrahlung, - en B2
+Español: la radiación solar
+Русский: солнечное излучение
+English: solar radiation
+
+Frases en alemán usando esta palabra:
+
+- Die Sonneneinstrahlung ist im Sommer stärker als im Winter. (La radiación solar es más fuerte en verano que en invierno.)
+- Er hat seine Haut vor der Sonneneinstrahlung geschützt. (Él protegió su piel de la radiación solar.)
+- Die Pflanzen brauchen Sonneneinstrahlung, um zu wachsen. (Las plantas necesitan radiación solar para crecer.)
+'''
+der Staudamm, - ¨e B2
+Español: la presa
+Русский: плотина
+English: the dam
+
+Frases en alemán usando esta palabra:
+
+- Der Staudamm wurde gebaut, um die Wasserkraft zu nutzen. (The dam was built to use the water power.)
+- Als es stark regnete, brach der Staudamm und überflutete das Dorf. (When it rained heavily, the dam broke and flooded the village.)
+- Sie haben den Staudamm repariert und verstärkt. (They have repaired and reinforced the dam.)
+'''
+stauen, B2
+Español: asombrarse, maravillarse
+Русский: удивляться, восхищаться
+English: marvel, wonder
+
+Frases en alemán usando stauen:
+
+- Ich staune über die Schönheit der Natur. (Me asombro de la belleza de la naturaleza.)
+- Er staunte, als er das Geschenk öffnete. (Él se maravilló cuando abrió el regalo.)
+- Sie haben gestaunt, wie schnell er gelernt hat. (Ellos se asombraron de lo rápido que aprendió.)
+'''
+der Stoff, -e B2
+Español: la tela, el material
+Русский: ткань, материал
+English: fabric, material
+
+- Ich habe einen schönen **Stoff** für mein Kleid gekauft. (I bought a beautiful **fabric** for my dress.)
+- Dieser **Stoff** ist sehr wichtig für die Chemie. (This **material** is very important for chemistry.)
+- Er hat viel **Stoff** zum Lernen. (He has a lot of **material** to study.)
+'''
+der Strauch, -¨er B2
+Español: el arbusto
+Русский: куст
+English: the bush
+
+Frases en alemán usando esta palabra:
+
+- In unserem Garten wachsen viele **Sträucher** mit bunten Blüten. (En nuestro jardín crecen muchos arbustos con flores de colores.)
+- Er versteckte sich hinter einem **Strauch**, als er die Polizei sah. (Él se escondió detrás de un arbusto cuando vio a la policía.)
+- Sie hat gestern einen **Strauch** gepflanzt, der im Frühling blüht. (Ella plantó ayer un arbusto que florece en primavera.)
+'''
+die Trinkwasserversorgung, B2
+Español: el abastecimiento de agua potable
+Русский: водоснабжение питьевой водой
+English: the drinking water supply
+
+- Die Trinkwasserversorgung ist eine wichtige Aufgabe der öffentlichen Verwaltung. (The drinking water supply is an important task of public administration.)
+- Wegen der Dürre wurde die Trinkwasserversorgung in einigen Regionen eingeschränkt. (Due to the drought, the drinking water supply was restricted in some regions.)
+- Die Stadt hat in den letzten Jahren viel in die Verbesserung der Trinkwasserversorgung investiert. (The city has invested a lot in improving the drinking water supply in recent years.)
+'''
+die Umgebung, - en B2
+Español: el ambiente, el entorno
+Русский: окружение, окружающая среда
+English: the environment, the surroundings
+
+- Ich mag die Umgebung hier, es ist sehr ruhig und grün. (I like the environment here, it is very quiet and green.)
+- In der Vergangenheit war die Umgebung viel sauberer und gesünder. (In the past, the environment was much cleaner and healthier.)
+- Er hat seine Umgebung verändert, nachdem er umgezogen ist. (He changed his surroundings after he moved.)
+'''
+die Umweltbelastung, -en B2
+Español: el impacto ambiental
+Русский: экологическая нагрузка
+English: the environmental impact
+
+Frases en alemán usando esta palabra:
+
+- Die Umweltbelastung durch den Verkehr ist sehr hoch. (El impacto ambiental del tráfico es muy alto.)
+- Um die Umweltbelastung zu reduzieren, sollten wir mehr erneuerbare Energien nutzen. (Para reducir el impacto ambiental, deberíamos usar más energías renovables.)
+- Die Regierung hat Maßnahmen ergriffen, um die Umweltbelastung zu kontrollieren. (El gobierno ha tomado medidas para controlar el impacto ambiental.)
+'''
+unvermeidlich, B2
+Español: inevitable
+Русский: неизбежный
+English: inevitable
+
+Frases en alemán usando unvermeidlich:
+
+- Der Klimawandel ist eine unvermeidliche Folge unserer Lebensweise. (El cambio climático es una consecuencia inevitable de nuestro estilo de vida.)
+- Er musste sich der unvermeidlichen Wahrheit stellen, dass er seinen Job verloren hatte. (Tuvo que enfrentarse a la inevitable verdad de que había perdido su trabajo.)
+- Sie hat die Operation unvermeidlich gemacht, indem sie sich nicht an die Anweisungen des Arztes gehalten hat. (Ella hizo inevitable la operación al no seguir las instrucciones del médico.)
+'''
+der Verbrauch, - ¨e B2
+Español: el consumo
+Русский: потребление
+English: the consumption
+
+- Der Verbrauch von Wasser ist in den letzten Jahren gestiegen. (The consumption of water has increased in recent years.)
+- Wie hoch war der Verbrauch im letzten Monat? (How high was the consumption last month?)
+- Wir haben unseren Verbrauch reduziert, um Geld zu sparen. (We have reduced our consumption to save money.)
+'''
+verbrauchen B2
+Español: consumir
+Русский: потреблять
+English: consume
+
+- Ich verbrauche jeden Tag viel Wasser. (I consume a lot of water every day.)
+- Er verbrauchte seine ganze Energie beim Laufen. (He consumed all his energy while running.)
+- Hast du schon alle Kekse verbraucht? (Have you already consumed all the cookies?)
+'''
+vergiften, B2
+Español: envenenar
+Русский: отравлять
+English: poison
+
+- Er hat versucht, seine Frau zu **vergiften**. (He tried to poison his wife.)
+- Die Ratten **vergifteten** das Getreide. (The rats poisoned the grain.)
+- Sie hat sich mit Pilzen **vergiftet**. (She poisoned herself with mushrooms.)
+'''
+verseuchen B2
+Español: contaminar
+Русский: заражать
+English: infect
+- Die Flut hat das Trinkwasser verseucht.
+- Die Pest verseuchte im Mittelalter ganz Europa.
+- Er hat sich mit dem Virus verseucht.
+
+verunreinigt B2
+Español: contaminado
+Русский: загрязненный
+English: polluted
+- Das verunreinigte Wasser ist nicht trinkbar.
+- Die Luft in der Stadt ist stark verunreinigt.
+- Sie haben die Probe mit Bakterien verunreinigt.
+'''
+die Verunreinigung, - en B2
+Español: la contaminación
+Русский: загрязнение
+English: the pollution
+
+Ejemplos:
+
+- Die Verunreinigung des Wassers ist ein großes Problem für die Umwelt. (La contaminación del agua es un gran problema para el medio ambiente.)
+- Die Stadt hat die Verunreinigung der Luft durch den Verkehr reduziert. (La ciudad ha reducido la contaminación del aire por el tráfico.)
+- Die Fabrik hat die Verunreinigung des Bodens zugegeben und eine Entschädigung angeboten. (La fábrica ha admitido la contaminación del suelo y ha ofrecido una compensación.)
+'''
+wandeln, B2
+Español: cambiar, transformar, convertir
+Русский: менять, преобразовывать, обращать
+English: change, transform, convert
+
+Frases en alemán usando wandeln:
+
+- Die Raupe wandelt sich in einen Schmetterling. (The caterpillar changes into a butterfly.)
+- Er wandelte seinen Schmerz in Kunst. (He transformed his pain into art.)
+- Sie wandelte das Wasser in Wein. (She converted the water into wine.)
+'''
+die Windkraftanlage, -n B2
+Español: la planta eólica
+Русский: ветроэнергетическая установка
+English: the wind power plant
+
+- Die Windkraftanlage produziert sauberen Strom aus der Luft. (The wind power plant produces clean electricity from the air.)
+- Gestern wurde eine neue Windkraftanlage in der Nähe des Dorfes gebaut. (Yesterday, a new wind power plant was built near the village.)
+- Die Regierung hat beschlossen, mehr Windkraftanlagen zu installieren, um die Klimaziele zu erreichen. (The government has decided to install more wind power plants to achieve the climate goals.)
+'''
+beißen, B2
+Español: morder
+Русский: кусать
+English: bite
+
+- Der Hund hat mich in den Arm gebissen. (The dog bit me in the arm.)
+- Als Kind biss er oft seine Fingernägel. (As a child, he often bit his fingernails.)
+- Er hat sich in die Zunge gebissen. (He has bitten his tongue.)
+'''
+rauschen, B2
+Español: susurrar, murmurar, hacer ruido
+Русский: шуметь, шелестеть, шипеть
+English: rustle, whisper, hiss
+
+Frases en alemán usando rauschen:
+
+- Ich hörte das **Rauschen** des Windes in den Bäumen. (I heard the **rustling** of the wind in the trees.)
+- Er **rauschte** ihr etwas ins Ohr, aber ich konnte es nicht verstehen. (He **whispered** something in her ear, but I couldn't understand it.)
+- Das Wasser **rauschte** aus dem Schlauch. (The water **hissed** out of the hose.)
+'''
+tierisch, B2
+Español: animal, bestial
+Русский: животный, зверский
+English: animal, beastly
+
+- Er liebt seine Katze **tierisch**. (He loves his cat **animal**ly.)
+- Sie hat **tierisch** Angst vor Spinnen. (She is **beastly** afraid of spiders.)
+- Die Kinder haben sich **tierisch** gefreut, als sie das Geschenk sahen. (The children were **overjoyed** when they saw the gift.)
+'''
+sich regen, C1
+Español: recuperarse, reponerse
+Русский: восстанавливаться, оправляться
+English: recover, recuperate
+
+- Er hat sich von der Operation gut **regeneriert**.
+  - Se ha **recuperado** bien de la operación.
+  - Он хорошо **восстановился** после операции.
+  - He **recovered** well from the surgery.
+- Nach dem langen Flug **regte** sie sich mit einer Dusche.
+  - Después del largo vuelo se **repuso** con una ducha.
+  - После долгого полета она **оправилась** с помощью душа.
+  - After the long flight, she **recuperated** with a shower.
+- Er hat sich von der Grippe noch nicht **regeneriert**.
+  - Todavía no se ha **repuesto** de la gripe.
+  - Он еще не **восстановился** от гриппа.
+  - He has not **recuperated** from the flu yet.
+'''
+sich winden, C1
+Español: retorcerse, contorsionarse
+Русский: извиваться, корчиться
+English: writhe, squirm

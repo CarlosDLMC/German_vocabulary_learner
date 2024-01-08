@@ -1,0 +1,1564 @@
+'''
+die Bank, - en A1
+Español: el banco, la banca
+Русский: банк, скамейка
+English: the bank, the bench
+- Ich gehe zur **Bank**, um Geld abzuheben. (I go to the **bank** to withdraw money.)
+- Er saß auf einer **Bank** im Park und las ein Buch. (He sat on a **bench** in the park and read a book.)
+- Die **Bank** hat die Zinsen gesenkt. (The **bank** lowered the interest rates.)
+'''
+das Geld, - er A1
+Español: el dinero
+Русский: деньги
+English: money
+
+- Ich habe kein **Geld** mehr. (I have no more **money**.)
+- Er hat viel **Geld** gespart. (He saved a lot of **money**.)
+- Hast du das **Geld** überwiesen? (Did you transfer the **money**?)
+
+der Preis, -e A1
+Español: el precio
+Русский: цена
+English: price
+
+- Der **Preis** ist zu hoch. (The **price** is too high.)
+- Sie hat den ersten **Preis** gewonnen. (She won the first **price**.)
+- Wie viel kostet das? Das ist der **Preis**. (How much does it cost? That is the **price**.)
+'''
+der Service, - A1
+Español: el servicio
+Русский: сервис
+English: the service
+
+- Der Service in diesem Hotel ist ausgezeichnet. (The service in this hotel is excellent.)
+- Ich habe gestern den Service angerufen, um eine Beschwerde zu machen. (I called the service yesterday to make a complaint.)
+- Hast du schon den Service bezahlt? (Have you already paid for the service?)
+'''
+bauen, A2
+Español: construir
+Русский: строить
+English: build
+
+Ejemplos:
+- Ich baue ein Haus aus Holz. (I build a house out of wood.)
+- Er baute eine Brücke über den Fluss. (He built a bridge over the river.)
+- Sie haben ein Schloss aus Sand gebaut. (They have built a castle out of sand.)
+'''
+bar, A2
+Español: barra
+Русский: бар
+English: bar
+
+- Ich gehe heute Abend in die **Bar** mit meinen Freunden. (I'm going to the **bar** with my friends tonight.)
+- Gestern war ich in einer **Bar**, die sehr laut und voll war. (Yesterday I was in a **bar** that was very loud and crowded.)
+- Er hat mir erzählt, dass er schon mal in einer **Bar** gearbeitet hat. (He told me that he had worked in a **bar** before.)
+'''
+das Bargeld, A2
+Español: el dinero en efectivo
+Русский: наличные деньги
+English: cash
+
+- Ich habe kein **Bargeld** dabei, ich muss zum Geldautomaten gehen.
+- Er bezahlte die Rechnung mit **Bargeld**.
+- Hast du gestern mit Karte oder mit **Bargeld** bezahlt?
+'''
+einzahlen, A2
+Español: depositar
+Русский: вносить
+English: deposit
+
+Beispiele:
+- Ich zahle jeden Monat 500 Euro auf mein Sparkonto ein.
+- Er zahlte das Geld gestern bei der Bank ein.
+- Hast du schon die Miete eingezahlt?
+'''
+die Einzahlung, - en A2
+Español: el depósito
+Русский: депозит
+English: the deposit
+
+- Ich habe gestern eine Einzahlung auf mein Konto gemacht. (I made a deposit to my account yesterday.)
+- Die Bank verlangt eine hohe Einzahlung für den Kredit. (The bank requires a high deposit for the loan.)
+- Hast du die Einzahlung schon erhalten? (Have you received the deposit yet?)
+'''
+das Kleingeld, A2
+Español: el cambio
+Русский: мелочь
+English: the change
+
+Frases en alemán usando esta palabra:
+
+- Hast du **Kleingeld** für den Automaten? (¿Tienes cambio para la máquina?)
+- Er hat sein ganzes **Kleingeld** gespendet. (Él donó todo su cambio.)
+- Sie hat kein **Kleingeld** mehr. (Ella no tiene más cambio.)
+'''
+das Konto, die Konten A2
+Español: la cuenta, las cuentas
+Русский: счёт, счета
+English: the account, the accounts
+
+- Ich habe ein neues Konto bei der Bank eröffnet. (I opened a new account at the bank.)
+- Er hatte kein Geld mehr auf seinem Konto. (He had no more money in his account.)
+- Hast du dein Konto schon überprüft? (Have you checked your account yet?)
+'''
+die Mark, A2
+Español: la médula
+Русский: мозговое вещество
+English: the marrow
+
+Beispiele:
+- Die Mark ist das weiche Gewebe im Inneren der Knochen. (The marrow is the soft tissue inside the bones.)
+- Er hat eine Markspende für seinen kranken Bruder gemacht. (He made a marrow donation for his sick brother.)
+- Die Mark ist auch eine alte deutsche Währung. (The mark is also an old German currency.)
+'''
+sparen, A2
+Español: ahorrar
+Русский: экономить
+English: save
+
+Frases en alemán usando sparen:
+
+- Ich **spare** jeden Monat etwas Geld für meine Reise. (I save some money every month for my trip.)
+- Früher **sparte** er viel, aber jetzt gibt er alles aus. (He used to save a lot, but now he spends everything.)
+- Er hat genug **gespart**, um sich ein neues Auto zu kaufen. (He has saved enough to buy a new car.)
+'''
+die Sparkasse, -n A2
+Español: la caja de ahorros
+Русский: сберегательная касса
+English: the savings bank
+
+- Ich habe ein Konto bei der **Sparkasse** eröffnet.
+- Gestern ging ich zur **Sparkasse**, um Geld abzuheben.
+- Hast du schon die Zinsen von der **Sparkasse** bekommen?
+'''
+überweisen, A2
+Español: transferir
+Русский: переводить
+English: transfer
+
+- Ich überweise dir das Geld morgen. (I will transfer you the money tomorrow.)
+- Er überwies ihr einen Blick voller Hass. (He transferred a look full of hate to her.)
+- Sie hat mir gestern das Geld überwiesen. (She transferred the money to me yesterday.)
+'''
+zurückzahlen, A2
+Español: devolver, reembolsar
+Русский: возвращать, возмещать
+English: pay back, refund
+
+Frases en alemán usando zurückzahlen:
+
+- Ich muss dir noch 50 Euro **zurückzahlen**. (I still have to pay you back 50 euros.)
+- Er hat seine Schulden endlich **zurückgezahlt**. (He finally paid off his debts.)
+- Hast du schon die Steuern **zurückgezahlt**? (Have you already refunded the taxes?)
+'''
+das Sonderangebot, -e A2
+Español: la oferta especial
+Русский: специальное предложение
+English: the special offer
+
+- Dieses **Sonderangebot** gilt nur bis zum Ende des Monats. (This special offer is only valid until the end of the month.)
+- Er hat das Auto zu einem günstigen Preis gekauft, weil es ein **Sonderangebot** war. (He bought the car at a low price because it was a special offer.)
+- Hast du schon von dem **Sonderangebot** gehört, das sie im Supermarkt haben? (Have you heard of the special offer they have at the supermarket?)
+'''
+die Industrie, -n A2
+Español: la industria
+Русский: промышленность
+English: the industry
+
+Frases en alemán usando esta palabra:
+
+- Die Industrie ist ein wichtiger Wirtschaftssektor. (La industria es un sector económico importante.)
+- Im 19. Jahrhundert begann die industrielle Revolution. (En el siglo XIX comenzó la revolución industrial.)
+- Deutschland hat eine starke Industrie, vor allem in den Bereichen Automobil, Maschinenbau und Chemie. (Alemania tiene una industria fuerte, sobre todo en los sectores de automóvil, ingeniería mecánica y química.)
+'''
+das Produkt, -e A2
+Español: el producto
+Русский: продукт
+English: the product
+
+Frases en alemán usando esta palabra:
+
+- Dieses **Produkt** ist sehr beliebt bei den Kunden. (Este producto es muy popular entre los clientes.)
+- Wir haben gestern ein neues **Produkt** auf den Markt gebracht. (Ayer lanzamos un nuevo producto al mercado.)
+- Hast du schon das **Produkt** ausprobiert, das ich dir empfohlen habe? (¿Ya has probado el producto que te recomendé?)
+'''
+die Produktion, - en A2
+Español: la producción
+Русский: производство
+English: the production
+
+Frases en alemán usando esta palabra:
+
+- Die Produktion von Autos ist in Deutschland sehr wichtig. (The production of cars is very important in Germany.)
+- Gestern haben wir die Produktion für dieses Jahr abgeschlossen. (Yesterday we finished the production for this year.)
+- Die Firma hat ihre Produktion in den letzten Monaten gesteigert. (The company has increased its production in the last months.)
+'''
+produzieren, A2
+Español: producir
+Русский: производить
+English: produce
+
+- Wir produzieren jeden Tag viel Müll. (We produce a lot of garbage every day.)
+- Die Fabrik produzierte früher Autos. (The factory used to produce cars.)
+- Er hat einen guten Text produziert. (He has produced a good text.)
+'''
+steigen, A2
+Español: subir, ascender
+Русский: подниматься, повышаться
+English: climb, rise
+
+Ejemplos:
+- Die Temperatur steigt im Sommer. (La temperatura sube en verano.)
+- Er ist gestern vom Fahrrad gestiegen. (Él se bajó de la bicicleta ayer.)
+- Sie ist in den Zug gestiegen und hat sich einen Platz gesucht. (Ella subió al tren y buscó un asiento.)
+'''
+die Steigerung, -en A2
+Español: el aumento, la intensificación
+Русский: повышение, усиление
+English: the increase, the intensification
+
+- Die Steigerung der Preise hat viele Kunden verärgert. (The increase in prices has angered many customers.)
+- Er steigerte seine Leistung im Präteritum. (He increased his performance in the past tense.)
+- Sie hat ihre Stimme gesteigert, um gehört zu werden. (She intensified her voice to be heard.)
+'''
+zunehmen, A2
+Español: aumentar, engordar
+Русский: увеличиваться, набирать вес
+English: increase, gain weight
+
+Frases en alemán usando la palabra zunehmen:
+
+- Ich möchte **zunehmen**, weil ich zu dünn bin. (I want to gain weight because I am too thin.)
+- Er hat im letzten Jahr viel **zugenommen**, weil er viel Süßigkeiten gegessen hat. (He has gained a lot of weight in the last year because he ate a lot of sweets.)
+- Die Zahl der Infektionen nimmt jeden Tag **zu**. (The number of infections increases every day.)
+'''
+chemisch, A2
+Español: químico
+Русский: химический
+English: chemical
+
+- Das chemische Symbol für Wasser ist H2O.
+- Er studierte Chemie und wurde ein berühmter chemischer Ingenieur.
+- Sie hat eine chemische Reaktion ausgelöst, indem sie zwei Substanzen gemischt hat.
+'''
+die Fabrik, - en A2
+Español: la fábrica
+Русский: фабрика
+English: the factory
+
+Ejemplos de frases en alemán usando esta palabra:
+
+- In dieser Fabrik werden Autos hergestellt. (En esta fábrica se fabrican coches.)
+- Früher arbeitete er in einer Fabrik, aber jetzt ist er arbeitslos. (Antes trabajaba en una fábrica, pero ahora está desempleado.)
+- Sie haben die Fabrik renoviert und modernisiert. (Han renovado y modernizado la fábrica.)
+'''
+die Firma, die Firmen A2
+Español: la empresa, las empresas
+Русский: фирма, фирмы
+English: the company, the companies
+
+Tres frases en alemán usando esta palabra son:
+
+- Ich arbeite bei einer großen Firma in Berlin. (Trabajo en una gran empresa en Berlín.)
+- Die Firma hat viele Kunden in Europa. (La empresa tiene muchos clientes en Europa.)
+- Er hat seine eigene Firma gegründet. (Él fundó su propia empresa.)
+'''
+transportieren, A2
+Español: transportar
+Русский: транспортировать
+English: transport
+
+Ejemplos:
+
+- Wir **transportieren** die Kisten mit dem Lastwagen. (Presente)
+- Nosotros transportamos las cajas con el camión.
+- Мы **транспортируем** ящики на грузовике.
+- We **transport** the boxes with the truck.
+
+- Er **transportierte** die Patienten ins Krankenhaus. (Präteritum)
+- Él transportó a los pacientes al hospital.
+- Он **транспортировал** пациентов в больницу.
+- He **transported** the patients to the hospital.
+
+- Sie haben die Möbel mit dem Zug **transportiert**. (Perfekt)
+- Ellos han transportado los muebles con el tren.
+- Они **транспортировали** мебель поездом.
+- They have **transported** the furniture by train.
+'''
+fair, A2
+Español: justo, feria
+Русский: справедливый, ярмарка
+English: fair, fair
+
+Ejemplos:
+
+- Das ist nicht fair! Er hat mehr Kuchen als ich. (That's not fair! He has more cake than me.)
+- Wir gehen morgen zum Jahrmarkt. Dort gibt es viele Fahrgeschäfte und Spiele. (We are going to the fair tomorrow. There are many rides and games there.)
+- Er hat die Prüfung fair und ehrlich bestanden. Er hat nicht geschummelt oder abgeschrieben. (He passed the exam fair and honest. He did not cheat or copy.)
+'''
+die Konkurrenz, - en A2
+Español: la competencia
+Русский: конкуренция
+English: the competition
+
+Frases en alemán usando esta palabra:
+
+- Die Konkurrenz ist sehr stark in diesem Markt. (La competencia es muy fuerte en este mercado.)
+- Er hat die Konkurrenz im Präteritum geschlagen. (Él venció a la competencia en el pasado.)
+- Sie hat sich gegen die Konkurrenz durchgesetzt. (Ella se impuso frente a la competencia.)
+'''
+konkurrieren, A2
+Español: competir
+Русский: конкурировать
+English: compete
+
+Frases en alemán usando konkurrieren:
+
+- Die beiden Firmen **konkurrieren** um den Marktanteil. (Las dos empresas compiten por la cuota de mercado.)
+- Früher **konkurrierte** er oft mit seinem Bruder. (Antes solía competir mucho con su hermano.)
+- Sie hat erfolgreich mit den anderen Kandidaten **konkurriert**. (Ella ha competido exitosamente con los otros candidatos.)
+'''
+verkaufen, A2
+Español: vender
+Русский: продавать
+English: sell
+
+Frases en alemán usando verkaufen:
+
+- Ich verkaufe mein altes Fahrrad für 50 Euro. (Vendo mi vieja bicicleta por 50 euros.)
+- Er verkaufte sein Haus und zog nach Berlin. (Él vendió su casa y se mudó a Berlín.)
+- Hast du schon deine Bücher verkauft? (¿Ya vendiste tus libros?)
+'''
+fast, A2
+Español: rápido
+Русский: быстрый
+English: fast
+
+Ejemplos:
+- Er ist sehr **fast**. (Él es muy rápido.)
+- Sie **fuhr** gestern sehr **fast**. (Ella condujo muy rápido ayer.)
+- Er **hat** heute sehr **fast** gearbeitet. (Él ha trabajado muy rápido hoy.)
+'''
+das Angebot, -e B1
+Español: la oferta
+Русский: предложение
+English: the offer
+
+- Ich habe ein gutes Angebot für dich. (I have a good offer for you.)
+- Er lehnte das Angebot ab. (He declined the offer.)
+- Sie hat das Angebot angenommen. (She accepted the offer.)
+'''
+der Kaufmann, die Kaufleute / die Kauffrau, die Kauffrauen, A2
+Español: el comerciante, los comerciantes / la comerciante, las comerciantes
+Русский: торговец, торговцы / торговка, торговки
+English: the merchant, the merchants / the merchant (female), the merchants (female)
+
+Ejemplos:
+
+- Der Kaufmann verkauft seine Waren auf dem Markt. (The merchant sells his goods at the market.)
+- Die Kauffrau arbeitete früher in einer Bank. (The merchant (female) used to work in a bank.)
+- Die Kaufleute haben einen Vertrag unterzeichnet. (The merchants have signed a contract.)
+'''
+Kauffrau, - en B1
+Español: comerciante
+Русский: торговка
+English: merchant
+
+Frases en alemán usando esta palabra:
+
+- Meine Mutter ist eine **Kauffrau** und arbeitet in einem großen Unternehmen. (Mi madre es una comerciante y trabaja en una gran empresa.)
+- Als **Kauffrau** muss man viele Fähigkeiten haben, wie zum Beispiel Verhandeln, Rechnen und Organisieren. (Como comerciante, se deben tener muchas habilidades, como negociar, calcular y organizar.)
+- Sie hat eine Ausbildung zur **Kauffrau** gemacht und dann ein eigenes Geschäft eröffnet. (Ella hizo una formación de comerciante y luego abrió su propio negocio.)
+'''
+kaufmännisch, B1
+Español: comercial
+Русский: коммерческий
+English: commercial
+
+- Die kaufmännische Ausbildung ist sehr beliebt in Deutschland. (The commercial training is very popular in Germany.)
+- Er arbeitete früher als kaufmännischer Angestellter in einer Bank. (He used to work as a commercial employee in a bank.)
+- Sie hat ihre kaufmännischen Fähigkeiten in einem Online-Kurs verbessert. (She improved her commercial skills in an online course.)
+'''
+die D-Mark, B1
+Español: el marco alemán
+Русский: немецкая марка
+English: the German mark
+
+Frases en alemán usando esta palabra:
+
+- Die D-Mark war die offizielle Währung in Deutschland bis zum Jahr 2002. (The German mark was the official currency in Germany until the year 2002.)
+- Er hat seine alten D-Mark-Münzen in einem Glas gesammelt. (He collected his old German mark coins in a glass jar.)
+- Hast du noch D-Mark? Du kannst sie bei der Bundesbank umtauschen. (Do you still have German marks? You can exchange them at the Bundesbank.)
+'''
+die Finanzen, B1
+Español: las finanzas
+Русский: финансы
+English: finances
+
+Ejemplos:
+
+- Er kümmert sich um **die Finanzen** der Firma. (Él se ocupa de las finanzas de la empresa.)
+- Sie haben **die Finanzen** für das Projekt nicht gut geplant. (No han planificado bien los recursos financieros para el proyecto.)
+- Wir haben **die Finanzen** für unsere Reise gespart. (Hemos ahorrado dinero para nuestro viaje.)
+'''
+finanziell, B1
+Español: financiero
+Русский: финансовый
+English: financial
+
+- Ich habe finanzielle Probleme und brauche einen Kredit.
+- Er war finanziell unabhängig und reiste viel.
+- Sie hat ihre finanzielle Situation verbessert, indem sie gespart hat.
+'''
+die Finanzierung, - en B1
+Español: la financiación
+Русский: финансирование
+English: the financing
+
+- Die Finanzierung des Projekts ist noch nicht gesichert. (The financing of the project is not yet secured.)
+- Er erhielt eine Finanzierung von der Bank, um sein Geschäft zu erweitern. (He received a financing from the bank to expand his business.)
+- Sie haben die Finanzierung für ihr Studium erfolgreich beantragt. (They have successfully applied for the financing for their studies.)
+'''
+die Höhe, -n B1
+Español: la altura
+Русский: высота
+English: the height
+
+- Die Höhe des Berges beträgt 3000 Meter. (The height of the mountain is 3000 meters.)
+- Er sprang aus einer Höhe von 10 Metern ins Wasser. (He jumped into the water from a height of 10 meters.)
+- Sie hat schon immer Höhenangst gehabt. (She has always been afraid of heights.)
+'''
+der Kredit, -e B1
+Español: el crédito
+Русский: кредит
+English: the credit
+
+- Ich brauche einen **Kredit**, um ein neues Auto zu kaufen. (I need a credit to buy a new car.)
+- Er hat seinen **Kredit** gestern zurückgezahlt. (He paid back his credit yesterday.)
+- Sie haben einen **Kredit** mit niedrigem Zinssatz aufgenommen. (They took out a credit with a low interest rate.)
+'''
+der Pfennig, -e B1
+Español: el penique
+Русский: пфенниг
+English: the penny
+
+Frases en alemán usando esta palabra:
+
+- Ein Pfennig ist die kleinste Münze in Deutschland. (Un penique es la moneda más pequeña en Alemania.)
+- Er hat keinen Pfennig in der Tasche. (Él no tiene ni un penique en el bolsillo.)
+- Sie hat ihren letzten Pfennig für das Geschenk ausgegeben. (Ella gastó su último penique en el regalo.)
+'''
+der Scheck, -s B1
+Español: el cheque
+Русский: чек
+English: the check
+
+Frases en alemán usando esta palabra:
+
+- Er hat mir einen Scheck über 500 Euro ausgestellt. (He issued me a check for 500 euros.)
+- Ich habe den Scheck gestern eingelöst. (I cashed the check yesterday.)
+- Hast du den Scheck schon unterschrieben? (Have you signed the check yet?)
+'''
+schulden, B1
+Español: deudas
+Русский: долги
+English: debts
+
+- Ich habe viele **Schulden** bei der Bank.
+- Er **schuldete** mir noch Geld von letzter Woche.
+- Sie hat ihre **Schulden** endlich beglichen.
+'''
+die Schulden, B1
+Español: las deudas
+Русский: долги
+English: the debts
+
+- Er hat viele Schulden und kann seine Rechnungen nicht bezahlen.
+(He has a lot of debts and cannot pay his bills.)
+- Sie hat ihre Schulden an die Bank zurückgezahlt.
+(She paid back her debts to the bank.)
+- Wir machen keine Schulden, wir sparen lieber.
+(We don't make debts, we prefer to save.)
+'''
+das Wechselgeld, B1
+Español: el cambio
+Русский: сдача
+English: the change
+
+- Ich habe kein Wechselgeld mehr. Kannst du mir einen Zehner wechseln?
+- Er wechselte gestern seine Meinung und sagte mir ab.
+- Sie hat das Geld gewechselt, bevor sie nach Japan geflogen ist.
+'''
+ausführen, B1
+Español: ejecutar, llevar a cabo
+Русский: выполнять, осуществлять
+English: execute, carry out
+
+- Er führt einen komplizierten Algorithmus aus. (He executes a complicated algorithm.)
+- Sie führte gestern eine Operation durch. (She carried out an operation yesterday.)
+- Hast du die Anweisungen ausgeführt? (Did you execute the instructions?)
+'''
+ausverkaufen, B1
+Español: liquidar, vender todo
+Русский: распродавать, продавать все
+English: sell out, sell everything
+
+- Der Laden hat alles ausverkauft, bevor er geschlossen hat. (The store sold everything out before it closed.)
+- Sie verkauften ihr Haus aus, um eine Weltreise zu machen. (They sold out their house to go on a world trip.)
+- Er hat seine alten Bücher ausverkauft, weil er Platz brauchte. (He sold out his old books because he needed space.)
+'''
+die Garantie, -n B1
+Español: la garantía
+Русский: гарантия
+English: the warranty
+
+- Ich habe eine **Garantie** von zwei Jahren für meinen Laptop. (I have a two-year **warranty** for my laptop.)
+- Er gab mir seine **Garantie**, dass er das Geld zurückzahlen würde. (He gave me his **warranty** that he would pay back the money.)
+- Hast du die **Garantie** für den Fernseher noch? (Do you still have the **warranty** for the TV?)
+'''
+der Handel, B1
+Español: el comercio
+Русский: торговля
+English: trade
+
+- Der Handel zwischen den beiden Ländern ist sehr wichtig für die Wirtschaft. (The trade between the two countries is very important for the economy.)
+- Früher betrieb er Handel mit Gewürzen und Seide. (In the past, he traded spices and silk.)
+- Sie haben den Handel mit dem Unternehmen erfolgreich abgeschlossen. (They have successfully completed the trade with the company.)
+'''
+der Kunde, -n / die Kundin, -nen B1
+Español: el cliente, -s / la clienta, -s
+Русский: клиент, -ы / клиентка, -и
+English: the customer, -s / the customer (female), -s
+
+- Der Kunde ist mit dem Service sehr zufrieden. (The customer is very satisfied with the service.)
+- Die Kundin kaufte gestern ein Kleid in diesem Geschäft. (The customer (female) bought a dress in this store yesterday.)
+- Hast du schon mit den Kunden gesprochen? (Have you already spoken to the customers?)
+'''
+lagern, B1
+Español: almacenar, guardar
+Русский: хранить, складировать
+English: store, stock
+
+Ejemplos:
+
+- Wir **lagern** unsere Lebensmittel im Keller. (Almacenamos nuestra comida en el sótano.)
+- Er **lagerte** seine Waffen in einem geheimen Versteck. (Él guardó sus armas en un escondite secreto.)
+- Sie haben die Bücher in der Bibliothek **gelagert**. (Ellos han almacenado los libros en la biblioteca.)
+'''
+liefern, B1
+Español: entregar, suministrar
+Русский: доставлять, поставлять
+English: deliver, supply
+
+Frases en alemán usando liefern:
+
+- Der Postbote liefert jeden Tag die Pakete. (El cartero entrega los paquetes todos los días.)
+- Die Firma liefert qualitativ hochwertige Produkte. (La empresa suministra productos de alta calidad.)
+- Er hat eine gute Arbeit geliefert. (Él ha entregado un buen trabajo.)
+'''
+der Markt, - ¨e B1
+Español: el mercado
+Русский: рынок
+English: the market
+
+- Ich gehe jeden Samstag zum **Markt**, um frisches Obst und Gemüse zu kaufen. (I go to the market every Saturday to buy fresh fruits and vegetables.)
+- Früher war der **Markt** der wichtigste Ort für den Handel. (In the past, the market was the most important place for trade.)
+- Hast du schon gehört, dass der **Markt** wegen der Pandemie geschlossen wurde? (Did you hear that the market was closed because of the pandemic?)
+'''
+werben B1
+Español: publicitar, reclutar
+Русский: рекламировать, набирать
+English: advertise, recruit
+
+Frases en alemán usando werben:
+
+- Die Firma **wirbt** für ihre neuen Produkte im Fernsehen. (The company **advertises** its new products on television.)
+- Er **warb** um ihre Hand, aber sie lehnte ab. (He **courted** her hand, but she declined.)
+- Sie haben viele Freiwillige **geworben**, um bei der Katastrophe zu helfen. (They **recruited** many volunteers to help with the disaster.)
+'''
+die Werbung, - en B1
+Español: la publicidad
+Русский: реклама
+English: advertising
+
+Frases en alemán usando esta palabra:
+
+- Ich sehe jeden Tag viel **Werbung** im Fernsehen. (Veo mucha publicidad en la televisión todos los días.)
+- Er hat gestern eine neue **Werbung** für sein Produkt gemacht. (Él hizo una nueva publicidad para su producto ayer.)
+- Sie haben schon viele Kunden durch ihre **Werbung** gewonnen. (Ellos han ganado muchos clientes por su publicidad.)
+'''
+wert, B1
+Español: valor
+Русский: ценность
+English: value
+
+- Der Wert eines Diamanten hängt von seiner Reinheit ab. (The value of a diamond depends on its purity.)
+- Er wertete seine Erfahrungen als positiv. (He valued his experiences as positive.)
+- Sie hat den Wert ihrer Arbeit erkannt. (She has recognized the value of her work.)
+'''
+das Feld, - er B1
+Español: el campo
+Русский: поле
+English: field
+
+- Das Feld ist grün und voller Blumen. (The field is green and full of flowers.)
+- Früher arbeitete er auf dem Feld. (He used to work in the field.)
+- Er hat das Feld bestellt und geerntet. (He has cultivated and harvested the field.)
+'''
+herstellen, B1
+Español: producir, fabricar, reparar
+Русский: производить, изготавливать, восстанавливать
+English: produce, manufacture, restore
+
+- Die Firma stellt hochwertige Möbel her. (The company produces high-quality furniture.)
+- Er stellte das kaputte Fahrrad wieder her. (He repaired the broken bike.)
+- Sie hat den Kontakt zu ihrer Familie hergestellt. (She restored contact with her family.)
+'''
+der Vertrag, - ¨e B1
+Español: el contrato
+Русский: договор
+English: the contract
+
+- Ich habe gestern einen neuen **Vertrag** mit der Firma unterschrieben. (I signed a new contract with the company yesterday.)
+- Er hat den **Vertrag** ohne zu lesen akzeptiert. (He accepted the contract without reading it.)
+- Hast du schon den **Vertrag** gekündigt? (Have you already cancelled the contract?)
+'''
+mindestens, B1
+Español: al menos
+Русский: по крайней мере
+English: at least
+
+Frases en alemán usando mindestens:
+
+- Du brauchst **mindestens** zehn Euro, um dieses Buch zu kaufen. (You need **at least** ten euros to buy this book.)
+- Er hat gestern **mindestens** fünf Stunden gelernt. (He studied for **at least** five hours yesterday.)
+- Sie ist **mindestens** so klug wie er. (She is **at least** as smart as he is.)
+'''
+niedrig, B1
+Español: bajo, baja
+Русский: низкий, низкая
+English: low
+
+- Die Temperatur ist heute sehr niedrig. (The temperature is very low today.)
+- Er sprach mit niedriger Stimme. (He spoke in a low voice.)
+- Die Preise sind im Vergleich zum letzten Jahr niedriger geworden. (The prices have become lower compared to last year.)
+'''
+das Prozent, -e B1
+Español: el porcentaje
+Русский: процент
+English: the percentage
+
+- Die Inflation beträgt dieses Jahr **drei Prozent**.
+- Er hat **fünfzig Prozent** der Prüfung richtig beantwortet.
+- Sie hat ihre Leistung um **zehn Prozent** verbessert.
+'''
+schätzen B1
+Español: estimar, apreciar
+Русский: оценивать, ценить
+English: estimate, appreciate
+
+- Ich schätze deine Hilfe sehr. (I appreciate your help very much.)
+- Er schätzte die Entfernung auf zwei Kilometer. (He estimated the distance at two kilometers.)
+- Sie hat ihn immer geschätzt. (She has always appreciated him.)
+'''
+die Schätzung, - en B1
+Español: la estimación
+Русский: оценка
+English: the estimation
+
+- Die Schätzung der Kosten für das Projekt ist sehr hoch. (The estimation of the costs for the project is very high.)
+- Er schätzte die Entfernung auf etwa zehn Kilometer. (He estimated the distance at about ten kilometers.)
+- Sie haben die Zeit, die sie brauchten, falsch geschätzt. (They have misestimated the time they needed.)
+'''
+senken, B1
+Español: bajar, reducir
+Русский: снижать, понижать
+English: lower, reduce
+
+Frases en alemán usando senken:
+
+- Die Regierung hat beschlossen, die Steuern zu senken. (The government has decided to lower the taxes.)
+- Er senkte den Kopf und vermied ihren Blick. (He lowered his head and avoided her gaze.)
+- Sie hat ihr Fieber gesenkt, indem sie viel Wasser getrunken hat. (She reduced her fever by drinking a lot of water.)
+'''
+sinken B1
+Español: hundirse, bajar
+Русский: тонуть, падать
+English: sink, fall
+
+- Die Titanic ist im Jahr 1912 im Atlantik gesunken. (The Titanic sank in the Atlantic Ocean in 1912.)
+- Die Temperatur sinkt in der Nacht. (The temperature falls at night.)
+- Die Zahl der Infektionen ist in den letzten Wochen gesunken. (The number of infections has fallen in the last weeks.)
+'''
+steil, B1
+Español: empinado, escarpado
+Русский: крутой, отвесный
+English: steep, sheer
+
+- Der Berg ist sehr steil und schwer zu besteigen. (The mountain is very steep and hard to climb.)
+- Er ging die steile Treppe hinunter. (He went down the steep stairs.)
+- Sie hat eine steile Karriere gemacht. (She has made a steep career.)
+'''
+(sich) verdoppeln, B1
+Español: (se) duplicar
+Русский: (само)удваивать
+English: (self)double
+
+Frases en alemán usando (sich) verdoppeln:
+
+- Die Zahl der Infizierten hat sich in den letzten zwei Wochen verdoppelt. (The number of infected people has doubled in the last two weeks.)
+- Er verdoppelte seinen Einsatz und gewann das Spiel. (He doubled his stake and won the game.)
+- Sie haben sich seit dem letzten Mal, als ich sie gesehen habe, verdoppelt. (They have doubled since the last time I saw them.)
+'''
+das Verhältnis, - se B1
+Español: la relación, las relaciones
+Русский: отношение, отношения
+English: the relation, the relations
+
+- Das Verhältnis zwischen den beiden Ländern ist sehr angespannt. (The relation between the two countries is very tense.)
+- Er hatte ein gutes Verhältnis zu seinem Chef. (He had a good relation with his boss.)
+- Sie haben ihr Verhältnis beendet. (They have ended their relation.)
+'''
+(sich) verringern B1
+Español: (se) reducir
+Русский: (само)уменьшаться
+English: (self)decrease
+
+Ejemplos:
+
+- Die Zahl der Infektionen hat sich **verringert**. (El número de infecciones se ha reducido.)
+- Er **verringerte** seine Geschwindigkeit, als er die Kurve sah. (Él redujo su velocidad cuando vio la curva.)
+- Sie haben ihre Schulden **verringert**. (Ellos han disminuido sus deudas.)
+'''
+die Verringerung, - en B1
+Español: la reducción
+Русский: сокращение
+English: the reduction
+
+- Die Verringerung der Treibhausgasemissionen ist eine wichtige Aufgabe für die Menschheit. (The reduction of greenhouse gas emissions is an important task for humanity.)
+- Durch die Corona-Pandemie hat sich die Verringerung der Arbeitsplätze beschleunigt. (The corona pandemic has accelerated the reduction of jobs.)
+- Die Regierung hat die Verringerung der Steuern für kleine Unternehmen angekündigt. (The government has announced the reduction of taxes for small businesses.)
+'''
+füllen, B1
+Español: llenar
+Русский: заполнять
+English: fill
+
+Frases en alemán usando füllen:
+
+- Ich fülle das Formular aus und schicke es dir per E-Mail. (I fill out the form and send it to you by email.)
+- Er füllte die Flasche mit Wasser und trank sie. (He filled the bottle with water and drank it.)
+- Sie haben das Zimmer mit Blumen gefüllt. (They filled the room with flowers.)
+'''
+(sich) vergrößern B1
+Español: (se) agrandar
+Русский: (увеличи)ваться
+English: (to) enlarge
+
+Frases en alemán usando (sich) vergrößern:
+
+- Die Schrift auf dem Bildschirm **vergrößert** sich, wenn man die Taste Strg gedrückt hält und am Rad der Maus dreht. (The font on the screen **enlarges** when you hold down the Ctrl key and turn the wheel of the mouse.)
+- Er **vergrößerte** sein Haus, indem er einen Anbau machte. (He **enlarged** his house by adding an extension.)
+- Sie hat sich die Brüste **vergrößern** lassen. (She had her breasts **enlarged**.)
+'''
+die Vergrößerung, - en B1
+Español: el aumento, la ampliación
+Русский: увеличение, расширение
+English: the enlargement, the magnification
+
+- Die Vergrößerung der EU hat viele Herausforderungen mit sich gebracht. (The enlargement of the EU has brought many challenges with it.)
+- Er braucht eine Vergrößerung des Fotos, um die Details zu sehen. (He needs a magnification of the photo to see the details.)
+- Sie hat die Vergrößerung ihrer Wohnung gefeiert. (She celebrated the enlargement of her apartment.)
+'''
+(sich) verkleinern B1
+Español: (reducirse, encogerse)
+Русский: (уменьшаться, сокращаться)
+English: (to shrink, to reduce)
+
+Frases en alemán usando (sich) verkleinern:
+
+- Die Schrift auf dem Bildschirm hat sich verkleinert. (The font on the screen has shrunk.)
+- Er verkleinerte seinen Koffer, um ihn ins Flugzeug zu bringen. (He reduced his suitcase to bring it on the plane.)
+- Sie hat sich verkleinert, als sie die schlechte Nachricht hörte. (She shrank when she heard the bad news.)
+'''
+die Verkleinerung, -en B1
+Español: la reducción
+Русский: уменьшение
+English: the reduction
+
+- Die Verkleinerung der Umweltverschmutzung ist eine wichtige Aufgabe für die Menschheit. (The reduction of environmental pollution is an important task for humanity.)
+- Er verkleinerte sein Bild, um es per E-Mail zu verschicken. (He reduced his image to send it by email.)
+- Sie hat ihre Wohnung verkleinert, nachdem ihre Kinder ausgezogen sind. (She has reduced her apartment after her children moved out.)
+'''
+der Auftrag, - ¨e B1
+Español: el encargo, el pedido
+Русский: заказ, поручение
+English: the order, the assignment
+
+- Ich habe einen **Auftrag** für dich. Kannst du mir bitte diese Akten bringen?
+- Er hat gestern einen großen **Auftrag** von einem neuen Kunden bekommen.
+- Sie hat den **Auftrag** schon erledigt und abgegeben.
+'''
+das Geschäftsleben, B1
+Español: la vida empresarial
+Русский: деловая жизнь
+English: business life
+
+- Das Geschäftsleben in Deutschland ist sehr formell und professionell. (Business life in Germany is very formal and professional.)
+- Er war schon immer an dem Geschäftsleben seiner Familie interessiert. (He was always interested in the business life of his family.)
+- Sie hat viel Erfahrung im Geschäftsleben gesammelt. (She has gained a lot of experience in business life.)
+'''
+der Geschäftsmann, die Geschäftsleute, B1
+Español: el hombre de negocios, los hombres de negocios
+Русский: бизнесмен, бизнесмены
+English: businessman, businessmen
+
+- Der Geschäftsmann ist sehr erfolgreich in seiner Branche. (The businessman is very successful in his industry.)
+- Die Geschäftsleute trafen sich gestern in einem Hotel. (The businessmen met yesterday in a hotel.)
+- Er hat als Geschäftsmann viel Geld verdient. (He has earned a lot of money as a businessman.)
+'''
+Geschäftsleute, B1
+Español: empresarios
+Русский: бизнесмены
+English: businessmen
+
+- Die Geschäftsleute haben heute einen wichtigen Termin mit einem potenziellen Kunden.
+- Gestern haben die Geschäftsleute einen neuen Vertrag unterschrieben.
+- Die Geschäftsleute haben in den letzten Monaten viel Gewinn gemacht.
+'''
+gründen, B1
+Español: fundar, establecer
+Русский: основывать, учреждать
+English: found, establish
+
+Frases en alemán usando gründen:
+
+- Er hat eine Firma gegründet, die sich auf künstliche Intelligenz spezialisiert hat. (He founded a company that specializes in artificial intelligence.)
+- Im Jahr 1776 gründeten die Amerikaner ihre unabhängige Nation. (In 1776, the Americans founded their independent nation.)
+- Sie haben eine Familie gegründet und sind glücklich zusammen. (They have established a family and are happy together.)
+'''
+der Konzern, -e B1
+Español: el consorcio, el grupo empresarial
+Русский: концерн, крупная фирма
+English: the corporation, the business group
+
+Frases en alemán usando esta palabra:
+
+- Der Konzern **hat** im letzten Jahr einen hohen Gewinn **erzielt**. (El consorcio ha obtenido un alto beneficio el año pasado. - Presente)
+- Der Konzern **wurde** im Jahr 2000 **gegründet**. (El consorcio se fundó en el año 2000. - Präteritum)
+- Der Konzern **hat** viele Mitarbeiter **entlassen**. (El consorcio ha despedido a muchos empleados. - Perfekt)
+'''
+der Unternehmer, - B1
+Español: el empresario
+Русский: предприниматель
+English: the entrepreneur
+
+- Der Unternehmer hat eine neue Firma gegründet. (The entrepreneur has founded a new company.)
+- Als er noch jung war, war er ein erfolgreicher Unternehmer. (When he was young, he was a successful entrepreneur.)
+- Er hat viele Jahre als Unternehmer gearbeitet und ist jetzt in Rente. (He has worked as an entrepreneur for many years and is now retired.)
+'''
+der Transport, B1
+Español: el transporte
+Русский: транспорт
+English: transport
+
+- Der Transport von Gütern ist ein wichtiger Wirtschaftsfaktor. (The transport of goods is an important economic factor.)
+- Gestern transportierte er die Möbel mit einem Lastwagen. (Yesterday he transported the furniture with a truck.)
+- Er hat die Koffer schon zum Bahnhof transportiert. (He has already transported the suitcases to the train station.)
+'''
+der Hafen, -¨en B1
+Español: el puerto
+Русский: порт
+English: the port
+
+- Der Hafen von Hamburg ist einer der größten in Europa. (The port of Hamburg is one of the largest in Europe.)
+- Wir gingen gestern zum Hafen und sahen viele Schiffe. (We went to the port yesterday and saw many ships.)
+- Er hat mir erzählt, dass er schon mal in einem Hafen gearbeitet hat. (He told me that he had worked in a port before.)
+'''
+der Gewinn, -e B1
+Español: el beneficio, la ganancia
+Русский: прибыль, выигрыш
+English: the profit, the win
+
+- Die Firma hat im letzten Jahr einen hohen Gewinn erzielt. (The company made a high profit last year.)
+- Er hat im Lotto einen kleinen Gewinn gemacht. (He made a small win in the lottery.)
+- Sie haben den Gewinn an eine wohltätige Organisation gespendet. (They donated the profit to a charitable organization.)
+'''
+gewinnen B1
+Español: ganar
+Русский: выигрывать
+English: win
+
+Frases en alemán usando gewinnen:
+
+- Ich **gewinne** gerne Schach. (Me gusta ganar al ajedrez.)
+- Er **gewann** die Goldmedaille bei den Olympischen Spielen. (Él ganó la medalla de oro en los Juegos Olímpicos.)
+- Sie haben das Spiel **gewonnen**. (Ellos han ganado el partido.)
+'''
+multinational, B1
+Español: multinacional
+Русский: мультинациональный
+English: multinational
+- Die **multinationale** Firma hat Niederlassungen in mehreren Ländern. (The multinational company has branches in several countries.)
+- Er arbeitete für eine **multinationale** Organisation, die humanitäre Hilfe leistete. (He worked for a multinational organization that provided humanitarian aid.)
+- Sie haben an einer **multinationalen** Konferenz teilgenommen, um globale Probleme zu diskutieren. (They participated in a multinational conference to discuss global issues.)
+'''
+das Industrieland, -¨er B1
+Español: el país industrializado
+Русский: индустриальная страна
+English: the industrialized country
+
+- Deutschland ist ein **Industrieland** mit einer starken Wirtschaft.
+- Die Schweiz wurde im 19. Jahrhundert zu einem **Industrieland**.
+- Viele **Industrieländer** haben hohe CO2-Emissionen.
+'''
+industriell, B1
+Español: industrial
+Русский: промышленный
+English: industrial
+
+Frases en alemán usando la palabra industriell:
+
+- Die Stadt hat eine **industrielle** Revolution erlebt. (The city experienced an industrial revolution.)
+- Er arbeitet in einer **industriellen** Zone. (He works in an industrial zone.)
+- Sie haben ihre **industrielle** Produktion gesteigert. (They have increased their industrial production.)
+'''
+Die Informationsgesellschaft, B2
+Español: la sociedad de la información
+Русский: информационное общество
+English: the information society
+
+- Wir leben in einer Informationsgesellschaft, in der Wissen und Kommunikation sehr wichtig sind.
+- Die Informationsgesellschaft hat viele Vorteile, aber auch Herausforderungen für die Menschen und die Umwelt.
+- Durch die Digitalisierung hat sich die Informationsgesellschaft in den letzten Jahren stark verändert.
+'''
+nie, B1
+Español: nunca
+Русский: никогда
+English: never
+
+- Ich **gehe nie** ins Kino. (Presente)
+- Er **hat nie** Fußball gespielt. (Perfekt)
+- Sie **sagte nie** die Wahrheit. (Präteritum)
+'''
+die Steuer, -n B1
+Español: el impuesto, los impuestos
+Русский: налог, налоги
+English: the tax, the taxes
+
+- Ich zahle jeden Monat **die Steuer** an das Finanzamt. (I pay the tax to the tax office every month.)
+- Er hat früher **keine Steuern** gezahlt und wurde deshalb bestraft. (He did not pay any taxes before and was therefore punished.)
+- Hast du schon **die Steuererklärung** gemacht? (Have you done the tax return yet?)
+'''
+steuerfrei, B1
+Español: exento de impuestos
+Русский: налоговый вычет
+English: tax-free
+
+- Dieses Jahr habe ich einen steuerfreien Betrag von 5000 Euro erhalten. (This year I received a tax-free amount of 5000 euros.)
+- Er hat sein Auto steuerfrei verkauft, weil er ins Ausland gezogen ist. (He sold his car tax-free because he moved abroad.)
+- Sie können steuerfrei einkaufen, wenn Sie Ihren Reisepass zeigen. (You can shop tax-free if you show your passport.)
+'''
+die Wirtschaft, - en B1
+Español: la economía
+Русский: экономика
+English: the economy
+
+- Die Wirtschaft ist ein wichtiger Faktor für die Entwicklung eines Landes. (The economy is an important factor for the development of a country.)
+- Im Jahr 2020 litt die Wirtschaft unter der Corona-Pandemie. (In 2020, the economy suffered from the corona pandemic.)
+- Die Regierung hat verschiedene Maßnahmen ergriffen, um die Wirtschaft zu stärken. (The government has taken various measures to strengthen the economy.)
+'''
+wirtschaftlich, B1
+Español: económico
+Русский: экономический
+English: economic
+
+- Die wirtschaftliche Lage des Landes ist sehr schlecht. (The economic situation of the country is very bad.)
+- Er war wirtschaftlich sehr erfolgreich, aber er hatte keine Freunde. (He was very successful economically, but he had no friends.)
+- Sie haben wirtschaftlich gehandelt und viel Geld gespart. (They acted economically and saved a lot of money.)
+'''
+der Ersatz, B1
+Español: el reemplazo, la sustitución
+Русский: замена, заменитель
+English: the replacement, the substitute
+
+Frases en alemán usando esta palabra:
+
+- Er hat keinen Ersatz für seinen kaputten Computer. (He has no replacement for his broken computer.)
+- Sie ist die Ersatzlehrerin für Herrn Müller. (She is the substitute teacher for Mr. Müller.)
+- Ich habe den Zucker durch Honig ersetzt. (I have replaced the sugar with honey.)
+'''
+erhöhen B1
+Español: aumentar, elevar
+Русский: повышать, увеличивать
+English: increase, raise
+
+Frases en alemán usando erhöhen:
+
+- Die Regierung hat die Steuern **erhöht**. (El gobierno ha aumentado los impuestos.)
+- Er **erhöhte** seine Stimme, um gehört zu werden. (Él elevó su voz para ser escuchado.)
+- Sie haben ihre Chancen auf den Sieg **erhöht**. (Ellos han aumentado sus posibilidades de ganar.)
+'''
+die Erhöhung, en B1
+Español: el aumento
+Русский: повышение
+English: the raise
+
+Frases en alemán usando esta palabra:
+
+- Er hat eine Erhöhung seines Gehalts gefordert. (He demanded a raise of his salary.)
+- Die Erhöhung der Steuern hat viele Bürger verärgert. (The increase of taxes angered many citizens.)
+- Sie hat ihre Erhöhung bekommen, nachdem sie ein erfolgreiches Projekt abgeschlossen hat. (She got her raise after completing a successful project.)
+'''
+fallen, B1
+Español: caer
+Русский: падать
+English: fall
+
+Frases en alemán usando fallen:
+
+- Ich bin gestern auf dem Eis gefallen. (Ayer me caí en el hielo.)
+- Er fiel im Kampf für sein Land. (Él cayó en la batalla por su país.)
+- Die Blätter sind schon gefallen. (Las hojas ya han caído.)
+'''
+sich halbieren, B1
+Español: dividirse en dos
+Русский: разделиться пополам
+English: halve oneself
+
+Frases en alemán usando sich halbieren:
+
+- Die Zahl der Neuinfektionen hat sich in den letzten zwei Wochen halbiert. (The number of new infections has halved in the last two weeks.)
+- Er halbierte sich vor Schmerz, als er sich den Zeh stieß. (He doubled over in pain when he stubbed his toe.)
+- Sie haben sich nach der Scheidung halbiert und teilen sich das Sorgerecht für die Kinder. (They split in half after the divorce and share custody of the children.)
+'''
+betreiben, B2
+Español: operar, llevar a cabo, practicar
+Русский: заниматься, управлять, осуществлять
+English: operate, carry out, practice
+
+Frases en alemán usando betreiben:
+
+- Die Firma **betreibt** mehrere Geschäfte in der Stadt. (The company **operates** several stores in the city.)
+- Er **betrieb** früher viel Sport, aber jetzt hat er keine Zeit mehr. (He **used to practice** a lot of sports, but now he has no more time.)
+- Sie haben eine gründliche Recherche **betrieben**, bevor sie das Buch geschrieben haben. (They **carried out** a thorough research before they wrote the book.)
+'''
+umfassen, B2
+Español: abarcar, incluir
+Русский: охватывать, включать
+English: encompass, include
+
+- Dieses Buch umfasst die wichtigsten Themen der deutschen Geschichte. (Este libro abarca los temas más importantes de la historia alemana.)
+- Die Polizei umfasste den Verdächtigen und nahm ihn fest. (La policía rodeó al sospechoso y lo detuvo.)
+- Er hat in seinem Leben viel umfasst. (Él ha abarcado mucho en su vida.)
+'''
+die Börse, -n B2
+Español: la bolsa (de valores)
+Русский: биржа
+English: the stock exchange
+
+- Die Börse ist ein wichtiger Markt für den Handel mit Wertpapieren. (The stock exchange is an important market for trading securities.)
+- Gestern stürzte die Börse um 10 Prozent ab. (Yesterday, the stock exchange plunged by 10 percent.)
+- Er hat an der Börse viel Geld verdient. (He has made a lot of money on the stock exchange.)
+'''
+das Darlehen, B2
+Español: el préstamo
+Русский: кредит
+English: the loan
+
+Frases en alemán usando esta palabra:
+
+- Ich habe ein **Darlehen** von der Bank aufgenommen, um ein neues Auto zu kaufen. (I took out a **loan** from the bank to buy a new car.)
+- Er hat sein **Darlehen** gestern zurückgezahlt. (He paid back his **loan** yesterday.)
+- Sie müssen das **Darlehen** mit Zinsen zurückzahlen. (You have to repay the **loan** with interest.)
+'''
+die Mehrwertsteuer, B2
+Español: el impuesto al valor agregado
+Русский: налог на добавленную стоимость
+English: the value added tax
+
+- Die Mehrwertsteuer ist eine indirekte Steuer, die auf den Verkauf von Waren und Dienstleistungen erhoben wird.
+- Im Jahr 2023 senkte die Bundesregierung die Mehrwertsteuer von 19% auf 16%, um die Wirtschaft anzukurbeln.
+- Hast du schon die Rechnung bezahlt? Vergiss nicht, dass die Mehrwertsteuer noch dazukommt.
+'''
+die Summe, -n B2
+Español: la suma
+Русский: сумма
+English: the sum
+
+- Die Summe der beiden Zahlen ist **zwölf**. (The sum of the two numbers is **twelve**.)
+- Er **zahlte** die Summe in bar. (He **paid** the sum in cash.)
+- Sie hat die Summe **gezahlt**. (She has **paid** the sum.)
+'''
+die Münze, -n B2
+Español: la moneda
+Русский: монета
+English: the coin
+
+- Er hat eine **Münze** geworfen, um zu entscheiden, wer anfängt. (He tossed a **coin** to decide who starts.)
+- Als Kind sammelte sie alte **Münzen** aus verschiedenen Ländern. (As a child, she collected old **coins** from different countries.)
+- Hast du eine **Münze** für den Automaten? (Do you have a **coin** for the machine?)
+'''
+die Währung, -en B2
+Español: la moneda
+Русский: валюта
+English: the currency
+
+- Die Europäische Union hat eine gemeinsame **Währung**, den Euro.
+- Im Mittelalter gab es viele verschiedene **Währungen** in Deutschland, zum Beispiel den Taler oder den Gulden.
+- Die Schweiz hat ihre eigene **Währung** beibehalten, obwohl sie von Ländern mit dem Euro umgeben ist.
+'''
+die Zentralbank, -en B2
+Español: el banco central
+Русский: центральный банк
+English: the central bank
+
+- Die Zentralbank ist für die Geldpolitik eines Landes oder einer Währungsunion zuständig.
+- Im Jahr 2008 griff die Zentralbank ein, um die Finanzkrise zu bekämpfen.
+- Die Europäische Zentralbank hat gestern den Leitzins gesenkt.
+'''
+die Marktforschung, B2
+Español: la investigación de mercados
+Русский: маркетинговые исследования
+English: market research
+
+Beispiele:
+- Die Marktforschung ist ein wichtiger Teil der Marketingstrategie eines Unternehmens.
+- Er arbeitete früher in der Marktforschung, bevor er seinen eigenen Laden eröffnete.
+- Sie haben eine Marktforschung durchgeführt, um die Bedürfnisse der Kunden zu ermitteln.
+'''
+der Rabatt, -e B2
+Español: el descuento
+Русский: скидка
+English: the discount
+
+- Ich habe einen **Rabatt** von 10% auf dieses Buch bekommen. (I got a 10% discount on this book.)
+- Er gab mir einen **Rabatt**, weil ich sein Stammkunde bin. (He gave me a discount because I am his regular customer.)
+- Hast du schon den **Rabatt** eingelöst, den du gewonnen hast? (Have you redeemed the discount that you won?)
+'''
+die Reklame, -n B2
+Español: la publicidad
+Русский: реклама
+English: the advertisement
+
+- Die Reklame für das neue Produkt war sehr ansprechend und kreativ.
+- Als ich gestern fernsah, wurde ich von vielen Reklamen unterbrochen.
+- Hast du die Reklame in der Zeitung gelesen? Sie bieten einen tollen Rabatt an.
+'''
+die Schau, - en B2
+Español: el espectáculo, la exhibición
+Русский: шоу, выставка
+English: the show, the exhibition
+
+Ejemplos de frases en alemán usando esta palabra:
+
+- Ich gehe heute Abend in die Schau von Cirque du Soleil. (Voy a ver el espectáculo de Cirque du Soleil esta noche.)
+- Die Schau der alten Meister ist sehr beeindruckend. (La exhibición de los antiguos maestros es muy impresionante.)
+- Hast du die Schau gestern gesehen? Es war unglaublich! (¿Viste el show ayer? ¡Fue increíble!)
+'''
+umschlagen, B2
+Español: cambiar, doblar, envolver
+Русский: меняться, складывать, обертывать
+English: change, fold, wrap
+
+Frases en alemán usando umschlagen:
+
+- Der Wind hat plötzlich umgeschlagen und es fing an zu regnen. (The wind suddenly changed and it started to rain.)
+- Er schlug das Buch zu und legte es auf den Tisch. (He closed the book and put it on the table.)
+- Sie schlug die Decke um sich und schlief ein. (She wrapped the blanket around herself and fell asleep.)
+'''
+die Ware, -n B2
+Español: la mercancía
+Русский: товар
+English: the goods
+
+Frases en alemán usando esta palabra:
+
+- Ich habe die Ware gestern bestellt und heute erhalten. (He pedido la mercancía ayer y la he recibido hoy.)
+- Die Qualität der Ware ist sehr gut. (La calidad de la mercancía es muy buena.)
+- Wir müssen die Ware noch verpacken und versenden. (Tenemos que empaquetar y enviar la mercancía todavía.)
+'''
+das Warenhaus, -¨er B2
+Español: el almacén, los almacenes
+Русский: универмаг, универмаги
+English: the department store, the department stores
+
+- Ich kaufe oft Kleidung im Warenhaus, weil es eine große Auswahl gibt. (I often buy clothes at the department store, because there is a large selection.)
+- Gestern war ich mit meiner Freundin im Warenhaus, aber wir haben nichts gefunden. (Yesterday I was at the department store with my friend, but we didn't find anything.)
+- Hast du schon gehört? Das Warenhaus hat einen großen Ausverkauf gemacht. (Have you heard? The department store had a big sale.)
+'''
+die Qualität, - en B2
+Español: la calidad
+Русский: качество
+English: quality
+
+- Die Qualität dieses Produkts ist sehr hoch. (The quality of this product is very high.)
+- Er hatte gestern eine Prüfung von schlechter Qualität. (He had a bad quality exam yesterday.)
+- Sie haben die Qualität ihrer Arbeit verbessert. (They have improved the quality of their work.)
+'''
+die Baumwolle, B2
+Español: el algodón
+Русский: хлопок
+English: cotton
+
+- Die Baumwolle ist eine Pflanze, die Fasern produziert, die zur Herstellung von Textilien verwendet werden.
+- Früher wurde die Baumwolle von Hand gepflückt, aber heute benutzt man dafür Maschinen.
+- Ich habe mir ein neues T-Shirt aus Baumwolle gekauft, weil es sehr weich und angenehm ist.
+'''
+Aquí está la información de las palabras que me escribiste:
+
+das Handwerk (kein Pl.) B2
+Español: el oficio, la artesanía
+Русский: ремесло, промысел
+English: the craft, the trade
+Frases en alemán:
+- Er hat das Handwerk von seinem Vater gelernt. (Él aprendió el oficio de su padre.)
+- Das Handwerk ist in Deutschland sehr wichtig für die Wirtschaft. (La artesanía es muy importante para la economía en Alemania.)
+- Viele junge Leute wollen ein Handwerk erlernen. (Muchos jóvenes quieren aprender un oficio.)
+
+das Industriegebiet, -e B2
+Español: la zona industrial
+Русский: промышленная зона
+English: the industrial area
+Frases en alemán:
+- Das Industriegebiet liegt am Stadtrand. (La zona industrial está en las afueras de la ciudad.)
+- Im Industriegebiet gibt es viele Fabriken und Lagerhallen. (En la zona industrial hay muchas fábricas y almacenes.)
+- Das Industriegebiet wurde in den 1960er Jahren gebaut. (La zona industrial se construyó en los años 60.)
+'''
+verhandeln, B2
+Español: negociar
+Русский: переговариваться
+English: negotiate
+
+- Er verhandelt mit dem Verkäufer über den Preis des Autos. (He negotiates with the seller about the price of the car.)
+- Sie verhandelte gestern mit ihrem Chef über eine Gehaltserhöhung. (She negotiated with her boss about a salary increase yesterday.)
+- Wir haben erfolgreich mit dem Kunden verhandelt und einen Vertrag abgeschlossen. (We successfully negotiated with the customer and signed a contract.)
+'''
+die Verhandlung, -en B2
+Español: el juicio, la negociación
+Русский: судебное разбирательство, переговоры
+English: the trial, the negotiation
+
+- Die Verhandlung zwischen den beiden Parteien war sehr angespannt. (The negotiation between the two parties was very tense.)
+- Er wurde vor Gericht gestellt und musste sich einer langen Verhandlung unterziehen. (He was brought to court and had to undergo a long trial.)
+- Sie haben die Verhandlung erfolgreich abgeschlossen und einen Vertrag unterzeichnet. (They have successfully concluded the negotiation and signed a contract.)
+'''
+der Fremdenverkehr, B2
+Español: el turismo
+Русский: туризм
+English: tourism
+
+- Der Fremdenverkehr ist ein wichtiger Wirtschaftszweig in vielen Ländern.
+- Vor der Pandemie reiste ich gerne und lernte verschiedene Kulturen kennen. Das war für mich der Reiz des Fremdenverkehrs.
+- Hast du schon mal über eine Karriere im Fremdenverkehr nachgedacht? Du könntest zum Beispiel Reiseleiter oder Hotelmanager werden.
+'''
+sich belaufen auf, B2
+Español: ascender a, montar a
+Русский: составлять, равняться
+English: amount to, add up to
+
+Ejemplos:
+- Die Kosten für die Reparatur **belaufen sich auf** 500 Euro. (The cost of the repair **amounts to** 500 euros.)
+- Die Zahl der Infizierten **belief sich auf** 10.000. (The number of infected people **amounted to** 10,000.)
+- Die Gesamtsumme **hat sich auf** 15.000 Euro **belauft**. (The total sum **has amounted to** 15,000 euros.)
+'''
+verzeichnen B2
+Español: registrar, anotar
+Русский: регистрировать, записывать
+English: record, note
+
+Algunas frases en alemán usando este verbo son:
+
+- Die Polizei verzeichnete einen Anstieg der Kriminalität im letzten Jahr. (La policía registró un aumento de la criminalidad el año pasado.)
+- Er verzeichnete seine Gedanken in einem Tagebuch. (Él anotó sus pensamientos en un diario.)
+- Sie haben einen großen Erfolg verzeichnet. (Ellos han logrado un gran éxito.)
+'''
+versorgen, B2
+Español: cuidar, abastecer, proveer
+Русский: ухаживать, снабжать, обеспечивать
+English: take care of, supply, provide
+
+Frases en alemán usando versorgen:
+
+- Ich versorge meine Großmutter, die krank ist. (Cuido de mi abuela, que está enferma.)
+- Die Firma versorgt uns mit allem, was wir brauchen. (La empresa nos abastece de todo lo que necesitamos.)
+- Er hat seine Familie gut versorgt. (Él ha proveído bien a su familia.)
+'''
+die Versorgung, - en B2
+Español: el abastecimiento, el suministro
+Русский: снабжение, обеспечение
+English: the supply, the provision
+
+- Die Versorgung mit Lebensmitteln ist in dieser Region sehr schwierig. (The supply of food is very difficult in this region.)
+- Nach dem Erdbeben kümmerte sich das Rote Kreuz um die Versorgung der Verletzten. (After the earthquake, the Red Cross took care of the provision of the injured.)
+- Die Stadt hat die Versorgung mit Wasser und Strom wiederhergestellt. (The city has restored the supply of water and electricity.)
+'''
+ausbauen, B2
+Español: ampliar, desmontar
+Русский: расширять, разбирать
+English: expand, dismantle
+
+Frases en alemán usando ausbauen:
+
+- Wir wollen unser Haus **ausbauen**, um mehr Platz zu haben. (Queremos ampliar nuestra casa para tener más espacio.)
+- Er hat den Motor seines Autos **ausgebaut**, um ihn zu reparieren. (Él ha desmontado el motor de su coche para repararlo.)
+- Die Firma hat ihre Marktanteile in den letzten Jahren **ausgebaut**. (La empresa ha expandido su cuota de mercado en los últimos años.)
+'''
+erzeugen B2
+Español: producir, generar
+Русский: производить, генерировать
+English: produce, generate
+
+- Dieses Gerät kann Strom aus Sonnenlicht **erzeugen**. (This device can **generate** electricity from sunlight.)
+- Die Hexe **erzeugte** einen magischen Trank. (The witch **produced** a magical potion.)
+- Die Schüler haben viele kreative Ideen **erzeugt**. (The students have **generated** many creative ideas.)
+'''
+die Erzeugung, - en B2
+Español: la producción, la generación
+Русский: производство, генерация
+English: the production, the generation
+
+- Die Erzeugung von erneuerbaren Energien ist für die Umwelt wichtig. (The production of renewable energies is important for the environment.)
+- Die Firma erzeugte im letzten Jahr einen hohen Gewinn. (The company generated a high profit last year.)
+- Die Kinder haben viel Freude an der Erzeugung von Kunstwerken. (The children have a lot of fun creating artworks.)
+'''
+die Auftragslage, -n B2
+Español: la situación de los pedidos
+Русский: положение с заказами
+English: the order situation
+
+- Die Auftragslage ist sehr gut, wir haben viele Kunden.
+- Im letzten Jahr war die Auftragslage schlecht, wir mussten Mitarbeiter entlassen.
+- Wir haben die Auftragslage verbessert, indem wir neue Produkte entwickelt haben.
+'''
+die Branche, -n B2
+Español: el sector, la rama
+Русский: отрасль, сфера
+English: the branch, the sector
+
+- Ich arbeite in der IT-Branche. (I work in the IT sector.)
+- Die Automobilbranche ist in Deutschland sehr wichtig. (The automotive sector is very important in Germany.)
+- Er hat seine Branche gewechselt und ist jetzt Lehrer. (He changed his branch and is now a teacher.)
+'''
+erwirtschaften B2
+Español: generar, producir
+Русский: производить, создавать
+English: generate, produce
+
+- Die Firma hat im letzten Jahr einen hohen Gewinn **erwirtschaftet**. (The company generated a high profit last year.)
+- Er **erwirtschaftete** sein Vermögen mit harter Arbeit. (He earned his fortune with hard work.)
+- Sie haben in den letzten zehn Jahren viel Wohlstand **erwirtschaftet**. (They have produced a lot of prosperity in the last ten years.)
+'''
+der Kostenfaktor, - en B2
+Español: el factor de coste
+Русский: фактор затрат
+English: the cost factor
+
+Ejemplos:
+- Der Kostenfaktor ist bei dieser Entscheidung sehr wichtig. (El factor de coste es muy importante en esta decisión.)
+- Wir haben den Kostenfaktor im letzten Jahr um 10% gesenkt. (Hemos reducido el factor de coste en un 10% el año pasado.)
+- Wenn wir den Kostenfaktor nicht berücksichtigen, können wir das Projekt nicht erfolgreich abschließen. (Si no tenemos en cuenta el factor de coste, no podremos completar el proyecto con éxito.)
+'''
+der Lieferwagen, - B2
+Español: la furgoneta
+Русский: грузовик
+English: the van
+
+- Der Lieferwagen ist voll mit Paketen. (The van is full of packages.)
+- Gestern fuhr er mit dem Lieferwagen in die Stadt. (Yesterday he drove to the city with the van.)
+- Er hat den Lieferwagen schon seit zwei Jahren. (He has had the van for two years.)
+'''
+florieren B2
+Español: florecer
+Русский: процветать
+English: flourish
+
+- Die Pflanzen florieren im Frühling. (The plants flourish in spring.)
+- Er florierte in seiner neuen Schule. (He flourished in his new school.)
+- Sie hat in ihrer Karriere als Schriftstellerin floriert. (She has flourished in her career as a writer.)
+'''
+der Wettbewerb, -e B2
+Español: el concurso, la competencia
+Русский: конкурс, соревнование
+English: the contest, the competition
+
+- Er nimmt an einem **Wettbewerb** für junge Schriftsteller teil. (He is participating in a **contest** for young writers.)
+- Wer hat den **Wettbewerb** gewonnen? (Who won the **competition**?)
+- Sie haben den **Wettbewerb** organisiert, um die besten Talente zu fördern. (They organized the **competition** to promote the best talents.)
+'''
+das Wirtschaftswachstum, B2
+Español: el crecimiento económico
+Русский: экономический рост
+English: economic growth
+
+- Das Wirtschaftswachstum in Deutschland ist im letzten Jahr gesunken. (The economic growth in Germany has decreased last year.)
+- Trotz der Pandemie hat China ein positives Wirtschaftswachstum erzielt. (Despite the pandemic, China has achieved a positive economic growth.)
+- Wie kann man das Wirtschaftswachstum nachhaltig gestalten? (How can we make the economic growth sustainable?)
+'''
+ankurbeln, B2
+Español: estimular, impulsar
+Русский: стимулировать, разогнать
+English: boost, crank up
+
+- Die Regierung will die Wirtschaft ankurbeln, indem sie die Steuern senkt.
+  - The government wants to boost the economy by cutting taxes.
+- Er kurbelte das Fenster herunter und winkte uns zu.
+  - He cranked down the window and waved at us.
+- Sie hat ihre Hausaufgaben schon gemacht und jetzt kurbelt sie ihr Deutsch mit einem Online-Kurs an.
+  - She has already done her homework and now she is cranking up her German with an online course.
+'''
+verzollen, B2
+Español: declarar
+Русский: декларировать
+English: declare
+
+- Ich muss meine Einkäufe am Flughafen verzollen.
+  - Tengo que declarar mis compras en el aeropuerto.
+  - Я должен декларировать свои покупки в аэропорту.
+  - I have to declare my purchases at the airport.
+- Er verzollte seine Liebe zu ihr mit einem Gedicht.
+  - Él le declaró su amor con un poema.
+  - Он декларировал свою любовь к ней стихотворением.
+  - He declared his love for her with a poem.
+- Sie haben die Ware verzollt und können sie jetzt abholen.
+  - Han declarado la mercancía y ya pueden recogerla.
+  - Они декларировали товар и теперь могут его забрать.
+  - They have declared the goods and can now pick them up.
+'''
+das Wirtschaftsleben, B2
+Español: la vida económica
+Русский: экономическая жизнь
+English: economic life
+
+- Das Wirtschaftsleben in Deutschland ist sehr dynamisch und vielfältig. (The economic life in Germany is very dynamic and diverse.)
+- Während der Pandemie litt das Wirtschaftsleben unter den Lockdown-Maßnahmen. (During the pandemic, the economic life suffered from the lockdown measures.)
+- Das Wirtschaftsleben hat sich in den letzten Jahren stark verändert. (The economic life has changed a lot in the last years.)
+'''
+die Wirtschaftsordnung, - en B2
+Español: el orden económico
+Русский: экономический порядок
+English: the economic order
+
+- Die Wirtschaftsordnung eines Landes bestimmt, wie die wirtschaftlichen Aktivitäten organisiert und reguliert werden. (The economic order of a country determines how the economic activities are organized and regulated.)
+- Nach dem Zweiten Weltkrieg wurde in Deutschland eine soziale Marktwirtschaft als Wirtschaftsordnung eingeführt. (After the Second World War, a social market economy was introduced as the economic order in Germany.)
+- Die Europäische Union hat eine gemeinsame Wirtschaftsordnung, die auf den vier Grundfreiheiten basiert: freier Verkehr von Waren, Personen, Dienstleistungen und Kapital. (The European Union has a common economic order based on the four freedoms: free movement of goods, persons, services and capital.)
+'''
+der Zoll, - ¨e B2
+Español: la aduana, los aranceles
+Русский: таможня, пошлины
+English: the customs, the tariffs
+
+Frases en alemán usando esta palabra:
+
+- Ich muss zum Zoll, um mein Paket abzuholen. (Tengo que ir a la aduana para recoger mi paquete.)
+- Die EU hat Zölle auf Stahlimporte aus China erhöht. (La UE ha aumentado los aranceles sobre las importaciones de acero de China.)
+- Er hat den Zollbeamten bestochen, um die Kontrolle zu vermeiden. (Él sobornó al agente de aduanas para evitar el control.)
+'''
+das Zollamt, -¨er B2
+Español: la aduana
+Русский: таможня
+English: the customs office
+
+- Das Zollamt ist für die Kontrolle des grenzüberschreitenden Warenverkehrs zuständig.
+- Als er aus dem Urlaub zurückkam, musste er am Zollamt seine Koffer öffnen.
+- Sie hat beim Zollamt eine Beschwerde eingereicht, weil ihre Sendung beschädigt wurde.
+'''
+zollfrei, B2
+Español: libre de impuestos
+Русский: беспошлинный
+English: duty-free
+
+Frases en alemán usando zollfrei:
+
+- Ich kaufe gerne Parfüm im zollfreien Shop am Flughafen. (Me gusta comprar perfume en la tienda libre de impuestos del aeropuerto.)
+- Er hat zollfrei ein Auto aus der Schweiz importiert. (Él importó un coche libre de impuestos desde Suiza.)
+- Sie müssen keine Zollgebühren zahlen, wenn Sie zollfreie Waren kaufen. (No tiene que pagar aranceles aduaneros cuando compra productos libres de impuestos.)
+'''
+der Standortvorteil, -e B2
+Español: la ventaja de ubicación
+Русский: преимущество местоположения
+English: the location advantage
+
+- Ein wichtiger Standortvorteil für die Firma ist die Nähe zum Flughafen.
+- Die Stadt hatte früher einen großen Standortvorteil durch ihre reichen Bodenschätze.
+- Durch die Digitalisierung haben sich die Standortvorteile vieler Branchen verändert.
+'''
+schütten, B2
+Español: verter, derramar
+Русский: лить, разливать
+English: pour, spill
+
+- Er schüttet den Kaffee in die Tasse. (He pours the coffee into the cup.)
+- Sie schüttete ihm ihr Herz aus. (She poured out her heart to him.)
+- Er hat die Milch verschüttet. (He spilled the milk.)
+'''
+zustehen, B2
+Español: corresponder, tener derecho a
+Русский: полагаться, иметь право на
+English: to be entitled to, to be due to
+
+- Dir steht eine Entschädigung zu, wenn dein Flug verspätet ist. (You are entitled to compensation if your flight is delayed.)
+- Er stand auf und ging zur Tür. (He got up and went to the door.)
+- Sie hat ihm nie verziehen, dass er ihr nichts zugestanden hat. (She never forgave him for not admitting anything to her.)
+'''
+streben nach, D B2
+Español: aspirar a, anhelar
+Русский: стремиться к, желать
+English: strive for, long for
+
+Ejemplos:
+
+- Er strebt nach Erfolg in seinem Beruf. (Él aspira al éxito en su profesión.)
+- Sie strebte nach einem besseren Leben für ihre Familie. (Ella anhelaba una vida mejor para su familia.)
+- Wir haben nach dem Frieden gestrebt. (Hemos luchado por la paz.)
+'''
+überlassen, B2
+Español: dejar, ceder, abandonar
+Русский: оставлять, уступать, предоставлять
+English: leave, yield, surrender
+
+Frases en alemán usando überlassen:
+
+- Er hat mir die Entscheidung überlassen. (Él me dejó la decisión.)
+- Sie überließ ihm ihren Platz im Zug. (Ella le cedió su asiento en el tren.)
+- Er überließ sich seinem Schicksal. (Él se abandonó a su destino.)
+'''
+listen, B2
+Español: escuchar
+Русский: слушать
+English: listen
+
+Frases en alemán usando listen:
+
+- Ich **höre** dir zu, was möchtest du mir sagen? (Presente: I listen to you, what do you want to tell me?)
+- Er **hörte** nicht auf die Warnung und ging in den Wald. (Präteritum: He did not listen to the warning and went into the forest.)
+- Hast du mir überhaupt **zugehört**? (Perfekt: Did you even listen to me?)
+'''
+gering, B2
+Español: escaso, bajo, insignificante
+Русский: малый, низкий, незначительный
+English: low, slight, insignificant
+
+- Die Wahrscheinlichkeit, dass er kommt, ist sehr gering. (The probability that he will come is very low.)
+- Er verdiente nur einen geringen Lohn für seine Arbeit. (He earned only a meager wage for his work.)
+- Sie hat sich nur geringfügig verletzt. (She only injured herself slightly.)
+'''
+gewährleisten, B2
+Español: garantizar
+Русский: обеспечивать
+English: ensure
+
+Frases en alemán usando gewährleisten:
+
+- Der Arzt muss die Sicherheit der Patienten gewährleisten. (El médico debe garantizar la seguridad de los pacientes.)
+- Die Polizei gewährleistete die öffentliche Ordnung während der Demonstration. (La policía aseguró el orden público durante la manifestación.)
+- Sie haben gewährleistet, dass das Projekt rechtzeitig fertig wird. (Ellos se aseguraron de que el proyecto se terminara a tiempo.)
+'''
+scheren, C1
+Español: esquilar, cortar, recortar
+Русский: стричь, резать, обрезать
+English: shear, cut, trim
+
+- Die Schafe müssen regelmäßig geschoren werden, um ihre Wolle zu nutzen. (The sheep must be sheared regularly to use their wool.)
+- Er schnitt die Zeitung mit einer Schere aus. (He cut the newspaper with scissors.)
+- Sie hat sich die Haare selbst geschnitten und jetzt sieht sie komisch aus. (She trimmed her hair herself and now she looks funny.)

@@ -1,0 +1,2366 @@
+'''
+lernen, A1
+Español: aprender
+Русский: учить
+English: learn
+
+Frases en alemán usando lernen:
+
+- Ich **lerne** jeden Tag Deutsch. (Aprendo alemán todos los días.)
+- Gestern **lernte** ich ein neues Wort. (Ayer aprendí una nueva palabra.)
+- Er hat viel von seinem Lehrer **gelernt**. (Él ha aprendido mucho de su profesor.)
+'''
+das Alphabet, -e A1
+Español: el alfabeto
+Русский: алфавит
+English: the alphabet
+
+Frases en alemán usando esta palabra:
+
+- Ich kenne das **Alphabet** auswendig. (Conozco el alfabeto de memoria.)
+- Er hat das **Alphabet** mit bunten Buchstaben an die Wand gemalt. (Él pintó el alfabeto con letras de colores en la pared.)
+- Sie hat das **Alphabet** in einer anderen Reihenfolge gelernt. (Ella aprendió el alfabeto en un orden diferente.)
+'''
+die Schule, -n A1
+Español: la escuela, las escuelas
+Русский: школа, школы
+English: the school, the schools
+
+- Ich gehe jeden Tag zur Schule. (I go to school every day.)
+- Gestern war die Schule sehr langweilig. (Yesterday the school was very boring.)
+- Hast du deine Hausaufgaben für die Schule gemacht? (Did you do your homework for school?)
+'''
+der Schüler, - / die Schülerin, -nen A1
+Español: el alumno / la alumna
+Русский: ученик / ученица
+English: the student / the student (female)
+
+Frases en alemán usando esta palabra:
+
+- Der Schüler lernt fleißig für die Prüfung. (El alumno estudia diligentemente para el examen.)
+- Die Schülerin hat gestern ein Gedicht geschrieben. (La alumna escribió un poema ayer.)
+- Er hat viele Freunde, die auch Schüler sind. (Él tiene muchos amigos que también son alumnos.)
+'''
+der Student, -en / die Studentin, -nen A1
+Español: el estudiante / la estudiante
+Русский: студент / студентка
+English: the student / the student
+
+Tres frases en alemán usando esta palabra:
+
+- Der Student lernt für die Prüfung. (The student studies for the exam.)
+- Die Studentin hat gestern einen Vortrag gehalten. (The student gave a presentation yesterday.)
+- Er ist ein guter Student, weil er immer seine Hausaufgaben macht. (He is a good student because he always does his homework.)
+'''
+studieren A1
+Español: estudiar
+Русский: учиться
+English: study
+
+Frases en alemán usando studieren:
+
+- Ich studiere an der Universität. (Estudio en la universidad.)
+- Er studierte Medizin in Berlin. (Él estudió medicina en Berlín.)
+- Sie hat Jura studiert. (Ella ha estudiado derecho.)
+'''
+das Studium, A1
+Español: la carrera, los estudios
+Русский: учёба, образование
+English: the degree, the studies
+
+- Ich beginne nächste Woche mein Studium an der Universität. (I start my studies at the university next week.)
+- Er hat sein Studium vor zwei Jahren abgeschlossen. (He finished his studies two years ago.)
+- Sie hat während ihres Studiums viel gelernt. (She learned a lot during her studies.)
+'''
+die Übung, - en A1
+Español: el ejercicio
+Русский: упражнение
+English: the exercise
+
+- Ich mache jeden Morgen **die Übung**. (I do the exercise every morning.)
+- Gestern haben wir eine schwierige **Übung** in der Schule gemacht. (Yesterday we did a difficult exercise at school.)
+- Hast du **die Übung** schon gemacht? (Have you done the exercise yet?)
+'''
+die Universität, -en (Uni, - s) A1
+Español: la universidad, las universidades (la uni, las unis)
+Русский: университет, университеты (уни, уни)
+English: the university, the universities (the uni, the unis)
+
+- Ich studiere an der **Universität** Berlin. (I study at the university of Berlin.)
+- Er hat an der **Uni** viel gelernt. (He learned a lot at the uni.)
+- Sie haben ihre **Universität** im Jahr 2010 abgeschlossen. (They graduated from their university in 2010.)
+'''
+Audio, A1
+Español: audio
+Русский: аудио
+English: audio
+
+Ejemplos de frases en alemán usando la palabra audio:
+
+- Ich höre gerne **Audio**bücher, wenn ich spazieren gehe. (Me gusta escuchar audiolibros cuando salgo a caminar.)
+- Hast du das neue **Audio**system in deinem Auto installiert? (¿Has instalado el nuevo sistema de audio en tu coche?)
+- Er hat mir eine **Audio**nachricht auf WhatsApp geschickt. (Me ha enviado un mensaje de audio por WhatsApp.)
+'''
+die Aufgabe, -n A1
+Español: la tarea, el ejercicio
+Русский: задание, упражнение
+English: the task, the exercise
+
+- Ich habe die Aufgabe nicht verstanden. (I did not understand the task.)
+- Er löste die Aufgabe im Präteritum. (He solved the task in the past tense.)
+- Hast du die Aufgabe schon erledigt? (Have you already completed the task?)
+'''
+ausfüllen, A1
+Español: rellenar
+Русский: заполнять
+English: fill out
+
+Frases en alemán usando ausfüllen:
+
+- Ich muss dieses Formular **ausfüllen**. (Tengo que rellenar este formulario.)
+- Er **füllte** die Flasche mit Wasser **aus**. (Él llenó la botella con agua.)
+- Hast du schon den Fragebogen **ausgefüllt**? (¿Ya has rellenado el cuestionario?)
+'''
+aussprechen, A1
+Español: pronunciar
+Русский: произносить
+English: pronounce
+
+Ejemplos de frases en alemán usando aussprechen:
+
+- Ich kann dieses Wort nicht **aussprechen**. (No puedo pronunciar esta palabra.)
+- Er **sprach** seine Meinung klar und deutlich **aus**. (Él expresó su opinión clara y distintamente.)
+- Sie haben sich **ausgesprochen** und sind wieder Freunde. (Ellos se reconciliaron y son amigos de nuevo.)
+'''
+einfügen, A1
+Español: insertar
+Русский: вставить
+English: insert
+
+- Ich füge ein Bild in die Präsentation ein. (I insert an image into the presentation.)
+- Er fügte einen Kommentar in das Dokument ein. (He inserted a comment into the document.)
+- Hast du die neue Seite schon eingefügt? (Have you already inserted the new page?)
+'''
+die Hausaufgabe, -n A1
+Español: la tarea, los deberes
+Русский: домашнее задание
+English: the homework
+
+- Ich mache jeden Tag meine Hausaufgaben. (I do my homework every day.)
+- Gestern habe ich meine Hausaufgaben nicht gemacht. (Yesterday I did not do my homework.)
+- Hast du deine Hausaufgaben schon gemacht? (Have you done your homework yet?)
+'''
+der Lehrer, - / die Lehrerin, -nen A1
+Español: el profesor / la profesora
+Русский: учитель / учительница
+English: the teacher / the teacher (female)
+
+Frases en alemán usando esta palabra:
+
+- Mein Vater ist **Lehrer** an einer Grundschule. (Mi padre es profesor en una escuela primaria.)
+- Die **Lehrerin** lobt die Schüler für ihre guten Noten. (La profesora elogia a los alumnos por sus buenas calificaciones.)
+- Hast du gestern mit dem **Lehrer** gesprochen? (¿Hablaste ayer con el profesor?)
+'''
+lösen, A1
+Español: resolver, solucionar
+Русский: решать, разрешать
+English: solve, resolve
+
+Frases en alemán usando lösen:
+
+- Ich kann dieses Rätsel nicht lösen. (No puedo resolver este acertijo.)
+- Er löste das Problem mit viel Geduld. (Él solucionó el problema con mucha paciencia.)
+- Sie hat sich von ihrem Freund gelöst. (Ella se separó de su novio.)
+'''
+die Lösung, - en A1
+Español: la solución
+Русский: решение
+English: the solution
+
+- Ich habe die Lösung für das Rätsel gefunden. (I have found the solution for the puzzle.)
+- Er löste das Problem, ohne die Lösung zu kennen. (He solved the problem without knowing the solution.)
+- Hast du die Lösung schon geschrieben? (Have you written the solution yet?)
+'''
+die Lücke, -n A1
+Español: el hueco, la brecha
+Русский: пробел, щель
+English: the gap, the hole
+
+- Er hat eine **Lücke** im Lebenslauf. (He has a **gap** in his resume.)
+- Sie hat die **Lücke** zwischen den Zähnen schließen lassen. (She had the **gap** between her teeth closed.)
+- Er ist durch eine kleine **Lücke** in der Mauer geschlüpft. (He slipped through a small **hole** in the wall.)
+'''
+markieren, A1
+Español: marcar
+Русский: отмечать
+English: mark
+
+- Ich markiere die wichtigen Wörter im Text. (I mark the important words in the text.)
+- Er markierte gestern die Antworten auf die Fragen. (He marked the answers to the questions yesterday.)
+- Hast du die Fehler schon markiert? (Have you marked the errors yet?)
+'''
+die Seite, -n A1
+Español: la página, las páginas
+Русский: страница, страницы
+English: the page, the pages
+
+- Ich lese eine spannende **Seite** in meinem Buch. (I read an exciting page in my book.)
+- Er hat alle **Seiten** seines Hefts beschrieben. (He wrote on all the pages of his notebook.)
+- Sie hat die **Seite** gewechselt und ist zu den Gegnern gelaufen. (She changed sides and ran to the opponents.)
+'''
+üben, A1
+Español: practicar
+Русский: практиковать
+English: practice
+
+- Ich übe jeden Tag Deutsch. (I practice German every day.)
+- Gestern übte sie Klavier. (Yesterday she practiced piano.)
+- Er hat viel geübt, um die Prüfung zu bestehen. (He practiced a lot to pass the exam.)
+'''
+der Unterricht, A1
+Español: la clase, la enseñanza
+Русский: урок, обучение
+English: the lesson, the teaching
+
+Frases en alemán usando esta palabra:
+
+- Ich gehe jeden Tag zum **Unterricht**. (Voy todos los días a la clase.)
+- Der **Unterricht** war heute sehr interessant. (La clase de hoy fue muy interesante.)
+- Er hat viel vom **Unterricht** gelernt. (Él ha aprendido mucho de la enseñanza.)
+'''
+wiederholen, A1
+Español: repetir
+Русский: повторять
+English: repeat
+
+Frases en alemán usando wiederholen:
+
+- Ich **wiederhole** die Vokabeln jeden Tag. (Presente)
+- Er **wiederholte** die Frage zweimal. (Präteritum)
+- Hast du das Kapitel schon **wiederholt**? (Perfekt)
+'''
+der Test, -s A1
+Español: el examen
+Русский: тест
+English: the test
+
+- Ich habe morgen einen wichtigen Test in Mathe. (I have an important test in math tomorrow.)
+- Er hat den Test gestern nicht bestanden. (He did not pass the test yesterday.)
+- Hast du schon den Test gemacht? (Have you done the test yet?)
+'''
+testen, A1
+Español: probar, examinar
+Русский: тестировать, проверять
+English: test, examine
+
+Frases en alemán usando testen:
+
+- Ich teste gerade die neue Software. (Estoy probando el nuevo software.)
+- Er testete gestern sein Auto. (Él examinó su coche ayer.)
+- Hast du schon die Pralinen getestet? (¿Ya has probado los bombones?)
+'''
+anmelden A2
+Español: registrarse, inscribirse
+Русский: регистрироваться, записываться
+English: register, sign up
+
+Frases en alemán usando anmelden:
+
+- Ich muss mich für den Kurs **anmelden**. (Tengo que registrarme para el curso.)
+- Er hat sich gestern bei der Polizei **angemeldet**. (Él se inscribió ayer en la policía.)
+- Hast du dich schon für die Prüfung **angemeldet**? (¿Ya te has registrado para el examen?)
+'''
+die Anmeldung, - en A2
+Español: la inscripción, el registro
+Русский: регистрация, запись
+English: the registration, the enrollment
+
+Frases en alemán usando esta palabra:
+
+- Ich habe **die Anmeldung** für den Kurs schon abgeschickt. (Ya he enviado la inscripción para el curso.)
+- Hast du **die Anmeldung** für das Hotel erhalten? (¿Has recibido el registro para el hotel?)
+- Er hat **die Anmeldung** verpasst und kann nicht mehr teilnehmen. (Él se perdió la inscripción y ya no puede participar.)
+'''
+stattfinden, A2
+Español: tener lugar, ocurrir
+Русский: происходить, состояться
+English: take place, occur
+
+Frases en alemán usando stattfinden:
+
+- Die Konferenz findet nächste Woche in Berlin statt. (The conference takes place next week in Berlin.)
+- Das Konzert fand gestern Abend im Stadion statt. (The concert took place yesterday evening in the stadium.)
+- Die Hochzeit hat in einer kleinen Kirche stattgefunden. (The wedding took place in a small church.)
+'''
+korrigieren A2
+Español: corregir
+Русский: исправлять
+English: correct
+
+- Ich korrigiere die Fehler in meinem Aufsatz. (I correct the mistakes in my essay.)
+- Er korrigierte seine Aussage später. (He corrected his statement later.)
+- Hast du schon deine Prüfung korrigiert? (Have you corrected your exam yet?)
+
+die Kritik, -en A2
+Español: la crítica
+Русский: критика
+English: the criticism
+
+- Er kann keine Kritik vertragen. (He can't handle criticism.)
+- Die Kritik an seinem Buch war sehr positiv. (The criticism of his book was very positive.)
+- Sie übte scharfe Kritik an der Regierung. (She expressed sharp criticism of the government.)
+'''
+kritisch, A2
+Español: crítico
+Русский: критический
+English: critical
+
+- Das ist eine kritische Situation, wir müssen schnell handeln.
+(Esta es una situación crítica, tenemos que actuar rápido.)
+- Er war sehr kritisch gegenüber dem neuen Film.
+(Él fue muy crítico con la nueva película.)
+- Sie hat das Projekt kritisch geprüft und einige Fehler gefunden.
+(Ella revisó el proyecto de forma crítica y encontró algunos errores.)
+'''
+kritisieren, A2
+Español: criticar
+Русский: критиковать
+English: criticize
+
+- Ich kritisiere dich nicht, ich gebe dir nur einen Rat.
+- Er kritisierte gestern die Regierung für ihre Entscheidung.
+- Sie hat mich für meine Arbeit kritisiert, aber ich habe ihr gesagt, dass ich mein Bestes gegeben habe.
+'''
+die Note, -n A2
+Español: la nota, la calificación
+Русский: оценка, нота
+English: the grade, the note
+
+- Ich habe eine gute Note in Mathematik bekommen. (I got a good grade in math.)
+- Er spielt die Noten auf dem Klavier. (He plays the notes on the piano.)
+- Hast du schon deine Noten vom letzten Semester gesehen? (Have you seen your grades from last semester?)
+'''
+die Fremdsprache, -n A2
+Español: el idioma extranjero
+Русский: иностранный язык
+English: the foreign language
+
+- Ich lerne gerne **Fremdsprachen**, weil ich andere Kulturen interessant finde. (I like to learn **foreign languages**, because I find other cultures interesting.)
+- Als Kind sprach er schon drei **Fremdsprachen**: Englisch, Französisch und Spanisch. (As a child, he already spoke three **foreign languages**: English, French and Spanish.)
+- Er hat in der Schule eine neue **Fremdsprache** gelernt. (He learned a new **foreign language** at school.)
+'''
+fremdsprachlich, A2
+Español: extranjero, foráneo
+Русский: иностранный
+English: foreign
+
+Frases en alemán usando fremdsprachlich:
+
+- Er spricht drei **fremdsprachliche** Sprachen: Englisch, Französisch und Chinesisch.
+(Él habla tres idiomas extranjeros: inglés, francés y chino.)
+
+- Sie hat einen **fremdsprachlichen** Akzent, den ich nicht zuordnen kann.
+(Ella tiene un acento foráneo que no puedo identificar.)
+
+- Ich lese gerne **fremdsprachliche** Bücher, um meinen Wortschatz zu erweitern.
+(Me gusta leer libros en idiomas extranjeros para ampliar mi vocabulario.)
+'''
+das Interesse, -n A2
+Español: el interés, los intereses
+Русский: интерес, интересы
+English: interest, interests
+
+Frases en alemán usando esta palabra:
+
+- Ich habe **kein Interesse** an Politik. (No tengo interés en la política.)
+- Er **zeigte großes Interesse** an ihrer Arbeit. (Él mostró gran interés en su trabajo.)
+- Sie hat sich für das Buch **interessiert**. (Ella se interesó por el libro.)
+'''
+sich interessieren für A A2
+Español: interesarse por algo
+Русский: интересоваться чем-то
+English: to be interested in something
+
+Ejemplos:
+
+- Ich **interessiere mich** für Kunst und Musik. (Me intereso por el arte y la música.)
+- Er **interessierte sich** für die Geschichte seines Landes. (Él se interesó por la historia de su país.)
+- Sie hat sich **für das Buch interessiert**, das du ihr empfohlen hast. (Ella se interesó por el libro que le recomendaste.)
+'''
+die Mathematik, A2
+Español: la matemática
+Русский: математика
+English: mathematics
+
+Frases en alemán usando esta palabra:
+
+- Ich mag **die Mathematik** sehr, weil sie logisch und interessant ist. (Me gusta mucho la matemática porque es lógica e interesante.)
+- Gestern haben wir in **der Mathematik** das Thema Brüche gelernt. (Ayer aprendimos el tema de las fracciones en matemática.)
+- Er hat **die Mathematik** studiert und ist jetzt ein Professor an der Universität. (Él estudió matemática y ahora es un profesor en la universidad.)
+'''
+mathematisch, A2
+Español: matemático
+Русский: математический
+English: mathematical
+
+Ejemplos de frases en alemán usando la palabra mathematisch:
+
+- Er ist sehr gut in mathematischen Problemen. (Él es muy bueno en problemas matemáticos.)
+- Sie hat gestern eine mathematische Prüfung abgelegt. (Ella hizo un examen de matemáticas ayer.)
+- Er hat mir erklärt, wie man die mathematische Formel anwendet. (Él me explicó cómo aplicar la fórmula matemática.)
+'''
+die Sozialkunde, -n A2
+Español: la ciencia social, las ciencias sociales
+Русский: социология, социологии
+English: social science, social sciences
+
+- Die Sozialkunde ist ein Schulfach, das sich mit gesellschaftlichen Themen beschäftigt. (Social science is a school subject that deals with social issues.)
+- In der Sozialkunde lernten wir gestern über die deutsche Verfassung. (In social science, we learned about the German constitution yesterday.)
+- Hast du schon deine Sozialkunde-Hausaufgaben gemacht? (Have you done your social science homework yet?)
+'''
+das Examen, - A2
+Español: el examen
+Русский: экзамен
+English: the exam
+
+- Ich habe gestern **das Examen** in Mathematik bestanden. (I passed **the exam** in mathematics yesterday.)
+- Er muss noch **das Examen** in Geschichte machen, bevor er seinen Abschluss bekommt. (He still has to take **the exam** in history before he gets his degree.)
+- Hast du dich gut auf **das Examen** vorbereitet? (Did you prepare well for **the exam**?)
+'''
+prüfen, A2
+Español: examinar, verificar
+Русский: проверять, испытывать
+English: check, test
+
+- Ich **prüfe** meine E-Mails jeden Morgen. (I check my emails every morning.)
+- Er **prüfte** die Bremsen seines Autos. (He tested the brakes of his car.)
+- Hast du schon deine Hausaufgaben **geprüft**? (Have you checked your homework yet?)
+'''
+die Prüfung, - en A2
+Español: el examen
+Русский: экзамен
+English: the test
+
+Frases en alemán usando esta palabra:
+
+- Ich habe morgen eine wichtige Prüfung. (Tengo un examen importante mañana.)
+- Er hat die Prüfung nicht bestanden, weil er nicht gelernt hat. (No aprobó el examen porque no estudió.)
+- Hast du schon die Ergebnisse deiner Prüfung bekommen? (¿Ya recibiste los resultados de tu examen?)
+'''
+das Abitur, -e A2
+Español: el bachillerato
+Русский: абитура
+English: the high school diploma
+
+Frases en alemán usando esta palabra:
+
+- Ich habe mein Abitur im Jahr 2020 gemacht. (Hice el bachillerato en el año 2020.)
+- Um an der Universität zu studieren, braucht man das Abitur. (Para estudiar en la universidad, se necesita el bachillerato.)
+- Er hat das Abitur nicht bestanden und muss es wiederholen. (No aprobó el bachillerato y tiene que repetirlo.)
+'''
+die Ausbildung, - en A2
+Español: la formación, la educación
+Русский: образование, подготовка
+English: education, training
+
+- Ich mache eine Ausbildung zur Krankenschwester. (I am doing a training to become a nurse.)
+- Er hat seine Ausbildung im letzten Jahr abgeschlossen. (He finished his education last year.)
+- Sie hat eine gute Ausbildung genossen. (She enjoyed a good education.)
+'''
+der Direktor, - en A2
+Español: el director
+Русский: директор
+English: the director
+
+Frases en alemán usando esta palabra:
+
+- Der Direktor der Schule ist sehr streng. (The director of the school is very strict.)
+- Gestern sprach ich mit dem Direktor über mein Projekt. (Yesterday I spoke with the director about my project.)
+- Er hat als Direktor in mehreren Firmen gearbeitet. (He has worked as a director in several companies.)
+'''
+das Fach, -¨er A2
+Español: asignatura, materia, especialidad
+Русский: предмет, специальность, отделение
+English: subject, specialty, department
+
+Frases en alemán usando esta palabra:
+
+- Ich studiere **das Fach** Mathematik an der Universität. (Estudio la asignatura de matemáticas en la universidad.)
+- Er ist Experte für **das Fach** Geschichte. (Él es experto en la especialidad de historia.)
+- In welchem **Fach** bist du am besten? (¿En qué materia eres el mejor?)
+'''
+die Ferien (Pl.) A2
+Español: las vacaciones
+Русский: каникулы
+English: the holidays
+
+- Ich freue mich auf die Ferien. (I'm looking forward to the holidays.)
+- Letztes Jahr haben wir die Ferien in Spanien verbracht. (Last year we spent the holidays in Spain.)
+- Hast du schon Pläne für die Ferien gemacht? (Have you made any plans for the holidays yet?)
+'''
+die Gesamtschule, -n A2
+Español: la escuela integrada
+Русский: общеобразовательная школа
+English: the comprehensive school
+
+Frases en alemán usando esta palabra:
+
+- Ich gehe in die Gesamtschule, weil ich dort viele Fächer wählen kann. (Voy a la escuela integrada porque puedo elegir muchas asignaturas.)
+- Er hat seine Gesamtschule im letzten Jahr abgeschlossen und studiert jetzt an der Universität. (Él terminó su escuela integrada el año pasado y ahora estudia en la universidad.)
+- Sie haben sich in der Gesamtschule kennengelernt und sind seitdem beste Freunde. (Se conocieron en la escuela integrada y han sido mejores amigos desde entonces.)
+'''
+die Grundschule, -n A2
+Español: la escuela primaria
+Русский: начальная школа
+English: the elementary school
+
+- Ich gehe in die **Grundschule**.
+- Er ging in die **Grundschule**, als er sechs Jahre alt war.
+- Sie hat die **Grundschule** vor zwei Jahren abgeschlossen.
+'''
+das Gymnasium, die Gymnasien A2
+Español: el instituto, los institutos
+Русский: гимназия, гимназии
+English: the high school, the high schools
+
+- Ich gehe in ein Gymnasium in Berlin. (I go to a high school in Berlin.)
+- Er hat das Gymnasium vor zwei Jahren abgeschlossen. (He finished high school two years ago.)
+- Sie haben sich in der Gymnasium kennengelernt. (They met each other in high school.)
+'''
+die Hauptschule, -n A2
+Español: la escuela secundaria
+Русский: средняя школа
+English: the secondary school
+
+Frases en alemán usando esta palabra:
+
+- Ich gehe in die Hauptschule. (Voy a la escuela secundaria.)
+- Er hat die Hauptschule nach der neunten Klasse abgeschlossen. (Él terminó la escuela secundaria después del noveno grado.)
+- Sie möchte Lehrerin an einer Hauptschule werden. (Ella quiere ser maestra en una escuela secundaria.)
+'''
+das Kolleg, die Kollegien A2
+Español: el colegio, los colegios
+Русский: коллегия, коллегии
+English: the college, the colleges
+
+Frases en alemán usando esta palabra:
+
+- Ich studiere an einem **Kolleg** für Wirtschaft und Verwaltung. (Estudio en un colegio de economía y administración.)
+- Er hat viele Freunde aus seinem alten **Kolleg**. (Él tiene muchos amigos de su antiguo colegio.)
+- Sie haben das **Kolleg** erfolgreich abgeschlossen und können jetzt an einer Universität studieren. (Ellos han terminado el colegio con éxito y ahora pueden estudiar en una universidad.)
+'''
+die Lehre, -n A2
+Español: la enseñanza, la doctrina
+Русский: учение, доктрина
+English: teaching, doctrine
+
+- Die Lehre von Kant ist sehr einflussreich in der Philosophie. (The teaching of Kant is very influential in philosophy.)
+- Er hat eine Lehre als Schreiner gemacht. (He did an apprenticeship as a carpenter.)
+- Die Bibel enthält viele Lehren für das Leben. (The Bible contains many teachings for life.)
+'''
+der Lehrling, -e A2
+Español: el aprendiz
+Русский: ученик
+English: the apprentice
+
+Frases en alemán usando esta palabra:
+
+- Der Lehrling arbeitet fleißig in der Werkstatt. (El aprendiz trabaja diligentemente en el taller.)
+- Gestern hat der Lehrling einen Fehler gemacht und wurde vom Meister geschimpft. (Ayer el aprendiz cometió un error y fue regañado por el maestro.)
+- Der Lehrling hat seine Ausbildung erfolgreich abgeschlossen und ist jetzt ein Geselle. (El aprendiz ha completado su formación con éxito y ahora es un oficial.)
+'''
+die Realschule, -n A2
+Español: la escuela secundaria
+Русский: средняя школа
+English: the secondary school
+
+- Ich gehe in die Realschule, weil ich später eine Ausbildung machen möchte. (I go to secondary school because I want to do an apprenticeship later.)
+- Als er in der Realschule war, lernte er viel Mathematik und Physik. (When he was in secondary school, he learned a lot of mathematics and physics.)
+- Sie hat die Realschule abgeschlossen und arbeitet jetzt als Friseurin. (She finished secondary school and now works as a hairdresser.)
+'''
+das Schulfach, -¨er A2
+Español: la asignatura, las asignaturas
+Русский: школьный предмет, школьные предметы
+English: school subject, school subjects
+
+- Mein Lieblingsschulfach ist Mathematik, weil ich Zahlen mag. (My favorite school subject is mathematics, because I like numbers.)
+- Gestern hatten wir ein neues Schulfach: Kunst. Wir haben gemalt und gezeichnet. (Yesterday we had a new school subject: art. We painted and drew.)
+- Hast du schon für das Schulfach Geschichte gelernt? Die Prüfung ist morgen. (Have you already studied for the school subject history? The exam is tomorrow.)
+'''
+das Zeugnis, - se A2
+Español: el certificado, los certificados
+Русский: свидетельство, свидетельства
+English: the certificate, the certificates
+
+- Ich habe mein Zeugnis gestern bekommen. (I got my certificate yesterday.)
+- Er hat ein gutes Zeugnis in Mathe. (He has a good certificate in math.)
+- Hast du dein Zeugnis schon abgegeben? (Have you already handed in your certificate?)
+'''
+der Auszubildende, -n (Azubi, - s) A2
+Español: el aprendiz, los aprendices (el apren, los aprens)
+Русский: ученик, ученики (уча, учи)
+English: the trainee, the trainees (the train, the trains)
+
+- Der Auszubildende lernt in der Werkstatt. (The trainee learns in the workshop.)
+- Der Azubi arbeitete gestern bis spät. (The train worked until late yesterday.)
+- Der Auszubildende hat seine Prüfung bestanden. (The trainee has passed his exam.)
+'''
+18, A1
+Español: dieciocho
+Русский: восемнадцать
+English: eighteen
+
+- Ich bin **18** Jahre alt. (I am 18 years old.)
+- Er hat **18** Bücher gelesen. (He has read 18 books.)
+- Sie hat **18** Euro für das Kleid bezahlt. (She paid 18 euros for the dress.)
+'''
+die Bibliothek, -en A2
+Español: la biblioteca
+Русский: библиотека
+English: the library
+
+- Ich gehe jeden Montag in die Bibliothek, um Bücher auszuleihen. (I go to the library every Monday to borrow books.)
+- Als ich ein Kind war, besuchte ich oft die Bibliothek mit meiner Mutter. (When I was a child, I often visited the library with my mother.)
+- Er hat gestern in der Bibliothek gearbeitet und viele Informationen gefunden. (He worked in the library yesterday and found a lot of information.)
+'''
+das Fachstudium, A2
+Español: la carrera universitaria
+Русский: специальность
+English: the major
+
+Frases en alemán usando esta palabra:
+
+- Ich habe mein **Fachstudium** in Informatik abgeschlossen. (He terminado mi carrera universitaria en informática.)
+- Was ist dein **Fachstudium**? (¿Qué carrera universitaria estudias?)
+- Er hat sein **Fachstudium** abgebrochen und eine Ausbildung gemacht. (Él dejó su carrera universitaria y hizo un aprendizaje.)
+'''
+das Institut, -e A2
+Español: el instituto, los institutos
+Русский: институт, институты
+English: the institute, the institutes
+
+- Das Institut für Angewandte Mathematik bietet verschiedene Kurse an. (The Institute of Applied Mathematics offers various courses.)
+- Er arbeitete früher in einem Forschungsinstitut. (He used to work in a research institute.)
+- Sie hat ihr Studium am Goethe-Institut abgeschlossen. (She has completed her studies at the Goethe Institute.)
+'''
+international, A2
+Español: internacional
+Русский: международный
+English: international
+
+- Die **internationale** Zusammenarbeit ist wichtig für die Lösung globaler Probleme.
+- Er hat viele **internationale** Erfahrungen gesammelt, als er in verschiedenen Ländern gearbeitet hat.
+- Sie hat an einem **internationalen** Wettbewerb teilgenommen und den ersten Preis gewonnen.
+'''
+der Kurs, -e A2
+Español: el curso
+Русский: курс
+English: the course
+
+- Ich habe mich für einen Deutschkurs angemeldet. (I have registered for a German course.)
+- Letztes Jahr besuchte er einen Kurs über moderne Kunst. (Last year he attended a course on modern art.)
+- Hast du den Kurs schon abgeschlossen? (Have you finished the course yet?)
+'''
+die Mensa, die Mensen A2
+Español: el comedor, los comedores
+Русский: столовая, столовые
+English: the cafeteria, the cafeterias
+
+- Ich esse jeden Tag in der Mensa. (I eat every day in the cafeteria.)
+- Gestern war die Mensa sehr voll. (Yesterday the cafeteria was very crowded.)
+- Hast du schon in der neuen Mensa gegessen? (Have you eaten in the new cafeteria yet?)
+'''
+das Semester, - A2
+Español: el semestre
+Русский: семестр
+English: the semester
+
+- Ich bin im **dritten Semester** meines Studiums. (I am in the **third semester** of my studies.)
+- Letztes Jahr habe ich im **Wintersemester** ein Praktikum gemacht. (Last year I did an internship in the **winter semester**.)
+- Hast du schon alle Prüfungen für dieses **Semester** bestanden? (Have you already passed all the exams for this **semester**?)
+'''
+das Seminar, -e A2
+Español: el seminario
+Русский: семинар
+English: the seminar
+
+- Ich nehme an einem **Seminar** über deutsche Literatur teil.
+- Gestern hat der Professor das **Seminar** wegen Krankheit abgesagt.
+- Hast du schon das **Seminar**-Zertifikat erhalten?
+'''
+der Sprachkurs, -e A2
+Español: el curso de idiomas
+Русский: языковой курс
+English: the language course
+
+- Ich besuche einen Sprachkurs, um mein Deutsch zu verbessern. (I attend a language course to improve my German.)
+- Letztes Jahr habe ich einen Sprachkurs in Spanien gemacht. (Last year I did a language course in Spain.)
+- Hast du schon einen Sprachkurs für das nächste Semester gebucht? (Have you already booked a language course for the next semester?)
+'''
+studentisch, A2
+Español: estudiantil
+Русский: студенческий
+English: student
+
+- Ich bin studentisch und arbeite nebenbei als Tutor. (I am a student and work part-time as a tutor.)
+- Er war studentisch, als er seine erste Firma gründete. (He was a student when he founded his first company.)
+- Sie hat studentisch viele Erfahrungen gesammelt. (She has gained a lot of experiences as a student.)
+'''
+die Klasse, -n A2
+Español: la clase
+Русский: класс
+English: class
+
+- Ich bin in der **fünften Klasse**. (I am in the fifth class.)
+- Er **ging** gestern in die Klasse. (He went to the class yesterday.)
+- Sie hat die Klasse **verlassen**. (She has left the class.)
+'''
+teilnehmen an, D A2
+Español: participar en
+Русский: участвовать в
+English: participate in
+
+- Ich nehme an einem Online-Kurs teil. (I participate in an online course.)
+- Er nahm an der Demonstration teil. (He participated in the demonstration.)
+- Sie haben an einem Wettbewerb teilgenommen. (They participated in a competition.)
+'''
+aufschreiben, A2
+Español: anotar, apuntar
+Русский: записывать
+English: write down, note down
+
+Beispiele:
+- Ich schreibe mir die Telefonnummer auf. (I write down the phone number.)
+- Er schrieb seinen Namen an die Tafel. (He wrote his name on the board.)
+- Hast du dir die Hausaufgaben aufgeschrieben? (Did you write down the homework?)
+'''
+sich abmelden, B1
+Español: darse de baja
+Русский: отписаться
+English: unsubscribe
+
+Frases en alemán usando sich abmelden:
+
+- Ich möchte mich von diesem Newsletter abmelden. (Quiero darme de baja de este boletín.)
+- Er hat sich gestern von der Schule abgemeldet. (Él se dio de baja de la escuela ayer.)
+- Hast du dich schon von dem Kurs abgemeldet? (¿Ya te has dado de baja del curso?)
+'''
+die Abmeldung, -en B1
+Español: la baja
+Русский: отказ
+English: the cancellation
+
+- Ich habe die Abmeldung von der Schule noch nicht erhalten. (I have not yet received the cancellation from the school.)
+- Er meldete sich gestern vom Kurs ab. (He cancelled the course yesterday.)
+- Hast du dich schon von der Bibliothek abgemeldet? (Have you already cancelled your library membership?)
+'''
+allgemeinbildend, B1
+Español: educativo
+Русский: общеобразовательный
+English: educational
+
+- Die Schule bietet ein allgemeinbildendes Programm für Kinder an. (The school offers an educational program for children.)
+- Er hat eine allgemeinbildende Ausbildung an der Universität erhalten. (He received an educational training at the university.)
+- Sie interessiert sich für allgemeinbildende Themen wie Geschichte und Kunst. (She is interested in educational topics such as history and art.)
+'''
+die Allgemeinbildung, B1
+Español: la cultura general
+Русский: общее образование
+English: general education
+
+- Die Allgemeinbildung ist wichtig für die persönliche und berufliche Entwicklung.
+- Er hatte eine gute Allgemeinbildung, weil er viele Bücher las.
+- Hast du deine Allgemeinbildung durch diesen Kurs verbessert?
+'''
+bilden, B1
+Español: formar, educar
+Русский: образовывать, воспитывать
+English: form, educate
+
+Ejemplos:
+
+- Die Schüler **bilden** eine Schlange vor dem Klassenzimmer. (Los alumnos forman una fila frente al aula.)
+- Er hat sich zum Ziel gesetzt, junge Menschen zu **bilden**. (Se ha propuesto educar a los jóvenes.)
+- Sie hat sich im Laufe der Jahre ein großes Wissen **gebildet**. (Ella ha adquirido un gran conocimiento a lo largo de los años.)
+'''
+die Bildung, - en B1
+Español: la educación, la formación
+Русский: образование, формирование
+English: education, formation
+
+- Die Bildung ist ein wichtiges Menschenrecht. (La educación es un derecho humano importante.)
+- Er hat seine Bildung in Deutschland abgeschlossen. (Él completó su educación en Alemania.)
+- Sie hat sich viel Mühe gegeben, um ihre Bildung zu verbessern. (Ella se esforzó mucho para mejorar su formación.)
+'''
+erlernen, B1
+Español: aprender
+Русский: учить
+English: learn
+
+- Ich möchte eine neue Sprache **erlernen**. (I want to learn a new language.)
+- Als Kind **erlernte** er Klavier spielen. (As a child, he learned to play the piano.)
+- Er hat viel von seinem Lehrer **gelernt**. (He has learned a lot from his teacher.)
+'''
+erziehen B1
+Español: educar, criar
+Русский: воспитывать, растить
+English: educate, raise
+
+- Ich erziehe meine Kinder mit Liebe und Respekt. (I educate my children with love and respect.)
+- Sie erzog ihre Tochter allein. (She raised her daughter alone.)
+- Er hat seine Hunde gut erzogen. (He has educated his dogs well.)
+'''
+die Erziehung, - en B1
+Español: la educación, la crianza
+Русский: воспитание, образование
+English: education, upbringing
+- Die Erziehung der Kinder ist eine wichtige Aufgabe für die Eltern. (The upbringing of the children is an important task for the parents.)
+- Früher erzog man die Kinder strenger als heute. (In the past, children were raised more strictly than today.)
+- Sie hat eine gute Erziehung genossen und ist sehr höflich. (She has enjoyed a good education and is very polite.)
+'''
+die Intelligenz, - en B1
+Español: la inteligencia
+Русский: интеллект
+English: intelligence
+
+Frases en alemán usando esta palabra:
+
+- Er hat eine hohe Intelligenz. (Él tiene una alta inteligencia.)
+- Sie zeigte ihre Intelligenz im Prüfung. (Ella mostró su inteligencia en el examen.)
+- Er hat seine Intelligenz im Laufe der Jahre verbessert. (Él ha mejorado su inteligencia a lo largo de los años.)
+'''
+die Konzentration, - en B1
+Español: la concentración
+Русский: концентрация
+English: concentration
+
+- Ich habe Probleme mit der **Konzentration** beim Lernen. (I have problems with **concentration** when studying.)
+- Er hatte gestern eine hohe **Konzentration** von Alkohol im Blut. (He had a high **concentration** of alcohol in his blood yesterday.)
+- Sie hat ihre **Konzentration** durch Meditation verbessert. (She has improved her **concentration** through meditation.)
+'''
+sich konzentrieren auf A B1
+Español: concentrarse en algo
+Русский: сосредоточиться на чем-то
+English: to focus on something
+
+Frases en alemán usando esta palabra:
+
+- Ich muss mich auf meine Prüfung **konzentrieren**. (I have to **focus** on my exam.)
+- Er **konzentrierte** sich auf seine Atmung, um ruhig zu bleiben. (He **focused** on his breathing to stay calm.)
+- Hast du dich schon auf ein Studienfach **konzentriert**? (Have you already **focused** on a major?)
+'''
+der Lerner, - B1
+Español: el aprendiz
+Русский: ученик
+English: the learner
+
+Frases en alemán usando esta palabra:
+
+- Der Lerner muss motiviert sein, um eine neue Sprache zu lernen. (El aprendiz debe estar motivado para aprender un nuevo idioma.)
+- Gestern war der Lerner sehr fleißig und hat alle seine Hausaufgaben gemacht. (Ayer el aprendiz fue muy diligente e hizo todas sus tareas.)
+- Er hat viel gelernt und ist ein guter Lerner geworden. (Él ha aprendido mucho y se ha convertido en un buen aprendiz.)
+'''
+die Bücherei, - en B1
+Español: la biblioteca
+Русский: библиотека
+English: the library
+
+- Ich gehe jeden Samstag in die **Bücherei**, um mir ein neues Buch auszuleihen. (I go to the library every Saturday to borrow a new book.)
+- Als ich gestern in der **Bücherei** war, habe ich einen alten Freund getroffen. (When I was in the library yesterday, I met an old friend.)
+- Er hat mir erzählt, dass er schon seit zwei Wochen in der **Bücherei** arbeitet. (He told me that he has been working in the library for two weeks.)
+'''
+das Ziel, -e B1
+Español: el objetivo, la meta
+Русский: цель
+English: the goal, the target
+
+- Er hat sein Ziel erreicht. (He achieved his goal.)
+- Was ist dein Ziel für dieses Jahr? (What is your goal for this year?)
+- Sie haben das Ziel verfehlt. (They missed the target.)
+'''
+erfolgreich ↔ erfolglos, B1
+Español: exitoso ↔ fracasado
+Русский: успешный ↔ неудачный
+English: successful ↔ unsuccessful
+
+Frases con erfolgreich:
+- Er hat die Prüfung erfolgreich bestanden. (Él ha aprobado el examen con éxito.)
+- Sie ist eine sehr erfolgreiche Schriftstellerin. (Ella es una escritora muy exitosa.)
+- Er hat es endlich geschafft, erfolgreich zu sein. (Él finalmente lo logró, ser exitoso.)
+
+Frases con erfolglos:
+- Sie haben erfolglos versucht, ihn zu erreichen. (Ellos han intentado contactarlo sin éxito.)
+- Er war mit seiner Bewerbung erfolglos. (Él fue rechazado con su solicitud.)
+- Trotz aller Bemühungen blieb ihre Suche erfolglos. (A pesar de todos los esfuerzos, su búsqueda fue infructuosa.)
+'''
+die Korrektur, - en B1
+Español: la corrección
+Русский: исправление
+English: the correction
+
+- Ich habe die Korrektur meines Aufsatzes erhalten. (I have received the correction of my essay.)
+- Er korrigierte seine Fehler im Präteritum. (He corrected his mistakes in the past tense.)
+- Hast du deine Hausaufgaben schon korrigiert? (Have you corrected your homework yet?)
+'''
+leisten, B1
+Español: lograr, conseguir, rendir
+Русский: достигать, справляться, выдерживать
+English: achieve, manage, withstand
+
+- Er hat viel geleistet in seinem Leben. (He achieved a lot in his life.)
+- Ich kann das nicht alleine leisten. (I can't manage that alone.)
+- Der Baum hat dem Sturm nicht geleistet. (The tree did not withstand the storm.)
+'''
+die Leistung, - en B1
+Español: el rendimiento, la potencia
+Русский: результат, мощность
+English: performance, power
+
+- Er hat eine gute Leistung in der Schule gezeigt. (He showed a good performance at school.)
+- Die Leistung dieses Motors ist beeindruckend. (The power of this engine is impressive.)
+- Sie hat die Leistung für das Projekt erbracht. (She has delivered the performance for the project.)
+'''
+sich verschlechtern, B1
+Español: empeorar
+Русский: ухудшаться
+English: deteriorate
+
+Frases en alemán usando sich verschlechtern:
+
+- Die Situation in dem Land **verschlechtert sich** jeden Tag. (The situation in the country **deteriorates** every day.)
+- Er **verschlechterte** seine Note, weil er nicht gelernt hatte. (He **worsened** his grade because he had not studied.)
+- Sie hat sich nach der Operation nicht **verschlechtert**. (She did not **deteriorate** after the surgery.)
+'''
+die Verschlechterung, - en B1
+Español: el empeoramiento, el deterioro
+Русский: ухудшение, упадок
+English: the worsening, the deterioration
+
+- Die Verschlechterung der Umwelt ist ein globales Problem. (The deterioration of the environment is a global problem.)
+- Der Patient zeigte gestern eine Verschlechterung seines Zustands. (The patient showed a worsening of his condition yesterday.)
+- Die Wirtschaft hat sich in den letzten Jahren verschlechtert. (The economy has deteriorated in recent years.)
+'''
+ermöglichen, B1
+Español: permitir, posibilitar
+Русский: позволять, обеспечивать
+English: enable, facilitate
+
+Beispiele:
+- Dieses Programm ermöglicht es Ihnen, Ihre Fotos zu bearbeiten. (This program enables you to edit your photos.)
+- Er ermöglichte ihr, an der Konferenz teilzunehmen, indem er ihr die Reisekosten bezahlte. (He facilitated her participation in the conference by paying for her travel expenses.)
+- Sie haben es mir ermöglicht, mein Ziel zu erreichen. (You have enabled me to achieve my goal.)
+'''
+die Chance, -n B1
+Español: la oportunidad, la posibilidad
+Русский: шанс, возможность
+English: the chance, the opportunity
+
+- Er hat die Chance, ein Stipendium zu bekommen. (He has the chance to get a scholarship.)
+- Sie nutzte ihre Chance und ging nach Berlin. (She took her chance and went to Berlin.)
+- Hast du schon die Chance gehabt, ihn zu treffen? (Have you had the chance to meet him?)
+'''
+fördern, B1
+Español: apoyar, fomentar, promover
+Русский: поддерживать, способствовать, содействовать
+English: support, encourage, promote
+
+Ejemplos de frases en alemán usando fördern:
+
+- Die Regierung fördert die Entwicklung erneuerbarer Energien. (El gobierno apoya el desarrollo de las energías renovables.)
+- Die Lehrer förderten die Kreativität der Schüler. (Los profesores fomentaron la creatividad de los alumnos.)
+- Er hat sein Talent gefördert, indem er jeden Tag Klavier gespielt hat. (Él ha promovido su talento tocando el piano todos los días.)
+'''
+die Förderung, - en B1
+Español: el fomento, la promoción, la subvención
+Русский: содействие, поощрение, финансирование
+English: the support, the promotion, the funding
+
+Ejemplos:
+
+- Die Regierung hat die **Förderung** von erneuerbaren Energien beschlossen. (The government has decided to **support** renewable energies.)
+- Er hat eine **Förderung** für sein Studium bekommen. (He got a **funding** for his studies.)
+- Sie arbeitet in einer Organisation, die die **Förderung** von Frauenrechten anstrebt. (She works in an organization that aims for the **promotion** of women's rights.)
+'''
+die Schwierigkeit, -en B1
+Español: la dificultad
+Русский: трудность
+English: difficulty
+
+Frases en alemán usando esta palabra:
+
+- Ich habe **Schwierigkeiten**, die Aufgabe zu lösen. (Tengo dificultades para resolver el ejercicio.)
+- Er hatte gestern eine **Schwierigkeit** mit seinem Chef. (Él tuvo una dificultad con su jefe ayer.)
+- Sie haben die **Schwierigkeiten** überwunden und sind glücklich. (Ellos han superado las dificultades y son felices.)
+'''
+der Philosoph, - en B1
+Español: el filósofo
+Русский: философ
+English: the philosopher
+
+- Der Philosoph **denkt** über die großen Fragen des Lebens nach. (The philosopher **thinks** about the big questions of life.)
+- Der Philosoph **dachte** lange über das Problem nach, aber er fand keine Lösung. (The philosopher **thought** long about the problem, but he did not find a solution.)
+- Der Philosoph hat viele Bücher **geschrieben** und **veröffentlicht**. (The philosopher has **written** and **published** many books.)
+'''
+die Philosophie, -n B1
+Español: la filosofía, -s
+Русский: философия, -й
+English: philosophy, -ies
+
+- Ich interessiere mich für **die Philosophie** der Antike. (I am interested in the philosophy of antiquity.)
+- Er studierte **Philosophie** an der Universität. (He studied philosophy at the university.)
+- Sie hat viele Bücher über **die Philosophien** verschiedener Kulturen gelesen. (She has read many books about the philosophies of different cultures.)
+'''
+philosophieren, B1
+Español: filosofar
+Русский: философствовать
+English: philosophize
+
+Frases en alemán usando philosophieren:
+
+- Ich mag es, mit dir zu **philosophieren**. (Me gusta filosofar contigo.)
+- Er **philosophierte** über das Leben und den Tod. (Él filosofaba sobre la vida y la muerte.)
+- Hast du schon mal über den Sinn des Lebens **philosophiert**? (¿Alguna vez has filosofado sobre el sentido de la vida?)
+'''
+rechnen, B1
+Español: calcular
+Русский: вычислять
+English: calculate
+
+- Ich kann gut rechnen. (I can calculate well.)
+- Er rechnete die Summe aus. (He calculated the sum.)
+- Sie hat die Rechnung schnell gerechnet. (She calculated the bill quickly.)
+'''
+das Recht, -e B1
+Español: el derecho, los derechos
+Русский: право, права
+English: the right, the rights
+
+- Er hat das Recht, seine Meinung zu äußern. (He has the right to express his opinion.)
+- Sie studiert Recht an der Universität. (She studies law at the university.)
+- Die Menschenrechte sind universell und unveräußerlich. (Human rights are universal and inalienable.)
+
+ablegen B1
+Español: quitarse, dejar, rendir
+Русский: снимать, оставлять, сдавать
+English: take off, leave, take
+
+- Er legt seinen Mantel ab und setzt sich. (He takes off his coat and sits down.)
+- Sie legte die Blumen auf den Tisch. (She left the flowers on the table.)
+- Er hat gestern die Prüfung abgelegt. (He took the exam yesterday.)
+'''
+absolvieren, B1
+Español: completar, graduarse
+Русский: завершать, оканчивать
+English: complete, graduate
+
+Frases en alemán usando absolvieren:
+
+- Ich habe mein Studium an der Universität **absolviert**. (He completado mis estudios en la universidad.)
+- Er **absolvierte** seinen Wehrdienst im Jahr 2010. (Él hizo su servicio militar en el año 2010.)
+- Sie hat die Prüfung erfolgreich **absolviert**. (Ella ha aprobado el examen con éxito.)
+'''
+bestanden, B1
+Español: aprobado
+Русский: сданный
+English: passed
+
+Frases en alemán usando bestanden:
+
+- Ich habe die Prüfung bestanden. (He aprobado el examen.)
+- Er hat den Test nicht bestanden. (Él no ha pasado el test.)
+- Hast du schon bestanden? (¿Ya has aprobado?)
+'''
+durchfallen, B1
+Español: suspender, reprobar
+Русский: провалиться, не сдать
+English: fail, flunk
+
+Frases en alemán usando durchfallen:
+
+- Er ist **durch die Prüfung gefallen**. (He failed the exam.)
+- Sie hat **im ersten Semester nicht durchgefallen**. (She did not flunk in the first semester.)
+- Ich bin **schon zweimal durchgefallen**. (I have failed twice already.)
+'''
+erzielen B1
+Español: lograr, conseguir
+Русский: достигать, добиваться
+English: achieve, attain
+
+Frases en alemán usando erzielen:
+
+- Die Mannschaft hat einen **Sieg** erzielt. (El equipo ha logrado una victoria.)
+- Er erzielte **gute Ergebnisse** in der Prüfung. (Él consiguió buenos resultados en el examen.)
+- Sie hat in ihrem Leben viel **Erfolg** erzielt. (Ella ha alcanzado mucho éxito en su vida.)
+'''
+das Resultat, -e B1
+Español: el resultado
+Русский: результат
+English: the result
+
+- Das Resultat der Prüfung war sehr gut. (The result of the exam was very good.)
+- Er erzählte mir das Resultat seiner Recherche. (He told me the result of his research.)
+- Sie haben hart gearbeitet und ein gutes Resultat erzielt. (They worked hard and achieved a good result.)
+'''
+sich vorbereiten auf, B1
+Español: prepararse para
+Русский: готовиться к
+English: prepare for
+
+Frases en alemán usando sich vorbereiten auf:
+
+- Ich bereite mich auf die Prüfung vor. (Presente)
+- Ella se preparó para la entrevista. (Präteritum)
+- Sie haben sich auf die Reise vorbereitet. (Perfekt)
+'''
+duales System, B1
+Español: sistema dual
+Русский: двойная система
+English: dual system
+
+- Das duale System ist eine Form der Berufsausbildung, die Theorie und Praxis verbindet.
+- In Deutschland wurde das duale System im 19. Jahrhundert eingeführt.
+- Viele Länder haben das duale System von Deutschland übernommen oder angepasst.
+'''
+die Ausnahme, -n B1
+Español: la excepción
+Русский: исключение
+English: the exception
+
+- Das ist eine Ausnahme, die nur für dich gilt. (This is an exception that only applies to you.)
+- Er machte eine Ausnahme und ließ uns früher gehen. (He made an exception and let us go earlier.)
+- Hast du schon mal eine Ausnahme von der Regel gehört? (Have you ever heard of an exception to the rule?)
+'''
+ausbilden, B1
+Español: formar, educar
+Русский: обучать, готовить
+English: train, educate
+
+Frases en alemán usando ausbilden:
+
+- Die Universität bildet qualifizierte Fachkräfte aus. (La universidad forma profesionales cualificados.)
+- Er bildete sich zum Lehrer aus. (Él se educó para ser profesor.)
+- Sie hat sich in der Kunst sehr gut ausgebildet. (Ella se ha formado muy bien en el arte.)
+'''
+das Auslandsstudium, B1
+Español: estudio en el extranjero
+Русский: обучение за рубежом
+English: study abroad
+
+- Ich möchte nach dem Abitur ein **Auslandsstudium** machen.
+- Er hat sein **Auslandsstudium** in Frankreich abgebrochen.
+- Sie hat durch ihr **Auslandsstudium** viele neue Freunde kennengelernt.
+'''
+BAföG, C1
+Español: subsidio estatal para la educación
+Русский: государственная помощь на образование
+English: state aid for education
+
+- Ich bekomme kein **BAföG**, weil meine Eltern zu viel verdienen.
+- Als sie noch studierte, hat sie **BAföG** beantragt und erhalten.
+- Er muss das **BAföG** nach seinem Abschluss teilweise zurückzahlen.
+'''
+Förderungsgesetz, B1
+Español: ley de fomento
+Русский: закон о содействии
+English: promotion law
+
+- Das Förderungsgesetz soll die Entwicklung von erneuerbaren Energien unterstützen. (The promotion law aims to support the development of renewable energies.)
+- Die Regierung verabschiedete im letzten Jahr ein neues Förderungsgesetz für die Kultur. (The government passed a new promotion law for culture last year.)
+- Hast du schon von dem Förderungsgesetz für kleine Unternehmen gehört? Es ist sehr umstritten. (Have you heard of the promotion law for small businesses? It is very controversial.)
+'''
+beraten, B1
+Español: aconsejar
+Русский: советовать
+English: advise
+
+Frases en alemán usando beraten:
+
+- Ich **berate** dich gerne, wenn du ein Problem hast. (Te aconsejo con gusto, si tienes un problema.)
+- Er **beriet** mich, einen Anwalt zu suchen. (Él me aconsejó buscar un abogado.)
+- Sie haben mich gut **beraten**. (Me han aconsejado bien.)
+'''
+die Beratung, -en B1
+Español: la consulta, el asesoramiento
+Русский: консультация, совет
+English: the consultation, the advice
+
+- Ich brauche eine Beratung für meine Steuererklärung. (I need a consultation for my tax return.)
+- Er hat gestern eine Beratung bei einem Psychologen gehabt. (He had a consultation with a psychologist yesterday.)
+- Sie haben die Beratung erfolgreich abgeschlossen. (They have successfully completed the consultation.)
+'''
+der Bereich, -e B1
+Español: el área, la zona, el sector
+Русский: область, зона, сектор
+English: the area, the zone, the sector
+
+Ejemplos de frases en alemán usando esta palabra:
+
+- Dieser Bereich des Parks ist für Kinder reserviert. (Esta zona del parque está reservada para niños.)
+- In welchem Bereich arbeitest du? (¿En qué sector trabajas?)
+- Er hat den Bereich in zwei Teile geteilt. (Él ha dividido el área en dos partes.)
+'''
+beruflich, B1
+Español: profesional
+Русский: профессиональный
+English: professional
+
+- Ich bin beruflich sehr zufrieden. (I am very satisfied with my profession.)
+- Er hat beruflich viel erreicht. (He has achieved a lot professionally.)
+- Sie hat sich beruflich weitergebildet. (She has furthered her professional education.)
+'''
+die Berufsschule, -n B1
+Español: la escuela profesional
+Русский: профессиональное училище
+English: vocational school
+
+- Ich gehe jeden Tag zur **Berufsschule** und lerne dort einen Beruf.
+- Als er in der **Berufsschule** war, machte er eine Ausbildung zum Elektriker.
+- Sie hat ihre **Berufsschule** erfolgreich abgeschlossen und arbeitet jetzt als Friseurin.
+'''
+berufstätig, B1
+Español: activo laboralmente
+Русский: работающий
+English: employed
+
+Frases en alemán usando berufstätig:
+
+- Meine Mutter ist berufstätig und arbeitet als Lehrerin. (Mi madre es activa laboralmente y trabaja como profesora.)
+- Er war berufstätig, bis er in Rente ging. (Él era activo laboralmente, hasta que se jubiló.)
+- Sie ist seit zwei Jahren berufstätig und hat viel Erfahrung gesammelt. (Ella es activa laboralmente desde hace dos años y ha adquirido mucha experiencia.)
+'''
+die Berufstätigkeit, - en B1
+Español: la actividad profesional
+Русский: профессиональная деятельность
+English: professional activity
+
+Ejemplos de frases en alemán usando esta palabra:
+
+- **Die Berufstätigkeit** von Frauen hat in den letzten Jahrzehnten stark zugenommen. (La actividad profesional de las mujeres ha aumentado mucho en las últimas décadas.)
+- Er hat seine **Berufstätigkeit** als Lehrer im Jahr 2010 beendet. (Él terminó su actividad profesional como profesor en el año 2010.)
+- Sie möchte nach der Geburt ihres Kindes ihre **Berufstätigkeit** wieder aufnehmen. (Ella quiere retomar su actividad profesional después del nacimiento de su hijo.)
+'''
+dual, B1
+Español: doble
+Русский: двойной
+English: double
+
+Frases en alemán usando la palabra dual:
+
+- Ich habe eine **duale** Ausbildung gemacht, die Theorie und Praxis verbindet. (He hecho una formación **dual** que combina teoría y práctica.)
+- Er spricht **dual** mit ihr, als ob sie zwei verschiedene Personen wäre. (Él habla con ella en **doble** sentido, como si fuera dos personas diferentes.)
+- Sie hat einen **dualen** Master in Wirtschaft und Ingenieurwesen abgeschlossen. (Ella ha terminado un máster **doble** en economía e ingeniería.)
+'''
+die Empfehlung, -en B1
+Español: la recomendación
+Русский: рекомендация
+English: recommendation
+
+Frases en alemán usando esta palabra:
+
+- Ich habe eine Empfehlung für dich: Lies dieses Buch, es ist sehr spannend. (Tengo una recomendación para ti: lee este libro, es muy interesante.)
+- Er folgte der Empfehlung seines Arztes und nahm die Medikamente. (Él siguió la recomendación de su médico y tomó los medicamentos.)
+- Sie hat die Prüfung bestanden, weil sie viele Empfehlungen von ihren Lehrern bekommen hat. (Ella aprobó el examen porque recibió muchas recomendaciones de sus profesores.)
+'''
+die Ganztagsschule, -n B1
+Español: la escuela de jornada completa
+Русский: полная школа
+English: the full-day school
+
+- In einer Ganztagsschule haben die Schüler auch nachmittags Unterricht oder Betreuung.
+- Meine Tochter ging früher in eine Ganztagsschule, aber jetzt besucht sie eine Halbtagsschule.
+- Hast du schon gehört, dass die Regierung mehr Ganztagsschulen fördern will?
+'''
+gymnasial, B1
+Español: de secundaria
+Русский: гимназический
+English: high school
+
+- Ich habe meine gymnasiale Ausbildung in Berlin abgeschlossen.
+- Er war ein gymnasialer Lehrer für Mathematik und Physik.
+- Sie haben sich in der gymnasialen Oberstufe kennengelernt.
+'''
+die Konferenz, - en B1
+Español: la conferencia
+Русский: конференция
+English: the conference
+
+- Ich nehme an einer **Konferenz** über künstliche Intelligenz teil. (I am attending a **conference** on artificial intelligence.)
+- Letztes Jahr haben wir eine **Konferenz** in Berlin organisiert. (Last year we organized a **conference** in Berlin.)
+- Hast du die **Konferenz** gestern gesehen? Sie war sehr interessant. (Did you see the **conference** yesterday? It was very interesting.)
+'''
+die Lehrstelle, -n B1
+Español: el puesto de aprendizaje
+Русский: учебное место
+English: the apprenticeship position
+
+- Ich habe mich für eine **Lehrstelle** als Kfz-Mechatroniker beworben. (I applied for an apprenticeship position as a car mechanic.)
+- Er hat seine **Lehrstelle** verloren, weil er zu spät gekommen ist. (He lost his apprenticeship position because he was late.)
+- Sie hat ihre **Lehrstelle** erfolgreich abgeschlossen und arbeitet jetzt als Friseurin. (She successfully completed her apprenticeship position and now works as a hairdresser.)
+'''
+der Meister, - B1
+Español: el maestro, el campeón
+Русский: мастер, чемпион
+English: the master, the champion
+
+- Er ist ein Meister im Schach. (He is a master in chess.)
+- Sie wurde letztes Jahr Meisterin im Tennis. (She became the champion in tennis last year.)
+- Er hat den Meisterbrief als Elektriker erhalten. (He has received the master certificate as an electrician.)
+'''
+der Realschulabschluss, - ¨e B1
+Español: el título de secundaria
+Русский: аттестат о среднем образовании
+English: the secondary school diploma
+
+- Er hat seinen Realschulabschluss mit guten Noten gemacht. (He got his secondary school diploma with good grades.)
+- Nach dem Realschulabschluss wollte sie eine Ausbildung beginnen. (After the secondary school diploma, she wanted to start an apprenticeship.)
+- Hast du schon deinen Realschulabschluss erhalten? (Have you already received your secondary school diploma?)
+'''
+der Schulabschluss, - ¨e B1
+Español: el título escolar
+Русский: школьный аттестат
+English: school leaving certificate
+
+- Ich habe meinen **Schulabschluss** im Jahr 2020 gemacht. (I got my school leaving certificate in 2020.)
+- Nach dem **Schulabschluss** wollte er eine Ausbildung beginnen. (After finishing school, he wanted to start an apprenticeship.)
+- Hast du schon einen Plan für nach dem **Schulabschluss**? (Do you already have a plan for after finishing school?)
+'''
+die Schulbildung, - en B1
+Español: la educación escolar
+Русский: школьное образование
+English: school education
+
+- Die Schulbildung in Deutschland ist sehr gut und vielfältig. (The school education in Germany is very good and diverse.)
+- Als ich noch zur Schule ging, lernte ich viel über Geschichte und Geografie. (When I was still going to school, I learned a lot about history and geography.)
+- Er hat seine Schulbildung abgeschlossen und möchte jetzt studieren. (He has completed his school education and wants to study now.)
+'''
+die Schulpflicht, B1
+Español: la escolaridad obligatoria
+Русский: обязательное образование
+English: compulsory education
+
+- In Deutschland besteht die Schulpflicht für alle Kinder ab sechs Jahren.
+- Meine Schwester hat die Schulpflicht schon erfüllt und geht jetzt auf die Universität.
+- Hast du gewusst, dass die Schulpflicht in Finnland erst mit sieben Jahren beginnt?
+'''
+das Schulsystem, -e B1
+Español: el sistema escolar
+Русский: школьная система
+English: the school system
+
+- Das deutsche Schulsystem ist sehr komplex und unterscheidet sich je nach Bundesland.
+- Als ich in Deutschland lebte, ging ich in die Realschule, die eine der drei Arten von Sekundarschulen ist.
+- Meine Schwester hat das Gymnasium abgeschlossen und das Abitur gemacht, das ihr den Zugang zur Universität ermöglicht.
+'''
+der Schultyp, -en B1
+Español: el tipo de escuela
+Русский: тип школы
+English: the school type
+
+Tres frases en alemán usando esta palabra son:
+
+- In Deutschland gibt es **verschiedene Schultypen** für die Sekundarstufe. (En Alemania hay **diferentes tipos de escuela** para la educación secundaria.)
+- Welcher **Schultyp** ist am besten für dein Kind geeignet? (¿Qué **tipo de escuela** es el más adecuado para tu hijo?)
+- Ich habe meinen **Schultyp** gewechselt, weil ich eine andere Ausbildung machen wollte. (Cambié de **tipo de escuela** porque quería hacer otra formación.)
+'''
+die Volkshochschule, -n (VHS) B1
+Español: la escuela popular, la universidad popular
+Русский: народный университет, вечерняя школа
+English: the adult education center, the community college
+
+- Ich habe einen Deutschkurs an der **Volkshochschule** besucht.
+- Früher ging er jeden Abend zur **Volkshochschule**, um Englisch zu lernen.
+- Hast du dich schon für den Kochkurs an der **Volkshochschule** angemeldet?
+'''
+berufen, B1
+Español: llamar, nombrar, designar
+Русский: называть, назначать, призывать
+English: call, appoint, summon
+
+Frases en alemán usando berufen:
+
+- Er wurde zum Präsidenten **berufen**. (He was **appointed** president.)
+- Ich **berufe** mich auf die Verfassung. (I **refer** to the constitution.)
+- Sie hat sich **berufen** gefühlt, Lehrerin zu werden. (She felt **called** to become a teacher.)
+'''
+betreuen, B1
+Español: cuidar, atender
+Русский: ухаживать, сопровождать
+English: look after, supervise
+
+Frases en alemán usando betreuen:
+
+- Ich betreue meine kranke Großmutter jeden Tag. (Cuido de mi abuela enferma todos los días.)
+- Er hat viele Studenten betreut, die jetzt erfolgreiche Wissenschaftler sind. (Él ha supervisado a muchos estudiantes que ahora son científicos exitosos.)
+- Sie hat das Projekt von Anfang bis Ende betreut. (Ella ha supervisado el proyecto desde el principio hasta el final.)
+'''
+blocken, B1
+Español: bloquear
+Русский: блокировать
+English: block
+
+- Er blockt alle Anrufe von seiner Ex-Freundin. (He blocks all calls from his ex-girlfriend.)
+- Sie blockten den Weg mit ihren Autos. (They blocked the way with their cars.)
+- Hast du ihn schon auf Facebook geblockt? (Have you already blocked him on Facebook?)
+'''
+das Diplom, -e B1
+Español: el diploma
+Русский: диплом
+English: the diploma
+
+- Er hat sein **Diplom** in Physik gemacht. (He got his diploma in physics.)
+- Nach dem **Diplom** wollte sie noch einen Master machen. (After the diploma, she wanted to do a master's degree.)
+- Hast du dein **Diplom** schon erhalten? (Have you already received your diploma?)
+'''
+einführen, B1
+Español: introducir
+Русский: вводить
+English: introduce
+
+Frases en alemán usando einführen:
+
+- Ich möchte dir meinen Freund **einführen**. (I want to introduce you to my friend.)
+- Die Firma hat ein neues Produkt **eingeführt**. (The company introduced a new product.)
+- Er hat mich in die Kunst des Origami **eingeführt**. (He introduced me to the art of origami.)
+'''
+einschreiben, B1
+Español: inscribirse, matricularse
+Русский: записываться, регистрироваться
+English: enroll, register
+
+- Ich möchte mich für einen Deutschkurs **einschreiben**. (I want to enroll in a German course.)
+- Er **schrieb** sich an der Universität **ein**. (He enrolled at the university.)
+- Hast du dich schon für die Prüfung **eingeschrieben**? (Have you already registered for the exam?)
+'''
+das Fachwissen, B1
+Español: el conocimiento especializado
+Русский: специальные знания
+English: the expertise
+
+Frases en alemán usando esta palabra:
+
+- Er hat viel **Fachwissen** in der Biologie. (Él tiene mucho conocimiento especializado en biología.)
+- Sie hat ihr **Fachwissen** durch ein Praktikum erweitert. (Ella amplió su conocimiento especializado mediante una pasantía.)
+- Hast du genug **Fachwissen**, um diese Aufgabe zu lösen? (¿Tienes suficiente conocimiento especializado para resolver esta tarea?)
+'''
+die Forschung, - en B1
+Español: la investigación
+Русский: исследование
+English: research
+
+- Die Forschung ist sehr wichtig für die Entwicklung der Wissenschaft und Technologie.
+(Research is very important for the development of science and technology.)
+- Er forschte lange an diesem Thema, aber er fand keine Lösung.
+(He researched this topic for a long time, but he did not find a solution.)
+- Sie hat ihre Forschung erfolgreich abgeschlossen und einen Doktortitel erhalten.
+(She has successfully completed her research and received a doctorate degree.)
+'''
+die Hochschule, -n B1
+Español: la universidad
+Русский: вуз
+English: the university
+
+- Ich studiere an einer **Hochschule** für angewandte Wissenschaften. (I study at a university of applied sciences.)
+- Er hat seine **Hochschule** im Jahr 2019 abgeschlossen. (He finished his university in 2019.)
+- Sie hat sich für mehrere **Hochschulen** beworben. (She applied for several universities.)
+'''
+das Hochschulstudium, B1
+Español: la carrera universitaria
+Русский: высшее образование
+English: the university degree
+
+Frases en alemán usando esta palabra:
+
+- Ich möchte ein Hochschulstudium in Medizin beginnen. (Quiero empezar una carrera universitaria en medicina.)
+- Er hat sein Hochschulstudium in Deutschland abgeschlossen. (Él terminó su carrera universitaria en Alemania.)
+- Sie hat ein Hochschulstudium in Ingenieurwesen und ein Masterstudium in Wirtschaft. (Ella tiene una carrera universitaria en ingeniería y un máster en economía.)
+'''
+19, A1
+Español: diecinueve
+Русский: девятнадцать
+English: nineteen
+
+- Ich bin **19** Jahre alt. (I am **19** years old.)
+- Vor **19** Jahren war ich noch nicht geboren. (I was not born **19** years ago.)
+- Er hat **19** Bücher gelesen. (He has read **19** books.)
+'''
+internationalisieren, B1
+Español: internacionalizar
+Русский: интернационализировать
+English: internationalize
+
+Beispiele:
+- Die Firma will ihre Produkte **internationalisieren** und in mehreren Ländern verkaufen.
+- Die Schule hat sich entschieden, den Lehrplan zu **internationalisieren** und mehr Fremdsprachen anzubieten.
+- Er hat sein Studium **internationalisiert**, indem er ein Auslandssemester gemacht hat.
+'''
+die Methode, -n B1
+Español: el método
+Русский: метод
+English: the method
+
+- Er hat eine neue Methode entwickelt, um die Daten zu analysieren. (He has developed a new method to analyze the data.)
+- Sie lernte die Methode in der Schule. (She learned the method at school.)
+- Hast du schon die Methode angewendet, die ich dir gezeigt habe? (Have you already applied the method that I showed you?)
+'''
+methodisch, B1
+Español: metódico
+Русский: методичный
+English: methodical
+
+- Er arbeitet sehr methodisch und lässt nichts dem Zufall über. (He works very methodically and leaves nothing to chance.)
+- Sie hatte die Prüfung methodisch vorbereitet und bestanden. (She had prepared for the exam methodically and passed it.)
+- Er hat die Wohnung methodisch aufgeräumt und geputzt. (He cleaned and tidied up the apartment methodically.)
+'''
+die Naturwissenschaft, -en B1
+Español: la ciencia natural
+Русский: естественная наука
+English: natural science
+
+- Ich interessiere mich für **die Naturwissenschaft**.
+(I am interested in natural science.)
+- In der Schule haben wir **die Naturwissenschaften** wie Biologie, Physik und Chemie gelernt.
+(At school we learned natural sciences such as biology, physics and chemistry.)
+- Er hat einen Doktortitel in **Naturwissenschaft**.
+(He has a doctorate in natural science.)
+'''
+der Numerus Clausus, B1
+Español: el número clausus
+Русский: нумерус клаусус
+English: the numerus clausus
+
+- Der Numerus Clausus ist eine Beschränkung der Anzahl der Studienplätze für bestimmte Fächer.
+- Ich habe mich für Medizin beworben, aber der Numerus Clausus war zu hoch.
+- Hast du schon erfahren, wie der Numerus Clausus für dein Fach dieses Jahr ist?
+'''
+der Praktikant, -en, A1
+Español: el practicante
+Русский: стажёр
+English: the intern
+
+- Der Praktikant arbeitet heute im Labor. (The intern works in the laboratory today.)
+- Gestern hat der Praktikant einen Fehler gemacht. (Yesterday the intern made a mistake.)
+- Der Praktikant hat schon viel gelernt. (The intern has learned a lot.)
+'''
+die Praktikantin, -nen B1
+Español: la pasante, las pasantes
+Русский: стажерка, стажерки
+English: the intern, the interns
+
+- Die Praktikantin arbeitet in der Marketingabteilung. (The intern works in the marketing department.)
+- Gestern hat die Praktikantin einen Fehler gemacht und sich bei dem Chef entschuldigt. (Yesterday the intern made a mistake and apologized to the boss.)
+- Die Praktikantin hat schon viele Erfahrungen gesammelt und will nach dem Studium hier arbeiten. (The intern has already gained a lot of experience and wants to work here after graduation.)
+'''
+das Praktikum, die Praktika B1
+Español: la práctica, las prácticas
+Русский: практика, практики
+English: the internship, the internships
+
+- Ich mache ein Praktikum bei einer Zeitung. (I am doing an internship at a newspaper.)
+- Letztes Jahr hat er ein Praktikum in Berlin gemacht. (Last year he did an internship in Berlin.)
+- Hast du schon ein Praktikum gefunden? (Have you found an internship yet?)
+'''
+praktisch, B1
+Español: práctico
+Русский: практичный
+English: practical
+
+Frases en alemán usando esta palabra:
+
+- Dieser Rucksack ist sehr **praktisch** für Reisen. (Esta mochila es muy práctica para viajar.)
+- Er hat gestern eine **praktische** Prüfung in Physik bestanden. (Él aprobó ayer un examen práctico de física.)
+- Sie hat schon viel **praktische** Erfahrung in ihrem Beruf gesammelt. (Ella ya ha acumulado mucha experiencia práctica en su profesión.)
+'''
+das Projekt, -e B1
+Español: el proyecto
+Русский: проект
+English: the project
+
+- Ich arbeite an einem **Projekt** für die Schule.
+- Sie haben das **Projekt** gestern abgeschlossen.
+- Hast du schon von dem neuen **Projekt** gehört?
+'''
+das Referat, -e B1
+Español: la exposición, el informe
+Русский: доклад, реферат
+English: the presentation, the report
+
+- Ich muss ein Referat über die deutsche Geschichte halten. (I have to give a presentation on German history.)
+- Er hat gestern ein gutes Referat in der Schule gemacht. (He did a good report at school yesterday.)
+- Hast du dein Referat schon fertig geschrieben? (Have you finished writing your report yet?)
+'''
+referieren, B1
+Español: referir, citar
+Русский: ссылаться, цитировать
+English: refer, cite
+
+- Ich **referiere** mich auf die Studie von Müller und Schmidt, die 2019 veröffentlicht wurde. (I refer to the study by Müller and Schmidt, which was published in 2019.)
+- Er **referierte** gestern über das Thema Klimawandel. (He gave a lecture on the topic of climate change yesterday.)
+- Sie hat schon mehrmals über ihre Forschungsergebnisse **referiert**. (She has already lectured several times about her research results.)
+'''
+der Studienbewerber, - / die -, B1
+Español: el solicitante de estudios / la solicitante de estudios
+Русский: претендент на учебу / претендентка на учебу
+English: the study applicant / the study applicant
+
+Frases en alemán usando esta palabra:
+
+- Der Studienbewerber muss einen Lebenslauf und ein Motivationsschreiben einreichen. (The study applicant must submit a resume and a motivation letter.)
+- Sie war eine sehr gute Studienbewerberin und bekam ein Stipendium. (She was a very good study applicant and got a scholarship.)
+- Er hat sich als Studienbewerber an mehreren Universitäten beworben. (He applied as a study applicant to several universities.)
+'''
+bewerberin, -nen B1
+Español: solicitante, candidata
+Русский: соискательница, кандидатка
+English: applicant, candidate
+
+- Die Bewerberin hat einen guten Lebenslauf und viel Erfahrung. (The applicant has a good resume and a lot of experience.)
+- Gestern habe ich eine Bewerberin zum Vorstellungsgespräch eingeladen. (Yesterday I invited a candidate for an interview.)
+- Sie hat sich als Bewerberin für die Stelle qualifiziert. (She has qualified as a candidate for the position.)
+'''
+die Studiendauer, B1
+Español: la duración de los estudios
+Русский: продолжительность обучения
+English: the duration of studies
+
+- Die Studiendauer für diesen Bachelorstudiengang beträgt sechs Semester. (The duration of studies for this bachelor's degree program is six semesters.)
+- Wie lange war deine Studiendauer an der Universität? (How long was your duration of studies at the university?)
+- Ich habe meine Studiendauer um ein Jahr verlängert, weil ich ein Auslandssemester gemacht habe. (I extended my duration of studies by one year because I did a semester abroad.)
+'''
+die Studiengebühr, -en B1
+Español: la matrícula
+Русский: плата за обучение
+English: tuition fee
+
+- Ich muss noch die Studiengebühr für das nächste Semester bezahlen. (I still have to pay the tuition fee for the next semester.)
+- Als sie ihr Studium anfing, waren die Studiengebühren noch niedrig. (When she started her studies, the tuition fees were still low.)
+- Hast du schon gehört, dass die Universität die Studiengebühren erhöht hat? (Did you hear that the university has increased the tuition fees?)
+'''
+der Studienplatz, - ¨e B1
+Español: la plaza de estudios
+Русский: место для обучения
+English: the study place
+
+Frases en alemán usando esta palabra:
+
+- Ich habe mich für einen **Studienplatz** an der Universität beworben. (Me he postulado para una plaza de estudios en la universidad.)
+- Er hat seinen **Studienplatz** verloren, weil er die Prüfung nicht bestanden hat. (Él ha perdido su plaza de estudios porque no aprobó el examen.)
+- Sie hat einen **Studienplatz** in Medizin bekommen und ist sehr glücklich. (Ella ha conseguido una plaza de estudios en medicina y está muy feliz.)
+'''
+studierend, B1
+Español: estudiante universitario
+Русский: студент
+English: university student
+
+Frases en alemán usando studierend:
+
+- Ich bin studierend an der Universität Bonn. (Soy estudiante en la Universidad de Bonn.)
+- Er hat viele studierende Freunde. (Él tiene muchos amigos universitarios.)
+- Sie hat als studierende gearbeitet. (Ella trabajó como estudiante.)
+'''
+die Tagung, -en B1
+Español: la conferencia, el congreso
+Русский: конференция, съезд
+English: the conference, the congress
+
+- Die Tagung findet nächste Woche in Berlin statt. (The conference takes place next week in Berlin.)
+- Letztes Jahr habe ich an einer Tagung über künstliche Intelligenz teilgenommen. (Last year I attended a conference on artificial intelligence.)
+- Ich habe viele interessante Leute auf der Tagung kennengelernt. (I met many interesting people at the conference.)
+'''
+die Veranstaltung, -en B1
+Español: el evento
+Русский: мероприятие
+English: the event
+
+- Ich gehe heute Abend zu einer **Veranstaltung** im Theater. (I'm going to an **event** at the theater tonight.)
+- Gestern fand eine wichtige **Veranstaltung** in der Schule statt. (Yesterday there was an important **event** at school.)
+- Hast du schon von der **Veranstaltung** gehört, die nächste Woche in der Stadt organisiert wird? (Have you heard of the **event** that is being organized in the city next week?)
+'''
+der Vortrag, - ¨e B1
+Español: la conferencia, la ponencia
+Русский: лекция, доклад
+English: lecture, presentation
+
+- Der Professor hält einen interessanten Vortrag über die Geschichte der Mathematik. (The professor gives an interesting lecture on the history of mathematics.)
+- Gestern hielt sie einen Vortrag über ihre Forschungsergebnisse. (Yesterday she gave a presentation on her research findings.)
+- Er hat schon viele Vorträge auf internationalen Konferenzen gehalten. (He has already given many presentations at international conferences.)
+'''
+vortragen, B1
+Español: presentar, exponer
+Русский: представлять, выступать
+English: present, perform
+
+Frases en alemán usando vortragen:
+
+- Er **trägt** ein Gedicht vor der Klasse **vor**. (Él presenta un poema frente a la clase.)
+- Sie **trug** gestern eine Rede im Parlament **vor**. (Ella expuso un discurso en el parlamento ayer.)
+- Er hat uns seine Idee sehr gut **vorgetragen**. (Él nos ha presentado su idea muy bien.)
+'''
+die Wissenschaft, - en B1
+Español: la ciencia
+Русский: наука
+English: science
+
+- Die Wissenschaft ist eine wichtige Quelle des Wissens. (Science is an important source of knowledge.)
+- Er studierte Wissenschaft in der Universität. (He studied science at the university.)
+- Sie hat viele wissenschaftliche Artikel veröffentlicht. (She has published many scientific articles.)
+'''
+der Wissenschaftler, - / die Wissenschaftlerin, -nen, B1
+Español: el científico / la científica
+Русский: учёный / учёная
+English: the scientist
+
+Ejemplos:
+
+- Der Wissenschaftler **arbeitet** an einem neuen Impfstoff. (The scientist is working on a new vaccine.)
+- Die Wissenschaftlerin **entdeckte** eine neue Art von Bakterien. (The scientist discovered a new type of bacteria.)
+- Er hat als Wissenschaftler **gearbeitet**. (He has worked as a scientist.)
+'''
+Wissenschaftlerin, -nen B1
+Español: científica
+Русский: учёная
+English: scientist
+
+- Die Wissenschaftlerin arbeitet an einem neuen Projekt. (The scientist is working on a new project.)
+- Gestern hat die Wissenschaftlerin einen Vortrag gehalten. (Yesterday, the scientist gave a lecture.)
+- Die Wissenschaftlerin hat eine wichtige Entdeckung gemacht. (The scientist has made an important discovery.)
+'''
+wissenschaftlich, B1
+Español: científico
+Русский: научный
+English: scientific
+
+Frases en alemán usando esta palabra:
+
+- Er arbeitet als **wissenschaftlicher** Mitarbeiter an der Universität. (He works as a **scientific** assistant at the university.)
+- Die Ergebnisse dieser Studie sind nicht sehr **wissenschaftlich**. (The results of this study are not very **scientific**.)
+- Sie hat eine **wissenschaftliche** Abhandlung über die Auswirkungen des Klimawandels geschrieben. (She wrote a **scientific** paper on the effects of climate change.)
+'''
+das Zertifikat, -e B1
+Español: el certificado
+Русский: сертификат
+English: the certificate
+
+- Ich habe mein **Zertifikat** für den Deutschkurs erhalten. (I have received my certificate for the German course.)
+- Er braucht ein **Zertifikat**, um sich für die Universität zu bewerben. (He needs a certificate to apply for the university.)
+- Hast du dein **Zertifikat** schon abgeholt? (Have you already picked up your certificate?)
+'''
+die Zulassung, - en B1
+Español: la admisión, el permiso
+Русский: допуск, разрешение
+English: admission, permission
+
+Frases en alemán usando esta palabra:
+
+- Er hat die Zulassung zum Studium an der Universität bekommen. (He got the admission to study at the university.)
+- Sie brauchen eine Zulassung, um dieses Auto zu fahren. (You need a permission to drive this car.)
+- Ich habe gestern die Zulassung für die Prüfung erhalten. (I received the admission for the exam yesterday.)
+'''
+bearbeiten, B1
+Español: editar, procesar
+Русский: редактировать, обрабатывать
+English: edit, process
+
+- Ich bearbeite gerade einen Text für die Schule. (I am editing a text for school.)
+- Er bearbeitete die Fotos mit einem Programm. (He processed the photos with a program.)
+- Sie hat den Bericht schon bearbeitet. (She has already edited the report.)
+'''
+die Bearbeitung, - en B1
+Español: la edición, el procesamiento
+Русский: редактирование, обработка
+English: editing, processing
+
+- Die Bearbeitung des Textes hat viel Zeit gekostet. (The editing of the text took a lot of time.)
+- Er hat die Bearbeitung des Fotos mit einem Programm gemacht. (He did the processing of the photo with a program.)
+- Nach der Bearbeitung haben wir das Dokument an den Chef geschickt. (After the editing, we sent the document to the boss.)
+'''
+lehren B1
+Español: enseñar
+Русский: учить
+English: teach
+
+Frases en alemán usando lehren:
+
+- Ich **lehre** Mathematik an der Universität. (Presente)
+- Er **lehrte** uns die Grundlagen der Physik. (Präteritum)
+- Sie hat viele Jahre Deutsch **gelehrt**. (Perfekt)
+'''
+unterrichten B1
+Español: enseñar
+Русский: преподавать
+English: teach
+
+Frases en alemán usando unterrichten:
+
+- Ich unterrichte Mathematik an einer Schule. (Enseño matemáticas en una escuela.)
+- Er unterrichtete seine Schüler über die Geschichte Deutschlands. (Él enseñó a sus alumnos sobre la historia de Alemania.)
+- Sie hat viele Jahre lang Deutsch unterrichtet. (Ella ha enseñado alemán durante muchos años.)
+'''
+die Anforderung, - en B1
+Español: el requisito, la exigencia
+Русский: требование, запрос
+English: the requirement, the demand
+
+- Die Anforderung für diesen Job ist sehr hoch. (The requirement for this job is very high.)
+- Er stellte eine Anforderung an den Verkäufer. (He made a demand to the seller.)
+- Sie hat alle Anforderungen erfüllt. (She has fulfilled all the requirements.)
+'''
+erfüllen, B1
+Español: cumplir
+Русский: выполнять
+English: fulfill
+
+Frases en alemán usando erfüllen:
+
+- Ich erfülle meine Pflichten als Lehrer. (I fulfill my duties as a teacher.)
+- Er erfüllte seinen Traum, Schriftsteller zu werden. (He fulfilled his dream of becoming a writer.)
+- Hast du die Anforderungen für den Kurs erfüllt? (Have you fulfilled the requirements for the course?)
+'''
+die Qualifikation, - en B1
+Español: la cualificación, las cualificaciones
+Русский: квалификация, квалификации
+English: qualification, qualifications
+
+Frases en alemán usando esta palabra:
+
+- Er hat die Qualifikation für die Olympischen Spiele geschafft. (He qualified for the Olympic Games.)
+- Sie braucht eine höhere Qualifikation, um befördert zu werden. (She needs a higher qualification to get promoted.)
+- Er hat seine Qualifikation im letzten Jahr erworben. (He obtained his qualification last year.)
+'''
+der Teilnehmer, - / die Teilnehmerin, B1
+Español: el participante / la participante
+Русский: участник / участница
+English: the participant
+Frases en alemán:
+- Der Teilnehmer muss sich vor dem Kurs anmelden. (The participant must register before the course.)
+- Die Teilnehmerin hat eine interessante Frage gestellt. (The participant asked an interesting question.)
+- Er war ein begeisterter Teilnehmer an vielen Wettbewerben. (He was an enthusiastic participant in many competitions.)
+'''
+-nen, B1
+Español: sufijo que forma sustantivos femeninos a partir de verbos o adjetivos
+Русский: суффикс, образующий женские существительные от глаголов или прилагательных
+English: suffix that forms feminine nouns from verbs or adjectives
+
+Ejemplos:
+- Die **Lehrerin** unterrichtet die Schüler. (The teacher teaches the students.)
+- Sie ist eine gute **Sängerin**. (She is a good singer.)
+- Die **Wohnung** ist sehr schön. (The apartment is very nice.)
+'''
+bestätigen, B2
+Español: confirmar
+Русский: подтверждать
+English: confirm
+
+- Ich kann dir leider nicht bestätigen, ob das Paket heute ankommt. (I can't confirm to you whether the package will arrive today.)
+- Er bestätigte, dass er gestern im Büro war. (He confirmed that he was in the office yesterday.)
+- Hast du schon bestätigt, dass du an der Konferenz teilnimmst? (Have you already confirmed that you are attending the conference?)
+'''
+die Bestätigung, -en B2
+Español: la confirmación
+Русский: подтверждение
+English: confirmation
+
+- Ich habe die Bestätigung für meinen Flug nach Berlin erhalten. (I have received the confirmation for my flight to Berlin.)
+- Er bestätigte, dass er das Paket geschickt hatte. (He confirmed that he had sent the package.)
+- Hast du schon deine Anmeldung bestätigt? (Have you already confirmed your registration?)
+'''
+die Urkunde, -n B2
+Español: el certificado, los certificados
+Русский: свидетельство, свидетельства
+English: the certificate, the certificates
+
+- Er hat eine Urkunde für seine Leistung erhalten. (He received a certificate for his achievement.)
+- Sie bewahrte die Urkunde in einer Schublade auf. (She kept the certificate in a drawer.)
+- Hast du schon deine Urkunde bekommen? (Have you already received your certificate?)
+'''
+der Bildungsstand, - ¨e B2
+Español: el nivel educativo
+Русский: уровень образования
+English: the educational level
+
+- Der Bildungsstand der Bevölkerung ist ein wichtiger Faktor für die wirtschaftliche Entwicklung. (The educational level of the population is an important factor for economic development.)
+- Im Jahr 2019 hatten 18,1 Prozent der Menschen in Deutschland einen niedrigen Bildungsstand. (In 2019, 18.1 percent of people in Germany had a low educational level.)
+- Ich habe meinen Bildungsstand verbessert, indem ich einen Masterabschluss gemacht habe. (I have improved my educational level by obtaining a master's degree.)
+'''
+Erwerb, B2
+Español: adquisición
+Русский: приобретение
+English: acquisition
+
+- Der Erwerb von Wissen ist ein wichtiger Teil des Lernens. (The acquisition of knowledge is an important part of learning.)
+- Sie erwarb das Haus im Jahr 2010. (She acquired the house in 2010.)
+- Er hat den Erwerb der neuen Fähigkeiten erfolgreich abgeschlossen. (He has successfully completed the acquisition of the new skills.)
+'''
+erwerben, B2
+Español: adquirir
+Русский: приобретать
+English: acquire
+
+- Ich möchte eine neue Sprache **erwerben**. (I want to acquire a new language.)
+- Er **erwarb** ein altes Haus in der Stadt. (He acquired an old house in the city.)
+- Sie hat viele Fähigkeiten **erworben**. (She has acquired many skills.)
+'''
+vermitteln, B2
+Español: transmitir, mediar
+Русский: передавать, посредничать
+English: convey, mediate
+
+Ejemplos:
+
+- Der Lehrer versucht, den Schülern die Grundlagen der Mathematik zu **vermitteln**.
+(El profesor intenta transmitir a los alumnos los fundamentos de las matemáticas.)
+
+- Die Diplomaten **vermittelten** zwischen den verfeindeten Ländern.
+(Los diplomáticos mediaron entre los países enemigos.)
+
+- Er hat mir einen guten Eindruck **vermittelt**.
+(Me ha transmitido una buena impresión.)
+'''
+die Vermittlung, -en B2
+Español: la mediación, el servicio de intermediación
+Русский: посредничество, служба посредничества
+English: mediation, intermediary service
+
+- Die Vermittlung von Konflikten ist eine wichtige Aufgabe für Lehrer. (Mediating conflicts is an important task for teachers.)
+- Er arbeitete früher bei einer Vermittlung für Arbeitslose. (He used to work at an intermediary service for the unemployed.)
+- Sie hat die Vermittlung angerufen, um einen Termin zu vereinbaren. (She called the mediation service to make an appointment.)
+
+zielen B2
+Español: apuntar, tener como objetivo
+Русский: целиться, иметь в виду
+English: aim, target
+
+- Er zielte mit der Pistole auf die Zielscheibe. (He aimed the pistol at the target.)
+- Sie zielte darauf ab, die Prüfung zu bestehen. (She aimed to pass the exam.)
+- Er hat mit seiner Kritik nicht dich gezielt, sondern mich. (He did not target you with his criticism, but me.)
+'''
+benoten, B2
+Español: calificar, evaluar
+Русский: оценивать, выставлять оценки
+English: grade, assess
+
+Frases en alemán usando benoten:
+
+- Der Lehrer **benotet** die Schüler nach ihren Leistungen. (El profesor califica a los alumnos según sus resultados.)
+- Die Jury **benotete** die Kandidaten mit einer Skala von eins bis zehn. (El jurado evaluó a los candidatos con una escala de uno a diez.)
+- Er hat seine Prüfung gut **benotet**. (Él ha obtenido una buena nota en su examen.)
+'''
+bewerten B2
+Español: evaluar
+Русский: оценивать
+English: evaluate
+
+Frases en alemán usando bewerten:
+
+- Ich muss noch die Klausuren meiner Schüler bewerten. (Todavía tengo que evaluar los exámenes de mis alumnos.)
+- Wie hast du das Buch bewertet, das du gelesen hast? (¿Cómo evaluaste el libro que leíste?)
+- Er hat seine Leistung selbst sehr hoch bewertet. (Él evaluó su rendimiento muy alto.)
+'''
+leistungsfähig, B2
+Español: eficiente, capaz
+Русский: эффективный, способный
+English: efficient, capable
+
+- Dieses Auto ist sehr leistungsfähig und verbraucht wenig Benzin. (This car is very efficient and consumes little gasoline.)
+- Er war leistungsfähig, als er noch jung war, aber jetzt ist er alt und müde. (He was capable when he was young, but now he is old and tired.)
+- Sie hat die Prüfung bestanden, weil sie sehr leistungsfähig gelernt hat. (She passed the exam because she studied very efficiently.)
+'''
+die Leistungsfähigkeit, - en B2
+Español: la capacidad de rendimiento
+Русский: работоспособность
+English: the performance
+
+- Die Leistungsfähigkeit der Mitarbeiter hängt von vielen Faktoren ab. (The performance of the employees depends on many factors.)
+- Er war sehr stolz auf seine Leistungsfähigkeit im Sport. (He was very proud of his performance in sports.)
+- Sie hat ihre Leistungsfähigkeit durch regelmäßiges Training verbessert. (She improved her performance by regular training.)
+'''
+die Zensur, - en B2
+Español: la censura
+Русский: цензура
+English: censorship
+
+- Die Zensur ist eine Einschränkung der Meinungsfreiheit. (Censorship is a restriction of freedom of expression.)
+- In der DDR wurde die Presse zensiert. (In the GDR, the press was censored.)
+- Die Regierung hat viele Bücher und Filme zensiert. (The government has censored many books and movies.)
+'''
+sich auskennen mit, D B2
+Español: estar familiarizado con
+Русский: разбираться в
+English: to be familiar with
+
+Frases en alemán usando sich auskennen mit:
+
+- Ich kenne mich gut mit Computern aus. (Me familiarizo bien con las computadoras. / Я хорошо разбираюсь в компьютерах. / I am familiar with computers.)
+- Er kannte sich mit der Geschichte nicht aus. (Él no estaba familiarizado con la historia. / Он не разбирался в истории. / He was not familiar with history.)
+- Hast du dich mit dem Thema auskennen? (¿Te has familiarizado con el tema? / Ты разобрался в теме? / Have you familiarized yourself with the topic?)
+'''
+begreifen B2
+Español: comprender, entender
+Русский: понимать, постигать
+English: comprehend, grasp
+
+- Ich begreife nicht, warum er so wütend ist. (I don't understand why he is so angry.)
+- Er begriff schnell, dass er einen Fehler gemacht hatte. (He quickly realized that he had made a mistake.)
+- Hast du das Konzept schon begriffen? (Have you grasped the concept yet?)
+'''
+die Kenntnis, - se B2
+Español: el conocimiento
+Русский: знание
+English: the knowledge
+
+- Ich habe **die Kenntnis** von diesem Projekt. (I have the knowledge of this project.)
+- Er erlangte **die Kenntnis** über die Geschichte Deutschlands. (He acquired the knowledge about the history of Germany.)
+- Sie haben ihre **Kenntnisse** in Mathematik verbessert. (They have improved their knowledge in mathematics.)
+'''
+die Ordinalzahl, - en B2
+Español: el número ordinal
+Русский: порядковое числительное
+English: the ordinal number
+
+- Die **erste** Ordinalzahl ist eins. (The first ordinal number is one.)
+- Er wurde **zweiter** in dem Wettbewerb. (He came second in the competition.)
+- Sie hat die Prüfung **bestanden**. (She passed the exam.)
+'''
+abschneiden, B2
+Español: cortar, recortar, salir (en un examen)
+Русский: отрезать, обрезать, сдать (экзамен)
+English: cut, trim, do (in a test)
+
+Frases en alemán usando abschneiden:
+
+- Er hat die Haare mit einer Schere abgeschnitten. (He cut his hair with scissors.)
+- Sie hat die Blumen abgeschnitten und in eine Vase gestellt. (She trimmed the flowers and put them in a vase.)
+- Wie hast du in der Prüfung abgeschnitten? (How did you do in the test?)
+'''
+durchlaufen, B2
+Español: atravesar, recorrer, pasar por
+Русский: проходить, пробегать, переживать
+English: go through, run through, experience
+
+- Ich bin gestern durch den Park gelaufen. (I ran through the park yesterday.)
+- Er hat viele Schwierigkeiten durchlaufen. (He went through many difficulties.)
+- Hast du schon die Anleitung durchlaufen? (Have you already run through the instructions?)
+'''
+der Abiturient, - en B2
+Español: el bachiller
+Русский: абитуриент
+English: the high school graduate
+
+- Der Abiturient hat sich für die Universität beworben. (The high school graduate applied for the university.)
+- Als Abiturientin war sie sehr fleißig und ehrgeizig. (As a high school graduate, she was very hard-working and ambitious.)
+- Er hat sein Abitur gemacht und ist jetzt Abiturient. (He passed his high school diploma and is now a high school graduate.)
+'''
+die Alphabetisierung, - en B2
+Español: la alfabetización
+Русский: грамотность
+English: literacy
+
+- Die Alphabetisierung ist ein wichtiger Faktor für die Entwicklung eines Landes. (Literacy is an important factor for the development of a country.)
+- Im Mittelalter war die Alphabetisierung in Europa sehr niedrig. (In the Middle Ages, literacy in Europe was very low.)
+- Viele Organisationen setzen sich für die Alphabetisierung von Kindern und Erwachsenen ein. (Many organizations are committed to the literacy of children and adults.)
+'''
+der Analphabet, -en B2
+Español: el analfabeto
+Русский: неграмотный
+English: the illiterate
+- Er ist ein **Analphabet** und kann weder lesen noch schreiben. (He is an illiterate and can neither read nor write.)
+- Als Kind war sie eine **Analphabetin**, aber sie hat später in der Schule gelernt. (As a child, she was an illiterate, but she learned later in school.)
+- Er hat sich als **Analphabet** geoutet und um Hilfe gebeten. (He came out as an illiterate and asked for help.)
+'''
+der Analphabetismus, B2
+Español: analfabetismo
+Русский: неграмотность
+English: illiteracy
+- Der Analphabetismus ist ein großes Problem in vielen Ländern der Welt. (Illiteracy is a big problem in many countries of the world.)
+- Als Kind lernte er nie lesen und schreiben, deshalb litt er unter Analphabetismus. (As a child, he never learned to read and write, so he suffered from illiteracy.)
+- Sie hat den Analphabetismus überwunden und eine erfolgreiche Karriere gemacht. (She overcame illiteracy and made a successful career.)
+'''
+auslaufen, B2
+Español: expirar, salir, escaparse
+Русский: истекать, выходить, убегать
+English: expire, go out, run away
+- Der Vertrag läuft am Ende des Monats aus. (The contract expires at the end of the month.)
+- Die Kinder sind zum Spielen ausgegangen. (The children went out to play.)
+- Der Hund ist aus dem Garten ausgelaufen. (The dog ran away from the garden.)
+'''
+sich beschränken auf, B2
+Español: limitarse a
+Русский: ограничиваться чем-то
+English: to confine oneself to something
+
+Frases en alemán usando sich beschränken auf:
+
+- Ich möchte mich heute auf die wichtigsten Punkte beschränken. (I would like to confine myself to the most important points today.)
+- Er hat sich in seiner Rede auf die positiven Aspekte beschränkt. (He confined himself to the positive aspects in his speech.)
+- Sie hat sich nicht auf eine Antwort beschränkt, sondern viele Beispiele gegeben. (She did not confine herself to an answer, but gave many examples.)
+'''
+beschränkt sein auf, B2
+Español: estar limitado a
+Русский: быть ограниченным
+English: to be limited to
+
+- Die Auswahl der Kandidaten ist **beschränkt auf** diejenigen, die die Anforderungen erfüllen.
+- Die Auswahl der Kandidaten war **beschränkt auf** diejenigen, die die Anforderungen erfüllten.
+- Die Auswahl der Kandidaten ist **beschränkt auf** diejenigen, die die Anforderungen erfüllt haben.
+
+(The selection of candidates is limited to those who meet the requirements.
+The selection of candidates was limited to those who met the requirements.
+The selection of candidates has been limited to those who have met the requirements.)
+'''
+die Beschränkung, -en B2
+Español: la restricción, el límite
+Русский: ограничение, предел
+English: the restriction, the limit
+
+Frases en alemán usando esta palabra:
+
+- Die Beschränkung der Reisefreiheit hat viele Menschen frustriert. (The restriction of freedom of travel has frustrated many people.)
+- Er musste wegen einer Geschwindigkeitsbeschränkung langsamer fahren. (He had to drive slower because of a speed limit.)
+- Sie haben die Beschränkung aufgehoben, nachdem die Situation sich verbessert hat. (They lifted the restriction after the situation improved.)
+'''
+einschulen, B2
+Español: matricular, inscribir
+Русский: зачислять, поступать
+English: enroll, register
+
+Frases en alemán usando einschulen:
+
+- Meine Tochter wird nächste Woche in die Grundschule **eingeschult**. (My daughter will be enrolled in elementary school next week.)
+- Er hat sich an der Universität **eingeschult**, um Medizin zu studieren. (He enrolled at the university to study medicine.)
+- Sie ist schon seit drei Jahren **eingeschult**, aber sie mag die Schule immer noch nicht. (She has been enrolled for three years, but she still doesn't like school.)
+'''
+lebenslang, B2
+Español: de por vida, perpetuo
+Русский: пожизненный, бессрочный
+English: lifelong, perpetual
+
+- Er wurde zu einer lebenslangen Haftstrafe verurteilt. (He was sentenced to life imprisonment.)
+- Sie hat lebenslanges Lernen zu ihrem Motto gemacht. (She has made lifelong learning her motto.)
+- Er hat sich lebenslang an diesen Tag erinnert. (He remembered that day for the rest of his life.)
+'''
+sich qualifizieren für, B2
+Español: calificarse para
+Русский: квалифицироваться для
+English: qualify for
+
+Frases en alemán usando sich qualifizieren für:
+
+- Ich möchte mich für die Olympischen Spiele **qualifizieren**. (I want to qualify for the Olympic Games.)
+- Er hat sich für das Finale **qualifiziert**, indem er den Rekord gebrochen hat. (He qualified for the final by breaking the record.)
+- Hast du dich schon für die Prüfung **qualifiziert**? (Have you already qualified for the exam?)
+'''
+der Realschulabgänger, - B2
+Español: el graduado de secundaria
+Русский: выпускник средней школы
+English: the high school graduate
+
+- Der Realschulabgänger **sucht** nach einem Ausbildungsplatz. (The high school graduate is looking for a training place.)
+- Er **hat** die Realschule **abgeschlossen**. (He finished high school.)
+- Sie **war** eine gute Realschulabgängerin. (She was a good high school graduate.)
+'''
+schulreif, B2
+Español: apto para la escuela
+Русский: школоспособный
+English: school-ready
+
+- Er ist noch nicht schulreif, er muss noch ein Jahr im Kindergarten bleiben.
+- Sie war schon mit vier Jahren schulreif, sie konnte schon lesen und schreiben.
+- Sind deine Kinder schon schulreif? Sie sehen sehr klug aus.
+'''
+der Nachweis, -e B2
+Español: la prueba, la evidencia
+Русский: доказательство, свидетельство
+English: proof, evidence
+
+- Er hat keinen Nachweis für seine Behauptung. (He has no proof for his claim.)
+- Die Polizei fand einen Nachweis für den Diebstahl. (The police found evidence of the theft.)
+- Sie hat den Nachweis erbracht, dass sie die Prüfung bestanden hat. (She provided evidence that she passed the exam.)
+'''
+nachweisen, B2
+Español: demostrar, probar
+Русский: доказывать, подтверждать
+English: prove, demonstrate
+
+- Er kann seine Unschuld nicht nachweisen. (He cannot prove his innocence.)
+- Sie wies nach, dass sie die Prüfung bestanden hatte. (She demonstrated that she had passed the exam.)
+- Er hat mir nachgewiesen, dass er Recht hatte. (He proved to me that he was right.)
+'''
+der Ruf, -e B2
+Español: la reputación, el prestigio
+Русский: репутация, престиж
+English: reputation, prestige
+
+- Der Ruf dieser Universität ist sehr gut. (The reputation of this university is very good.)
+- Er hat seinen Ruf als Experte verloren. (He lost his reputation as an expert.)
+- Sie hat sich einen guten Ruf erarbeitet. (She has earned a good reputation.)
+'''
+der Schein, -e B2
+Español: el billete, el boleto, la apariencia
+Русский: купюра, билет, видимость
+English: the bill, the ticket, the appearance
+
+Frases en alemán usando esta palabra:
+
+- Ich habe nur einen **Schein** in meiner Tasche. (I only have one bill in my pocket.)
+- Er hat mir einen falschen **Schein** gegeben. (He gave me a fake ticket.)
+- Der **Schein** trügt manchmal. (Appearances can be deceiving sometimes.)
+'''
+semestrig, B2
+Español: semestral
+Русский: полугодовой
+English: semester
+
+- Die Universität bietet **semestrig**e Kurse an, die im Oktober beginnen. (The university offers **semester** courses that start in October.)
+- Ich habe mich für einen **einsemestrigen** Deutschkurs angemeldet, um meine Sprachkenntnisse zu verbessern. (I enrolled in a **one-semester** German course to improve my language skills.)
+- Er hat sein Studium nach **zwei semestrigen** Auslandsaufenthalten abgeschlossen. (He completed his studies after **two semesters** abroad.)
+'''
+der Titel, - B2
+Español: el título
+Русский: заголовок
+English: the title
+
+- Der Titel des Buches ist "Der kleine Prinz".
+(The title of the book is "The Little Prince".)
+- Er hat einen Doktortitel in Physik.
+(He has a doctorate in physics.)
+- Hast du schon den neuen Titel von Adele gehört?
+(Have you heard the new title from Adele?)
+'''
+das Trimester, - B2
+Español: el trimestre
+Русский: триместр
+English: the trimester
+
+- Ich bin im **ersten Trimester** meiner Schwangerschaft und fühle mich sehr müde. (I am in the **first trimester** of my pregnancy and feel very tired.)
+- Im **zweiten Trimester** hat sich die Lage in dem Land verschlechtert. (In the **second trimester**, the situation in the country worsened.)
+- Er hat im **dritten Trimester** alle seine Prüfungen bestanden. (He passed all his exams in the **third trimester**.)
+'''
+verpflichten zu, B2
+Español: obligar a
+Русский: обязывать к
+English: to oblige to
+
+Ejemplos:
+- Der Vertrag verpflichtet uns zu regelmäßigen Zahlungen. (El contrato nos obliga a realizar pagos regulares.)
+- Er verpflichtete sich zu nichts. (Él no se comprometió a nada.)
+- Sie hat sich zu einer Spende verpflichtet. (Ella se ha comprometido a hacer una donación.)
+'''
+die Verpflichtung, -en B2
+Español: la obligación
+Русский: обязательство
+English: the obligation
+
+- Ich habe die Verpflichtung, meine Hausaufgaben zu machen. (I have the obligation to do my homework.)
+- Er erfüllte seine Verpflichtung als Soldat. (He fulfilled his obligation as a soldier.)
+- Sie haben ihre Verpflichtung gegenüber dem Verein nicht eingehalten. (They did not keep their obligation to the club.)
+'''
+die Wartezeit, - en B2
+Español: el tiempo de espera
+Русский: время ожидания
+English: the waiting time
+
+- Die Wartezeit für den Bus beträgt 15 Minuten. (The waiting time for the bus is 15 minutes.)
+- Er musste lange in der Arztpraxis warten, weil die Wartezeit sehr lang war. (He had to wait a long time at the doctor's office, because the waiting time was very long.)
+- Sie hat die Wartezeit genutzt, um ein Buch zu lesen. (She used the waiting time to read a book.)
+'''
+Die Zulassungs- es un prefijo que significa "admisión" o "aprobación" en alemán. Se puede combinar con otras palabras para formar sustantivos compuestos. Por ejemplo:
+
+- die Zulassungsbescheinigung: certificado de matriculación
+- Русский: свидетельство о регистрации
+- English: registration certificate
+
+- die Zulassungsprüfung: examen de admisión
+- Русский: вступительный экзамен
+- English: entrance exam
+
+- die Zulassungsvoraussetzung: requisito de admisión
+- Русский: требование к поступлению
+- English: admission requirement
+
+Aquí hay algunas frases en alemán usando el prefijo die Zulassungs-:
+
+- Um an der Universität zu studieren, musst du eine **Zulassungsprüfung** bestehen. (Para estudiar en la universidad, tienes que pasar un examen de admisión.)
+- Er hat seine **Zulassungsbescheinigung** verloren und muss eine neue beantragen. (Él perdió su certificado de matriculación y tiene que solicitar uno nuevo.)
+- Die **Zulassungsvoraussetzungen** für diesen Master sind sehr hoch. (Los requisitos de admisión para este máster son muy altos.)
+'''
+beschränkung, -en B2
+Español: restricción, limitación
+Русский: ограничение, сдерживание
+English: restriction, limitation
+
+- Die Beschränkung der Reisefreiheit hat viele Menschen frustriert. (The restriction of freedom of travel has frustrated many people.)
+- Wegen der Pandemie mussten wir unsere Pläne beschränken. (Because of the pandemic, we had to limit our plans.)
+- Er hat seine Beschränkungen erkannt und versucht, sie zu überwinden. (He has recognized his limitations and tries to overcome them.)
+'''
+anweisen, B2
+Español: ordenar, instruir
+Русский: приказывать, наставлять
+English: order, instruct
+
+Frases en alemán usando anweisen:
+
+- Der Chef **weist** die Mitarbeiter **an**, die Arbeit bis Freitag zu erledigen. (El jefe ordena a los empleados que terminen el trabajo para el viernes.)
+- Die Lehrerin **wies** die Schüler **an**, ihre Hausaufgaben zu machen. (La profesora instruyó a los alumnos a hacer sus deberes.)
+- Er hat mich **angewiesen**, dir diese Nachricht zu überbringen. (Él me ha ordenado que te entregue este mensaje.)
+'''
+die Anweisung, - en B2
+Español: la instrucción
+Русский: инструкция
+English: the instruction
+
+- Bitte folgen Sie **den Anweisungen** auf dem Bildschirm.
+  - Please follow **the instructions** on the screen.
+- Er gab mir **eine Anweisung**, wie ich das Gerät bedienen sollte.
+  - He gave me **an instruction** on how to operate the device.
+- Sie hat **die Anweisung** nicht befolgt und ist in Schwierigkeiten geraten.
+  - She did not follow **the instruction** and got into trouble.
+'''
+ausfallen, B2
+Español: cancelarse, suspenderse, fallar
+Русский: отменяться, выходить из строя, выпадать
+English: to be cancelled, to break down, to fall out
+
+- Der Flug ist ausgefallen, weil es zu viel Schnee gab. (The flight was cancelled because there was too much snow.)
+- Mein Computer ist gestern ausgefallen und ich habe alle meine Daten verloren. (My computer broke down yesterday and I lost all my data.)
+- Mir sind zwei Zähne ausgefallen, als ich vom Fahrrad gefallen bin. (I lost two teeth when I fell off the bike.)
+'''
+erfordern B2
+Español: requerir
+Русский: требовать
+English: require
+
+Frases en alemán usando erfordern:
+
+- Dieses Projekt erfordert viel Zeit und Mühe. (Este proyecto requiere mucho tiempo y esfuerzo.)
+- Er erforderte von mir, dass ich ihm die Wahrheit sage. (Él me requirió que le dijera la verdad.)
+- Hast du alle Dokumente, die für die Anmeldung erforderlich sind? (¿Tienes todos los documentos que se requieren para la inscripción?)
+'''
+die Aufnahmefähigkeit, - en B2
+Español: la capacidad de aprendizaje
+Русский: способность к обучению
+English: the learning ability
+
+Frases en alemán usando esta palabra:
+
+- Die Aufnahmefähigkeit der Schüler hängt von vielen Faktoren ab. (The learning ability of the students depends on many factors.)
+- Er hatte im Präteritum eine hohe Aufnahmefähigkeit für Sprachen. (He had a high learning ability for languages in the past.)
+- Sie hat im Perfekt ihre Aufnahmefähigkeit verbessert, indem sie viel gelesen hat. (She has improved her learning ability by reading a lot.)
+'''
+voraussetzen, B2
+Español: presuponer, suponer
+Русский: предполагать, допускать
+English: presuppose, assume
+
+Frases en alemán usando voraussetzen:
+
+- Diese Theorie **setzt** eine klare Definition von Wahrheit **voraus**. (Esta teoría **presupone** una definición clara de verdad.)
+- Er **hat** nicht **vorausgesetzt**, dass sie ihm helfen würden. (Él no **supuso** que ellos le ayudarían.)
+- Wenn du dich bewerben willst, **musst** du einen guten Lebenslauf **voraussetzen**. (Si quieres postularte, **debes** asumir un buen currículum.)
+'''
+die Voraussetzung, - en B2
+Español: el requisito, la condición previa
+Русский: условие, предпосылка
+English: the requirement, the prerequisite
+
+- Um an der Universität zu studieren, braucht man eine bestimmte **Voraussetzung**. (To study at the university, one needs a certain prerequisite.)
+- Er hatte alle **Voraussetzungen** für den Job erfüllt. (He had met all the requirements for the job.)
+- Wenn du diese **Voraussetzung** nicht akzeptierst, können wir nicht weitermachen. (If you do not accept this condition, we cannot continue.)

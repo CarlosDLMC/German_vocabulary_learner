@@ -1,0 +1,2475 @@
+'''
+das Hotel, -s A1
+Español: el hotel
+Русский: отель
+English: the hotel
+
+- Ich wohne in einem **Hotel** in Berlin. (I live in a hotel in Berlin.)
+- Wie viel kostet das **Hotel** pro Nacht? (How much does the hotel cost per night?)
+- Er hat gestern ein **Hotel** gebucht. (He booked a hotel yesterday.)
+'''
+die Tasche, -n A1
+Español: el bolso, los bolsos
+Русский: сумка, сумки
+English: the bag, the bags
+
+- Ich habe eine neue Tasche gekauft. (I bought a new bag.)
+- Er hatte seine Tasche im Zug vergessen. (He had forgotten his bag on the train.)
+- Hast du deine Tasche schon gepackt? (Have you packed your bag yet?)
+'''
+der Bus, - se A1
+Español: el autobús
+Русский: автобус
+English: the bus
+
+- Ich fahre jeden Tag mit dem Bus zur Schule. (I take the bus to school every day.)
+- Gestern verpasste er den Bus und kam zu spät. (Yesterday he missed the bus and arrived late.)
+- Hast du schon mal einen Bus gefahren? (Have you ever driven a bus?)
+'''
+das Rad, -¨er A1
+Español: la rueda, las ruedas
+Русский: колесо, колёса
+English: the wheel, the wheels
+
+- Das Rad ist eine der wichtigsten Erfindungen der Menschheit. (The wheel is one of the most important inventions of humanity.)
+- Gestern fuhr er mit dem Rad zur Schule. (Yesterday he rode his bike to school.)
+- Er hat sich ein neues Rad gekauft. (He has bought a new wheel.)
+'''
+ankommen, A1
+Español: llegar
+Русский: прибывать
+English: arrive
+
+Frases en alemán usando ankommen:
+
+- Ich komme morgen in Berlin an. (Llego mañana a Berlín.)
+- Er kam gestern sehr spät nach Hause an. (Él llegó ayer muy tarde a casa.)
+- Sie ist noch nicht angekommen. (Ella todavía no ha llegado.)
+'''
+aussteigen, A1
+Español: bajar, salir
+Русский: выходить, сходить
+English: get off, get out
+
+Frases en alemán usando aussteigen:
+
+- Ich steige an der nächsten Haltestelle aus. (I get off at the next stop.)
+- Er ist aus dem Zug ausgestiegen. (He got out of the train.)
+- Sie ist aus dem Projekt ausgestiegen. (She quit the project.)
+'''
+das Auto, -s A1
+Español: el coche, los coches
+Русский: автомобиль, автомобили
+English: the car, the cars
+
+Frases en alemán usando esta palabra:
+
+- Ich fahre jeden Tag mit dem Auto zur Arbeit. (Conduzco al trabajo en coche todos los días.)
+- Gestern hat er ein neues Auto gekauft. (Ayer compró un coche nuevo.)
+- Sie haben ihr Auto gewaschen. (Ellos han lavado su coche.)
+'''
+einsteigen, A1
+Español: subir, entrar
+Русский: садиться, входить
+English: get on, get in
+
+Frases en alemán usando einsteigen:
+
+- Ich steige in den Bus ein. (Me subo al autobús.)
+- Er ist gestern in das Geschäft eingestiegen. (Él entró en el negocio ayer.)
+- Sie sind schon in den Zug eingestiegen. (Ellos ya se han subido al tren.)
+'''
+fahren, A1
+Español: conducir, ir
+Русский: водить, ехать
+English: drive, go
+
+Frases en alemán usando fahren:
+
+- Ich fahre jeden Tag mit dem Bus zur Arbeit. (Conduzco todos los días en autobús al trabajo.)
+- Gestern fuhr er mit dem Fahrrad zum Park. (Ayer fue en bicicleta al parque.)
+- Sie ist mit dem Auto nach Berlin gefahren. (Ella ha ido en coche a Berlín.)
+'''
+der Fahrer, - / die Fahrerin, -nen A1
+Español: el conductor / la conductora
+Русский: водитель / водительница
+English: the driver / the driver (female)
+
+Frases en alemán usando esta palabra:
+
+- Der Fahrer **fährt** sehr schnell. (El conductor conduce muy rápido.)
+- Die Fahrerin **fuhr** gestern nach Berlin. (La conductora condujo ayer a Berlín.)
+- Der Fahrer hat das Auto **gefahren**. (El conductor ha conducido el coche.)
+'''
+das Fahrrad, -¨er A1
+Español: la bicicleta, las bicicletas
+Русский: велосипед, велосипеды
+English: the bicycle, the bicycles
+
+Frases en alemán usando esta palabra:
+
+- Ich fahre jeden Tag mit dem Fahrrad zur Arbeit. (Yo voy en bicicleta al trabajo todos los días.)
+- Er hat gestern ein neues Fahrrad gekauft. (Él compró una bicicleta nueva ayer.)
+- Sie haben ihr Fahrrad reparieren lassen. (Ellos hicieron reparar su bicicleta.)
+'''
+fliegen A1
+Español: volar
+Русский: летать
+English: fly
+
+Frases en alemán usando fliegen:
+
+- Ich möchte **fliegen** wie ein Vogel. (Quiero volar como un pájaro.)
+- Er **flog** gestern nach Berlin. (Él voló ayer a Berlín.)
+- Sie ist noch nie mit dem Flugzeug **geflogen**. (Ella nunca ha volado en avión.)
+'''
+der Flug, - ¨e A1
+Español: el vuelo
+Русский: полёт
+English: the flight
+
+Frases en alemán usando esta palabra:
+
+- Ich habe einen Flug nach Berlin gebucht. (He reservado un vuelo a Berlín.)
+- Der Flug war sehr angenehm und ruhig. (El vuelo fue muy agradable y tranquilo.)
+- Hast du schon deinen Flug online eingecheckt? (¿Ya has facturado tu vuelo en línea?)
+'''
+der Flughafen, -¨ A1
+Español: el aeropuerto
+Русский: аэропорт
+English: the airport
+
+- Ich fahre mit dem Taxi zum Flughafen. (I go to the airport by taxi.)
+- Gestern sind wir vom Flughafen nach Hause geflogen. (Yesterday we flew home from the airport.)
+- Er hat am Flughafen gearbeitet, aber jetzt ist er in Rente. (He worked at the airport, but now he is retired.)
+'''
+das Flugzeug, -e A1
+Español: el avión, los aviones
+Русский: самолёт, самолёты
+English: the airplane, the airplanes
+
+Tres frases en alemán usando esta palabra son:
+
+- Ich fliege morgen mit dem Flugzeug nach Berlin. (I fly tomorrow by airplane to Berlin.)
+- Er flog mit einem alten Flugzeug über die Alpen. (He flew with an old airplane over the Alps.)
+- Sie hat schon viele Flugzeuge gebaut. (She has already built many airplanes.)
+'''
+die Station, - en A1
+Español: la estación
+Русский: станция
+English: the station
+
+- Ich gehe jeden Tag zur **Station**, um den Zug zu nehmen.
+- Gestern war die **Station** sehr voll wegen eines Unfalls.
+- Er hat mir gesagt, dass er mich an der nächsten **Station** abholen wird.
+'''
+die U-Bahn, - en A1
+Español: el metro
+Русский: метро
+English: the subway
+- Ich fahre jeden Tag mit der U-Bahn zur Arbeit. (I take the subway to work every day.)
+- Gestern war die U-Bahn sehr voll. (Yesterday the subway was very crowded.)
+- Hast du schon mal die U-Bahn in Berlin genommen? (Have you ever taken the subway in Berlin?)
+'''
+der Bus, -se A1
+Español: el autobús
+Русский: автобус
+English: the bus
+
+- Ich fahre jeden Tag mit dem Bus zur Arbeit.
+- Gestern hat der Bus Verspätung gehabt.
+- Hast du schon mal einen Bus gefahren?
+
+der Steward, -s / die Stewardess, -en A2
+Español: el auxiliar de vuelo / la azafata
+Русский: стюард / стюардесса
+English: the flight attendant
+
+- Der Steward bringt den Passagieren Getränke und Snacks.
+- Die Stewardess hat uns freundlich begrüßt.
+- Er hat früher als Steward gearbeitet.
+'''
+en, A2
+Español: en
+Русский: в
+English: in
+
+Ejemplos:
+- Ich wohne **in** Berlin. (Vivo en Berlín.)
+- Er war gestern **in** der Schule. (Él estuvo ayer en la escuela.)
+- Sie ist **in** den Urlaub gefahren. (Ella se ha ido de vacaciones.)
+'''
+der Autostopp, -s A2
+Español: el autostop
+Русский: автостоп
+English: hitchhiking
+
+Frases en alemán usando esta palabra:
+
+- Ich habe noch nie **Autostopp** gemacht, aber ich würde es gerne mal ausprobieren. (Nunca he hecho autostop, pero me gustaría probarlo alguna vez.)
+- Als er jung war, ist er oft per **Autostopp** durch Europa gereist. (Cuando era joven, viajaba a menudo por Europa haciendo autostop.)
+- Er hat sein Auto verkauft und macht jetzt nur noch **Autostopp**. (Vendió su coche y ahora solo hace autostop.)
+'''
+der Koffer, - A2
+Español: la maleta
+Русский: чемодан
+English: suitcase
+
+- Ich packe meinen Koffer und nehme mit ... (I pack my suitcase and take with me ...)
+- Er hat seinen Koffer im Hotel vergessen. (He forgot his suitcase at the hotel.)
+- Hast du schon deinen Koffer ausgepackt? (Have you already unpacked your suitcase?)
+'''
+landen, A2
+Español: aterrizar
+Русский: приземляться
+English: land
+
+- Das Flugzeug ist sicher gelandet. (The plane landed safely.)
+- Er landete einen guten Job. (He landed a good job.)
+- Sie ist gestern aus Berlin gelandet. (She has landed from Berlin yesterday.)
+'''
+die Landung, -en A2
+Español: el aterrizaje
+Русский: посадка
+English: the landing
+
+Frases en alemán usando esta palabra:
+
+- Die Landung des Flugzeugs war sehr sanft. (The landing of the plane was very smooth.)
+- Er erinnerte sich an die Landung der Alliierten in der Normandie. (He remembered the landing of the allies in Normandy.)
+- Sie haben die Landung erfolgreich abgeschlossen. (They have completed the landing successfully.)
+'''
+starten A2
+Español: empezar, iniciar
+Русский: начинать, запускать
+English: start, launch
+
+- Ich starte meinen Computer und öffne den Browser. (I start my computer and open the browser.)
+- Gestern startete er sein eigenes Geschäft. (Yesterday he started his own business.)
+- Hast du das Spiel schon gestartet? (Have you already launched the game?)
+'''
+verpassen, A2
+Español: perder, faltar
+Русский: пропускать, скучать
+English: miss, skip
+
+Frases en alemán usando verpassen:
+
+- Ich habe den Bus verpasst und bin zu spät gekommen. (I missed the bus and arrived late.)
+- Er hat die Prüfung verpasst, weil er krank war. (He skipped the exam because he was sick.)
+- Ich vermisse dich sehr, wenn du nicht da bist. (I miss you a lot when you are not here.)
+'''
+das Gebirge, A2
+Español: la cordillera
+Русский: горный хребет
+English: the mountain range
+
+- Das Gebirge ist ein beliebtes Ziel für Wanderer und Skifahrer. (The mountain range is a popular destination for hikers and skiers.)
+- Als Kind lebte er in einem kleinen Dorf im Gebirge. (As a child, he lived in a small village in the mountains.)
+- Sie haben viele Gebirge in ihrem Land überquert. (They have crossed many mountain ranges in their country.)
+'''
+die Insel, -n A2
+Español: la isla
+Русский: остров
+English: the island
+
+- Wir fahren im Sommer auf eine **Insel** in der Nordsee. (We are going to an **island** in the North Sea in summer.)
+- Er lebte früher auf einer kleinen **Insel**. (He used to live on a small **island**.)
+- Sie haben die **Insel** nach einem langen Sturm erreicht. (They reached the **island** after a long storm.)
+'''
+das Meer, -e A2
+Español: el mar
+Русский: море
+English: the sea
+
+Frases en alemán usando esta palabra:
+
+- Ich liebe das Meer und den Strand. (Me encanta el mar y la playa.)
+- Gestern sind wir mit dem Schiff über das Meer gefahren. (Ayer fuimos en barco por el mar.)
+- Er hat schon viele Meere auf der Welt gesehen. (Él ha visto muchos mares en el mundo.)
+'''
+der See, -n A2
+Español: el lago
+Русский: озеро
+English: the lake
+
+- Ich gehe gerne an den **See** schwimmen. (Me gusta ir a nadar al lago.)
+- Als Kind habe ich oft mit meinen Großeltern am **See** gefischt. (Cuando era niño, solía pescar con mis abuelos en el lago.)
+- Hast du schon mal einen gefrorenen **See** gesehen? (¿Alguna vez has visto un lago congelado?)
+'''
+der Strand, - ¨e A2
+Español: la playa
+Русский: пляж
+English: the beach
+
+- Ich gehe gerne an den Strand, wenn das Wetter schön ist. (I like to go to the beach when the weather is nice.)
+- Als Kind baute er oft Sandburgen am Strand. (As a child, he often built sandcastles on the beach.)
+- Sie haben gestern einen langen Spaziergang am Strand gemacht. (They took a long walk on the beach yesterday.)
+'''
+hin, A2
+Español: hacia
+Русский: к
+English: to
+
+Frases en alemán usando hin:
+
+- Ich gehe **hin** und zurück. (Voy y vuelvo.)
+- Er ist **hin** und weg von ihr. (Él está loco por ella.)
+- Sie hat die Kiste **hin**gestellt. (Ella ha puesto la caja ahí.)
+'''
+buchen, A2
+Español: reservar
+Русский: бронировать
+English: book
+
+Ejemplos:
+- Ich **buche** ein Hotelzimmer für nächste Woche. (Reservo una habitación de hotel para la próxima semana.)
+- Er **buchte** einen Flug nach Berlin. (Él reservó un vuelo a Berlín.)
+- Hast du schon einen Tisch im Restaurant **gebucht**? (¿Ya has reservado una mesa en el restaurante?)
+'''
+besichtigen A2
+Español: visitar
+Русский: осматривать
+English: to visit
+
+Frases en alemán usando besichtigen:
+
+- Wir **besichtigen** morgen das Schloss Neuschwanstein. (We will visit the Neuschwanstein Castle tomorrow.)
+- Er **besichtigte** gestern die Ausstellung im Museum. (He visited the exhibition in the museum yesterday.)
+- Sie haben schon viele Länder **besichtigt**. (They have visited many countries.)
+'''
+die Burg, - en A2
+Español: el castillo
+Русский: замок
+English: the castle
+
+- Die Burg liegt auf einem hohen Berg. (The castle is on a high mountain.)
+- Im Mittelalter bauten die Ritter viele Burgen. (In the Middle Ages, the knights built many castles.)
+- Hast du schon mal eine Burg besichtigt? (Have you ever visited a castle?)
+'''
+das Denkmal, -e A2
+Español: el monumento
+Русский: памятник
+English: the monument
+
+Frases en alemán usando esta palabra:
+
+- Ich habe das Denkmal für die Opfer des Krieges besucht. (He visitado el monumento a las víctimas de la guerra.)
+- Das Brandenburger Tor ist ein berühmtes Denkmal in Berlin. (La Puerta de Brandenburgo es un famoso monumento en Berlín.)
+- Die Stadt hat ein neues Denkmal errichtet, um an die Geschichte zu erinnern. (La ciudad ha erigido un nuevo monumento para recordar la historia.)
+'''
+die Rundfahrt, - en A2
+Español: el recorrido
+Русский: экскурсия
+English: the tour
+
+- Wir machen eine Rundfahrt durch die Stadt mit dem Bus. (We take a tour of the city by bus.)
+- Gestern machten wir eine Rundfahrt mit dem Fahrrad. (Yesterday we did a tour by bike.)
+- Hast du schon mal eine Rundfahrt mit dem Schiff gemacht? (Have you ever done a tour by boat?)
+'''
+Der Turm, -e A2
+Español: la torre
+Русский: башня
+English: the tower
+
+- Der Turm ist sehr hoch und hat eine schöne Aussicht. (The tower is very high and has a beautiful view.)
+- Gestern besuchten wir einen alten Turm aus dem Mittelalter. (Yesterday we visited an old tower from the Middle Ages.)
+- Hast du schon den neuen Turm gesehen, der gebaut wurde? (Have you seen the new tower that was built?)
+'''
+der Tourist, - en A2
+Español: el turista
+Русский: турист
+English: the tourist
+
+- Der Tourist macht viele Fotos von der Stadt. (The tourist takes many photos of the city.)
+- Gestern besuchte der Tourist das Museum und das Schloss. (Yesterday the tourist visited the museum and the castle.)
+- Er hat viele Souvenirs gekauft, weil er ein typischer Tourist ist. (He has bought many souvenirs because he is a typical tourist.)
+'''
+campen, A2
+Español: acampar
+Русский: кемпинг
+English: camping
+
+Frases en alemán usando campen:
+
+- Wir campen gerne im Sommer am See. (Nos gusta acampar en el lago en verano.)
+- Als Kind campte er oft mit seinen Großeltern im Wald. (De niño, a menudo acampaba con sus abuelos en el bosque.)
+- Hast du schon mal im Winter gecampt? (¿Alguna vez has acampado en invierno?)
+'''
+der Campingplatz, - ¨e A2
+Español: el camping
+Русский: кемпинг
+English: the campsite
+
+- Wir fahren am Wochenende zum Campingplatz. (We are going to the campsite on the weekend.)
+- Als ich ein Kind war, haben wir oft auf dem Campingplatz übernachtet. (When I was a child, we often stayed overnight at the campsite.)
+- Hast du schon mal auf einem Campingplatz gezeltet? (Have you ever camped at a campsite?)
+'''
+das Doppelzimmer, A2
+Español: habitación doble
+Русский: двухместный номер
+English: double room
+
+- Wir haben ein Doppelzimmer mit Balkon gebucht.
+(We have booked a double room with a balcony.)
+- Im Doppelzimmer schliefen zwei Studenten.
+(Two students slept in the double room.)
+- Hast du das Doppelzimmer schon bezahlt?
+(Have you already paid for the double room?)
+'''
+das Einzelzimmer, - A2
+Español: la habitación individual
+Русский: одноместный номер
+English: the single room
+
+- Ich habe ein Einzelzimmer im Hotel gebucht.
+- Als er in Berlin war, übernachtete er in einem billigen Einzelzimmer.
+- Hast du schon ein Einzelzimmer für deine Reise gefunden?
+'''
+die Jugendherberge, -n A2
+Español: el albergue juvenil
+Русский: молодежный хостел
+English: the youth hostel
+
+- Ich habe eine Reservierung in der Jugendherberge in Berlin gemacht.
+- Als wir Kinder waren, fuhren wir oft mit der Schule in Jugendherbergen.
+- Hast du schon mal in einer Jugendherberge übernachtet?
+'''
+die Rezeption, - en A2
+Español: la recepción
+Русский: рецепция
+English: the reception
+
+Frases en alemán usando esta palabra:
+
+- Ich gehe zur Rezeption, um einzuchecken. (Voy a la recepción para registrarme.)
+- An der Rezeption arbeitet eine nette Frau. (En la recepción trabaja una mujer simpática.)
+- Er hat an der Rezeption nach dir gefragt. (Él ha preguntado por ti en la recepción.)
+'''
+übernachten, A2
+Español: pasar la noche
+Русский: ночевать
+English: stay overnight
+
+- Ich übernachte heute bei meiner Freundin. (I'm staying overnight at my friend's place today.)
+- Gestern übernachteten wir in einem Hotel. (Yesterday we stayed overnight in a hotel.)
+- Hast du schon mal in einem Zelt übernachtet? (Have you ever stayed overnight in a tent?)
+'''
+die Übernachtung, - en A2
+Español: el alojamiento
+Русский: ночёвка
+English: the overnight stay
+
+- Ich brauche eine Übernachtung in Berlin. (I need an overnight stay in Berlin.)
+- Er übernachtete bei seinem Freund. (He stayed overnight at his friend's place.)
+- Sie haben schon drei Übernachtungen in diesem Hotel gebucht. (They have already booked three overnight stays in this hotel.)
+'''
+die Reise, -n A2
+Español: el viaje, los viajes
+Русский: путешествие, путешествия
+English: the trip, the trips
+
+- Ich liebe **Reisen**. Sie sind immer spannend und lehrreich. (I love **trips**. They are always exciting and educational.)
+- Letztes Jahr bin ich nach Japan **gereist**. Es war eine tolle Erfahrung. (Last year I **traveled** to Japan. It was a great experience.)
+- Hast du schon mal eine **Reise** nach Afrika gemacht? (Have you ever taken a **trip** to Africa?)
+'''
+reisen, A2
+Español: viajar
+Русский: путешествовать
+English: travel
+
+Ejemplos de frases en alemán usando reisen:
+
+- Ich **reise** gerne nach Spanien, weil ich die Kultur und das Essen mag. (Me gusta viajar a España, porque me gusta la cultura y la comida.)
+- Letztes Jahr **reiste** er mit dem Zug durch Europa. (El año pasado viajó en tren por Europa.)
+- Sie hat viele Länder **bereist** und viele Sprachen gelernt. (Ella ha viajado por muchos países y aprendido muchos idiomas.)
+'''
+der Urlaub, -e A2
+Español: las vacaciones
+Русский: отпуск
+English: vacation
+
+- Ich brauche dringend einen Urlaub. (I urgently need a vacation.)
+- Letztes Jahr haben wir unseren Urlaub in Spanien verbracht. (Last year we spent our vacation in Spain.)
+- Hast du schon deinen Urlaub für dieses Jahr geplant? (Have you already planned your vacation for this year?)
+'''
+verbringen, A2
+Español: pasar (tiempo)
+Русский: проводить (время)
+English: spend (time)
+
+Frases en alemán usando verbringen:
+
+- Ich **verbringe** viel Zeit mit meinen Freunden. (I spend a lot of time with my friends.)
+- Gestern **verbrachte** er den ganzen Tag im Bett. (Yesterday he spent the whole day in bed.)
+- Sie hat das Wochenende bei ihrer Oma **verbracht**. (She has spent the weekend at her grandma's.)
+'''
+weit, A2
+Español: lejos, distante
+Русский: далеко, отдаленный
+English: far, distant
+
+Frases en alemán usando weit:
+
+- Der Bahnhof ist weit von hier. (The train station is far from here.)
+- Er war weit und breit der beste Schüler. (He was by far the best student.)
+- Sie ist weit gereist. (She has traveled far.)
+'''
+das Buffet, -s A2
+Español: el bufé
+Русский: буфет
+English: the buffet
+
+Frases en alemán usando esta palabra:
+
+- Zum Geburtstag meiner Schwester haben wir ein großes Buffet vorbereitet. (For my sister's birthday, we prepared a big buffet.)
+- Ich mag das Buffet in diesem Restaurant, weil es viele verschiedene Gerichte gibt. (I like the buffet in this restaurant, because there are many different dishes.)
+- Hast du schon vom Buffet gegessen? Es war sehr lecker. (Have you eaten from the buffet yet? It was very delicious.)
+'''
+einstecken, A2
+Español: enchufar, meter, introducir
+Русский: включать, совать, вставлять
+English: plug in, put in, insert
+
+Frases en alemán usando einstecken:
+
+- Ich muss mein Handy **einstecken**, weil der Akku fast leer ist. (I have to plug in my phone because the battery is almost empty.)
+- Er hat das Geld in seine Tasche **eingesteckt**. (He put the money in his pocket.)
+- Sie hat die Karte in den Schlitz **eingesteckt** und die Tür geöffnet. (She inserted the card into the slot and opened the door.)
+'''
+das Gepäck, -e A2
+Español: el equipaje
+Русский: багаж
+English: luggage
+
+- Ich habe mein Gepäck im Hotel gelassen. (I left my luggage at the hotel.)
+- Er packte sein Gepäck für die Reise. (He packed his luggage for the trip.)
+- Hast du dein Gepäck schon abgeholt? (Have you picked up your luggage yet?)
+'''
+der Rucksack, - ¨e A2
+Español: la mochila
+Русский: рюкзак
+English: the backpack
+
+Frases en alemán usando esta palabra:
+
+- Ich packe meinen Rucksack für die Reise. (I pack my backpack for the trip.)
+- Er hatte einen schweren Rucksack auf dem Rücken. (He had a heavy backpack on his back.)
+- Hast du deinen Rucksack schon ausgepackt? (Have you already unpacked your backpack?)
+'''
+das Visum, die Visa A2
+Español: el visado, los visados
+Русский: виза, визы
+English: the visa, the visas
+
+- Ich brauche ein Visum, um nach Kanada zu reisen. (I need a visa to travel to Canada.)
+- Er hat sein Visum gestern beantragt. (He applied for his visa yesterday.)
+- Hast du schon dein Visum bekommen? (Have you received your visa yet?)
+'''
+bleiben, A2
+Español: quedarse, permanecer
+Русский: оставаться, пребывать
+English: stay, remain
+
+Frases en alemán usando la palabra bleiben:
+
+- Ich **bleibe** heute zu Hause, weil es regnet. (I stay at home today because it is raining.)
+- Er **blieb** gestern bis spät in die Nacht wach. (He stayed awake until late at night yesterday.)
+- Sie ist schon lange in Deutschland **geblieben**. (She has stayed in Germany for a long time.)
+'''
+packen, A2
+Español: empacar, hacer las maletas
+Русский: упаковывать, собирать чемоданы
+English: pack, pack up
+
+Frases en alemán usando packen:
+
+- Ich muss noch packen, bevor ich morgen zum Flughafen fahre. (I have to pack before I go to the airport tomorrow.)
+- Er packte seine Sachen und ging ohne ein Wort. (He packed his things and left without a word.)
+- Hast du schon gepackt? Wir müssen bald los. (Have you packed yet? We have to leave soon.)
+'''
+umtauschen, A2
+Español: cambiar, intercambiar
+Русский: обменивать, менять
+English: exchange, swap
+
+Ejemplos:
+
+- Ich möchte dieses Hemd umtauschen, weil es mir nicht passt. (Quiero cambiar esta camisa porque no me queda bien.)
+- Wir haben unsere Telefonnummern umgetauscht. (Intercambiamos nuestros números de teléfono.)
+- Er hat seinen alten Wagen gegen einen neuen umgetauscht. (Él cambió su viejo coche por uno nuevo.)
+'''
+abfliegen, A2
+Español: despegar, partir
+Русский: взлетать, улетать
+English: take off, leave
+
+Frases en alemán usando abfliegen:
+
+- Der Flug nach Berlin wird in einer Stunde abfliegen. (The flight to Berlin will take off in an hour.)
+- Er ist gestern abgeflogen und kommt nächste Woche zurück. (He left yesterday and will come back next week.)
+- Sie ist schon abgeflogen, als ich am Flughafen ankam. (She had already taken off when I arrived at the airport.)
+'''
+der Abflug, - ¨e A2
+Español: la salida (de un avión)
+Русский: вылет (самолета)
+English: the departure (of a plane)
+
+Frases en alemán usando esta palabra:
+
+- Mein Flug hat **Verspätung**, der Abflug ist erst um 18 Uhr.
+- Mi vuelo tiene **retraso**, la salida es a las 18 horas.
+- Мой рейс **задерживается**, вылет только в 18 часов.
+- My flight is **delayed**, the departure is only at 18 o'clock.
+
+- Wann war dein Abflug nach Berlin?
+- ¿Cuándo fue tu salida hacia Berlín?
+- Когда был твой вылет в Берлин?
+- When was your departure to Berlin?
+
+- Ich habe den Abflug verpasst, weil ich im Stau steckte.
+- Perdí la salida, porque estaba atrapado en el tráfico.
+- Я пропустил вылет, потому что застрял в пробке.
+- I missed the departure, because I was stuck in traffic.
+'''
+die Ampel, -n A2
+Español: el semáforo
+Русский: светофор
+English: the traffic light
+
+Frases en alemán usando esta palabra:
+
+- An der Ampel musst du rechts abbiegen. (At the traffic light you have to turn right.)
+- Gestern ist er bei Rot über die Ampel gefahren. (Yesterday he drove through the red light.)
+- Er hat mir erzählt, dass er an der Ampel einen Unfall gehabt hat. (He told me that he had an accident at the traffic light.)
+'''
+anhalten, A2
+Español: detener, parar
+Русский: останавливать, прекращать
+English: stop, halt
+
+Frases en alemán usando anhalten:
+
+- Der Bus hält an der nächsten Haltestelle. (El autobús se detiene en la próxima parada.)
+- Er hielt die Rede an, um einen Schluck Wasser zu trinken. (Él interrumpió el discurso para beber un sorbo de agua.)
+- Sie hat ihn angehalten, die Tür zu schließen. (Ella le ha pedido que cierre la puerta.)
+'''
+der Bahnhof, - ¨e A2
+Español: la estación de tren
+Русский: железнодорожный вокзал
+English: the train station
+
+- Ich gehe jeden Morgen zum Bahnhof, um zur Arbeit zu fahren. (I go to the train station every morning to go to work.)
+- Gestern war der Bahnhof sehr voll, weil viele Leute verreisen wollten. (Yesterday the train station was very crowded, because many people wanted to travel.)
+- Er hat mir am Bahnhof abgeholt, als ich aus Berlin zurückgekommen bin. (He picked me up at the train station when I came back from Berlin.)
+'''
+die Fahrkarte, -n A2
+Español: el billete, los billetes
+Русский: билет, билеты
+English: the ticket, the tickets
+
+- Ich brauche eine Fahrkarte nach Berlin. (I need a ticket to Berlin.)
+- Gestern kaufte er eine Fahrkarte für den Zug. (Yesterday he bought a ticket for the train.)
+- Hast du schon eine Fahrkarte gelöst? (Have you already validated your ticket?)
+'''
+der Fahrplan, - ¨e A2
+Español: el horario
+Русский: расписание
+English: the schedule
+
+- Der Fahrplan hängt an der Wand. (The schedule is hanging on the wall.)
+- Gestern habe ich den Fahrplan geändert. (Yesterday I changed the schedule.)
+- Hast du schon den neuen Fahrplan gesehen? (Have you seen the new schedule yet?)
+'''
+der Flieger, - A2
+Español: el avión
+Русский: самолёт
+English: the plane
+
+Frases en alemán usando esta palabra:
+
+- Ich fliege morgen mit dem Flieger nach Berlin. (Mañana vuelo en avión a Berlín.)
+- Er ist ein guter Flieger und hat keine Angst vor Turbulenzen. (Él es un buen aviador y no tiene miedo de las turbulencias.)
+- Hast du schon mal einen Papierflieger gebastelt? (¿Alguna vez has hecho un avión de papel?)
+'''
+der Führerschein, -e A2
+Español: el carnet de conducir
+Русский: водительское удостоверение
+English: the driver's license
+
+- Ich habe meinen Führerschein vor zwei Jahren gemacht. (I got my driver's license two years ago.)
+- Gestern hat er seinen Führerschein verloren. (Yesterday he lost his driver's license.)
+- Hast du schon deinen Führerschein abgeholt? (Have you picked up your driver's license yet?)
+'''
+die Haltestelle, -n A2
+Español: la parada (de autobús, tranvía, etc.)
+Русский: остановка (автобуса, трамвая и т.д.)
+English: the stop (of bus, tram, etc.)
+
+Frases en alemán usando esta palabra:
+
+- Ich steige an der nächsten Haltestelle aus. (I get off at the next stop.)
+- Wo ist die nächste Haltestelle? (Where is the nearest stop?)
+- Er hat die Haltestelle verpasst. (He missed the stop.)
+'''
+der Hauptbahnhof, - ¨e A2
+Español: la estación central
+Русский: центральный вокзал
+English: the central station
+
+- Der Hauptbahnhof ist sehr groß und hat viele Gleise.
+- Gestern bin ich mit dem Zug zum Hauptbahnhof gefahren.
+- Ich habe dich am Hauptbahnhof abgeholt.
+'''
+der Lastkraftwagen, - (LKW, - s) A2
+Español: el camión
+Русский: грузовик
+English: the truck
+
+Frases en alemán usando esta palabra:
+
+- Der Lastkraftwagen ist sehr schwer und braucht viel Benzin. (The truck is very heavy and needs a lot of gas.)
+- Gestern fuhr er mit dem Lastkraftwagen nach Berlin. (Yesterday he drove to Berlin with the truck.)
+- Er hat seinen Lastkraftwagen schon seit zehn Jahren. (He has had his truck for ten years.)
+'''
+die Mobilität, - en A2
+Español: la movilidad
+Русский: мобильность
+English: mobility
+
+Frases en alemán usando esta palabra:
+
+- Die Mobilität der Menschen hat sich in den letzten Jahrzehnten stark verändert. (La movilidad de las personas ha cambiado mucho en las últimas décadas.)
+- Er war nach dem Unfall lange Zeit nicht mobil. (Él no fue móvil por mucho tiempo después del accidente.)
+- Sie hat ihre Mobilität durch regelmäßiges Training verbessert. (Ella mejoró su movilidad mediante entrenamiento regular.)
+'''
+der Parkplatz, - ¨e A2
+Español: el aparcamiento
+Русский: парковка
+English: the parking lot
+
+- Ich suche einen freien Parkplatz in der Nähe des Bahnhofs. (I am looking for a free parking lot near the train station.)
+- Gestern parkte er sein Auto auf dem falschen Parkplatz und bekam eine Strafe. (Yesterday he parked his car in the wrong parking lot and got a fine.)
+- Er hat sein Auto schon auf dem Parkplatz abgestellt. (He has already parked his car in the parking lot.)
+'''
+das Parkverbot, -e A2
+Español: la prohibición de estacionar
+Русский: запрет на парковку
+English: the parking ban
+
+- Das Parkverbot gilt für die ganze Straße. (The parking ban applies to the whole street.)
+- Gestern habe ich ein Parkverbot missachtet und eine Strafe bekommen. (Yesterday I ignored a parking ban and got a fine.)
+- Hast du das Schild mit dem Parkverbot nicht gesehen? (Didn't you see the sign with the parking ban?)
+'''
+das Schiff, -e A2
+Español: el barco, los barcos
+Русский: корабль, корабли
+English: the ship, the ships
+
+- Das Schiff fährt über den Ozean. (The ship sails across the ocean.)
+- Gestern sahen wir ein altes Schiff im Hafen. (Yesterday we saw an old ship in the harbor.)
+- Sie sind schon mit vielen Schiffen gereist. (They have already traveled with many ships.)
+'''
+das Schild, - er A2
+Español: el cartel, la señal
+Русский: вывеска, знак
+English: the sign, the shield
+
+Frases en alemán usando esta palabra:
+
+- An der Kreuzung steht ein **Schild**, das die Richtung anzeigt. (At the intersection there is a **sign** that indicates the direction.)
+- Der Ritter trug einen Helm und ein **Schild**. (The knight wore a helmet and a **shield**.)
+- Er hat das **Schild** an die Tür gehängt. (He hung the **sign** on the door.)
+'''
+der Stau, -s A2
+Español: el atasco, el embotellamiento
+Русский: пробка, затор
+English: the traffic jam, the congestion
+
+Frases en alemán usando esta palabra:
+
+- Ich stecke im Stau fest und komme zu spät. (Estoy atrapado en un atasco y llegaré tarde.)
+- Gestern gab es einen Unfall auf der Autobahn und einen langen Stau. (Ayer hubo un accidente en la autopista y un largo embotellamiento.)
+- Er hat den Stau vermieden, indem er eine andere Route genommen hat. (Él evitó el atasco tomando otra ruta.)
+'''
+die Straßenbahn, - en A2
+Español: el tranvía
+Русский: трамвай
+English: the tram
+
+Frases en alemán usando esta palabra:
+
+- Ich fahre jeden Tag mit der Straßenbahn zur Arbeit. (Presente: Conduzco el tranvía al trabajo todos los días.)
+- Als ich ein Kind war, bin ich oft mit meiner Oma Straßenbahn gefahren. (Präteritum: Cuando era niño, solía ir en tranvía con mi abuela.)
+- Hast du schon mal eine historische Straßenbahn gesehen? (Perfekt: ¿Alguna vez has visto un tranvía histórico?)
+'''
+tanken, A2
+Español: repostar, llenar el tanque
+Русский: заправлять, заправить бак
+English: refuel, fill up the tank
+
+Algunas frases en alemán usando esta palabra son:
+
+- Ich muss tanken, bevor ich nach Hause fahre. (Tengo que repostar antes de ir a casa.)
+- Er hat gestern getankt und viel Geld bezahlt. (Él llenó el tanque ayer y pagó mucho dinero.)
+- Hast du schon getankt? (¿Ya has repostado?)
+'''
+Aquí está la información de las palabras que me has escrito:
+
+- die Tankstelle, -n A2
+    - Español: la gasolinera
+    - Русский: заправочная станция
+    - English: the gas station
+    - Ejemplos:
+        - Ich muss an der nächsten Tankstelle halten, um zu tanken. (Tengo que parar en la próxima gasolinera para repostar.)
+        - Die Tankstelle ist heute geschlossen. (La gasolinera está cerrada hoy.)
+        - Er arbeitet an einer Tankstelle. (Él trabaja en una gasolinera.)
+
+- überholen A2
+    - Español: adelantar, superar
+    - Русский: обгонять, опережать
+    - English: overtake, surpass
+    - Ejemplos:
+        - Er überholt das langsame Auto. (Él adelanta al coche lento.)
+        - Sie überholte ihn im Rennen. (Ella lo superó en la carrera.)
+        - Er hat mich im Test überholt. (Él me ha superado en el examen.)
+'''
+der Zug, - ¨e A2
+Español: el tren
+Русский: поезд
+English: the train
+
+- Ich fahre jeden Tag mit dem Zug zur Arbeit. (I take the train to work every day.)
+- Gestern fuhr der Zug zu spät ab. (Yesterday the train left too late.)
+- Er hat den Zug verpasst und musste ein Taxi nehmen. (He missed the train and had to take a taxi.)
+'''
+reservieren, A2
+Español: reservar
+Русский: бронировать
+English: to book
+
+- Ich möchte einen Tisch für vier Personen **reservieren**. (I would like to book a table for four people.)
+- Er **reservierte** ein Zimmer im Hotel. (He booked a room in the hotel.)
+- Hast du schon die Tickets für den Flug **reserviert**? (Have you already booked the tickets for the flight?)
+'''
+die Reservierung, -en A2
+Español: la reserva
+Русский: бронирование
+English: the reservation
+
+- Ich habe eine Reservierung für zwei Personen im Namen von Müller. (I have a reservation for two people in the name of Müller.)
+- Er reservierte gestern ein Zimmer im Hotel. (He reserved a room in the hotel yesterday.)
+- Hast du schon für das Konzert reserviert? (Have you already reserved for the concert?)
+'''
+der Start, -s A2
+Español: el comienzo, el inicio
+Русский: начало, старт
+English: the start, the beginning
+
+- Der Start des Rennens war sehr spannend. (The start of the race was very exciting.)
+- Er startete gestern seine neue Firma. (He started his new company yesterday.)
+- Sie hat ihre Karriere als Sängerin gestartet. (She has started her career as a singer.)
+'''
+durchsagen, B1
+Español: anuncios
+Русский: объявления
+English: announcements
+
+- Die Durchsagen am Bahnhof sind oft schwer zu verstehen.
+(The announcements at the train station are often hard to understand.)
+- Er machte eine wichtige Durchsage an die Mitarbeiter.
+(He made an important announcement to the staff.)
+- Hast du die Durchsage im Flugzeug gehört?
+(Did you hear the announcement on the plane?)
+'''
+einpacken, B1
+Español: envolver, empacar
+Русский: упаковывать, заворачивать
+English: wrap, pack
+
+Beispiele:
+- Ich muss noch die Geschenke **einpacken**. (I still have to **wrap** the gifts.)
+- Er hat seine Sachen schnell **eingepackt** und ist losgefahren. (He **packed** his things quickly and drove off.)
+- Hast du schon alles **eingepackt**? (Have you **packed** everything yet?)
+'''
+die Einreise, -n B1
+Español: la entrada
+Русский: въезд
+English: entry
+
+- Die Einreise nach Deutschland ist nur mit einem negativen Corona-Test möglich. (The entry to Germany is only possible with a negative corona test.)
+- Als er nach Frankreich einreiste, musste er seinen Pass zeigen. (When he entered France, he had to show his passport.)
+- Sie hat die Einreise in die USA beantragt, aber noch keine Antwort erhalten. (She applied for entry to the USA, but has not received an answer yet.)
+'''
+die Gepäckannahme, -n B1
+Español: la facturación de equipaje
+Русский: прием багажа
+English: baggage check-in
+
+- Ich gehe zur **Gepäckannahme**, um meinen Koffer aufzugeben. (I go to the baggage check-in to drop off my suitcase.)
+- Gestern war die **Gepäckannahme** sehr überfüllt. (Yesterday the baggage check-in was very crowded.)
+- Hast du schon an der **Gepäckannahme** eingecheckt? (Have you already checked in at the baggage check-in?)
+'''
+die Kabine, -n B1
+Español: la cabina
+Русский: кабина
+English: the cabin
+- Ich habe eine Kabine im Zug reserviert.
+- Als wir im Wald waren, haben wir in einer kleinen Kabine übernachtet.
+- Hast du schon deine Kabine auf dem Schiff ausgesucht?
+'''
+die Rückfahrkarte, -n B1
+Español: el billete de ida y vuelta
+Русский: обратный билет
+English: the round-trip ticket
+
+- Ich kaufe eine **Rückfahrkarte** nach Berlin, weil ich morgen zurückkommen muss. (I buy a round-trip ticket to Berlin, because I have to come back tomorrow.)
+- Er hatte keine **Rückfahrkarte** und musste eine neue Fahrkarte am Bahnhof kaufen. (He had no round-trip ticket and had to buy a new ticket at the station.)
+- Hast du schon eine **Rückfahrkarte** für deine Reise gebucht? (Have you already booked a round-trip ticket for your trip?)
+'''
+der Schlafwagen, - B1
+Español: el coche cama
+Русский: вагон-спальня
+English: the sleeping car
+
+Frases en alemán usando esta palabra:
+
+- Ich habe eine Fahrkarte für den **Schlafwagen** nach Berlin gekauft. (He comprado un billete para el coche cama a Berlín.)
+- Gestern **schliefen** wir im **Schlafwagen**. (Ayer dormimos en el coche cama.)
+- Wir **haben** sehr gut im **Schlafwagen** **geschlafen**. (Hemos dormido muy bien en el coche cama.)
+'''
+das Schließfach, -¨er B1
+Español: la taquilla, el casillero
+Русский: шкафчик, ячейка
+English: locker, cubby
+
+- Ich habe meine Tasche im Schließfach gelassen. (I left my bag in the locker.)
+- Er öffnete sein Schließfach mit einem Schlüssel. (He opened his cubby with a key.)
+- Hast du dein Schließfach schon geräumt? (Have you already cleared out your locker?)
+'''
+unterwegs, B1
+Español: de camino, en marcha, de viaje
+Русский: по дороге, в пути, в поездке
+English: on the way, on the move, on a trip
+
+- Ich bin unterwegs und komme bald an. (I'm on the way and will arrive soon.)
+- Er war gestern unterwegs und hat viele Fotos gemacht. (He was on a trip yesterday and took many photos.)
+- Sie ist oft unterwegs und lernt viele Leute kennen. (She is often on the move and meets many people.)
+'''
+die Zollkontrolle, -n B1
+Español: el control aduanero
+Русский: таможенный контроль
+English: the customs control
+
+- Bei der Einreise in die EU müssen Sie durch die Zollkontrolle gehen.
+(When entering the EU, you have to go through customs control.)
+- Er wurde an der Zollkontrolle festgehalten, weil er verbotene Waren im Koffer hatte.
+(He was detained at customs control because he had prohibited goods in his suitcase.)
+- Sie haben die Zollkontrolle erfolgreich passiert und konnten ihre Reise fortsetzen.
+(They passed the customs control successfully and were able to continue their journey.)
+'''
+das Dorf, -¨er B1
+Español: el pueblo
+Русский: деревня
+English: the village
+
+- Ich bin in einem kleinen **Dorf** aufgewachsen. (I grew up in a small village.)
+- Er besuchte seine Großeltern im **Dorf**. (He visited his grandparents in the village.)
+- Sie sind vor zwei Jahren aus dem **Dorf** weggezogen. (They moved away from the village two years ago.)
+'''
+die Gegend, - en B1
+Español: la zona, el área
+Русский: район, местность
+English: the area, the region
+
+- Ich wohne in einer ruhigen **Gegend** am Stadtrand. (I live in a quiet **area** on the outskirts of the city.)
+- In dieser **Gegend** gibt es viele Seen und Wälder. (In this **region** there are many lakes and forests.)
+- Wir haben gestern eine neue **Gegend** erkundet. (We explored a new **area** yesterday.)
+'''
+geografisch, B1
+Español: geográfico
+Русский: географический
+English: geographic
+
+- Die geografische Lage eines Landes beeinflusst sein Klima, seine Flora und seine Fauna.
+- Deutschland hat eine geografische Fläche von etwa 357.000 Quadratkilometern.
+- Die geografischen Koordinaten von Berlin sind 52°31'N und 13°23'O.
+'''
+grenzen, B1
+Español: limitar, frontera
+Русский: ограничивать, граница
+English: limit, border
+
+Frases en alemán usando grenzen:
+
+- Die Stadt grenzt an den Fluss. (La ciudad limita con el río.)
+- Er hat seine Grenzen überschritten. (Él ha cruzado sus límites.)
+- Wir haben die Grenze zwischen Deutschland und Frankreich überquert. (Hemos cruzado la frontera entre Alemania y Francia.)
+'''
+der Himmel, - B1
+Español: el cielo
+Русский: небо
+English: the sky
+
+- Der Himmel ist heute sehr blau. (The sky is very blue today.)
+- Als Kind wollte ich immer zum Himmel fliegen. (As a child, I always wanted to fly to the sky.)
+- Er hat gestern den Himmel auf Erden erlebt. (He experienced heaven on earth yesterday.)
+'''
+die Himmelsrichtung, - en B1
+Español: la dirección cardinal
+Русский: сторона света
+English: the cardinal direction
+
+Frases en alemán usando esta palabra:
+
+- Die vier Himmelsrichtungen sind Norden, Süden, Osten und Westen. (The four cardinal directions are north, south, east and west.)
+- Er ging in die falsche Himmelsrichtung und verirrte sich. (He went in the wrong cardinal direction and got lost.)
+- Sie hat die Himmelsrichtungen mit einem Kompass bestimmt. (She determined the cardinal directions with a compass.)
+'''
+die Küste, -n B1
+Español: la costa
+Русский: побережье
+English: the coast
+
+- Wir fahren im Sommer an die **Küste**. (We drive to the **coast** in the summer.)
+- Die **Küste** war von einem starken Sturm verwüstet. (The **coast** was devastated by a strong storm.)
+- Er hat viele schöne Fotos von der **Küste** gemacht. (He took many beautiful photos of the **coast**.)
+'''
+die Landschaft, -en B1
+Español: el paisaje
+Русский: ландшафт
+English: the landscape
+- Die Landschaft ist sehr schön und grün. (The landscape is very beautiful and green.)
+- Gestern haben wir eine Wanderung durch die Landschaft gemacht. (Yesterday we went for a hike through the landscape.)
+- Wir haben viele Fotos von der Landschaft gemacht. (We have taken many photos of the landscape.)
+'''
+die See, B1
+Español: el mar
+Русский: море
+English: the sea
+
+- Ich liebe es, im Sommer an die See zu fahren. (I love to go to the sea in summer.)
+- Als Kind habe ich oft Muscheln an der See gesammelt. (As a child, I often collected shells by the sea.)
+- Er hat eine lange Reise über die See gemacht. (He made a long journey across the sea.)
+'''
+der Kontinent, -e B1
+Español: el continente
+Русский: континент
+English: the continent
+
+- Europa ist ein Kontinent mit vielen verschiedenen Ländern und Kulturen.
+- Afrika war der erste Kontinent, auf dem Menschen lebten.
+- Asien hat die größte Fläche und Bevölkerung aller Kontinente.
+'''
+die Aussicht, -en B1
+Español: la vista, el panorama
+Русский: вид, перспектива
+English: the view, the prospect
+
+- Von meinem Balkon aus habe ich eine schöne **Aussicht** auf die Stadt. (From my balcony I have a nice view of the city.)
+- Die **Aussicht** auf Erfolg ist sehr gering. (The prospect of success is very low.)
+- Er hat die **Aussicht** genossen, die sich ihm bot. (He enjoyed the view that presented itself to him.)
+'''
+die Aussichtsterrasse, -n B1
+Español: la terraza con vistas
+Русский: смотровая терраса
+English: the observation deck
+
+Frases en alemán usando esta palabra:
+
+- Von der **Aussichtsterrasse** aus kann man die ganze Stadt sehen. (Desde la terraza con vistas se puede ver toda la ciudad.)
+- Wir haben gestern Abend auf der **Aussichtsterrasse** ein romantisches Picknick gemacht. (Hicimos un picnic romántico en la terraza con vistas ayer por la noche.)
+- Hast du schon die neue **Aussichtsterrasse** im Einkaufszentrum besucht? (¿Ya has visitado la nueva terraza con vistas en el centro comercial?)
+'''
+die Sehenswürdigkeit, -en B1
+Español: el lugar de interés
+Русский: достопримечательность
+English: the sight
+- Die Stadt hat viele Sehenswürdigkeiten, die man besuchen kann. (The city has many sights that one can visit.)
+- Wir haben gestern eine Sehenswürdigkeit besichtigt, die sehr beeindruckend war. (We visited a sight yesterday that was very impressive.)
+- Hast du schon alle Sehenswürdigkeiten gesehen, die du sehen wolltest? (Have you seen all the sights that you wanted to see?)
+'''
+lokal, B1
+Español: local
+Русский: локальный
+English: local
+
+- Das Restaurant ist sehr lokal und bietet typische Gerichte der Region an.
+(The restaurant is very local and offers typical dishes of the region.)
+- Wir haben uns gestern Abend mit ein paar lokalen Freunden getroffen.
+(We met with some local friends last night.)
+- Er hat die Prüfung bestanden, weil er die lokalen Nachrichten gut verfolgt hat.
+(He passed the exam because he followed the local news well.)
+'''
+fern, B1
+Español: lejano, distante
+Русский: далёкий, отдалённый
+English: far, distant
+
+Frases en alemán usando la palabra fern:
+
+- Ich bin **fern** von zu Hause und vermisse meine Familie. (I am **far** from home and miss my family.)
+- Er hat eine **ferne** Reise geplant, um die Welt zu sehen. (He has planned a **distant** trip to see the world.)
+- Sie ist ihm **fern** geblieben, weil sie ihn nicht mag. (She has stayed **away** from him, because she does not like him.)
+'''
+die Tour, - en B1
+Español: el tour, la excursión
+Русский: тур, экскурсия
+English: the tour, the excursion
+
+- Wir machen morgen eine Tour durch die Stadt. (We are going on a tour of the city tomorrow.)
+- Letztes Jahr machten sie eine Tour durch Europa. (Last year they went on a tour of Europe.)
+- Hast du schon mal eine Tour de France gesehen? (Have you ever seen a Tour de France?)
+'''
+der Tourismus, B1
+Español: el turismo
+Русский: туризм
+English: tourism
+
+- Der Tourismus ist ein wichtiger Wirtschaftsfaktor für viele Länder. (Tourism is an important economic factor for many countries.)
+- Wegen der Pandemie musste der Tourismus im letzten Jahr stark eingeschränkt werden. (Due to the pandemic, tourism had to be severely restricted last year.)
+- Hast du schon Pläne, wohin du reisen möchtest, wenn der Tourismus wieder normal wird? (Do you have any plans where you want to travel when tourism becomes normal again?)
+'''
+das Gästezimmer, B1
+Español: la habitación de invitados
+Русский: гостевая комната
+English: the guest room
+
+- Wir haben ein **Gästezimmer** im Erdgeschoss, das du benutzen kannst. (We have a **guest room** on the ground floor that you can use.)
+- Als ich klein war, habe ich oft im **Gästezimmer** meiner Großeltern geschlafen. (When I was little, I often slept in the **guest room** of my grandparents.)
+- Sie haben das **Gästezimmer** renoviert und neu eingerichtet. (They have renovated and refurnished the **guest room**.)
+'''
+die Halbpension, - en B1
+Español: media pensión
+Русский: полупансион
+English: half board
+
+Frases en alemán usando esta palabra:
+
+- Wir haben ein Hotel mit **Halbpension** gebucht, also müssen wir nur das Mittagessen bezahlen.
+(We have booked a hotel with half board, so we only have to pay for lunch.)
+
+- Ich finde **Halbpension** besser als Vollpension, weil ich mehr Freiheit habe, wo ich essen möchte.
+(I prefer half board to full board, because I have more freedom to choose where I want to eat.)
+
+- Hast du schon mal in einem Hotel mit **Halbpension** übernachtet? Wie war es?
+(Have you ever stayed in a hotel with half board? How was it?)
+'''
+der Komfort, B1
+Español: la comodidad
+Русский: комфорт
+English: the comfort
+
+- Ich schätze den **Komfort** meines eigenen Zuhauses. (I appreciate the comfort of my own home.)
+- Er verzichtete auf den **Komfort** eines Hotelzimmers und schlief im Zelt. (He gave up the comfort of a hotel room and slept in a tent.)
+- Hast du gut geschlafen? War das Bett **komfortabel** genug? (Did you sleep well? Was the bed comfortable enough?)
+'''
+komfortabel, B1
+Español: cómodo, confortable
+Русский: удобный, комфортабельный
+English: comfortable, cozy
+
+- Ich fühle mich in diesem Hotel sehr **komfortabel**. (I feel very comfortable in this hotel.)
+- Er lebte ein **komfortables** Leben, bis er alles verlor. (He lived a comfortable life until he lost everything.)
+- Hast du **komfortabel** geschlafen? (Did you sleep comfortably?)
+'''
+luxuriös, B1
+Español: lujoso
+Русский: роскошный
+English: luxurious
+
+- Das Hotel ist sehr luxuriös und teuer. (The hotel is very luxurious and expensive.)
+- Sie lebten früher luxuriös, aber jetzt haben sie kein Geld mehr. (They used to live luxuriously, but now they have no money left.)
+- Er hat sich ein luxuriöses Auto gekauft, nachdem er im Lotto gewonnen hatte. (He bought a luxurious car after he won the lottery.)
+'''
+der Luxus, B1
+Español: el lujo
+Русский: роскошь
+English: luxury
+
+- Der Luxus ist für viele Menschen ein erstrebenswertes Ziel. (Luxury is a desirable goal for many people.)
+- Sie lebten in großem Luxus, bis sie ihr Vermögen verloren. (They lived in great luxury until they lost their fortune.)
+- Er hat sich einen neuen Wagen gekauft, obwohl er sich das eigentlich nicht leisten konnte. Das war reiner Luxus. (He bought a new car, even though he couldn't really afford it. That was pure luxury.)
+'''
+die Unterkunft, - ¨e B1
+Español: el alojamiento
+Русский: жильё
+English: the accommodation
+
+- Ich suche eine günstige **Unterkunft** für meinen Urlaub in Berlin. (I am looking for a cheap **accommodation** for my vacation in Berlin.)
+- Wo hast du deine **Unterkunft** gebucht? (Where did you book your **accommodation**?)
+- Er hat keine feste **Unterkunft** und schläft mal hier, mal da. (He has no fixed **accommodation** and sleeps here and there.)
+'''
+die Vollpension, - en B1
+Español: pensión completa
+Русский: полный пансион
+English: full board
+
+- Ich habe ein Hotel mit **Vollpension** gebucht, damit ich mir keine Sorgen um das Essen machen muss.
+- Als sie in den Ferien waren, genossen sie die **Vollpension** im Resort.
+- Hast du schon mal **Vollpension** in einem Hotel gehabt? Ich finde es sehr praktisch.
+'''
+zelten, B1
+Español: acampar
+Русский: палатка
+English: tent
+
+Ejemplos:
+
+- Wir **zelten** jedes Jahr im Sommer am See. (Acampamos cada año en verano junto al lago.)
+- Als Kinder **zelteten** wir oft im Garten. (De niños, a menudo acampábamos en el jardín.)
+- Hast du schon mal im Winter **gezeltet**? (¿Alguna vez has acampado en invierno?)
+'''
+der Zimmerservice, B1
+Español: el servicio de habitaciones
+Русский: обслуживание номеров
+English: room service
+
+- Ich rufe den Zimmerservice an und bestelle ein Frühstück. (I call room service and order a breakfast.)
+- Gestern rief er den Zimmerservice an und beschwerte sich über das Essen. (Yesterday he called room service and complained about the food.)
+- Hast du schon den Zimmerservice angerufen? (Have you called room service yet?)
+'''
+pauschal, B1
+Español: global, general, forfait
+Русский: глобальный, общий, паушальный
+English: global, general, lump sum
+
+Frases en alemán usando pauschal:
+
+- Ich habe eine **pauschale** Summe für die Reparatur bezahlt. (I paid a lump sum for the repair.)
+- Das ist eine **pauschale** Aussage, die nicht stimmt. (That is a general statement that is not true.)
+- Wir haben eine **pauschale** Reise nach Mallorca gebucht. (We booked a package trip to Mallorca.)
+'''
+die Pauschalreise, -n B1
+Español: el viaje organizado
+Русский: путевка
+English: the package tour
+
+- Ich habe eine Pauschalreise nach Spanien gebucht. (I have booked a package tour to Spain.)
+- Letztes Jahr sind wir mit einer Pauschalreise nach Ägypten geflogen. (Last year we flew to Egypt with a package tour.)
+- Hast du schon mal eine Pauschalreise gemacht? (Have you ever done a package tour?)
+'''
+die Saison, -s B1
+Español: la temporada
+Русский: сезон
+English: the season
+
+- Die Fußball-Saison beginnt im August und endet im Mai.
+- Letztes Jahr haben wir in der Saison viele Äpfel geerntet.
+- Hast du schon die neue Serie gesehen, die diese Saison gestartet ist?
+'''
+der Urlauber, - / die Urlauberin, -nen B1
+Español: el/la turista
+Русский: турист/туристка
+English: the tourist
+
+Frases en alemán usando esta palabra:
+
+- Der Urlauber genießt die Sonne am Strand. (The tourist enjoys the sun on the beach.)
+- Die Urlauberin war gestern im Museum. (The tourist was in the museum yesterday.)
+- Er hat viele Fotos gemacht, als er Urlauber war. (He took many photos when he was a tourist.)
+'''
+verreisen, B1
+Español: viajar
+Русский: путешествовать
+English: travel
+
+- Ich möchte dieses Jahr nach Japan **verreisen**. (I want to **travel** to Japan this year.)
+- Als ich ein Kind war, **verreiste** ich oft mit meinen Großeltern. (When I was a child, I often **traveled** with my grandparents.)
+- Hast du schon mal ins Ausland **verreist**? (Have you ever **traveled** abroad?)
+'''
+das Gasthaus, -¨er B1
+Español: la posada, las posadas
+Русский: гостиница, гостиницы
+English: the inn, the inns
+
+- Wir haben ein Zimmer im Gasthaus reserviert.
+(We have reserved a room at the inn.)
+- Das Gasthaus war sehr alt und gemütlich.
+(The inn was very old and cozy.)
+- Er hat gestern im Gasthaus übernachtet.
+(He stayed at the inn yesterday.)
+'''
+der Gasthof, - ¨e B1
+Español: la posada
+Русский: гостиница
+English: the inn
+
+- Wir übernachten in einem gemütlichen Gasthof in den Bergen. (We stay in a cozy inn in the mountains.)
+- Als ich ein Kind war, besuchte ich oft den Gasthof meiner Großeltern. (When I was a child, I often visited my grandparents' inn.)
+- Hast du schon einen Gasthof für unsere Reise gebucht? (Have you already booked an inn for our trip?)
+'''
+die Gaststätte, -n B1
+Español: el restaurante, los restaurantes
+Русский: ресторан, рестораны
+English: the restaurant, the restaurants
+
+- Ich gehe oft mit meinen Freunden in die Gaststätte. (I often go to the restaurant with my friends.)
+- Gestern waren wir in einer Gaststätte, die sehr leckeres Essen hatte. (Yesterday we were in a restaurant that had very delicious food.)
+- Hast du schon mal in dieser Gaststätte gegessen? (Have you ever eaten in this restaurant?)
+'''
+die Gastwirtschaft, - en B1
+Español: la taberna, el restaurante
+Русский: таверна, ресторан
+English: the tavern, the restaurant
+
+- Wir gehen oft in die Gastwirtschaft, um ein Bier zu trinken. (We often go to the tavern to drink a beer.)
+- Gestern aß ich in einer Gastwirtschaft eine leckere Suppe. (Yesterday I ate a delicious soup in a restaurant.)
+- Er hat in einer Gastwirtschaft gearbeitet, bevor er Koch wurde. (He worked in a tavern before he became a cook.)
+'''
+der Speisesaal, - ¨e B1
+Español: el comedor
+Русский: столовая
+English: the dining hall
+
+- Der Speisesaal ist sehr groß und hell. (The dining hall is very big and bright.)
+- Gestern haben wir im Speisesaal zu Mittag gegessen. (Yesterday we had lunch in the dining hall.)
+- Wir haben schon im Speisesaal gegessen. (We have already eaten in the dining hall.)
+'''
+die Spezialität, -en B1
+Español: la especialidad
+Русский: специальность
+English: the specialty
+
+- Die Spezialität des Hauses ist Rinderbraten mit Kartoffeln und Gemüse. (The specialty of the house is roast beef with potatoes and vegetables.)
+- Als ich in Italien war, habe ich viele regionale Spezialitäten probiert. (When I was in Italy, I tried many regional specialties.)
+- Er hat eine Spezialität in der Medizin und arbeitet als Chirurg. (He has a specialty in medicine and works as a surgeon.)
+'''
+der Prospekt, -e B1
+Español: el folleto
+Русский: буклет
+English: the brochure
+
+- Ich habe mir den **Prospekt** vom Reisebüro angesehen. (I looked at the **brochure** from the travel agency.)
+- Er verteilte **Prospekte** an die Passanten. (He distributed **brochures** to the passers-by.)
+- Hast du den **Prospekt** gelesen, den ich dir gegeben habe? (Did you read the **brochure** that I gave you?)
+'''
+der Reiseführer, - B1
+Español: la guía de viaje
+Русский: путеводитель
+English: the travel guide
+
+- Ich habe einen Reiseführer für Paris gekauft.
+- Als wir in Rom waren, haben wir einen netten Reiseführer getroffen, der uns viel über die Stadt erzählt hat.
+- Hast du schon mal als Reiseführer gearbeitet?
+'''
+die Hitze, B1
+Español: el calor
+Русский: жара
+English: the heat
+
+Beispiele:
+- Im Sommer kann die Hitze in der Stadt unerträglich sein.
+- Er spürte die Hitze des Feuers auf seinem Gesicht.
+- Sie hat die Hitze nicht gut vertragen und ist ohnmächtig geworden.
+'''
+inklusive, B1
+Español: incluyendo, inclusive
+Русский: включая, включительно
+English: including, inclusive
+
+Frases en alemán usando inklusive:
+
+- Der Preis für das Zimmer ist 50 Euro pro Nacht **inklusive** Frühstück. (The price for the room is 50 euros per night **including** breakfast.)
+- Er hat alle seine Freunde **inklusive** seiner Freundin zum Geburtstag eingeladen. (He invited all his friends **including** his girlfriend to his birthday.)
+- Sie hat die Prüfung mit einer sehr guten Note bestanden, **inklusive** mündlicher Präsentation. (She passed the exam with a very good grade, **including** oral presentation.)
+'''
+sich verirren, B1
+Español: perderse
+Русский: заблудиться
+English: to get lost
+
+Frases en alemán usando sich verirren:
+
+- Ich habe mich in der Stadt verirrt und musste nach dem Weg fragen. (Me perdí en la ciudad y tuve que preguntar por el camino.)
+- Als Kind verirrte er sich oft im Wald. (De niño se perdía a menudo en el bosque.)
+- Sie haben sich nicht verirrt, Sie sind am richtigen Ort. (No se han perdido, están en el lugar correcto.)
+'''
+sich verlaufen, B1
+Español: perderse
+Русский: заблудиться
+English: to get lost
+
+- Ich habe mich gestern in der Stadt verlaufen. (I got lost in the city yesterday.)
+- Wenn du dich verläufst, ruf mich an. (If you get lost, call me.)
+- Er hat sich schon oft im Wald verlaufen. (He has often got lost in the forest.)
+'''
+der Transport, -e B1
+Español: el transporte
+Русский: транспорт
+English: transport
+
+- Der Transport von Gütern ist ein wichtiger Wirtschaftsfaktor. (The transport of goods is an important economic factor.)
+- Gestern transportierte er seine Möbel mit einem LKW. (Yesterday he transported his furniture with a truck.)
+- Er hat seine Möbel mit einem LKW transportiert. (He has transported his furniture with a truck.)
+'''
+transportieren B1
+Español: transportar
+Русский: транспортировать
+English: transport
+- Der LKW transportiert die Ware zum Hafen. (The truck transports the goods to the port.)
+- Die Soldaten transportierten die Verwundeten in Sicherheit. (The soldiers transported the wounded to safety.)
+- Er hat seine Möbel mit einem Transporter transportiert. (He transported his furniture with a van.)
+'''
+abbiegen B1
+Español: doblar, girar
+Русский: поворачивать
+English: turn
+
+- Du musst an der nächsten Kreuzung links abbiegen. (You have to turn left at the next intersection.)
+- Er bog rechts ab und verschwand aus meinem Blick. (He turned right and disappeared from my sight.)
+- Sie ist falsch abgebogen und hat sich verfahren. (She turned wrong and got lost.)
+'''
+abstellen, B1
+Español: apagar, dejar, estacionar
+Русский: выключать, оставлять, ставить
+English: turn off, leave, park
+
+Frases en alemán usando abstellen:
+
+- Ich stelle das Radio ab, weil es mich nervt. (Apago la radio porque me molesta.)
+- Er hat seine Tasche an der Tür abgestellt. (Él dejó su bolsa en la puerta.)
+- Wo kann ich mein Fahrrad abstellen? (¿Dónde puedo estacionar mi bicicleta?)
+'''
+die Ankunft, - ¨e B1
+Español: la llegada
+Русский: прибытие
+English: the arrival
+
+- Der Zug hat Verspätung. Die Ankunft ist für 18 Uhr geplant. (The train is delayed. The arrival is scheduled for 6 pm.)
+- Er erinnert sich noch genau an seine Ankunft in Berlin. (He still remembers his arrival in Berlin very well.)
+- Sie hat ihre Ankunft per E-Mail angekündigt. (She announced her arrival by email.)
+'''
+die Autobahn, - en B1
+Español: la autopista
+Русский: автобан
+English: the highway
+
+- Die Autobahn ist sehr lang und hat viele Fahrspuren. (The highway is very long and has many lanes.)
+- Gestern fuhr er mit seinem Auto auf der Autobahn. (Yesterday he drove his car on the highway.)
+- Er ist schon oft auf der Autobahn gefahren. (He has driven on the highway many times.)
+'''
+der Bahnsteig, -e B1
+Español: el andén
+Русский: платформа
+English: the platform
+
+- Der Zug fährt vom Bahnsteig 5 ab. (The train leaves from platform 5.)
+- Er wartete auf dem Bahnsteig auf sie. (He waited for her on the platform.)
+- Sie sind gestern vom Bahnsteig gefallen. (They fell off the platform yesterday.)
+'''
+das Benzin, -e B1
+Español: la gasolina
+Русский: бензин
+English: gasoline
+
+Frases en alemán usando esta palabra:
+
+- Ich tanke mein Auto mit Benzin. (Lleno mi coche con gasolina.)
+- Früher war das Benzin billiger. (Antes la gasolina era más barata.)
+- Er hat das Benzin mit Wasser verdünnt. (Él diluyó la gasolina con agua.)
+'''
+bremsen, B1
+Español: frenar
+Русский: тормозить
+English: brake
+
+- Er bremst das Auto, bevor er die Kurve nimmt. (He brakes the car before he takes the curve.)
+- Sie bremste ihr Fahrrad und stieg ab. (She braked her bike and got off.)
+- Er hat zu spät gebremst und einen Unfall verursacht. (He braked too late and caused an accident.)
+'''
+die Brücke, -n B1
+Español: el puente
+Русский: мост
+English: the bridge
+
+- Die Brücke über den Fluss ist sehr alt. (The bridge over the river is very old.)
+- Gestern sind wir über die Brücke gelaufen. (Yesterday we walked over the bridge.)
+- Er hat die Brücke gebaut. (He has built the bridge.)
+'''
+die Bundesbahn, - en B1
+Español: el ferrocarril federal
+Русский: федеральная железная дорога
+English: the federal railway
+
+- Die Bundesbahn ist für den Personen- und Güterverkehr in Deutschland zuständig. (The federal railway is responsible for passenger and freight transport in Germany.)
+- Früher fuhr er oft mit der Bundesbahn zur Arbeit, aber jetzt nimmt er lieber das Auto. (He used to take the federal railway to work often, but now he prefers the car.)
+- Er hat gestern eine Fahrkarte für die Bundesbahn gekauft, weil er morgen nach Berlin fahren will. (He bought a ticket for the federal railway yesterday, because he wants to go to Berlin tomorrow.)
+'''
+dicht, B1
+Español: denso, cerrado, hermético
+Русский: плотный, закрытый, герметичный
+English: dense, closed, tight
+
+Frases en alemán usando dicht:
+
+- Der Wald ist sehr dicht und dunkel. (The forest is very dense and dark.)
+- Er hielt die Tür dicht, damit niemand hereinkommen konnte. (He kept the door closed so that no one could come in.)
+- Die Flasche ist dicht verschlossen, um die Frische zu bewahren. (The bottle is tightly sealed to preserve freshness.)
+'''
+einfahren, B1
+Español: entrar, ingresar
+Русский: въезжать, заезжать
+English: enter, drive in
+
+- Der Bus fährt in den Tunnel ein. (The bus enters the tunnel.)
+- Er fuhr gestern in die Stadt ein. (He drove into the city yesterday.)
+- Sie sind schon in das neue Haus eingefahren. (They have already moved into the new house.)
+'''
+die Endstation, - en B1
+Español: la terminal
+Русский: конечная станция
+English: the terminus
+
+Tres frases en alemán usando esta palabra son:
+
+- Ich steige an der **Endstation** aus. (Me bajo en la terminal.)
+- Die **Endstation** dieser U-Bahn-Linie ist Alexanderplatz. (La terminal de esta línea de metro es Alexanderplatz.)
+- Er hat die Fahrt bis zur **Endstation** genossen. (Él disfrutó el viaje hasta la terminal.)
+'''
+der Fahrgast, - ¨e B1
+Español: el pasajero
+Русский: пассажир
+English: the passenger
+
+Frases en alemán usando esta palabra:
+
+- Der Fahrgast steigt in den Bus ein und zeigt dem Fahrer sein Ticket. (The passenger gets on the bus and shows the driver his ticket.)
+- Gestern hat ein Fahrgast im Zug einen Herzinfarkt erlitten. (Yesterday, a passenger on the train suffered a heart attack.)
+- Die Fahrgäste haben sich über die Verspätung beschwert. (The passengers complained about the delay.)
+'''
+die Fahrt, -en B1
+Español: el viaje, el trayecto
+Русский: поездка, рейс
+English: the trip, the ride
+
+Ejemplos:
+
+- Ich freue mich auf **die Fahrt** nach Berlin. (Me alegro del viaje a Berlín.)
+- **Die Fahrt** mit dem Bus war sehr lang. (El trayecto con el autobús fue muy largo.)
+- Er hat **die Fahrt** nach Paris sehr genossen. (Él disfrutó mucho del viaje a París.)
+'''
+das Fahrzeug, -e B1
+Español: el vehículo
+Русский: транспортное средство
+English: the vehicle
+
+- Ich fahre jeden Tag mit dem **Fahrzeug** zur Arbeit. (I drive to work every day with the **vehicle**.)
+- Gestern hat er sein altes **Fahrzeug** verkauft. (Yesterday he sold his old **vehicle**.)
+- Hast du schon das neue **Fahrzeug** von Anna gesehen? (Have you seen Anna's new **vehicle** yet?)
+'''
+der Fußgänger, - B1
+Español: el peatón
+Русский: пешеход
+English: the pedestrian
+
+Frases en alemán usando esta palabra:
+
+- Der Fußgänger überquert die Straße an der Ampel. (The pedestrian crosses the street at the traffic light.)
+- Gestern wurde ein Fußgänger von einem Auto angefahren. (Yesterday a pedestrian was hit by a car.)
+- Er ist schon seit einer Stunde zu Fuß unterwegs. Er ist ein sehr schneller Fußgänger. (He has been walking for an hour. He is a very fast pedestrian.)
+'''
+der Gehweg, -e B1
+Español: la acera
+Русский: тротуар
+English: the sidewalk
+
+- Der Gehweg ist schmal und voller Schnee. (The sidewalk is narrow and full of snow.)
+- Gestern ging ich auf dem Gehweg spazieren, als ich einen alten Freund traf. (Yesterday I walked on the sidewalk when I met an old friend.)
+- Er hat seinen Hund auf dem Gehweg angeleint. (He has leashed his dog on the sidewalk.)
+'''
+gültig, B1
+Español: válido
+Русский: действительный
+English: valid
+
+- Dieser Gutschein ist noch **gültig** bis zum 31. Januar. (This voucher is still **valid** until January 31st.)
+- Er hat eine **gültige** Fahrerlaubnis. (He has a **valid** driving license.)
+- Hast du deine Stimme **gültig** abgegeben? (Did you cast your vote **validly**?)
+'''
+der Halt, -e B1
+Español: la parada, el apoyo, la firmeza
+Русский: остановка, поддержка, твердость
+English: the stop, the support, the firmness
+
+Frases en alemán usando esta palabra:
+
+- Der Bus macht einen Halt an der nächsten Station. (The bus makes a stop at the next station.)
+- Er braucht einen Halt in seinem Leben. (He needs a support in his life.)
+- Sie bewunderte den Halt seiner Stimme. (She admired the firmness of his voice.)
+'''
+der Hubschrauber, - B1
+Español: el helicóptero
+Русский: вертолёт
+English: the helicopter
+
+Frases en alemán usando esta palabra:
+
+- Ich bin noch nie mit einem **Hubschrauber** geflogen. (Nunca he volado en un helicóptero.)
+- Er landete mit seinem **Hubschrauber** auf dem Dach. (Él aterrizó con su helicóptero en el techo.)
+- Sie haben den Verletzten mit einem **Hubschrauber** ins Krankenhaus gebracht. (Ellos llevaron al herido al hospital en un helicóptero.)
+'''
+die Kreuzung, - en B1
+Español: el cruce
+Русский: перекрёсток
+English: the crossing
+Frases en alemán:
+- An der nächsten **Kreuzung** biegen Sie links ab. (At the next **crossing**, turn left.)
+- Die Ampel an der **Kreuzung** ist kaputt. (The traffic light at the **crossing** is broken.)
+- Er hat eine genetische **Kreuzung** aus zwei Pflanzen gezüchtet. (He bred a genetic **crossing** of two plants.)
+'''
+die Linie, -n B1
+Español: la línea
+Русский: линия
+English: the line
+
+- Die Linie ist **rot** und **gerade**. (The line is red and straight.)
+- Er **zog** eine Linie auf dem Papier. (He drew a line on the paper.)
+- Sie hat die Linie **gezogen**. (She has drawn the line.)
+'''
+das Moped, -s B1
+Español: el ciclomotor
+Русский: мопед
+English: the moped
+
+Frases en alemán usando esta palabra:
+
+- Ich fahre jeden Tag mit dem Moped zur Schule. (Uso el ciclomotor para ir a la escuela todos los días.)
+- Er hat sein Moped im Präteritum verkauft. (Él vendió su ciclomotor en el pasado.)
+- Sie hat sich ein neues Moped im Perfekt gekauft. (Ella se compró un ciclomotor nuevo en el pasado perfecto.)
+'''
+das Motorrad, -¨er B1
+Español: la motocicleta
+Русский: мотоцикл
+English: the motorcycle
+
+- Ich fahre gerne **Motorrad**. (I like to ride a motorcycle.)
+- Gestern hat er sich ein neues **Motorrad** gekauft. (Yesterday he bought a new motorcycle.)
+- Hast du schon mal **Motorrad** gefahren? (Have you ever ridden a motorcycle?)
+'''
+die Nebenstraße, -n B1
+Español: la calle lateral
+Русский: боковая улица
+English: the side street
+
+- Ich gehe oft durch die **Nebenstraße**, um den Verkehr zu vermeiden. (I often go through the side street to avoid the traffic.)
+- Gestern sah ich einen Unfall in der **Nebenstraße**. (Yesterday I saw an accident in the side street.)
+- Er hat mir gesagt, dass er in der **Nebenstraße** geparkt hat. (He told me that he parked in the side street.)
+'''
+die Parkgebühr, B1
+Español: la tarifa de estacionamiento
+Русский: плата за парковку
+English: parking fee
+
+- Die Parkgebühr in dieser Stadt ist sehr hoch.
+- Ich habe gestern die Parkgebühr vergessen zu bezahlen.
+- Hast du schon die Parkgebühr für diesen Monat bezahlt?
+
+der Personenkraftwagen, (Pkw, -), B2
+Español: el automóvil
+Русский: легковой автомобиль
+English: car
+
+- Er fährt jeden Tag mit seinem Personenkraftwagen zur Arbeit.
+- Sie kaufte sich einen neuen Personenkraftwagen im letzten Jahr.
+- Er hat seinen Personenkraftwagen reparieren lassen.
+'''
+s) es una palabra en alemán que significa "eso" o "aquello" en español. Es un pronombre demostrativo neutro que se usa para referirse a algo que ya se ha mencionado o que se puede deducir del contexto. Algunos ejemplos de frases con s) son:
+
+- Ich mag s), wenn du mir Geschichten erzählst. (Me gusta eso de que me cuentes historias.)
+- Hast du s) gehört? Es war ein lauter Knall. (¿Has oído eso? Ha sido un estruendo.)
+- S) ist mein Fahrrad. Es ist sehr alt, aber es funktioniert noch. (Eso es mi bicicleta. Es muy vieja, pero todavía funciona.)
+'''
+der Radfahrweg, -e; der Radweg, -e B1
+Español: el carril bici, la ciclovía
+Русский: велосипедная дорожка, велодорожка
+English: the bike lane, the cycle path
+
+- Der Radfahrweg ist oft schmal und neben der Straße.
+- Auf dem Radweg fuhren viele Radfahrer an uns vorbei.
+- Wir sind gestern den ganzen Radfahrweg entlang gefahren.
+'''
+rollen, B1
+Español: rodar
+Русский: катить
+English: roll
+
+Ejemplos:
+
+- Der Ball rollt über die Straße. (The ball rolls across the street.)
+- Er rollte die Augen, als sie ihm von ihrem Tag erzählte. (He rolled his eyes as she told him about her day.)
+- Sie hat die Zeitung zu einer Kugel gerollt und weggeworfen. (She rolled the newspaper into a ball and threw it away.)
+'''
+die Schiene, -n B1
+Español: el riel, los rieles
+Русский: рельс, рельсы
+English: the rail, the rails
+
+- Der Zug fährt auf der Schiene. (The train runs on the rail.)
+- Die Schiene war gebrochen und musste repariert werden. (The rail was broken and had to be repaired.)
+- Er hat sich die Schiene an seinem Bein verletzt. (He injured the rail on his leg.)
+'''
+der Straßenverkehr, -e (fast nie Pl.) B1
+Español: el tráfico (callejero)
+Русский: дорожное движение
+English: the traffic (on the road)
+
+Frases en alemán usando esta palabra:
+
+- Der Straßenverkehr ist heute sehr ruhig. (The traffic is very quiet today.)
+- Gestern gab es einen Unfall im Straßenverkehr. (Yesterday there was an accident in the traffic.)
+- Er hat die Prüfung für den Straßenverkehr bestanden. (He passed the test for the traffic.)
+'''
+der Tarif, -e B1
+Español: la tarifa
+Русский: тариф
+English: the rate
+
+Frases en alemán usando esta palabra:
+
+- Der Tarif für die Stromversorgung ist gestiegen. (The rate for electricity supply has increased.)
+- Er arbeitet nach einem neuen Tarif. (He works according to a new rate.)
+- Sie haben den Tarif im Voraus bezahlt. (They paid the rate in advance.)
+'''
+überqueren, B1
+Español: cruzar
+Русский: пересекать
+English: cross
+
+- Die Kinder überqueren die Straße. (The children cross the street.)
+- Er überquerte die Alpen zu Fuß. (He crossed the Alps on foot.)
+- Sie hat die Brücke überquert. (She has crossed the bridge.)
+'''
+der Verkehr, -e (fast nie Pl.) B1
+Español: el tráfico, la circulación
+Русский: дорожное движение, транспорт
+English: traffic, transportation
+Ejemplos:
+- Der Verkehr ist heute sehr **stark**. (The traffic is very **heavy** today.)
+- Er ist mit dem öffentlichen Verkehr **gefahren**. (He **went** by public transportation.)
+- Sie hat gestern einen Unfall im Verkehr **gehabt**. (She **had** an accident in traffic yesterday.)
+'''
+das Verkehrsmittel, - B1
+Español: medio de transporte
+Русский: транспортное средство
+English: means of transport
+
+- Ich fahre jeden Tag mit dem **Verkehrsmittel** Bus zur Arbeit. (I take the bus to work every day.)
+- Früher bin ich oft mit dem Fahrrad gefahren, aber jetzt benutze ich andere **Verkehrsmittel**. (I used to ride my bike a lot, but now I use other means of transport.)
+- Hast du schon mal ein exotisches **Verkehrsmittel** ausprobiert, wie zum Beispiel ein Kamel oder einen Elefanten? (Have you ever tried an exotic means of transport, such as a camel or an elephant?)
+'''
+die Verspätung, - en B1
+Español: el retraso, el atraso
+Русский: опоздание, задержка
+English: the delay, the lateness
+
+Frases en alemán usando esta palabra:
+
+- Mein Zug hat **Verspätung**, ich komme später an. (My train is **delayed**, I will arrive later.)
+- Er entschuldigte sich für seine **Verspätung**. (He apologized for his **lateness**.)
+- Die **Verspätung** des Fluges wurde durch schlechtes Wetter verursacht. (The **delay** of the flight was caused by bad weather.)
+'''
+der Waggon, -s B1
+Español: el vagón
+Русский: вагон
+English: the wagon
+
+- Der Zug hat zehn Waggons. (The train has ten wagons.)
+- Gestern fuhr ich mit dem Waggon nach Berlin. (Yesterday I went by wagon to Berlin.)
+- Ich habe meinen Koffer im Waggon vergessen. (I forgot my suitcase in the wagon.)
+'''
+das Zeichen, - B1
+Español: el signo
+Русский: знак
+English: the sign
+
+- Er hat mir ein **Zeichen** gegeben, dass er bereit ist. (He gave me a **sign** that he is ready.)
+- Sie erkannte an den **Zeichen** an der Wand, dass sie sich verlaufen hatte. (She recognized by the **signs** on the wall that she had lost her way.)
+- Er hat ihr einen Ring als **Zeichen** seiner Liebe geschenkt. (He gave her a ring as a **sign** of his love.)
+'''
+mobil, B1
+Español: móvil
+Русский: мобильный
+English: mobile
+
+- Ich habe mein **mobil**es Telefon vergessen. Kann ich dein Handy benutzen?
+- Er war gestern nicht **mobil**, weil er Fieber hatte.
+- Sie hat ihr Auto verkauft und ist jetzt nur noch mit dem Fahrrad **mobil**.
+'''
+zusammenstoßen mit, B1
+Español: chocar con
+Русский: сталкиваться с
+English: collide with
+
+Ejemplos:
+
+- Der Zug ist mit einem Auto zusammengestoßen. (The train collided with a car.)
+- Er ist gestern mit seinem Chef zusammengestoßen. (He clashed with his boss yesterday.)
+- Sie ist mit ihm zusammengestoßen, als sie die Straße überquerte. (She bumped into him when she crossed the street.)
+'''
+verleihen, B1
+Español: prestar, alquilar
+Русский: давать взаймы, сдавать в аренду
+English: lend, rent
+
+Frases en alemán usando verleihen:
+
+- Ich verleihe dir mein Fahrrad, aber du musst es morgen zurückbringen. (Te presto mi bicicleta, pero tienes que devolverla mañana.)
+- Er hat seine Wohnung für ein Jahr verliehen, weil er im Ausland arbeiten wird. (Él ha alquilado su apartamento por un año, porque va a trabajar en el extranjero.)
+- Sie hat ihrem Vortrag viel Ausdruck verliehen. (Ella le ha dado mucha expresión a su presentación.)
+'''
+die Schnelligkeit, - en B1
+Español: la rapidez
+Русский: скорость
+English: speed
+
+- Er fährt mit großer Schnelligkeit auf der Autobahn. (He drives at high speed on the highway.)
+- Sie erreichte die Schnelligkeit von 100 Metern pro Minute. (She reached the speed of 100 meters per minute.)
+- Er hat die Aufgabe mit Schnelligkeit erledigt. (He completed the task with speed.)
+'''
+der Aufenthalt, -e B2
+Español: la estancia
+Русский: пребывание
+English: the stay
+
+- Ich habe meinen **Aufenthalt** in Berlin sehr genossen. (I enjoyed my **stay** in Berlin very much.)
+- Wegen der Pandemie musste er seinen **Aufenthalt** in Spanien verlängern. (Because of the pandemic, he had to extend his **stay** in Spain.)
+- Sie haben einen **Aufenthalt** von drei Monaten in diesem Land. (You have a **stay** of three months in this country.)
+'''
+die Gepäckaufbewahrung, - en B2
+Español: el depósito de equipaje
+Русский: камера хранения
+English: the luggage storage
+
+- Ich habe mein Gepäck in der Gepäckaufbewahrung am Bahnhof gelassen. (I left my luggage in the luggage storage at the train station.)
+- Als wir in Berlin ankamen, suchten wir nach einer Gepäckaufbewahrung, um unsere Koffer abzugeben. (When we arrived in Berlin, we looked for a luggage storage to drop off our suitcases.)
+- Hast du schon deine Gepäckaufbewahrung bezahlt? (Have you already paid for your luggage storage?)
+'''
+der Liegewagen, - B2
+Español: el coche cama
+Русский: плацкартный вагон
+English: the sleeping car
+
+- Ich habe eine Fahrkarte für den Liegewagen gebucht, weil ich die Nacht im Zug verbringen muss.
+- Als er im Liegewagen aufwachte, sah er, dass seine Tasche gestohlen worden war.
+- Hast du schon mal im Liegewagen geschlafen? Es ist viel bequemer als im Sitzwagen.
+'''
+der Speisewagen, - B2
+Español: el coche comedor
+Русский: вагон-ресторан
+English: the dining car
+
+Frases en alemán usando esta palabra:
+
+- Ich habe im Speisewagen einen Kaffee und ein Croissant bestellt.
+- Als wir im Speisewagen saßen, kam der Schaffner und kontrollierte unsere Fahrkarten.
+- Hast du schon mal im Speisewagen gegessen?
+'''
+der Zugbegleiter, - B2
+Español: el revisor
+Русский: проводник
+English: the train attendant
+
+Frases en alemán usando esta palabra:
+
+- Der Zugbegleiter kontrolliert die Fahrkarten der Fahrgäste. (El revisor controla los billetes de los pasajeros.)
+- Als ich klein war, wollte ich Zugbegleiter werden. (Cuando era pequeño, quería ser revisor.)
+- Hast du schon mal mit einem Zugbegleiter geflirtet? (¿Alguna vez has coqueteado con un revisor?)
+'''
+der Zuschlag, - ¨e B2
+Español: el recargo, el suplemento, la adjudicación
+Русский: наценка, доплата, присуждение
+English: the surcharge, the supplement, the award
+
+Frases en alemán usando esta palabra:
+
+- Ich muss einen **Zuschlag** für die Expresslieferung bezahlen.
+- (I have to pay a surcharge for express delivery.)
+- Er hat einen **Zuschlag** von 10% auf seinen Lohn bekommen.
+- (He got a 10% supplement on his salary.)
+- Sie hat den **Zuschlag** für das Projekt erhalten.
+- (She received the award for the project.)
+'''
+der Gipfel, - B2
+Español: la cumbre
+Русский: вершина
+English: the summit
+
+Tres frases en alemán usando esta palabra son:
+
+- Wir haben den **Gipfel** des Berges erreicht. (Hemos alcanzado la cumbre de la montaña.)
+- Die beiden Staatschefs trafen sich zu einem historischen **Gipfel**. (Los dos líderes se reunieron para una cumbre histórica.)
+- Er war auf dem **Gipfel** seiner Karriere, als er plötzlich krank wurde. (Estaba en la cima de su carrera cuando se enfermó repentinamente.)
+'''
+der Hügel, - B2
+Español: la colina
+Русский: холм
+English: the hill
+
+- Der Hügel ist mit Schnee bedeckt. (The hill is covered with snow.)
+- Als Kind bin ich oft mit meinem Schlitten den Hügel hinuntergefahren. (As a child, I often went down the hill with my sled.)
+- Sie haben einen schönen Ausblick von dem Hügel aus. (They have a nice view from the hill.)
+'''
+sehenswert, B2
+Español: digno de ver
+Русский: достойный просмотра
+English: worth seeing
+
+- Das Museum ist sehr sehenswert, es hat viele interessante Ausstellungen.
+- The museum is very worth seeing, it has many interesting exhibitions.
+- El museo es muy digno de ver, tiene muchas exposiciones interesantes.
+
+- Wir haben gestern einen sehenswerten Film im Kino gesehen, er war sehr spannend und lustig.
+- We saw a worth seeing movie in the cinema yesterday, it was very exciting and funny.
+- Ayer vimos una película digna de ver en el cine, fue muy emocionante y divertida.
+
+- Hast du schon die neue Serie gesehen? Sie ist wirklich sehenswert, du wirst sie lieben.
+- Have you seen the new series yet? It is really worth seeing, you will love it.
+- ¿Ya has visto la nueva serie? Es realmente digna de ver, te encantará.
+'''
+der Kulturkreis, -e B2
+Español: el círculo cultural
+Русский: культурный круг
+English: the cultural circle
+
+Frases en alemán usando esta palabra:
+
+- Die deutsche Sprache gehört zum **Kulturkreis** der indogermanischen Sprachen. (The German language belongs to the cultural circle of the Indo-European languages.)
+- Er interessiert sich für den **Kulturkreis** des alten Ägyptens. (He is interested in the cultural circle of ancient Egypt.)
+- Sie hat viele Freunde aus verschiedenen **Kulturkreisen**. (She has many friends from different cultural circles.)
+'''
+das Souvenir, -e B2
+Español: el recuerdo
+Русский: сувенир
+English: the souvenir
+
+- Ich habe ein schönes Souvenir aus Japan mitgebracht. (I brought a nice souvenir from Japan.)
+- Als wir in Paris waren, hast du mir ein Souvenir gekauft. (When we were in Paris, you bought me a souvenir.)
+- Er hat viele Souvenirs gesammelt, als er um die Welt gereist ist. (He collected many souvenirs when he traveled around the world.)
+'''
+der Fremdenverkehr, B2
+Español: el turismo
+Русский: туризм
+English: tourism
+
+- Der Fremdenverkehr ist ein wichtiger Wirtschaftsfaktor für viele Länder. (Tourism is an important economic factor for many countries.)
+- Wegen der Pandemie ging der Fremdenverkehr im letzten Jahr stark zurück. (Due to the pandemic, tourism declined sharply last year.)
+- Hast du schon mal über eine Karriere im Fremdenverkehr nachgedacht? (Have you ever thought about a career in tourism?)
+'''
+der Massentourismus, B2
+Español: el turismo de masas
+Русский: массовый туризм
+English: mass tourism
+
+- Der Massentourismus hat viele negative Folgen für die Umwelt und die Kultur der Reiseziele. (Mass tourism has many negative consequences for the environment and the culture of the destinations.)
+- Früher war Mallorca ein ruhiger Ort, aber dann kam der Massentourismus und veränderte alles. (Mallorca used to be a quiet place, but then mass tourism came and changed everything.)
+- Viele Menschen sind gegen den Massentourismus, weil er die Lebensqualität der Einheimischen verschlechtert. (Many people are against mass tourism because it worsens the quality of life of the locals.)
+'''
+die Reisegesellschaft, - en B2
+Español: la compañía de viajes
+Русский: туристическая компания
+English: the travel company
+
+Ejemplos:
+
+- Die Reisegesellschaft hat uns ein gutes Angebot gemacht. (The travel company made us a good offer.)
+- Wir waren mit der Reisegesellschaft sehr zufrieden. (We were very satisfied with the travel company.)
+- Hast du schon mal mit dieser Reisegesellschaft gereist? (Have you ever traveled with this travel company?)
+'''
+das Reiseunternehmen, B2
+Español: la agencia de viajes
+Русский: туристическая фирма
+English: the travel agency
+
+- Das Reiseunternehmen bietet verschiedene Pauschalreisen an. (The travel agency offers different package tours.)
+- Letztes Jahr arbeitete er für ein Reiseunternehmen in Berlin. (Last year he worked for a travel agency in Berlin.)
+- Sie haben ihre Reise bei einem Reiseunternehmen gebucht, das später pleite ging. (They booked their trip with a travel agency that later went bankrupt.)
+'''
+der Reiseveranstalter, - B2
+Español: el organizador de viajes
+Русский: туроператор
+English: the tour operator
+
+- Der Reiseveranstalter hat uns ein günstiges Angebot gemacht. (The tour operator made us a cheap offer.)
+- Als wir in Ägypten waren, hatten wir Probleme mit dem Reiseveranstalter. (When we were in Egypt, we had problems with the tour operator.)
+- Wir haben unsere Reise bei einem bekannten Reiseveranstalter gebucht. (We booked our trip with a well-known tour operator.)
+'''
+die Studienreise, -n B2
+Español: el viaje de estudios
+Русский: учебная поездка
+English: study trip
+
+- Ich möchte nächstes Jahr an einer **Studienreise** nach Japan teilnehmen.
+- Letzten Sommer haben wir eine **Studienreise** nach Frankreich gemacht und viele interessante Orte besucht.
+- Hast du schon von der **Studienreise** gehört, die unsere Schule organisiert?
+'''
+die Touristeninformation, - en B2
+Español: la oficina de información turística
+Русский: туристическая информация
+English: tourist information
+
+- Die Touristeninformation befindet sich neben dem Rathaus. (The tourist information office is next to the town hall.)
+- Wir haben gestern die Touristeninformation besucht und viele Broschüren bekommen. (We visited the tourist information office yesterday and got many brochures.)
+- Hast du schon die Touristeninformation angerufen? Sie können dir bei der Buchung helfen. (Have you called the tourist information office yet? They can help you with the booking.)
+'''
+touristisch, B2
+Español: turístico
+Русский: туристический
+English: touristic
+
+- Berlin ist eine sehr **touristische** Stadt mit vielen Sehenswürdigkeiten.
+- Wir haben letztes Jahr eine **touristische** Reise nach Spanien gemacht.
+- Er arbeitet als **touristischer** Führer in einem Museum.
+'''
+rauschen, B2
+Español: susurrar, murmurar, hacer ruido
+Русский: шуметь, шелестеть, шипеть
+English: rustle, murmur, make noise
+
+- Das Rauschen des Meeres beruhigt mich. (The sound of the sea calms me down.)
+- Er rauschte mit seinem Auto an mir vorbei. (He zoomed past me in his car.)
+- Sie haben die ganze Nacht gerauscht. (They have been whispering all night.)
+'''
+die Ortschaft, B2
+Español: el pueblo, la localidad
+Русский: поселок, населенный пункт
+English: the village, the locality
+
+- Die Ortschaft liegt in einem malerischen Tal. (The village is located in a picturesque valley.)
+- Er verließ die Ortschaft im Jahr 1999 und kehrte nie wieder zurück. (He left the locality in 1999 and never returned.)
+- Sie haben viele Ortschaften besucht, bevor sie ihr Ziel erreicht haben. (They visited many villages before they reached their destination.)
+'''
+abdrängen, B2
+Español: apartar, alejar
+Русский: оттеснять, отталкивать
+English: push away, fend off
+
+Frases en alemán usando abdrängen:
+
+- Er versuchte, die negativen Gedanken abzudrängen. (He tried to push away the negative thoughts.)
+- Die Polizei drängte die Demonstranten von der Straße ab. (The police fended off the protesters from the street.)
+- Sie hat ihn abgedrängt, als er sie küssen wollte. (She pushed him away when he tried to kiss her.)
+'''
+abfahren, B2
+Español: salir, partir
+Русский: отъезжать, уезжать
+English: leave, depart
+
+Frases en alemán usando abfahren:
+
+- Der Zug fährt um 10 Uhr ab. (The train leaves at 10 o'clock.)
+- Er fuhr gestern von Berlin ab. (He departed from Berlin yesterday.)
+- Sie ist schon abgefahren. (She has already left.)
+'''
+abheben, B2
+Español: retirar, despegar
+Русский: снимать, взлетать
+English: withdraw, take off
+
+- Er hat gestern 500 Euro von seinem Konto abgehoben. (He withdrew 500 euros from his account yesterday.)
+- Das Flugzeug hob pünktlich um 10 Uhr ab. (The plane took off on time at 10 o'clock.)
+- Sie hat sich von der Menge abgehoben, weil sie so schön war. (She stood out from the crowd because she was so beautiful.)
+'''
+abschleppen, B2
+Español: remolcar
+Русский: эвакуировать
+English: tow
+
+Frases en alemán usando abschleppen:
+
+- Mein Auto ist kaputt. Ich muss es abschleppen lassen. (My car is broken. I have to have it towed.)
+- Er hat gestern eine Frau in der Bar abgeschleppt. (He picked up a woman at the bar yesterday.)
+- Die Polizei hat das falsch geparkte Auto abgeschleppt. (The police towed the illegally parked car.)
+'''
+das Abteil, -e B2
+Español: el compartimento
+Русский: купе
+English: the compartment
+
+Frases en alemán usando esta palabra:
+
+- Ich habe mein Gepäck im Abteil gelassen. (He dejado mi equipaje en el compartimento.)
+- Er saß im Abteil neben einem alten Mann. (Él se sentó en el compartimento junto a un anciano.)
+- Sie haben das Abteil gewechselt, weil es zu laut war. (Ellos cambiaron de compartimento porque era demasiado ruidoso.)
+'''
+anfahren, B2
+Español: atropellar, arrancar, acercarse
+Русский: сбивать, трогаться, подъезжать
+English: run over, start, approach
+
+Frases en alemán usando anfahren:
+
+- Der Autofahrer hat den Radfahrer angefahren und ist dann geflüchtet. (The driver ran over the cyclist and then fled.)
+- Er fuhr das Auto an und fuhr los. (He started the car and drove off.)
+- Sie sind gestern in Berlin angefahren und haben sich ein Hotel gesucht. (They approached Berlin yesterday and looked for a hotel.)
+'''
+anschnallen, B2
+Español: abrocharse
+Русский: пристегиваться
+English: fasten
+
+Frases en alemán usando anschnallen:
+
+- Du musst dich anschnallen, bevor du das Auto startest. (You have to fasten your seat belt before you start the car.)
+- Er schnallte sich an und flog mit dem Flugzeug nach Berlin. (He fastened himself and flew by plane to Berlin.)
+- Hast du dich angeschnallt, als du den Unfall hattest? (Did you fasten yourself when you had the accident?)
+'''
+auffahren, B2
+Español: chocar, colisionar
+Русский: наезжать, сталкиваться
+English: crash, collide
+
+- Er ist auf das Auto vor ihm aufgefahren und hat einen Unfall verursacht.
+(He crashed into the car in front of him and caused an accident.)
+- Sie fuhr auf den Parkplatz auf und suchte nach einem freien Platz.
+(She drove onto the parking lot and looked for a free spot.)
+- Er ist gestern auf seinen Chef aufgefahren, weil er mit seiner Arbeit unzufrieden war.
+(He collided with his boss yesterday because he was dissatisfied with his work.)
+'''
+die Bahnstrecke, -n B2
+Español: la línea ferroviaria
+Русский: железнодорожная линия
+English: the railway line
+
+- Die Bahnstrecke zwischen Berlin und Hamburg ist 286 Kilometer lang. (The railway line between Berlin and Hamburg is 286 kilometers long.)
+- Gestern fuhr ich mit dem Zug auf einer neuen Bahnstrecke. (Yesterday I took the train on a new railway line.)
+- Er hat mir erzählt, dass er schon viele Bahnstrecken in Europa bereist hat. (He told me that he has traveled many railway lines in Europe.)
+'''
+befahren B2
+Español: transitar, circular
+Русский: проезжать, ездить
+English: drive, travel
+
+Frases en alemán usando la palabra befahren:
+
+- Die Straße ist sehr schmal, man kann sie nur mit einem kleinen Auto befahren. (The road is very narrow, you can only drive on it with a small car.)
+- Er hat gestern zum ersten Mal die Autobahn befahren. (He drove on the highway for the first time yesterday.)
+- Sie haben viele Länder befahren, bevor sie sich in Kanada niederließen. (They traveled to many countries before they settled in Canada.)
+'''
+die Beförderung, - en B2
+Español: el ascenso
+Русский: повышение
+English: the promotion
+
+- Er hat die Beförderung zum Abteilungsleiter bekommen. (He got the promotion to department head.)
+- Sie freute sich sehr über ihre Beförderung. (She was very happy about her promotion.)
+- Nach der Beförderung verdiente er mehr Geld. (After the promotion, he earned more money.)
+'''
+blitzen, B2
+Español: relampaguear
+Русский: молния
+English: to flash
+
+Frases en alemán usando blitzen:
+
+- Wenn es blitzt, muss man vorsichtig sein. (When it flashes, one must be careful.)
+- Gestern blitzte es so stark, dass der Strom ausfiel. (Yesterday it flashed so strongly that the power went out.)
+- Es hat den ganzen Tag geblitzt, aber kein Donner war zu hören. (It flashed all day, but no thunder was heard.)
+'''
+blockieren B2
+Español: bloquear
+Русский: блокировать
+English: block
+
+Frases en alemán usando blockieren:
+
+- Ich kann diese Website nicht öffnen, weil sie blockiert ist. (No puedo abrir esta página web porque está bloqueada.)
+- Er blockierte den Schlag seines Gegners mit seinem Schild. (Él bloqueó el golpe de su oponente con su escudo.)
+- Sie hat ihn auf allen sozialen Medien blockiert, weil er sie belästigt hat. (Ella lo bloqueó en todas las redes sociales porque él la acosó.)
+'''
+die Bundesstraße, -n B2
+Español: la carretera federal, las carreteras federales
+Русский: федеральная дорога, федеральные дороги
+English: the federal highway, the federal highways
+
+- Die Bundesstraße 1 verbindet Berlin mit Aachen.
+- Gestern fuhr ich auf der Bundesstraße 5 nach Hamburg.
+- Er ist schon seit zwei Stunden auf der Bundesstraße 10 unterwegs.
+'''
+das Bußgeld, - er B2
+Español: la multa
+Русский: штраф
+English: fine
+
+- Er muss ein **Bußgeld** zahlen, weil er zu schnell gefahren ist.
+(He has to pay a **fine** because he drove too fast.)
+- Sie bekam ein **Bußgeld** für das Rauchen in der U-Bahn.
+(She got a **fine** for smoking in the subway.)
+- Hast du schon das **Bußgeld** bezahlt, das du letzte Woche bekommen hast?
+(Did you already pay the **fine** that you got last week?)
+'''
+entwerten, B2
+Español: desvalorizar, invalidar
+Русский: обесценивать, аннулировать
+English: devalue, invalidate
+
+- Sie müssen Ihr Ticket entwerten, bevor Sie in den Zug steigen.
+(You have to invalidate your ticket before you get on the train.)
+- Die Inflation hat die Währung des Landes entwertet.
+(Inflation has devalued the country's currency.)
+- Er hat seine Aussage entwertet, indem er gelogen hat.
+(He invalidated his statement by lying.)
+'''
+die Fahrbahn, - en B2
+Español: la calzada
+Русский: проезжая часть
+English: the roadway
+
+- Die Fahrbahn ist nass und rutschig. (The roadway is wet and slippery.)
+- Gestern fuhr er auf der falschen Fahrbahn. (Yesterday he drove on the wrong lane.)
+- Er hat die Fahrbahn überquert, ohne auf den Verkehr zu achten. (He crossed the roadway without paying attention to the traffic.)
+'''
+die Fähre, -n B2
+Español: el ferry
+Русский: паром
+English: the ferry
+
+- Wir fahren mit der Fähre nach Schweden. (We take the ferry to Sweden.)
+- Gestern nahmen sie die Fähre über den Fluss. (Yesterday they took the ferry across the river.)
+- Hast du schon mal die Fähre benutzt? (Have you ever used the ferry?)
+'''
+die Fahrspur, - en B2
+Español: el carril
+Русский: полоса движения
+English: the lane
+
+- Der Fahrer wechselt die Fahrspur ohne zu blinken. (The driver changes lanes without signaling.)
+- Gestern fuhr ich auf der linken Fahrspur, als plötzlich ein Reh vor mir auftauchte. (Yesterday I was driving on the left lane when suddenly a deer appeared in front of me.)
+- Er hat die Fahrspur gewechselt, nachdem er das Schild gesehen hatte. (He changed lanes after he saw the sign.)
+'''
+die Geschwindigkeit, - en B2
+Español: la velocidad
+Русский: скорость
+English: speed
+
+- Die Geschwindigkeit des Autos ist sehr hoch. (The speed of the car is very high.)
+- Er fuhr mit hoher Geschwindigkeit und verursachte einen Unfall. (He drove at high speed and caused an accident.)
+- Sie haben die Geschwindigkeit des Lichts gemessen. (They measured the speed of light.)
+'''
+der Gurt, -e B2
+Español: el cinturón
+Русский: ремень
+English: the belt
+
+- Ich schnalle mir den Gurt an, bevor ich losfahre. (I fasten my seat belt before I drive away.)
+- Er trug einen schwarzen Anzug mit einem roten Gürtel. (He wore a black suit with a red belt.)
+- Hast du dir schon den Gurt abgeschnallt? (Have you already unbuckled your seat belt?)
+'''
+der Kraftstoff, -e B2
+Español: el combustible
+Русский: топливо
+English: fuel
+
+- Der Kraftstoff ist sehr teuer in diesem Land. (The fuel is very expensive in this country.)
+- Er tankte sein Auto mit dem falschen Kraftstoff. (He filled his car with the wrong fuel.)
+- Sie haben genug Kraftstoff gespart, um die Reise fortzusetzen. (They have saved enough fuel to continue the trip.)
+'''
+die Lokomotive, -n B2
+Español: la locomotora
+Русский: локомотив
+English: the locomotive
+
+- Die Lokomotive **zieht** einen langen Zug. (The locomotive **pulls** a long train.)
+- Gestern **fuhr** eine alte Lokomotive durch die Stadt. (Yesterday an old locomotive **drove** through the city.)
+- Die Kinder haben eine Lokomotive **gebaut**. (The children have **built** a locomotive.)
+'''
+der Nahverkehr, -e (fast nie Pl.) B2
+Español: el transporte público
+Русский: общественный транспорт
+English: public transport
+
+Beispiele:
+- Ich fahre jeden Tag mit dem Nahverkehr zur Arbeit.
+- Der Nahverkehr in Berlin ist sehr gut ausgebaut.
+- Wegen eines Streiks stand der Nahverkehr gestern still.
+
+das Nahverkehrsmittel, - B2
+Español: el medio de transporte público
+Русский: вид общественного транспорта
+English: public transport mode
+
+Beispiele:
+- Welches Nahverkehrsmittel benutzt du am liebsten?
+- Das Fahrrad ist ein umweltfreundliches Nahverkehrsmittel.
+- In der Stadt gibt es viele verschiedene Nahverkehrsmittel, wie Busse, U-Bahnen und Straßenbahnen.
+'''
+rasen, B2
+Español: césped
+Русский: газон
+English: lawn
+
+- Der Rasen ist grün und gepflegt. (The lawn is green and well-kept.)
+- Er mähte den Rasen gestern. (He mowed the lawn yesterday.)
+- Sie hat den Rasen schon zweimal gedüngt. (She has fertilized the lawn twice already.)
+'''
+die Raststätte, -n B2
+Español: la estación de servicio, las estaciones de servicio
+Русский: автозаправка, автозаправки
+English: the service station, the service stations
+
+- Wir machen eine Pause an der nächsten Raststätte.
+(We take a break at the next service station.)
+- Gestern haben sie an einer Raststätte übernachtet.
+(Yesterday they stayed overnight at a service station.)
+- Er hat sein Portemonnaie an einer Raststätte verloren.
+(He lost his wallet at a service station.)
+'''
+schalten B2
+Español: cambiar, encender, apagar
+Русский: переключать, включать, выключать
+English: switch, turn on, turn off
+
+Frases en alemán usando schalten:
+
+- Er schaltet das Licht an, bevor er ins Bett geht. (Él enciende la luz antes de irse a la cama.)
+- Sie hat den Fernseher ausgeschaltet, weil sie müde war. (Ella apagó el televisor porque estaba cansada.)
+- Wie kann man zwischen den Modi schalten? (¿Cómo se puede cambiar entre los modos?)
+'''
+das Schienennetz, -e B2
+Español: la red ferroviaria
+Русский: железнодорожная сеть
+English: the railway network
+
+- Das Schienennetz in Deutschland ist sehr gut ausgebaut und verbindet viele Städte und Regionen. (The railway network in Germany is very well developed and connects many cities and regions.)
+- Während des Zweiten Weltkriegs wurde das Schienennetz stark beschädigt und musste wieder aufgebaut werden. (During the Second World War, the railway network was heavily damaged and had to be rebuilt.)
+- Die Bundesregierung hat angekündigt, dass sie in den nächsten Jahren mehr Geld in das Schienennetz investieren will. (The federal government has announced that it wants to invest more money in the railway network in the next few years.)
+'''
+stocken, B2
+Español: atascarse, estancarse
+Русский: застревать, тормозить
+English: to get stuck, to stall
+
+Ejemplos:
+
+- Der Verkehr stockt wegen eines Unfalls auf der Autobahn. (The traffic is jammed because of an accident on the highway.)
+- Die Wirtschaft stockte nach der Pandemie. (The economy stalled after the pandemic.)
+- Er ist beim Lernen nicht mehr gestockt. (He has not gotten stuck with his learning anymore.)
+'''
+der Strafzettel, - B2
+Español: la multa
+Русский: штраф
+English: the fine
+
+Frases en alemán usando esta palabra:
+
+- Ich habe gestern einen Strafzettel bekommen, weil ich zu schnell gefahren bin. (Ayer recibí una multa por conducir demasiado rápido.)
+- Hast du schon mal einen Strafzettel bezahlt? (¿Alguna vez has pagado una multa?)
+- Er hat keinen Strafzettel bekommen, obwohl er falsch geparkt hat. (No recibió una multa, aunque estaba mal aparcado.)
+'''
+der Tanker, - B2
+Español: el petrolero
+Русский: танкер
+English: the tanker
+
+- Der Tanker **transportiert** Öl aus dem Nahen Osten nach Europa. (The tanker **transports** oil from the Middle East to Europe.)
+- Der Tanker **kollidierte** gestern mit einem Eisberg und **sank**. (The tanker **collided** with an iceberg yesterday and **sank**.)
+- Der Tanker **hat** eine Ladung von 200.000 Tonnen Öl **transportiert**. (The tanker **has transported** a cargo of 200,000 tons of oil.)
+'''
+die Umleitung, - en B2
+Español: el desvío
+Русский: объезд
+English: the diversion
+
+- Die Polizei hat eine Umleitung eingerichtet, weil die Straße gesperrt ist.
+- Gestern mussten wir eine Umleitung nehmen, weil es einen Unfall gab.
+- Wir sind zu spät gekommen, weil wir eine Umleitung gefahren sind.
+'''
+die Verbindung, - en B2
+Español: la conexión
+Русский: связь
+English: the connection
+
+- Die Verbindung zwischen den beiden Computern ist sehr schnell. (The connection between the two computers is very fast.)
+- Er hatte keine Verbindung zu seiner Familie. (He had no connection to his family.)
+- Sie haben die Verbindung hergestellt. (They have established the connection.)
+'''
+das Verkehrsamt, -¨er B2
+Español: la oficina de tráfico
+Русский: дорожное управление
+English: the traffic office
+
+Frases en alemán usando esta palabra:
+
+- Ich muss zum Verkehrsamt gehen, um meinen Führerschein zu verlängern.
+(I have to go to the traffic office to renew my driver's license.)
+- Das Verkehrsamt hat gestern eine neue Regelung für Radfahrer eingeführt.
+(The traffic office introduced a new regulation for cyclists yesterday.)
+- Hast du schon die Broschüre vom Verkehrsamt gelesen?
+(Have you read the brochure from the traffic office?)
+'''
+die Verkehrsdichte, -n (fast nie Pl.) B2
+Español: la densidad del tráfico
+Русский: плотность дорожного движения
+English: the traffic density
+
+- Die Verkehrsdichte ist in der Stadt sehr hoch, besonders zu den Stoßzeiten. (The traffic density is very high in the city, especially during peak hours.)
+- Gestern gab es einen Unfall auf der Autobahn, der die Verkehrsdichte erhöhte. (Yesterday there was an accident on the highway, which increased the traffic density.)
+- Die Stadtverwaltung hat Maßnahmen ergriffen, um die Verkehrsdichte zu verringern, wie z.B. die Förderung des öffentlichen Nahverkehrs und die Einführung einer Umweltzone. (The city administration has taken measures to reduce the traffic density, such as promoting public transport and introducing an environmental zone.)
+'''
+das Verkehrsnetz, -e B2
+Español: la red de transporte
+Русский: транспортная сеть
+English: the transport network
+
+- Das Verkehrsnetz in Berlin ist sehr gut ausgebaut. (The transport network in Berlin is very well developed.)
+- Gestern gab es einen Unfall auf der Autobahn, der das ganze Verkehrsnetz lahmgelegt hat. (Yesterday there was an accident on the highway that paralyzed the entire transport network.)
+- In den letzten Jahren hat die Stadt viel Geld in das Verkehrsnetz investiert. (In recent years, the city has invested a lot of money in the transport network.)
+'''
+der Zebrastreifen, - B2
+Español: el paso de cebra
+Русский: пешеходный переход
+English: the zebra crossing
+
+Frases en alemán usando esta palabra:
+
+- An der Ampel musst du den **Zebrastreifen** überqueren. (At the traffic light you have to cross the zebra crossing.)
+- Gestern wurde er fast von einem Auto angefahren, als er den **Zebrastreifen** benutzte. (Yesterday he was almost hit by a car when he used the zebra crossing.)
+- Er hat mir erzählt, dass er den **Zebrastreifen** benutzt hat. (He told me that he used the zebra crossing.)
+'''
+der Verleih, -e B2
+Español: el alquiler, la renta
+Русский: прокат, аренда
+English: the rental, the hire
+- Ich habe mir gestern einen Film im Verleih ausgeliehen. (I rented a movie from the rental store yesterday.)
+- Der Verleih von Fahrrädern ist in dieser Stadt sehr beliebt. (The rental of bicycles is very popular in this city.)
+- Hast du schon die Kaution für den Verleih bezahlt? (Have you already paid the deposit for the hire?)
+'''
+die Panne, -n B2
+Español: la avería
+Русский: поломка
+English: the breakdown
+
+- Gestern hatte ich eine Panne auf der Autobahn und musste den Abschleppdienst rufen.
+- Si ayer tuve una avería en la autopista y tuve que llamar al servicio de grúa.
+- Yesterday I had a breakdown on the highway and had to call the tow truck.
+
+- Er hat seine Prüfung wegen einer Panne im Computer nicht bestanden.
+- No aprobó su examen debido a una avería en el ordenador.
+- He failed his exam because of a breakdown in the computer.
+
+- Hast du schon von der Panne im Atomkraftwerk gehört?
+- ¿Has oído hablar de la avería en la central nuclear?
+- Have you heard about the breakdown in the nuclear power plant?
+'''
+verbeulen, B2
+Español: abollar
+Русский: вмять
+English: dent
+
+- Er hat sein Auto verbeult, als er gegen einen Baum gefahren ist.
+(He dented his car when he crashed into a tree.)
+- Sie verbeulte die Dose mit einem Hammer.
+(She dented the can with a hammer.)
+- Ich habe mir den Kopf verbeult, als ich gestolpert bin.
+(I dented my head when I tripped.)
+'''
+bahnen, C1
+Español: alisar, allanar, surcar
+Русский: выравнивать, разбивать, прорезать
+English: smooth, break, cut
+
+Frases en alemán usando bahnen:
+
+- Er bahnte sich einen Weg durch die Menge. (Él se abrió paso entre la multitud.)
+- Die Schneise bahnte den Blick auf das Meer. (El claro abrió la vista al mar.)
+- Sie hat sich ihren Erfolg hart gebahnt. (Ella se ha labrado su éxito con esfuerzo.)

@@ -1,0 +1,1452 @@
+'''
+die Lampe, -n A1
+Español: la lámpara
+Русский: лампа
+English: the lamp
+
+Frases en alemán usando esta palabra:
+
+- Ich schalte die Lampe an, weil es dunkel ist. (Enciendo la lámpara porque está oscuro.)
+- Gestern hat er eine neue Lampe für sein Zimmer gekauft. (Ayer compró una lámpara nueva para su habitación.)
+- Hast du die Lampe ausgemacht, bevor du gegangen bist? (¿Apagaste la lámpara antes de irte?)
+'''
+das Buch, -¨er A1
+Español: el libro, los libros
+Русский: книга, книги
+English: the book, the books
+
+- Ich lese gern **Bücher**. (Me gusta leer libros.)
+- Er hat gestern ein **Buch** gekauft. (Él compró un libro ayer.)
+- Hast du das **Buch** gelesen, das ich dir geliehen habe? (¿Has leído el libro que te presté?)
+'''
+der Teppich, -e A1
+Español: la alfombra
+Русский: ковёр
+English: the carpet
+
+Frases en alemán usando esta palabra:
+
+- Ich habe einen neuen **Teppich** für das Wohnzimmer gekauft. (He comprado una alfombra nueva para el salón.)
+- Er legte den Schlüssel unter den **Teppich**. (Él puso la llave debajo de la alfombra.)
+- Hast du den **Teppich** schon gesaugt? (¿Ya has aspirado la alfombra?)
+'''
+der Fernseher, - A1
+Español: el televisor
+Русский: телевизор
+English: the television
+
+Frases en alemán usando esta palabra:
+
+- Ich schaue jeden Abend **Fernseher**. (Veo la televisión todas las noches.)
+- Gestern hat er einen neuen **Fernseher** gekauft. (Ayer compró un televisor nuevo.)
+- Hast du den **Fernseher** ausgeschaltet? (¿Apagaste el televisor?)
+'''
+der Herd, -e A1
+Español: la estufa, el horno
+Русский: плита, духовка
+English: the stove, the oven
+
+Frases en alemán usando esta palabra:
+
+- Ich koche das Essen auf dem **Herd**. (I cook the food on the stove.)
+- Er hat einen Kuchen im **Herd** gebacken. (He baked a cake in the oven.)
+- Hast du den **Herd** ausgeschaltet? (Did you turn off the stove?)
+'''
+das Radio, -s A1
+Español: la radio
+Русский: радио
+English: the radio
+
+- Ich höre jeden Morgen **das Radio**. (I listen to the radio every morning.)
+- Gestern hat er ein neues **Radio** gekauft. (Yesterday he bought a new radio.)
+- Hast du schon **das Radio** ausgeschaltet? (Have you already turned off the radio?)
+'''
+das Fenster, - A1
+Español: la ventana
+Русский: окно
+English: the window
+
+- Das Fenster ist offen. (The window is open.)
+- Er schloss das Fenster. (He closed the window.)
+- Sie hat das Fenster geputzt. (She has cleaned the window.)
+'''
+das Haus, -¨er A1
+Español: la casa, las casas
+Русский: дом, дома
+English: the house, the houses
+
+Frases en alemán usando esta palabra:
+
+- Ich wohne in einem **Haus** mit Garten. (I live in a house with a garden.)
+- Er hat gestern ein altes **Haus** gekauft. (He bought an old house yesterday.)
+- Sie haben ihr **Haus** renoviert. (They have renovated their house.)
+'''
+der Norden, A1
+Español: el norte
+Русский: север
+English: the north
+
+Frases en alemán usando esta palabra:
+
+- Ich komme aus dem **Norden** Deutschlands. (Vengo del norte de Alemania.)
+- Im **Norden** ist es kälter als im Süden. (En el norte hace más frío que en el sur.)
+- Er ist nach **Norden** gefahren, um seine Familie zu besuchen. (Él ha ido al norte para visitar a su familia.)
+'''
+nördlich, A1
+Español: norte, nórdico, septentrional
+Русский: северный, скандинавский
+English: north, northern, Nordic
+
+Frases en alemán usando nördlich:
+
+- Berlin liegt nördlich von München. (Berlín está al norte de Múnich.)
+- Die nördlichen Länder sind bekannt für ihre Kultur und Natur. (Los países nórdicos son conocidos por su cultura y naturaleza.)
+- Er ist nördlich von hier geboren. (Él nació al norte de aquí.)
+'''
+der Osten, A1
+Español: el este
+Русский: восток
+English: the east
+
+Beispiele:
+- Die Sonne geht im Osten auf. (The sun rises in the east.)
+- Er kommt aus dem Osten Deutschlands. (He comes from the east of Germany.)
+- Sie ist nach dem Osten gereist. (She has traveled to the east.)
+'''
+östlich, A1
+Español: este
+Русский: восточный
+English: east
+
+Beispiele:
+- Berlin liegt **östlich** von Köln.
+- Die Sonne geht im **Osten** auf.
+- Er ist nach **Osten** gereist.
+'''
+die Stadt, - ¨e A1
+Español: la ciudad
+Русский: город
+English: the city
+
+- Ich wohne in einer **Stadt** am Meer. (I live in a **city** by the sea.)
+- Früher war Berlin die geteilte **Stadt**. (In the past, Berlin was the divided **city**.)
+- Hast du schon die neue **Stadt**bibliothek besucht? (Have you visited the new **city** library yet?)
+'''
+der Stadtplan, - ¨e A1
+Español: el plano de la ciudad
+Русский: городской план
+English: the city map
+
+- Ich brauche einen Stadtplan, um mich zu orientieren. (I need a city map to find my way around.)
+- Er hat gestern einen alten Stadtplan gefunden. (He found an old city map yesterday.)
+- Hast du den Stadtplan schon ausgedruckt? (Have you already printed out the city map?)
+'''
+der Süden, A1
+Español: el sur
+Русский: юг
+English: the south
+
+- Ich komme aus dem Süden Deutschlands. (I come from the south of Germany.)
+- Im Sommer fahren wir oft in den Süden. (In summer we often go to the south.)
+- Der Süden Europas ist wärmer als der Norden. (The south of Europe is warmer than the north.)
+'''
+südlich, A1
+Español: sur
+Русский: южный
+English: southern
+
+- Die Sonne geht im **Süden** unter. (The sun sets in the **south**.)
+- Er kommt aus einem **südlichen** Land. (He comes from a **southern** country.)
+- Sie sind nach **Süden** gefahren. (They drove to the **south**.)
+'''
+der Westen, A1
+Español: el oeste
+Русский: запад
+English: the west
+
+- Der Westen ist die Himmelsrichtung, in der die Sonne untergeht. (The west is the cardinal direction where the sun sets.)
+- Ich bin im Westen Deutschlands geboren. (I was born in the west of Germany.)
+- Er ist nach dem Krieg in den Westen geflohen. (He fled to the west after the war.)
+'''
+westlich, A1
+Español: occidental
+Русский: западный
+English: western
+
+- Das westliche Ende der Stadt ist sehr ruhig. (The western end of the city is very quiet.)
+- Er lebte früher in einem westlichen Land. (He used to live in a western country.)
+- Sie sind nach Westen gefahren. (They have driven to the west.)
+'''
+wohnen, A1
+Español: vivir
+Русский: жить
+English: live
+
+Frases en alemán usando wohnen:
+
+- Ich **wohne** in Berlin. (Vivo en Berlín.)
+- Wo hast du früher **gewohnt**? (¿Dónde vivías antes?)
+- Er hat lange in Spanien **gewohnt**. (Él ha vivido mucho tiempo en España.)
+'''
+das Bett, A1
+Español: cama
+Русский: кровать
+English: bed
+
+- Ich gehe jetzt ins Bett. (I'm going to bed now.)
+- Gestern habe ich ein neues Bett gekauft. (Yesterday I bought a new bed.)
+- Er hat das Bett gemacht. (He made the bed.)
+'''
+das Regal, -e A1
+Español: la estantería
+Русский: полка
+English: the shelf
+
+Frases en alemán usando esta palabra:
+
+- Ich habe ein neues **Regal** für meine Bücher gekauft. (He comprado una estantería nueva para mis libros.)
+- Er stellte die Vase auf das **Regal**. (Él puso el jarrón en la estantería.)
+- Hast du das **Regal** selbst gebaut? (¿Has construido tú mismo la estantería?)
+'''
+der Sessel, - A1
+Español: el sillón
+Русский: кресло
+English: the armchair
+
+- Ich sitze gerne in **dem Sessel** und lese ein Buch. (I like to sit in **the armchair** and read a book.)
+- Er hat **den Sessel** aus dem Wohnzimmer in sein Zimmer gebracht. (He brought **the armchair** from the living room to his room.)
+- Hast du **den Sessel** schon gereinigt? (Have you cleaned **the armchair** yet?)
+'''
+das Sofa, -s A1
+Español: el sofá
+Русский: диван
+English: the sofa
+
+- Ich sitze auf dem **Sofa** und lese ein Buch. (I sit on the sofa and read a book.)
+- Gestern hat er ein neues **Sofa** gekauft. (Yesterday he bought a new sofa.)
+- Hast du das **Sofa** schon sauber gemacht? (Have you already cleaned the sofa?)
+'''
+der Stuhl, - ¨e A1
+Español: la silla
+Русский: стул
+English: the chair
+
+- Ich sitze auf einem **Stuhl** und lese ein Buch. (I sit on a chair and read a book.)
+- Gestern hat er einen alten **Stuhl** repariert. (Yesterday he repaired an old chair.)
+- Hast du den neuen **Stuhl** schon gesehen? Er ist sehr bequem. (Have you seen the new chair yet? It is very comfortable.)
+'''
+der Tisch, -e A1
+Español: la mesa
+Русский: стол
+English: the table
+
+Frases en alemán usando esta palabra:
+
+- Der Tisch ist aus Holz. (La mesa es de madera.)
+- Gestern haben wir am Tisch gegessen. (Ayer comimos en la mesa.)
+- Er hat einen neuen Tisch gekauft. (Él ha comprado una mesa nueva.)
+'''
+die Wohnung, - en A1
+Español: el apartamento
+Русский: квартира
+English: the apartment
+
+- Ich wohne in einer kleinen **Wohnung** in Berlin. (I live in a small apartment in Berlin.)
+- Er hat gestern eine neue **Wohnung** gefunden. (He found a new apartment yesterday.)
+- Hast du deine **Wohnung** schon geputzt? (Have you cleaned your apartment yet?)
+'''
+die Dusche, -n A1
+Español: la ducha
+Русский: душ
+English: the shower
+
+Frases en alemán usando esta palabra:
+
+- Ich gehe jeden Morgen unter die Dusche. (Voy a la ducha cada mañana.)
+- Gestern hat er sich geduscht, bevor er ins Bett ging. (Ayer se duchó antes de irse a la cama.)
+- Hast du dich schon geduscht? (¿Ya te has duchado?)
+'''
+Das Kinderzimmer, - A1
+Español: la habitación de los niños
+Русский: детская комната
+English: the children's room
+
+- Das Kinderzimmer ist sehr bunt und ordentlich.
+- Die Kinder haben gestern in ihrem Zimmer gespielt.
+- Hast du schon das Kinderzimmer aufgeräumt?
+
+Die Küche, -n A1
+Español: la cocina
+Русский: кухня
+English: the kitchen
+
+- Die Küche ist mein Lieblingsraum im Haus.
+- Er kochte gestern in der Küche eine leckere Suppe.
+- Sie hat die Küche geputzt und das Geschirr gespült.
+'''
+das Wohnzimmer, - A1
+Español: la sala de estar
+Русский: гостиная
+English: the living room
+
+- Ich lese ein Buch im **Wohnzimmer**. (I read a book in the living room.)
+- Gestern haben wir im **Wohnzimmer** einen Film gesehen. (Yesterday we watched a movie in the living room.)
+- Wir haben das **Wohnzimmer** neu gestrichen. (We have painted the living room anew.)
+'''
+die Badewanne, -n A2
+Español: la bañera
+Русский: ванна
+English: the bathtub
+
+Frases en alemán usando esta palabra:
+
+- Ich nehme jeden Abend ein heißes Bad in der **Badewanne**. (I take a hot bath in the **bathtub** every evening.)
+- Er hat gestern die **Badewanne** mit einem Hammer zertrümmert. (He smashed the **bathtub** with a hammer yesterday.)
+- Hast du die **Badewanne** schon geputzt? (Have you cleaned the **bathtub** yet?)
+'''
+das Handtuch, -¨er A2
+Español: la toalla
+Русский: полотенце
+English: the towel
+
+- Ich brauche ein **Handtuch**, um mich abzutrocknen. (I need a towel to dry myself.)
+- Er warf das nasse **Handtuch** auf den Boden. (He threw the wet towel on the floor.)
+- Hast du dein **Handtuch** schon gewaschen? (Have you washed your towel yet?)
+'''
+hängen, A2
+Español: colgar
+Русский: висеть
+English: hang
+
+- Das Bild hängt an der Wand. (The picture hangs on the wall.)
+- Er hängte seinen Mantel an die Garderobe. (He hung his coat on the rack.)
+- Sie hat ihre Wäsche zum Trocknen aufgehängt. (She hung her laundry to dry.)
+'''
+klingeln, A2
+Español: sonar, timbrar
+Русский: звонить, звенеть
+English: ring, chime
+
+Frases en alemán usando klingeln:
+
+- Das Telefon **klingelt**. Wer ruft an? (The phone is ringing. Who is calling?)
+- Gestern **klingelte** er an der Tür, aber niemand öffnete. (Yesterday he rang the doorbell, but no one opened.)
+- Er hat mir gesagt, dass er heute Abend bei mir **geklingelt** hat. (He told me that he rang at my place tonight.)
+'''
+das Klo, -s A2
+Español: el baño, el inodoro
+Русский: туалет, унитаз
+English: the toilet, the lavatory
+
+- Ich muss dringend aufs Klo. (I urgently need to go to the toilet.)
+- Er hat gestern das Klo geputzt. (He cleaned the toilet yesterday.)
+- Hast du das Klo schon gespült? (Have you flushed the toilet yet?)
+'''
+der Lift, -e A2
+Español: el ascensor
+Русский: лифт
+English: the elevator
+
+- Ich fahre mit dem Lift in den fünften Stock. (I take the elevator to the fifth floor.)
+- Gestern ist der Lift stecken geblieben. (Yesterday the elevator got stuck.)
+- Hast du schon gehört? Der Lift ist endlich repariert worden. (Have you heard? The elevator has finally been repaired.)
+'''
+der Ofen, -¨ A2
+Español: el horno
+Русский: печь
+English: the oven
+
+- Ich backe einen Kuchen im Ofen. (I bake a cake in the oven.)
+- Gestern heizte er den Ofen an. (Yesterday he heated up the oven.)
+- Er hat den Ofen schon ausgemacht. (He has already turned off the oven.)
+'''
+der Schlüssel, - A2
+Español: la llave
+Русский: ключ
+English: the key
+
+Frases en alemán usando esta palabra:
+
+- Ich habe meinen **Schlüssel** verloren. (He perdido mi llave.)
+- Er öffnete die Tür mit einem alten **Schlüssel**. (Él abrió la puerta con una llave vieja.)
+- Hast du den **Schlüssel** schon gefunden? (¿Ya has encontrado la llave?)
+'''
+der Schüssel, - A2
+Español: el cuenco
+Русский: миска
+English: the bowl
+
+Frases en alemán usando esta palabra:
+
+- Ich esse Müsli aus **dem Schüssel**. (Como cereales del cuenco.)
+- Er hat gestern **einen Schüssel** zerbrochen. (Él rompió un cuenco ayer.)
+- Hast du **den Schüssel** schon gespült? (¿Ya lavaste el cuenco?)
+'''
+die Tür, - en A2
+Español: la puerta
+Русский: дверь
+English: the door
+
+- Die Tür ist offen. Komm rein!
+  - La puerta está abierta. ¡Entra!
+  - Дверь открыта. Заходи!
+  - The door is open. Come in!
+- Er schloss die Tür hinter sich.
+  - Él cerró la puerta detrás de él.
+  - Он закрыл дверь за собой.
+  - He closed the door behind him.
+- Hast du die Tür abgeschlossen?
+  - ¿Has cerrado la puerta con llave?
+  - Ты запер дверь?
+  - Did you lock the door?
+'''
+das WC, -s A2
+Español: el baño, el inodoro
+Русский: туалет, унитаз
+English: the toilet, the lavatory
+
+- Ich muss dringend aufs **WC**. (I urgently need to go to the **toilet**.)
+- Er hat das **WC** geputzt. (He cleaned the **lavatory**.)
+- Hast du das **WC** benutzt? (Did you use the **toilet**?)
+'''
+der Hund, -e A2
+Español: el perro, los perros
+Русский: собака, собаки
+English: the dog, the dogs
+
+Frases en alemán usando esta palabra:
+
+- Ich habe einen **Hund**, der sehr freundlich ist. (I have a dog that is very friendly.)
+- Als ich klein war, hatte ich Angst vor **Hunden**. (When I was little, I was afraid of dogs.)
+- Sie hat ihren **Hund** gestern zum Tierarzt gebracht. (She took her dog to the vet yesterday.)
+'''
+die Katze, -n A2
+Español: el gato, los gatos
+Русский: кошка, кошки
+English: the cat, the cats
+
+Frases en alemán usando esta palabra:
+
+- Ich habe eine schwarze **Katze**. (Tengo un gato negro.)
+- Gestern hat meine **Katze** eine Maus gefangen. (Ayer mi gato cazó un ratón.)
+- Meine **Katze** hat heute viel geschlafen. (Mi gato ha dormido mucho hoy.)
+'''
+klopfen, A2
+Español: golpear, tocar
+Русский: стучать, постучать
+English: knock, tap
+
+- Ich klopfe an die Tür, aber niemand antwortet. (I knock on the door, but no one answers.)
+- Er klopfte ihr auf die Schulter und sagte ihr, dass alles gut wird. (He tapped her on the shoulder and told her that everything will be fine.)
+- Hast du das Klopfen gehört? Jemand hat an die Tür geklopft. (Did you hear the knocking? Someone knocked on the door.)
+'''
+der Nachbar, -n A2
+Español: el vecino
+Русский: сосед
+English: the neighbor
+
+- Ich habe einen netten **Nachbar**. Er hilft mir oft im Garten.
+- Gestern hat mein **Nachbar** mir einen Kuchen gebracht. Er hat ihn selbst gebacken.
+- Mein **Nachbar** hat mir erzählt, dass er schon zweimal geimpft wurde. Er ist sehr froh darüber.
+'''
+hell, A2
+Español: infierno
+Русский: ад
+English: hell
+
+- Ich glaube nicht an die **Hölle**. (I don't believe in **hell**.)
+- Er hat die **Hölle** auf Erden erlebt. (He experienced **hell** on earth.)
+- Sie hat sich aus der **Hölle** befreit. (She freed herself from **hell**.)
+'''
+hoch, A2
+Español: alto, alta
+Русский: высокий, высокая
+English: high, tall
+
+Frases en alemán usando hoch:
+
+- Der Berg ist sehr **hoch**. (The mountain is very high.)
+- Er war **höher** als seine Schwester. (He was taller than his sister.)
+- Sie hat **hohe** Schuhe getragen. (She wore high heels.)
+'''
+der Geschirrspüler, - A2
+Español: el lavavajillas
+Русский: посудомоечная машина
+English: the dishwasher
+
+- Ich habe einen neuen **Geschirrspüler** gekauft, der sehr leise ist. (I bought a new dishwasher that is very quiet.)
+- Gestern hat er das **Geschirr** nicht richtig gespült. (Yesterday he did not rinse the dishes properly.)
+- Hast du das **Geschirr** schon in den **Geschirrspüler** gestellt? (Have you already put the dishes in the dishwasher?)
+'''
+die Herdplatte, -n A2
+Español: la placa de cocina
+Русский: конфорка
+English: the stove plate
+
+- Ich schalte die Herdplatte an und koche Wasser für den Tee. (I turn on the stove plate and boil water for the tea.)
+- Gestern hat er die Herdplatte aus Versehen angelassen und das Essen verbrannt. (Yesterday he accidentally left the stove plate on and burned the food.)
+- Hast du die Herdplatte schon ausgemacht? (Have you already turned off the stove plate?)
+'''
+der Kühlschrank, - ¨e A2
+Español: el refrigerador
+Русский: холодильник
+English: the refrigerator
+
+Frases en alemán usando esta palabra:
+
+- Ich habe Milch und Käse im **Kühlschrank**. (Tengo leche y queso en el refrigerador.)
+- Er öffnete den **Kühlschrank** und sah, dass er leer war. (Él abrió el refrigerador y vio que estaba vacío.)
+- Hast du den **Kühlschrank** ausgeschaltet, bevor wir gefahren sind? (¿Apagaste el refrigerador antes de que nos fuéramos?)
+'''
+der Staubsauger, - A2
+Español: la aspiradora
+Русский: пылесос
+English: vacuum cleaner
+
+Frases en alemán usando esta palabra:
+
+- Ich brauche einen neuen **Staubsauger**, meiner ist kaputt. (Necesito una nueva aspiradora, la mía está rota.)
+- Hast du gestern den **Staubsauger** benutzt? (¿Usaste la aspiradora ayer?)
+- Er hat das Wohnzimmer mit dem **Staubsauger** gereinigt. (Él limpió el salón con la aspiradora.)
+'''
+die Waschmaschine, -n A2
+Español: la lavadora
+Русский: стиральная машина
+English: the washing machine
+
+- Ich habe eine neue **Waschmaschine** gekauft. (I bought a new washing machine.)
+- Gestern hat er seine Wäsche in der **Waschmaschine** gewaschen. (Yesterday he washed his laundry in the washing machine.)
+- Hast du die **Waschmaschine** schon angestellt? (Have you already turned on the washing machine?)
+'''
+der Balkon, -e A2
+Español: el balcón
+Русский: балкон
+English: the balcony
+
+- Ich habe einen kleinen **Balkon** mit vielen Blumen. (I have a small balcony with many flowers.)
+- Gestern saß ich auf dem **Balkon** und las ein Buch. (Yesterday I sat on the balcony and read a book.)
+- Hast du schon den neuen **Balkon** von unseren Nachbarn gesehen? (Have you seen the new balcony of our neighbors?)
+'''
+das Dach, -¨er A2
+Español: el techo, los techos
+Русский: крыша, крыши
+English: the roof, the roofs
+
+- Das Dach ist rot. (The roof is red.)
+- Er reparierte gestern das Dach. (He repaired the roof yesterday.)
+- Sie haben das Dach neu gedeckt. (They have re-roofed the roof.)
+'''
+der Eingang, - ¨e A2
+Español: la entrada
+Русский: вход
+English: the entrance
+
+- Der Eingang zum Museum ist auf der linken Seite. (The entrance to the museum is on the left side.)
+- Als ich gestern nach Hause kam, war die Tür zum Eingang offen. (When I came home yesterday, the door to the entrance was open.)
+- Er hat den Eingang verpasst und musste umdrehen. (He missed the entrance and had to turn around.)
+'''
+das Erdgeschoss, -e A2
+Español: planta baja
+Русский: первый этаж
+English: ground floor
+
+- Mein Zimmer ist im **Erdgeschoss**. (My room is on the **ground floor**.)
+- Er wohnt im **Erdgeschoss**, neben dem Eingang. (He lives on the **ground floor**, next to the entrance.)
+- Wir sind vom **Erdgeschoss** in den ersten Stock umgezogen. (We moved from the **ground floor** to the first floor.)
+'''
+14, A1
+Español: catorce
+Русский: четырнадцать
+English: fourteen
+
+- Ich bin **14** Jahre alt. (I am 14 years old.)
+- Er hat **14** Bücher gelesen. (He has read 14 books.)
+- Sie haben **14** Kinder. (They have 14 children.)
+'''
+die Terrasse, -n A2
+Español: la terraza
+Русский: терраса
+English: the terrace
+
+- Ich sitze gerne auf der Terrasse und lese ein Buch. (I like to sit on the terrace and read a book.)
+- Gestern haben wir die Terrasse mit Blumen geschmückt. (Yesterday we decorated the terrace with flowers.)
+- Hast du die Terrasse schon geputzt? (Have you cleaned the terrace yet?)
+'''
+der Wohnort, -e A2
+Español: lugar de residencia
+Русский: место жительства
+English: place of residence
+
+- Ich bin vor zwei Jahren nach Berlin gezogen und das ist jetzt mein Wohnort.
+- Wo war dein Wohnort, bevor du nach Deutschland gekommen bist?
+- Er hat seinen Wohnort gewechselt, weil er einen neuen Job gefunden hat.
+'''
+zentral, A2
+Español: central
+Русский: центральный
+English: central
+
+- Das Hotel liegt zentral in der Stadt. (The hotel is centrally located in the city.)
+- Er war zentral an der Planung beteiligt. (He was centrally involved in the planning.)
+- Die zentrale Frage ist, wie wir das Problem lösen können. (The central question is how we can solve the problem.)
+'''
+das Zentrum, die Zentren A2
+Español: el centro, los centros
+Русский: центр, центры
+English: the center, the centers
+
+- Das Zentrum der Stadt ist sehr belebt. (The center of the city is very lively.)
+- Früher war Berlin das Zentrum der Kunst und Kultur. (In the past, Berlin was the center of art and culture.)
+- Er hat das Zentrum des Problems erkannt. (He has recognized the center of the problem.)
+'''
+gemütlich, A2
+Español: acogedor, cómodo
+Русский: уютный, комфортный
+English: cozy, comfortable
+
+- Dieses Café ist sehr gemütlich. Ich mag die Atmosphäre hier. (This café is very cozy. I like the atmosphere here.)
+- Wir hatten einen gemütlichen Abend zu Hause. Wir haben Filme geschaut und Pizza gegessen. (We had a comfortable evening at home. We watched movies and ate pizza.)
+- Hast du dich in deiner neuen Wohnung schon gemütlich eingerichtet? (Have you already made yourself comfortable in your new apartment?)
+'''
+Heim, A2
+Español: hogar
+Русский: дом
+English: home
+
+- Ich bin gestern **nach Hause** gekommen. (I came home yesterday.)
+- Er wohnt noch bei seinen **Eltern zu Hause**. (He still lives at home with his parents.)
+- Sie hat sich in ihrem neuen **Zuhause** gut eingelebt. (She has settled in well in her new home.)
+'''
+der Hausmeister, - A2
+Español: el conserje
+Русский: дворник
+English: the janitor
+- Der Hausmeister kümmert sich um die Sauberkeit und Ordnung im Gebäude. (The janitor takes care of the cleanliness and order in the building.)
+- Als ich gestern nach Hause kam, sah ich, wie der Hausmeister die kaputte Lampe reparierte. (When I came home yesterday, I saw the janitor repairing the broken lamp.)
+- Der Hausmeister hat mir gesagt, dass er schon seit zehn Jahren hier arbeitet. (The janitor told me that he has been working here for ten years.)
+'''
+die Miete, -n A2
+Español: el alquiler
+Русский: арендная плата
+English: the rent
+
+- Ich zahle jeden Monat die Miete an meinen Vermieter. (I pay the rent to my landlord every month.)
+- Früher war die Miete in dieser Stadt sehr billig. (The rent in this city used to be very cheap.)
+- Hast du schon die Miete für diesen Monat bezahlt? (Have you already paid the rent for this month?)
+'''
+mieten, A2
+Español: alquilar
+Русский: снимать
+English: rent
+
+Frases en alemán usando mieten:
+
+- Ich **miete** eine Wohnung in Berlin. (Presente)
+- Er **mietete** ein Auto für die Reise. (Präteritum)
+- Sie haben ein Zimmer in einem Hotel **gemietet**. (Perfekt)
+'''
+der Mieter, - / die Mieterin, -nen A2
+Español: el inquilino / la inquilina
+Русский: арендатор / арендаторша
+English: the tenant / the tenantess
+
+- Der Mieter zahlt jeden Monat die Miete an den Vermieter. (The tenant pays the rent to the landlord every month.)
+- Die Mieterin beschwerte sich über den Lärm in der Wohnung. (The tenantess complained about the noise in the apartment.)
+- Der Mieter hat gestern die Wohnung gekündigt. (The tenant terminated the lease yesterday.)
+'''
+die Nebenkosten, A2
+Español: los gastos adicionales
+Русский: коммунальные платежи
+English: the utilities
+
+- Die Nebenkosten sind in der Miete enthalten. (The utilities are included in the rent.)
+- Er hat vergessen, die Nebenkosten zu bezahlen. (He forgot to pay the utilities.)
+- Sie haben viel Geld gespart, indem sie die Nebenkosten reduziert haben. (They saved a lot of money by reducing the utilities.)
+'''
+vermieten A2
+Español: alquilar
+Русский: сдавать в аренду
+English: rent
+
+- Ich vermiete meine Wohnung für ein Jahr. (I rent my apartment for a year.)
+- Er vermietete sein Auto an einen Freund. (He rented his car to a friend.)
+- Hast du schon eine Wohnung vermietet? (Have you rented an apartment yet?)
+'''
+der Vermieter, - / die Vermieterin, -
+Español: el arrendador / la arrendadora
+Русский: арендодатель / арендодательница
+English: the landlord / the landlady
+
+- Der Vermieter hat uns die Wohnung gekündigt. (The landlord has terminated our lease.)
+- Die Vermieterin war sehr nett und hilfsbereit. (The landlady was very nice and helpful.)
+- Wir haben gestern mit unserem Vermieter gesprochen. Er hat uns gesagt, dass wir die Miete erhöhen müssen. (We talked to our landlord yesterday. He told us that we have to increase the rent.)
+'''
+nen, A2
+Español: nombrar
+Русский: называть
+English: to name
+
+Frases en alemán usando nen:
+
+- Wie nennt man das auf Deutsch? (¿Cómo se llama eso en alemán?)
+- Er nannte sie seine beste Freundin. (Él la llamó su mejor amiga.)
+- Sie haben ihr Kind Anna genannt. (Ellos han llamado a su hija Anna.)
+'''
+breit, A2
+Español: ancho, amplio
+Русский: широкий, просторный
+English: wide, broad
+
+Frases en alemán usando breit:
+
+- Das Zimmer ist sehr breit und hell. (The room is very wide and bright.)
+- Er hat die Straße breit genug gemacht. (He made the street wide enough.)
+- Sie hat ein breites Lächeln auf ihrem Gesicht. (She has a broad smile on her face.)
+'''
+die Möbel (nur Plural) A2
+Español: los muebles
+Русский: мебель
+English: the furniture
+
+- Ich kaufe neue **Möbel** für mein Wohnzimmer. (I buy new furniture for my living room.)
+- Er hatte alte **Möbel** aus Holz. (He had old furniture made of wood.)
+- Hast du deine **Möbel** schon aufgebaut? (Have you already assembled your furniture?)
+'''
+der Schrank, - ¨e A2
+Español: el armario
+Русский: шкаф
+English: the wardrobe
+
+Frases en alemán usando esta palabra:
+
+- Ich habe einen neuen **Schrank** für mein Schlafzimmer gekauft. (He comprado un armario nuevo para mi dormitorio.)
+- Er öffnete den **Schrank** und suchte nach seinem Mantel. (Él abrió el armario y buscó su abrigo.)
+- Hast du den alten **Schrank** schon weggeschmissen? (¿Ya has tirado el armario viejo?)
+'''
+der Schreibtisch, -e A2
+Español: el escritorio
+Русский: письменный стол
+English: the desk
+
+Frases en alemán usando esta palabra:
+
+- Ich arbeite jeden Tag an meinem **Schreibtisch**. (Trabajo todos los días en mi escritorio.)
+- Er hat gestern einen neuen **Schreibtisch** gekauft. (Él compró un nuevo escritorio ayer.)
+- Hast du dein Buch auf dem **Schreibtisch** gelassen? (¿Dejaste tu libro en el escritorio?)
+'''
+der Spiegel, - A2
+Español: el espejo
+Русский: зеркало
+English: the mirror
+
+- Ich sehe mich jeden Morgen im **Spiegel** an.
+- Er hat gestern einen alten **Spiegel** auf dem Flohmarkt gekauft.
+- Hast du schon den neuen **Spiegel** an der Wand gesehen?
+'''
+das Spülbecken, - A2
+Español: el fregadero
+Русский: раковина
+English: the sink
+
+Frases en alemán usando esta palabra:
+
+- Ich spüle das Geschirr im Spülbecken. (Lavo los platos en el fregadero.)
+- Er hat gestern sein Handy ins Spülbecken fallen lassen. (Ayer dejó caer su teléfono al fregadero.)
+- Hast du das Spülbecken sauber gemacht? (¿Has limpiado el fregadero?)
+'''
+ausziehen, A2
+Español: quitarse (la ropa), mudarse
+Русский: снимать (одежду), выселяться
+English: take off (clothes), move out
+
+Frases en alemán usando ausziehen:
+
+- Ich muss mich ausziehen, bevor ich dusche. (I have to take off my clothes before I shower.)
+- Er zog sich schnell aus und sprang ins Wasser. (He quickly took off his clothes and jumped into the water.)
+- Sie haben sich aus ihrer Wohnung ausgezogen, weil sie zu klein war. (They moved out of their apartment because it was too small.)
+'''
+einziehen, A2
+Español: mudarse, ingresar, retraer
+Русский: въезжать, вступать, затягивать
+English: move in, enter, retract
+
+- Meine Schwester **zieht** nächste Woche in eine neue Wohnung **ein**.
+- Mi hermana se muda a un nuevo apartamento la próxima semana.
+- Моя сестра **въезжает** в новую квартиру на следующей неделе.
+- My sister is moving into a new apartment next week.
+
+- Die Soldaten **zogen** gestern in die Stadt **ein**.
+- Los soldados entraron en la ciudad ayer.
+- Солдаты **вступили** в город вчера.
+- The soldiers entered the city yesterday.
+
+- Er hat die Handbremse **angezogen** und das Auto ist stehen geblieben.
+- Él ha retraído el freno de mano y el coche se ha detenido.
+- Он **затянул** ручник и машина остановилась.
+- He retracted the handbrake and the car stopped.
+'''
+suchen, A2
+Español: buscar
+Русский: искать
+English: search
+
+Ejemplos de frases en alemán usando suchen:
+
+- Ich suche nach einem guten Buch zum Lesen. (Estoy buscando un buen libro para leer.)
+- Er suchte gestern seine Brille, aber er konnte sie nicht finden. (Él buscó sus gafas ayer, pero no pudo encontrarlas.)
+- Hast du schon die Antwort auf deine Frage gesucht? (¿Ya has buscado la respuesta a tu pregunta?)
+'''
+umziehen, A2
+Español: mudarse
+Русский: переезжать
+English: to move
+
+- Ich ziehe nächste Woche um. (I am moving next week.)
+- Er zog nach Berlin um. (He moved to Berlin.)
+- Sie ist vor einem Jahr umgezogen. (She moved a year ago.)
+'''
+das Appartement, -s A2
+Español: apartamento
+Русский: апартаменты
+English: apartment
+
+- Ich wohne in einem kleinen **Appartement** in der Stadt. (I live in a small **apartment** in the city.)
+- Er hat sein **Appartement** verkauft und ist aufs Land gezogen. (He sold his **apartment** and moved to the countryside.)
+- Hast du schon ein neues **Appartement** gefunden? (Have you found a new **apartment** yet?)
+'''
+die Wohngemeinschaft, - en A2
+Español: la comunidad de vivienda, el piso compartido
+Русский: жилое сообщество, совместная квартира
+English: the housing community, the shared flat
+
+Ejemplos:
+
+- Ich wohne in einer **Wohngemeinschaft** mit drei anderen Studenten. (Vivo en una comunidad de vivienda con otros tres estudiantes.)
+- Sie hat ihre **Wohngemeinschaft** aufgelöst und ist in eine eigene Wohnung gezogen. (Ella disolvió su piso compartido y se mudó a su propio apartamento.)
+- Hast du schon eine **Wohngemeinschaft** gefunden? (¿Ya encontraste un piso compartido?)
+'''
+das Bad, -¨er A2
+Español: el baño, los baños
+Русский: ванная, ванные
+English: the bathroom, the bathrooms
+
+- Ich gehe jeden Morgen ins Bad, um mich zu waschen. (I go to the bathroom every morning to wash myself.)
+- Gestern hat er ein langes Bad genommen, um sich zu entspannen. (Yesterday he took a long bath to relax himself.)
+- Wir haben unser Bad renoviert und eine neue Dusche eingebaut. (We renovated our bathroom and installed a new shower.)
+'''
+das Badezimmer, - A2
+Español: el cuarto de baño
+Русский: ванная комната
+English: the bathroom
+
+Frases en alemán usando esta palabra:
+
+- Ich gehe ins **Badezimmer**, um mich zu duschen. (Voy al cuarto de baño para ducharme.)
+- Er hat gestern das **Badezimmer** renoviert. (Él renovó el cuarto de baño ayer.)
+- Sie haben ein großes **Badezimmer** mit einer Badewanne. (Ellos tienen un cuarto de baño grande con una bañera.)
+'''
+die Garage, -n A2
+Español: el garaje
+Русский: гараж
+English: the garage
+
+- Ich parke mein Auto in der Garage. (I park my car in the garage.)
+- Gestern hat er die Garage aufgeräumt. (Yesterday he cleaned up the garage.)
+- Sie haben die Garage neu gestrichen. (They have repainted the garage.)
+'''
+der Keller, - A2
+Español: el sótano
+Русский: подвал
+English: the basement
+
+Frases en alemán usando esta palabra:
+
+- Ich gehe in den **Keller**, um etwas zu holen. (Voy al sótano a buscar algo.)
+- Er hat gestern den ganzen Tag im **Keller** gearbeitet. (Él trabajó todo el día en el sótano ayer.)
+- Hast du schon den **Keller** aufgeräumt? (¿Ya has ordenado el sótano?)
+'''
+das Schlafzimmer, - A2
+Español: el dormitorio
+Русский: спальня
+English: the bedroom
+
+- Ich gehe jetzt ins Schlafzimmer und lese ein Buch. (I'm going to the bedroom now and read a book.)
+- Gestern haben wir das Schlafzimmer gestrichen. Es ist jetzt blau. (Yesterday we painted the bedroom. It is blue now.)
+- Wir haben ein neues Bett für unser Schlafzimmer gekauft. Es ist sehr bequem. (We bought a new bed for our bedroom. It is very comfortable.)
+'''
+das Zimmer, - A2
+Español: la habitación
+Русский: комната
+English: the room
+
+Frases en alemán usando esta palabra:
+
+- Ich habe ein **Zimmer** in einem Hotel gebucht. (He reservado una habitación en un hotel.)
+- Er ging in sein **Zimmer** und schloss die Tür. (Él fue a su habitación y cerró la puerta.)
+- Hast du dein **Zimmer** aufgeräumt? (¿Has ordenado tu habitación?)
+'''
+das Geschirr, -e B1
+Español: la vajilla
+Русский: посуда
+English: the dishes
+- Ich spüle das Geschirr nach dem Essen. (I wash the dishes after eating.)
+- Gestern hat er das Geschirr zerbrochen. (Yesterday he broke the dishes.)
+- Hast du das neue Geschirr schon gesehen? (Have you seen the new dishes?)
+'''
+das Geschirrtuch, -¨er B1
+Español: el paño de cocina
+Русский: кухонное полотенце
+English: the dishcloth
+
+- Ich brauche ein sauberes Geschirrtuch, um die Teller abzutrocknen. (I need a clean dishcloth to dry the dishes.)
+- Er wischte sich den Schweiß mit einem alten Geschirrtuch ab. (He wiped the sweat off with an old dishcloth.)
+- Hast du das Geschirrtuch gewaschen, das du gestern benutzt hast? (Did you wash the dishcloth that you used yesterday?)
+'''
+die Klingel, -n B1
+Español: el timbre
+Русский: звонок
+English: the bell
+- Ich höre die Klingel und gehe zur Tür. (I hear the bell and go to the door.)
+- Gestern klingelte er bei mir, aber ich war nicht zu Hause. (Yesterday he rang my bell, but I was not at home.)
+- Hast du schon bei ihm geklingelt? (Have you already rung his bell?)
+'''
+die Zentralheizung, - en B1
+Español: la calefacción central
+Русский: центральное отопление
+English: central heating
+
+Frases en alemán usando esta palabra:
+
+- In unserer Wohnung haben wir **die Zentralheizung**, die im Winter sehr praktisch ist. (En nuestro apartamento tenemos la calefacción central, que es muy útil en invierno.)
+- Gestern hat **die Zentralheizung** nicht funktioniert, und wir haben gefroren. (Ayer la calefacción central no funcionó, y pasamos frío.)
+- Hast du schon **die Zentralheizung** angestellt? Es wird bald dunkel und kalt. (¿Ya has encendido la calefacción central? Pronto se hará de noche y hará frío.)
+'''
+modernisieren, B1
+Español: modernizar
+Русский: модернизировать
+English: modernize
+
+Frases en alemán usando modernisieren:
+
+- Wir müssen unser Haus modernisieren, um Energie zu sparen. (Tenemos que modernizar nuestra casa para ahorrar energía.)
+- Die Regierung hat versprochen, das Gesundheitssystem zu modernisieren. (El gobierno ha prometido modernizar el sistema de salud.)
+- Er hat sein Auto modernisiert, indem er einen neuen Motor eingebaut hat. (Él ha modernizado su coche instalando un nuevo motor.)
+'''
+das Haustier, -e B1
+Español: la mascota
+Русский: домашнее животное
+English: the pet
+
+- Ich habe ein Haustier. Es ist eine Katze und sie heißt Luna.
+- Als ich klein war, hatte ich ein Haustier. Es war ein Hund und er hieß Rex.
+- Hast du ein Haustier gehabt? Was für ein Tier war es?
+'''
+der Mitbewohner, - / die Mitbewohnerin, -nen, A1
+Español: el compañero de piso / la compañera de piso
+Русский: сосед по комнате / соседка по комнате
+English: the roommate / the roomate (female)
+
+Frases en alemán usando esta palabra:
+
+- Ich wohne mit meinem Mitbewohner in einer kleinen Wohnung. (I live with my roommate in a small apartment.)
+- Meine Mitbewohnerin hat gestern Abend gekocht. (My roommate cooked last night.)
+- Hast du schon mit deinen Mitbewohnern gesprochen? (Have you already talked to your roommates?)
+'''
+Mitbewohnerin, -nen B1
+Español: compañera de piso
+Русский: соседка по комнате
+English: roommate
+
+- Meine Mitbewohnerin ist sehr nett und hilfsbereit. (My roommate is very nice and helpful.)
+- Gestern hat meine Mitbewohnerin einen Kuchen gebacken. (Yesterday my roommate baked a cake.)
+- Ich habe meiner Mitbewohnerin gesagt, dass ich heute später nach Hause komme. (I told my roommate that I would come home later today.)
+'''
+zusammenleben mit, B1
+Español: convivir con
+Русский: совместное проживание с
+English: living together with
+
+Frases en alemán usando esta palabra:
+
+- Ich **lebe** seit drei Jahren **mit** meinem Freund **zusammen**. (Presente)
+- Español: Vivo con mi novio desde hace tres años.
+- Русский: Я живу со своим парнем три года.
+- English: I have been living with my boyfriend for three years.
+
+- Sie **lebten** früher **mit** ihren Großeltern **zusammen**. (Präteritum)
+- Español: Antes vivían con sus abuelos.
+- Русский: Раньше они жили со своими бабушкой и дедушкой.
+- English: They used to live with their grandparents.
+
+- Wir haben lange **mit** unseren Nachbarn **zusammengelebt**. (Perfekt)
+- Español: Hemos vivido mucho tiempo con nuestros vecinos.
+- Русский: Мы долго жили со своими соседями.
+- English: We have lived with our neighbors for a long time.
+'''
+der Blumenstrauß, - ¨e B1
+Español: el ramo de flores
+Русский: букет цветов
+English: the bouquet of flowers
+
+Frases en alemán usando esta palabra:
+
+- Zum Geburtstag habe ich einen schönen **Blumenstrauß** bekommen.
+(Para mi cumpleaños recibí un hermoso ramo de flores.)
+- Er hat ihr einen roten **Blumenstrauß** geschenkt, um sich zu entschuldigen.
+(Él le regaló un ramo de flores rojas para disculparse.)
+- Sie hat den **Blumenstrauß** in eine Vase gestellt und auf den Tisch gestellt.
+(Ella puso el ramo de flores en un jarrón y lo puso sobre la mesa.)
+'''
+einrichten, B1
+Español: amueblar, instalar, configurar
+Русский: обставлять, устанавливать, настраивать
+English: furnish, install, set up
+
+Beispiele:
+- Ich habe mein neues Zimmer **eingerichtet**. Es sieht sehr gemütlich aus.
+- Er hat die Software auf seinem Laptop **eingerichtet**. Jetzt kann er schneller arbeiten.
+- Sie hat die Tische und Stühle für die Party **eingerichtet**. Alles ist bereit für die Gäste.
+'''
+die Einrichtung, -en B1
+Español: el establecimiento, la instalación, el mobiliario
+Русский: учреждение, оборудование, мебель
+English: the establishment, the equipment, the furniture
+
+- Die Einrichtung des neuen Labors ist sehr modern und teuer. (The equipment of the new laboratory is very modern and expensive.)
+- Er hat die Einrichtung seines Wohnzimmers selbst gemacht. (He did the furniture of his living room by himself.)
+- Sie arbeitet in einer sozialen Einrichtung für Kinder. (She works in a social establishment for children.)
+'''
+Aquí está la información de las palabras que me has escrito:
+
+- die Garderobe, -n B1
+    - Español: el guardarropa, el vestuario
+    - Русский: гардероб, раздевалка
+    - English: the wardrobe, the cloakroom
+    - Ejemplos:
+        - Ich hänge meinen Mantel in die Garderobe. (Cuelgo mi abrigo en el guardarropa.)
+        - Die Garderobe ist im ersten Stock. (El vestuario está en el primer piso.)
+        - Hast du deine Garderobe schon ausgemistet? (¿Ya has limpiado tu armario?)
+
+- der Kamin, -e B1
+    - Español: la chimenea
+    - Русский: камин
+    - English: the fireplace
+    - Ejemplos:
+        - Wir sitzen gemütlich vor dem Kamin. (Nos sentamos cómodamente frente a la chimenea.)
+        - Er zündete ein Feuer im Kamin an. (Él encendió un fuego en la chimenea.)
+        - Sie haben einen schönen Kamin in ihrem Wohnzimmer. (Ellos tienen una bonita chimenea en su sala de estar.)
+'''
+das Kissen, - B1
+Español: la almohada
+Русский: подушка
+English: the pillow
+
+- Ich habe ein neues **Kissen** gekauft, weil mein altes zu hart war. (I bought a new pillow because my old one was too hard.)
+- Er legte seinen Kopf auf das **Kissen** und schlief sofort ein. (He put his head on the pillow and fell asleep immediately.)
+- Hast du das **Kissen** gewaschen, das du gestern verschüttet hast? (Did you wash the pillow that you spilled yesterday?)
+'''
+die Tapete, -n B1
+Español: el papel pintado
+Русский: обои
+English: the wallpaper
+- Ich mag die Tapete in meinem Zimmer. Sie ist blau und hat Blumenmuster. (I like the wallpaper in my room. It is blue and has floral patterns.)
+- Als wir umgezogen sind, haben wir die Tapete in der Küche abgerissen. Sie war alt und schmutzig. (When we moved, we tore off the wallpaper in the kitchen. It was old and dirty.)
+- Hast du schon die neue Tapete gekauft? Wir müssen sie morgen an die Wand kleben. (Have you bought the new wallpaper yet? We have to stick it to the wall tomorrow.)
+'''
+die Vase, -n B1
+Español: el jarrón, los jarrones
+Русский: ваза, вазы
+English: the vase, the vases
+
+- Ich habe eine schöne **Vase** aus Porzellan gekauft. (I bought a beautiful porcelain **vase**.)
+- Er zerbrach die **Vase** aus Versehen. (He broke the **vase** by accident.)
+- Hast du die **Vase** repariert, die du gestern kaputt gemacht hast? (Did you fix the **vase** that you broke yesterday?)
+'''
+der Backofen, -¨ B1
+Español: el horno
+Русский: духовка
+English: the oven
+
+- Ich habe einen neuen **Backofen** gekauft, der sehr modern ist. (I bought a new oven that is very modern.)
+- Gestern hat sie einen leckeren Kuchen im **Backofen** gebacken. (Yesterday she baked a delicious cake in the oven.)
+- Hast du den **Backofen** ausgeschaltet, bevor du gegangen bist? (Did you turn off the oven before you left?)
+'''
+der Lautsprecher, - B1
+Español: el altavoz
+Русский: динамик
+English: the speaker
+
+Frases en alemán usando esta palabra:
+
+- Ich habe einen neuen **Lautsprecher** für mein Handy gekauft. (He comprado un nuevo altavoz para mi móvil.)
+- Er hörte die Stimme des **Lautsprechers** im Radio. (Él escuchó la voz del locutor en la radio.)
+- Die **Lautsprecher** waren so laut, dass ich Kopfschmerzen bekam. (Los altavoces eran tan ruidosos que me dieron dolor de cabeza.)
+'''
+die Mikrowelle, -n B1
+Español: el microondas
+Русский: микроволновая печь
+English: the microwave
+
+- Ich stelle die Mikrowelle auf zwei Minuten ein. (I set the microwave to two minutes.)
+- Gestern hat er eine Pizza in der Mikrowelle aufgewärmt. (Yesterday he heated up a pizza in the microwave.)
+- Hast du schon die neue Mikrowelle benutzt, die wir gekauft haben? (Have you already used the new microwave that we bought?)
+'''
+der Rekorder, - (Video-; Kassetten-) B1
+Español: el grabador (de vídeo; de casetes)
+Русский: рекордер (видео-; кассетный)
+English: the recorder (video; cassette)
+
+Ejemplos:
+
+- Er hat einen alten **Rekorder** im Keller gefunden. (He found an old **recorder** in the basement.)
+- Sie hat gestern Abend die Sendung mit ihrem **Video-Rekorder** aufgenommen. (She recorded the show last night with her **video recorder**.)
+- Hast du noch einen **Kassetten-Rekorder**? Ich möchte diese alten Bänder anhören. (Do you still have a **cassette recorder**? I want to listen to these old tapes.)
+'''
+der Stecker, - B1
+Español: el enchufe
+Русский: штепсель
+English: the plug
+
+Frases en alemán usando esta palabra:
+
+- Ich brauche einen **Stecker**, um mein Handy aufzuladen. (Necesito un enchufe para cargar mi teléfono.)
+- Er zog den **Stecker** aus der Steckdose. (Él sacó el enchufe del tomacorriente.)
+- Hast du den **Stecker** schon eingesteckt? (¿Ya has conectado el enchufe?)
+'''
+das Gebäude, - B1
+Español: el edificio
+Русский: здание
+English: the building
+
+- Das Gebäude ist sehr alt und hat eine interessante Geschichte. (The building is very old and has an interesting history.)
+- Gestern haben wir ein neues Gebäude besichtigt. (Yesterday we visited a new building.)
+- Sie haben das Gebäude im letzten Jahr renoviert. (They renovated the building last year.)
+'''
+das Hochhaus, -¨er B1
+Español: el rascacielos
+Русский: небоскрёб
+English: skyscraper
+
+Frases en alemán usando esta palabra:
+
+- Ich wohne im fünften Stock eines Hochhauses. (Vivo en el quinto piso de un rascacielos.)
+- Er hat gestern ein altes Hochhaus abgerissen. (Él demolió ayer un viejo rascacielos.)
+- Sie haben ein neues Hochhaus in der Stadt gebaut. (Ellos han construido un nuevo rascacielos en la ciudad.)
+'''
+der Hof, - ¨e B1
+Español: el patio, la corte
+Русский: двор, суд
+English: the yard, the court
+
+- Ich spiele gerne im **Hof** mit meinen Freunden. (I like to play in the **yard** with my friends.)
+- Der König lebt im **Hof** mit seiner Familie. (The king lives in the **court** with his family.)
+- Der Angeklagte musste vor den **Hof** treten. (The defendant had to appear before the **court**.)
+'''
+innen, B1
+Español: dentro
+Русский: внутри
+English: inside
+
+- Ich bin **innen** geblieben, weil es draußen zu kalt war. (I stayed **inside** because it was too cold outside.)
+- Er hat die Tür von **innen** abgeschlossen. (He locked the door from the **inside**.)
+- Sie hat ein gutes Herz und ist schön von **innen** und außen. (She has a good heart and is beautiful from the **inside** and out.)
+'''
+der Nebeneingang, - ¨e B1
+Español: la entrada lateral
+Русский: боковой вход
+English: the side entrance
+
+- Der Nebeneingang ist verschlossen. Wir müssen den Haupteingang benutzen. (The side entrance is locked. We have to use the main entrance.)
+- Gestern bin ich durch den Nebeneingang in die Schule geschlichen. Ich wollte nicht, dass mich jemand sieht. (Yesterday I sneaked into the school through the side entrance. I didn't want anyone to see me.)
+- Er hat den Nebeneingang repariert, der seit langem kaputt war. (He has repaired the side entrance, which had been broken for a long time.)
+'''
+die Stufe, -n B1
+Español: el escalón, los escalones
+Русский: ступенька, ступеньки
+English: the step, the steps
+
+- Die Stufen sind sehr rutschig, sei vorsichtig. (The steps are very slippery, be careful.)
+- Er stieg die Stufen hinauf und öffnete die Tür. (He climbed up the steps and opened the door.)
+- Sie ist auf der höchsten Stufe der Karriereleiter. (She is on the highest step of the career ladder.)
+'''
+die Lage, -n B1
+Español: la situación
+Русский: положение
+English: the situation
+
+- Die Lage in Afghanistan ist sehr kritisch. (The situation in Afghanistan is very critical.)
+- Er erzählte mir von seiner Lage im Mittelalter. (He told me about his situation in the Middle Ages.)
+- Sie haben die Lage schnell verbessert. (They have quickly improved the situation.)
+'''
+der Stadtteil, -e B1
+Español: el barrio, los barrios
+Русский: район, районы
+English: the district, the districts
+
+- Ich wohne in einem ruhigen **Stadtteil** von Berlin. (I live in a quiet **district** of Berlin.)
+- Im 19. Jahrhundert wurde dieser **Stadtteil** industrialisiert. (In the 19th century, this **district** was industrialized.)
+- Er hat viele **Stadtteile** besucht, als er in Hamburg war. (He visited many **districts** when he was in Hamburg.)
+'''
+das Wohngebiet, -e B1
+Español: zona residencial
+Русский: жилой район
+English: residential area
+
+- In diesem Wohngebiet gibt es viele Parks und Spielplätze. (In this residential area there are many parks and playgrounds.)
+- Früher wohnte ich in einem anderen Wohngebiet. (I used to live in a different residential area.)
+- Ich habe ein neues Wohngebiet gefunden, das mir gefällt. (I have found a new residential area that I like.)
+'''
+der Hauptmieter, - B1
+Español: el inquilino principal
+Русский: главный арендатор
+English: the main tenant
+
+- Der Hauptmieter ist für die Zahlung der Miete verantwortlich. (The main tenant is responsible for paying the rent.)
+- Als der Hauptmieter auszog, mussten die Untermieter eine neue Wohnung suchen. (When the main tenant moved out, the subtenants had to look for a new apartment.)
+- Er hat den Mietvertrag als Hauptmieter unterschrieben und kann die Wohnung nach seinen Wünschen gestalten. (He signed the lease as the main tenant and can design the apartment according to his wishes.)
+'''
+der Mietvertrag, - ¨e B1
+Español: el contrato de alquiler
+Русский: договор аренды
+English: the lease agreement
+
+- Ich habe gestern einen neuen **Mietvertrag** unterschrieben. (I signed a new lease agreement yesterday.)
+- Der **Mietvertrag** läuft bis Ende des Jahres. (The lease agreement runs until the end of the year.)
+- Hast du den **Mietvertrag** schon gelesen? (Have you read the lease agreement yet?)
+'''
+die Untermiete, -n B1
+Español: el subarriendo
+Русский: субаренда
+English: the sublet
+Frases en alemán:
+- Ich wohne in einer **Untermiete** bei meiner Freundin. (Vivo en un subarriendo con mi amiga.)
+- Er hat seine Wohnung für drei Monate zur **Untermiete** angeboten. (Él ofreció su apartamento para subarrendar por tres meses.)
+- Hast du schon eine **Untermiete** gefunden? (¿Ya encontraste un subarriendo?)
+'''
+die Vermietung, - en B1
+Español: el alquiler
+Русский: аренда
+English: the rental
+
+- Die Vermietung der Wohnung war sehr einfach und schnell.
+- Er vermietete sein Auto an einen Freund, als er im Urlaub war.
+- Sie haben das Haus für ein Jahr vermietet.
+'''
+möblieren B1
+Español: amueblar
+Русский: меблировать
+English: furnish
+
+- Ich möchte mein Zimmer neu möblieren. (I want to furnish my room anew.)
+- Er möblierte seine Wohnung mit alten Möbeln. (He furnished his apartment with old furniture.)
+- Sie hat ihre Wohnung schön möbliert. (She has furnished her apartment nicely.)
+'''
+das Waschbecken, - B1
+Español: el lavabo
+Русский: раковина
+English: the sink
+
+Frases en alemán usando esta palabra:
+
+- Ich wasche mir die Hände im Waschbecken. (Me lavo las manos en el lavabo.)
+- Er hat gestern das Waschbecken im Badezimmer repariert. (Él reparó el lavabo del baño ayer.)
+- Hast du das Waschbecken schon geputzt? (¿Ya has limpiado el lavabo?)
+'''
+der Umzug, - ¨e B1
+Español: la mudanza
+Русский: переезд
+English: the move
+
+- Der Umzug war sehr anstrengend, aber wir haben es geschafft. (The move was very exhausting, but we did it.)
+- Als ich klein war, sind wir oft umgezogen. (When I was little, we moved a lot.)
+- Hast du schon alles für den Umzug gepackt? (Have you packed everything for the move?)
+'''
+die Eigentumswohnung, -en B1
+Español: el apartamento en propiedad
+Русский: квартира в собственности
+English: the condominium
+
+- Ich möchte eine **Eigentumswohnung** in Berlin kaufen. (I want to buy a condominium in Berlin.)
+- Er hat seine **Eigentumswohnung** an seine Tochter vererbt. (He left his condominium to his daughter.)
+- Sie haben ihre **Eigentumswohnung** verkauft und sind in ein Haus gezogen. (They sold their condominium and moved into a house.)
+'''
+das Mietshaus, -¨er B1
+Español: casa de alquiler
+Русский: дом на съем
+English: rental house
+
+Frases en alemán usando esta palabra:
+
+- Ich wohne in einem **Mietshaus** in der Innenstadt. (Vivo en una casa de alquiler en el centro de la ciudad.)
+- Er hat gestern sein **Mietshaus** gekündigt, weil er umziehen will. (Él canceló su casa de alquiler ayer porque quiere mudarse.)
+- Sie haben ihr **Mietshaus** renoviert und es sieht jetzt viel schöner aus. (Ellos renovaron su casa de alquiler y ahora se ve mucho más bonita.)
+'''
+die Mietwohnung, -en B1
+Español: el apartamento de alquiler
+Русский: квартира в аренду
+English: the rental apartment
+
+Frases en alemán usando esta palabra:
+
+- Ich suche eine **Mietwohnung** in der Nähe des Zentrums. (I am looking for a rental apartment near the center.)
+- Er hat seine **Mietwohnung** gekündigt, weil er umziehen will. (He canceled his rental apartment because he wants to move.)
+- Sie haben eine schöne **Mietwohnung** gefunden, die ihren Bedürfnissen entspricht. (They have found a nice rental apartment that meets their needs.)
+'''
+das Studentenwohnheim, -e B1
+Español: residencia de estudiantes
+Русский: студенческое общежитие
+English: student dormitory
+
+Frases en alemán usando esta palabra:
+
+- Ich wohne in einem **Studentenwohnheim** in der Nähe der Universität. (I live in a **student dormitory** near the university.)
+- Er ist gestern aus dem **Studentenwohnheim** ausgezogen. (He moved out of the **student dormitory** yesterday.)
+- Hast du schon einen Platz im **Studentenwohnheim** gefunden? (Have you found a place in the **student dormitory** yet?)
+'''
+die Zweitwohnung, - en B1
+Español: el segundo domicilio
+Русский: второе жилье
+English: the second home
+
+Frases en alemán usando esta palabra:
+
+- Er hat eine Zweitwohnung in Berlin, wo er oft geschäftlich hin muss.
+(Él tiene un segundo domicilio en Berlín, donde tiene que ir a menudo por negocios.)
+
+- Sie hat ihre Zweitwohnung an eine Studentin vermietet, die dort studiert.
+(Ella ha alquilado su segundo domicilio a una estudiante que estudia allí.)
+
+- Wir haben keine Zweitwohnung, wir wohnen immer im selben Haus.
+(No tenemos un segundo domicilio, siempre vivimos en la misma casa.)
+'''
+der Gang, - ¨e B1
+Español: el pasillo, la marcha, el curso
+Русский: коридор, ход, курс
+English: the corridor, the walk, the course
+
+Tres frases en alemán usando esta palabra son:
+
+- Er ging durch den **Gang** zum Ausgang. (He walked through the **corridor** to the exit.)
+- Sie hat einen eleganten **Gang**. (She has an elegant **walk**.)
+- Der **Gang** der Geschichte ist unvorhersehbar. (The **course** of history is unpredictable.)
+'''
+das Schlüsselloch, -¨er B2
+Español: la cerradura
+Русский: замочная скважина
+English: the keyhole
+
+- Er steckte den Schlüssel ins Schlüsselloch und öffnete die Tür. (He inserted the key into the keyhole and opened the door.)
+- Als Kind schaute sie oft durch das Schlüsselloch, um zu sehen, was ihre Eltern machten. (As a child, she often looked through the keyhole to see what her parents were doing.)
+- Er hat gestern durch das Schlüsselloch gespäht und etwas Schreckliches gesehen. (He peeked through the keyhole yesterday and saw something terrible.)
+'''
+die Türklinke, -n B2
+Español: el picaporte, la manija
+Русский: дверная ручка
+English: the door handle
+
+- Er öffnete die Türklinke und trat in das Zimmer ein. (He opened the door handle and entered the room.)
+- Die Türklinke war kalt und glatt. (The door handle was cold and smooth.)
+- Sie hat die Türklinke repariert, die lose war. (She repaired the door handle that was loose.)
+'''
+decken, B2
+Español: cubrir
+Русский: покрывать
+English: cover
+
+Ejemplos:
+- Ich decke den Tisch für das Abendessen. (Cubro la mesa para la cena.)
+- Er deckte sich mit einer Decke zu. (Se cubrió con una manta.)
+- Sie hat die Kosten für die Reparatur gedeckt. (Ella ha cubierto los costos de la reparación.)
+'''
+der Putz, B2
+Español: el estuco, el revoque, la limpieza
+Русский: штукатурка, отделка, уборка
+English: the plaster, the coating, the cleaning
+
+- Der Putz an der Wand ist abgeblättert. (The plaster on the wall is peeling off.)
+- Er hat den Putz von der Decke gekratzt. (He scraped the coating from the ceiling.)
+- Sie macht jeden Tag den Putz im Haus. (She does the cleaning in the house every day.)
+'''
+die Privatsphäre, -n B2
+Español: la privacidad
+Русский: приватность
+English: privacy
+
+- Ich respektiere deine **Privatsphäre** und werde dich nicht nach deinem Passwort fragen. (I respect your privacy and will not ask you for your password.)
+- Er erzählte mir von seiner Kindheit, ohne seine **Privatsphäre** zu verletzen. (He told me about his childhood, without violating his privacy.)
+- Sie haben ihre **Privatsphäre** verloren, als sie berühmt wurden. (They lost their privacy when they became famous.)
+'''
+der Rollladen, -¨ B2
+Español: la persiana
+Русский: жалюзи
+English: the shutter
+
+- Ich schließe die Rollläden, bevor ich ins Bett gehe. (I close the shutters before I go to bed.)
+- Er öffnete die Rollläden und ließ das Sonnenlicht herein. (He opened the shutters and let the sunlight in.)
+- Hast du die Rollläden schon geschlossen? (Have you closed the shutters yet?)
+'''
+der Wohnsitz, -e B2
+Español: residencia, domicilio
+Русский: место жительства, резиденция
+English: residence, domicile
+
+- Ich habe meinen **Wohnsitz** in Berlin. (I have my residence in Berlin.)
+- Er hat seinen **Wohnsitz** nach Hamburg verlegt. (He moved his domicile to Hamburg.)
+- Sie müssen Ihren **Wohnsitz** innerhalb von zwei Wochen anmelden. (You have to register your residence within two weeks.)
+'''
+der Haupteingang, - ¨e B2
+Español: la entrada principal
+Русский: главный вход
+English: the main entrance
+
+Ejemplos:
+- Der Haupteingang des Museums ist von 10 bis 18 Uhr geöffnet. (The main entrance of the museum is open from 10 a.m. to 6 p.m.)
+- Als ich gestern nach Hause kam, war der Haupteingang verschlossen. Ich musste den Hintereingang benutzen. (When I came home yesterday, the main entrance was locked. I had to use the back entrance.)
+- Hast du den Schlüssel für den Haupteingang? Ich habe meinen verloren. (Do you have the key for the main entrance? I lost mine.)
+'''
+die Hintertür, B2
+Español: la puerta trasera
+Русский: задняя дверь
+English: the back door
+
+- Er ging durch die Hintertür hinaus, um niemanden zu wecken. (He went out through the back door to not wake anyone up.)
+- Sie hatte die Hintertür offen gelassen, als sie einkaufen ging. (She had left the back door open when she went shopping.)
+- Er hat die Hintertür benutzt, um in das Haus einzubrechen. (He used the back door to break into the house.)
+'''
+die Scheibe, -n B2
+Español: el disco, la rebanada
+Русский: диск, ломтик
+English: the disc, the slice
+
+- Er hat eine Scheibe Brot gegessen. (He ate a slice of bread.)
+- Die Scheibe ist aus Glas. (The disc is made of glass.)
+- Sie hat sich an der Scheibe geschnitten. (She cut herself on the slice.)
+'''
+betten, B2
+Español: apostar
+Русский: ставить
+English: bet
+
+- Ich wette, du kannst das nicht schaffen. (I bet you can't do that.)
+- Er wettete gestern viel Geld auf das Pferderennen. (He bet a lot of money on the horse race yesterday.)
+- Hast du schon auf das Fußballspiel gewettet? (Have you bet on the soccer game yet?)
+'''
+der Staub, B2
+Español: el polvo
+Русский: пыль
+English: dust
+
+- Ich muss den **Staub** von den Möbeln wischen. (I have to wipe the **dust** from the furniture.)
+- Er hustete, als er den **Staub** in der Luft sah. (He coughed when he saw the **dust** in the air.)
+- Sie hat gestern den **Staub** gesaugt. (She vacuumed the **dust** yesterday.)
+'''
+der Kocher, - C1
+Español: el hervidor
+Русский: чайник
+English: the kettle
+
+- Ich habe einen neuen **Kocher** gekauft, der sehr schnell Wasser kocht. (I bought a new **kettle** that boils water very fast.)
+- Als ich gestern nach Hause kam, roch ich etwas Verbranntes. Der **Kocher** war noch an und das Wasser war verdampft. (When I came home yesterday, I smelled something burnt. The **kettle** was still on and the water had evaporated.)
+- Hast du den **Kocher** ausgeschaltet, bevor du gegangen bist? (Did you turn off the **kettle** before you left?)
+'''
+15 no es una palabra en alemán, sino un número. Por favor, escribe una palabra en alemán seguida de su nivel, como "das Gehirn A2". 

@@ -1,0 +1,1426 @@
+'''
+alt, A1
+Español: viejo
+Русский: старый
+English: old
+
+- Ich bin nicht alt, ich bin nur erfahren. (I am not old, I am just experienced.)
+- Als er alt war, schrieb er seine Memoiren. (When he was old, he wrote his memoirs.)
+- Er hat gestern seinen alten Freund besucht. (He visited his old friend yesterday.)
+'''
+böse, A1
+Español: malo, malvado
+Русский: злой, злобный
+English: evil, wicked
+
+- Er ist ein böser Mensch. (He is an evil person.)
+- Sie war böse auf mich, weil ich ihr Geheimnis verraten hatte. (She was angry with me because I had revealed her secret.)
+- Er hat sich böse verletzt. (He hurt himself badly.)
+'''
+der Bruder, -¨er A1
+Español: el hermano
+Русский: брат
+English: the brother
+
+Frases en alemán usando esta palabra:
+
+- Ich habe einen Bruder und eine Schwester. (Tengo un hermano y una hermana.)
+- Er besuchte seinen Bruder, der in Berlin lebte. (Él visitó a su hermano, que vivía en Berlín.)
+- Hast du deinem Bruder schon gratuliert? (¿Ya felicitaste a tu hermano?)
+'''
+der Cousin, -s / die Cousine, -n A1
+Español: el primo / la prima
+Русский: двоюродный брат / двоюродная сестра
+English: the cousin
+
+Frases en alemán usando esta palabra:
+
+- Ich habe einen Cousin, der in Berlin wohnt. (I have a cousin who lives in Berlin.)
+- Meine Cousine hat gestern Geburtstag gefeiert. (My cousin celebrated her birthday yesterday.)
+- Hast du schon mit deinem Cousin gesprochen? Er hat dich angerufen. (Have you talked to your cousin? He called you.)
+'''
+die Eltern, A1
+Español: los padres
+Русский: родители
+English: the parents
+
+- Meine Eltern wohnen in Berlin. (My parents live in Berlin.)
+- Als Kind besuchte er oft seine Eltern. (As a child, he often visited his parents.)
+- Er hat seine Eltern gestern angerufen. (He called his parents yesterday.)
+'''
+der Enkel, - A1
+Español: el nieto
+Русский: внук
+English: the grandson
+
+- Ich besuche meinen **Enkel** am Wochenende. (I visit my grandson on the weekend.)
+- Mein **Enkel** spielte gestern im Garten. (My grandson played in the garden yesterday.)
+- Mein **Enkel** hat mir ein schönes Bild gemalt. (My grandson has painted me a beautiful picture.)
+'''
+die Frau, - en A1
+Español: la mujer
+Русский: женщина
+English: woman
+
+- Die Frau ist sehr nett. (The woman is very nice.)
+- Er hat gestern eine Frau kennengelernt. (He met a woman yesterday.)
+- Sie haben die Frau zum Geburtstag gratuliert. (They congratulated the woman on her birthday.)
+'''
+der Freund, -e / die Freundin, -nen A1
+Español: el amigo, -os / la amiga, -as
+Русский: друг, -и / подруга, -и
+English: the friend, -s / the girlfriend, -s
+
+Tres frases en alemán usando esta palabra son:
+
+- **Der Freund** von Anna heißt Lukas. (El amigo de Anna se llama Lukas.)
+- Ich habe gestern mit **meiner Freundin** telefoniert. (Ayer hablé por teléfono con mi amiga.)
+- Er hat **seine Freundin** zum Geburtstag eingeladen. (Él invitó a su novia a su cumpleaños.)
+'''
+die Großeltern, A1
+Español: los abuelos
+Русский: бабушка и дедушка
+English: the grandparents
+- Ich besuche meine **Großeltern** jedes Wochenende. (I visit my grandparents every weekend.)
+- Meine **Großeltern** wohnten früher auf dem Land. (My grandparents used to live in the countryside.)
+- Hast du deine **Großeltern** schon angerufen? (Have you called your grandparents yet?)
+'''
+die Großmutter, -¨er A1
+Español: la abuela, las abuelas
+Русский: бабушка, бабушки
+English: the grandmother, the grandmothers
+
+Frases en alemán usando esta palabra:
+
+- Ich besuche meine Großmutter jeden Sonntag. (Visito a mi abuela todos los domingos.)
+- Meine Großmutter hat mir einen Kuchen gebacken. (Mi abuela me ha hecho un pastel.)
+- Als Kind hörte ich gerne die Geschichten, die meine Großmutter erzählte. (De niño me gustaba escuchar las historias que contaba mi abuela.)
+'''
+der Großvater, -¨er A1
+Español: el abuelo
+Русский: дедушка
+English: the grandfather
+
+Frases en alemán usando esta palabra:
+
+- Mein **Großvater** ist sehr alt, aber er ist immer noch fit. (Mi abuelo es muy viejo, pero todavía está en forma.)
+- Gestern hat mir mein **Großvater** eine spannende Geschichte erzählt. (Ayer mi abuelo me contó una historia emocionante.)
+- Ich habe meinen **Großvater** zum Geburtstag angerufen. (Llamé a mi abuelo por su cumpleaños.)
+'''
+heißen, A1
+Español: llamarse
+Русский: называться
+English: to be called
+
+Frases en alemán usando heißen:
+
+- Ich heiße Anna und komme aus Berlin. (Me llamo Anna y vengo de Berlín.)
+- Wie heißt du? (¿Cómo te llamas?)
+- Er hat früher Hans geheißen, aber jetzt nennt er sich John. (Antes se llamaba Hans, pero ahora se llama John.)
+'''
+der Herr, - en A1
+Español: el señor
+Русский: господин
+English: the gentleman
+
+- Der Herr an der Rezeption ist sehr freundlich. (The gentleman at the reception is very friendly.)
+- Der Herr Müller war gestern nicht in der Schule. (Mr. Müller was not at school yesterday.)
+- Ich habe den Herrn Schmidt schon lange nicht mehr gesehen. (I have not seen Mr. Schmidt for a long time.)
+'''
+ledig, A1
+Español: soltero/a
+Русский: холостой/незамужняя
+English: single
+
+- Ich bin ledig und habe keine Kinder. (I am single and have no children.)
+- Warum warst du so lange ledig? (Why were you single for so long?)
+- Er hat sich von seiner Frau getrennt und ist jetzt wieder ledig. (He separated from his wife and is now single again.)
+'''
+der Mädchenname, -n A1
+Español: el nombre de niña
+Русский: девичья фамилия
+English: the maiden name
+
+- **Der Mädchenname** meiner Mutter ist Schmidt. (The maiden name of my mother is Schmidt.)
+- Wie lautet **der Mädchenname** deiner Oma? (What is the maiden name of your grandma?)
+- Sie hat **den Mädchenname** ihrer Mutter angenommen. (She took the maiden name of her mother.)
+'''
+der Onkel, - A1
+Español: el tío
+Русский: дядя
+English: the uncle
+
+Frases en alemán usando esta palabra:
+
+- **Ich besuche meinen Onkel in Berlin.** (Visito a mi tío en Berlín.)
+- **Mein Onkel hat gestern Geburtstag gefeiert.** (Mi tío celebró su cumpleaños ayer.)
+- **Hast du schon mit deinem Onkel gesprochen?** (¿Ya has hablado con tu tío?)
+'''
+die Schwester, -n A1
+Español: la hermana
+Русский: сестра
+English: the sister
+
+Frases en alemán usando esta palabra:
+
+- Ich habe eine Schwester und einen Bruder. (I have a sister and a brother.)
+- Meine Schwester heißt Anna und sie ist 25 Jahre alt. (My sister's name is Anna and she is 25 years old.)
+- Hast du deine Schwester gestern angerufen? (Did you call your sister yesterday?)
+'''
+der Sohn, - ¨e A1
+Español: el hijo
+Русский: сын
+English: the son
+
+Frases en alemán usando esta palabra:
+
+- Ich habe einen Sohn und eine Tochter. (Tengo un hijo y una hija.)
+- Er ist der Sohn des Königs. (Él es el hijo del rey.)
+- Sie hat ihren Sohn gestern angerufen. (Ella llamó a su hijo ayer.)
+'''
+sympathisch, A1
+Español: simpático, agradable
+Русский: симпатичный, приятный
+English: nice, pleasant
+
+Frases en alemán usando la palabra sympathisch:
+
+- Meine neue Nachbarin ist sehr sympathisch. (Mi nueva vecina es muy simpática.)
+- Er hat mir sympathisch zugelächelt. (Él me sonrió de forma agradable.)
+- Hast du dich mit ihm sympathisch unterhalten? (¿Has tenido una conversación agradable con él?)
+'''
+die Tante, -n A1
+Español: la tía
+Русский: тётя
+English: the aunt
+
+Frases en alemán usando esta palabra:
+
+- **Meine Tante** wohnt in Berlin. (Mi tía vive en Berlín.)
+- Ich habe **meiner Tante** einen Brief geschrieben. (Le escribí una carta a mi tía.)
+- **Hast du deine Tante** schon angerufen? (¿Ya llamaste a tu tía?)
+'''
+die Tochter, -¨er A1
+Español: la hija, las hijas
+Русский: дочь, дочери
+English: the daughter, the daughters
+
+- Ich habe eine Tochter und zwei Söhne. (I have a daughter and two sons.)
+- Meine Tochter hatte gestern Geburtstag. (My daughter had her birthday yesterday.)
+- Hast du deine Tochter schon angerufen? (Have you called your daughter yet?)
+'''
+traurig, A1
+Español: triste
+Русский: грустный
+English: sad
+
+- Ich bin traurig, weil mein Hund gestorben ist. (I am sad because my dog died.)
+- Er war traurig, als er die Prüfung nicht bestanden hat. (He was sad when he failed the exam.)
+- Sie hat sich gefreut, dass er nicht mehr traurig ist. (She was happy that he was not sad anymore.)
+'''
+der Vater, -¨er A1
+Español: el padre
+Русский: отец
+English: the father
+
+- Mein **Vater** ist Lehrer. (My father is a teacher.)
+- Als ich klein war, las mir mein **Vater** oft Geschichten vor. (When I was little, my father often read stories to me.)
+- Ich habe meinen **Vater** gestern zum Geburtstag angerufen. (I called my father yesterday for his birthday.)
+'''
+der Vorname, -n A1
+Español: el nombre de pila
+Русский: имя
+English: first name
+
+Frases en alemán usando esta palabra:
+
+- Wie heißt du mit **Vornamen**? (¿Cómo te llamas de nombre?)
+- Mein **Vorname** ist Anna, aber alle nennen mich Anni. (Mi nombre es Anna, pero todos me llaman Anni.)
+- Er hat seinen **Vornamen** geändert, als er nach Kanada ausgewandert ist. (Él cambió su nombre cuando emigró a Canadá.)
+'''
+aktiv, A2
+Español: activo
+Русский: активный
+English: active
+
+- Ich bin sehr aktiv und mache jeden Tag Sport.
+- Als Kind warst du immer aktiv und hast viel gespielt.
+- Er hat sich aktiv an der Diskussion beteiligt.
+'''
+allein, A2
+Español: solo, sola
+Русский: один, одна
+English: alone
+
+- Ich bin allein zu Hause. (Estoy solo en casa.)
+- Er war allein im Wald. (Él estaba solo en el bosque.)
+- Sie hat sich allein angezogen. (Ella se ha vestido sola.)
+'''
+die Angst, - ¨e A2
+Español: el miedo, los miedos
+Русский: страх, страхи
+English: fear, fears
+
+- Er hat Angst vor Spinnen. (He is afraid of spiders.)
+- Sie hatte keine Angst, die Wahrheit zu sagen. (She was not afraid to tell the truth.)
+- Hast du schon mal Angst gehabt, zu versagen? (Have you ever been afraid of failing?)
+'''
+der Ärger, A2
+Español: el enfado, la molestia
+Русский: гнев, досада
+English: the anger, the annoyance
+
+Frases en alemán usando der Ärger:
+
+- Er hat viel Ärger mit seinen Nachbarn. (He has a lot of trouble with his neighbors.)
+- Sie ärgerte sich über den verpassten Zug. (She was annoyed about the missed train.)
+- Er hat sich gestern mit seinem Freund geärgert. (He had an argument with his friend yesterday.)
+'''
+sich ärgern, A2
+Español: enfadarse
+Русский: злиться
+English: to get angry
+
+Frases en alemán usando sich ärgern:
+
+- Ich ärgere mich über den Lärm. (Me enfado por el ruido.)
+- Er ärgerte sich, dass er den Bus verpasst hatte. (Se enfadó porque había perdido el autobús.)
+- Hast du dich sehr über die Prüfung geärgert? (¿Te enfadaste mucho por el examen?)
+'''
+attraktiv, A2
+Español: atractivo/a
+Русский: привлекательный/ая
+English: attractive
+
+- Er ist sehr attraktiv und intelligent. (He is very attractive and intelligent.)
+- Sie fand ihn früher attraktiv, aber jetzt nicht mehr. (She used to find him attractive, but not anymore.)
+- Hast du ihr gesagt, dass du sie attraktiv findest? (Did you tell her that you find her attractive?)
+'''
+ausschauen, A2
+Español: parecer, tener aspecto de
+Русский: выглядеть, иметь вид
+English: look, appear
+
+Ejemplos:
+- Wie schaut das Wetter heute aus? (¿Cómo se ve el clima hoy?)
+- Er schaute gestern sehr müde aus. (Él se veía muy cansado ayer.)
+- Sie hat ausgeschaut, als ob sie etwas sagen wollte. (Ella parecía que quería decir algo.)
+'''
+aussehen, A2
+Español: aspecto, parecer
+Русский: внешность, выглядеть
+English: appearance, look
+
+Beispiele:
+- Wie sieht er aus? Er hat blonde Haare und blaue Augen.
+(How does he look? He has blond hair and blue eyes.)
+- Sie sah sehr glücklich aus, als sie die Prüfung bestanden hat.
+(She looked very happy when she passed the exam.)
+- Er hat ausgesehen, als ob er etwas verbergen würde.
+(He looked as if he was hiding something.)
+'''
+der Ausweis, -e A2
+Español: el documento de identidad
+Русский: удостоверение личности
+English: the identity card
+
+- Ich habe meinen Ausweis verloren. (I have lost my identity card.)
+- Er zeigte dem Polizisten seinen Ausweis. (He showed his identity card to the policeman.)
+- Hast du deinen Ausweis schon verlängert? (Have you already renewed your identity card?)
+'''
+bekannt, A2
+Español: conocido, famoso
+Русский: известный, знаменитый
+English: known, famous
+
+- Er ist ein bekannter Schriftsteller. (He is a famous writer.)
+- Ich habe sie gestern in der Stadt getroffen. Sie ist mir bekannt. (I met her yesterday in the city. She is known to me.)
+- Hast du schon die Nachrichten gehört? Der bekannte Sänger ist gestorben. (Have you heard the news? The famous singer has died.)
+'''
+beliebt, A2
+Español: popular
+Русский: популярный
+English: popular
+
+- Dieser Film ist sehr beliebt bei den Jugendlichen. (This movie is very popular among the teenagers.)
+- Als ich klein war, war ich nicht sehr beliebt in der Schule. (When I was little, I was not very popular at school.)
+- Hast du gehört, dass sie das beliebteste Mädchen der Klasse ist? (Did you hear that she is the most popular girl in the class?)
+'''
+berühmt, A2
+Español: famoso
+Русский: знаменитый
+English: famous
+
+- Er ist ein berühmter Schriftsteller und hat viele Bücher geschrieben. (He is a famous writer and has written many books.)
+- Sie war früher berühmt, aber jetzt kennt sie niemand mehr. (She used to be famous, but now nobody knows her anymore.)
+- Hast du schon gehört? Er hat einen berühmten Preis gewonnen. (Did you hear? He won a famous prize.)
+'''
+blond, A2
+Español: rubio/a
+Русский: блондин/блондинка
+English: blond/e
+
+- Er ist blond und hat blaue Augen. (He is blond and has blue eyes.)
+- Sie war blond, als sie jung war. (She was blond when she was young.)
+- Er hat sich die Haare blond gefärbt. (He dyed his hair blond.)
+'''
+der Charakter, -e A2
+Español: carácter
+Русский: характер
+English: character
+
+- Er hat einen guten Charakter. (He has a good character.)
+- Sie war im Charakter ihrer Mutter sehr ähnlich. (She was very similar to her mother in character.)
+- Er hat seinen Charakter im Laufe der Jahre verändert. (He has changed his character over the years.)
+'''
+chic, A2
+Español: elegante, chic
+Русский: элегантный, шик
+English: elegant, chic
+
+- Das Kleid ist sehr chic und passt dir perfekt. (The dress is very chic and fits you perfectly.)
+- Er war immer chic gekleidet, auch wenn er nur zum Bäcker ging. (He was always dressed elegantly, even when he went to the baker.)
+- Sie hat sich für die Party chic gemacht und alle Blicke auf sich gezogen. (She made herself chic for the party and attracted all the attention.)
+'''
+doof, A2
+Español: tonto, estúpido
+Русский: глупый, тупой
+English: silly, stupid
+
+- Er ist nicht doof, er ist nur ein bisschen langsam. (He is not silly, he is just a bit slow.)
+- Warum hast du das gemacht? Das war sehr doof von dir. (Why did you do that? That was very stupid of you.)
+- Ich habe mich doof angestellt und den Bus verpasst. (I acted stupidly and missed the bus.)
+'''
+dumm, A2
+Español: tonto, estúpido
+Русский: глупый, тупой
+English: dumb, stupid
+
+Frases en alemán usando dumm:
+
+- Er ist nicht dumm, er ist nur faul. (Él no es tonto, solo es perezoso.)
+- Sie hat etwas Dummes gesagt und sich entschuldigt. (Ella dijo algo estúpido y se disculpó.)
+- Ich habe mich dumm angestellt und den Zug verpasst. (Me comporté como un tonto y perdí el tren.)
+'''
+erwachsen, A2
+Español: adulto, maduro
+Русский: взрослый, зрелый
+English: adult, mature
+- Ich bin noch nicht **erwachsen**, aber ich möchte selbstständig sein.
+- Als sie **erwachsen** wurde, zog sie nach Berlin.
+- Er ist schon lange **erwachsen**, aber er verhält sich wie ein Kind.
+
+erwarten, A2
+Español: esperar, anticipar
+Русский: ожидать, предвидеть
+English: expect, anticipate
+- Was **erwartest** du von mir?
+- Er **erwartete** einen Anruf von seiner Freundin.
+- Sie hat ihn lange **erwartet**, aber er kam nicht.
+'''
+exklusiv, A2
+Español: exclusivo
+Русский: эксклюзивный
+English: exclusive
+
+Frases en alemán usando exklusiv:
+
+- Dieses Hotel bietet exklusive Dienstleistungen für seine Gäste. (Este hotel ofrece servicios exclusivos para sus huéspedes.)
+- Er hat exklusiv für diese Zeitung geschrieben. (Él escribió exclusivamente para este periódico.)
+- Sie haben die exklusive Rechte an dem Film erworben. (Ellos han adquirido los derechos exclusivos de la película.)
+'''
+faul, A2
+Español: perezoso, vago
+Русский: ленивый
+English: lazy
+
+Frases en alemán usando faul:
+
+- Er ist sehr faul und macht nie seine Hausaufgaben. (Él es muy perezoso y nunca hace sus deberes.)
+- Gestern war ich faul und blieb den ganzen Tag im Bett. (Ayer fui vago y me quedé todo el día en la cama.)
+- Sie hat das Projekt erfolgreich abgeschlossen, obwohl sie faul geworden ist. (Ella ha terminado el proyecto con éxito, aunque se ha vuelto perezosa.)
+'''
+fein, A2
+Español: fino, delicado, elegante
+Русский: тонкий, изящный, элегантный
+English: fine, delicate, elegant
+
+Frases en alemán usando fein:
+
+- Das Kleid ist sehr fein und teuer. (El vestido es muy fino y caro.)
+- Er hat eine feine Nase für gute Weine. (Él tiene un olfato delicado para los buenos vinos.)
+- Sie hat sich fein gemacht für das Date. (Ella se ha puesto elegante para la cita.)
+'''
+fleißig, A2
+Español: diligente, trabajador, aplicado
+Русский: прилежный, трудолюбивый, старательный
+English: diligent, hard-working, studious
+
+Frases en alemán usando fleißig:
+
+- Er ist ein **fleißiger** Schüler, der immer seine Hausaufgaben macht. (Él es un alumno aplicado, que siempre hace sus deberes.)
+- Sie hat **fleißig** für die Prüfung gelernt. (Ella ha estudiado diligentemente para el examen.)
+- Er hat das Zimmer **fleißig** aufgeräumt. (Él ha ordenado la habitación con esmero.)
+'''
+fremd, A2
+Español: extraño, ajeno, foráneo
+Русский: чужой, иностранный, посторонний
+English: strange, foreign, alien
+- Ich fühle mich hier fremd. (Me siento extraño aquí.)
+- Er spricht eine fremde Sprache. (Él habla un idioma extranjero.)
+- Sie hat das fremde Auto beschädigt. (Ella ha dañado el coche ajeno.)
+'''
+freundlich, A2
+Español: amable
+Русский: доброжелательный
+English: friendly
+
+- Er ist sehr **freundlich** und hilfsbereit. (He is very friendly and helpful.)
+- Sie war **freundlich** zu mir, als ich sie gestern traf. (She was friendly to me when I met her yesterday.)
+- Wir haben uns **freundlich** verabschiedet. (We said goodbye in a friendly way.)
+'''
+die Freundschaft, - en A2
+Español: la amistad
+Русский: дружба
+English: friendship
+
+- Ich habe eine gute **Freundschaft** mit meiner Nachbarin.
+- Als Kinder hatten wir eine enge **Freundschaft**, aber dann haben wir uns aus den Augen verloren.
+- Er hat mir seine **Freundschaft** gekündigt, weil ich ihn belogen habe.
+'''
+froh, A2
+Español: alegre, feliz
+Русский: радостный, счастливый
+English: cheerful, happy
+
+- Ich bin froh, dass du hier bist. (I am happy that you are here.)
+- Er war froh, als er die Prüfung bestanden hat. (He was happy when he passed the exam.)
+- Sie ist sehr froh gewesen, als sie das Geschenk bekommen hat. (She was very happy when she received the gift.)
+'''
+fröhlich, A2
+Español: alegre, feliz
+Русский: весёлый, счастливый
+English: cheerful, happy
+
+- Er ist immer fröhlich und optimistisch. (He is always cheerful and optimistic.)
+- Gestern war sie sehr fröhlich, weil sie eine gute Note bekommen hatte. (Yesterday she was very happy because she had gotten a good grade.)
+- Wir sind fröhlich nach Hause gegangen, weil wir viel Spaß hatten. (We went home happily because we had a lot of fun.)
+'''
+glücklich, A2
+Español: feliz
+Русский: счастливый
+English: happy
+
+- Ich bin sehr glücklich, dich zu sehen. (I am very happy to see you.)
+- Gestern war er nicht glücklich, weil er eine schlechte Note bekommen hatte. (Yesterday he was not happy because he had gotten a bad grade.)
+- Sie hat sich gefreut, als sie das Geschenk geöffnet hat. (She was happy when she opened the gift.)
+'''
+heiraten, A2
+Español: casarse
+Русский: жениться, выходить замуж
+English: marry
+
+- Ich möchte dich heiraten. (I want to marry you.)
+- Sie heirateten im Sommer. (They married in the summer.)
+- Hast du schon geheiratet? (Have you married yet?)
+'''
+die Hochzeit, -en A2
+Español: la boda
+Русский: свадьба
+English: the wedding
+
+- Ich bin zu einer Hochzeit eingeladen. (I am invited to a wedding.)
+- Sie haben gestern geheiratet. Die Hochzeit war sehr schön. (They got married yesterday. The wedding was very nice.)
+- Sie haben vor zwei Jahren geheiratet. Ihre Hochzeit war in einem Schloss. (They got married two years ago. Their wedding was in a castle.)
+'''
+der Humor, -e (kaum Plural) A2
+Español: el humor
+Русский: юмор
+English: humor
+
+Frases en alemán usando esta palabra:
+
+- Er hat einen guten Humor und bringt mich immer zum Lachen. (He has a good humor and always makes me laugh.)
+- Im Präteritum: Sie verlor ihren Humor, als sie die schlechte Nachricht hörte. (She lost her humor when she heard the bad news.)
+- Im Perfekt: Hast du den Witz verstanden? Er hat mir sehr viel Humor gezeigt. (Did you understand the joke? He showed me a lot of humor.)
+'''
+das Paar, -e A2
+Español: la pareja, las parejas
+Русский: пара, пары
+English: the pair, the pairs
+
+Frases en alemán usando esta palabra:
+
+- Sie sind ein glückliches **Paar**. (Ellos son una pareja feliz.)
+- Ich habe ein **Paar** Schuhe gekauft. (He comprado un par de zapatos.)
+- Wir haben gestern ein nettes **Paar** kennengelernt. (Ayer conocimos a una pareja simpática.)
+'''
+der Partner, - A2
+Español: el socio, la pareja
+Русский: партнер, супруг
+English: the partner, the spouse
+
+- Ich arbeite gerne mit meinem **Partner** zusammen. (I like working with my partner.)
+- Er hat seiner **Partnerin** einen Ring geschenkt. (He gave his partner a ring.)
+- Sie haben sich als **Partner** fürs Leben gefunden. (They found each other as partners for life.)
+'''
+die Scheidung, - en A2
+Español: el divorcio
+Русский: развод
+English: the divorce
+
+- Meine Eltern haben sich vor zwei Jahren **scheiden lassen**. (My parents got divorced two years ago.)
+- Er hat die **Scheidung** eingereicht, weil er eine andere Frau liebte. (He filed for divorce because he loved another woman.)
+- Nach der **Scheidung** musste sie das Haus verkaufen. (After the divorce, she had to sell the house.)
+'''
+sich scheiden lassen A2
+Español: divorciarse
+Русский: разводиться
+English: to get divorced
+
+- Sie haben sich vor zwei Jahren **scheiden lassen**. (They got divorced two years ago.)
+- Er will sich von seiner Frau **scheiden lassen**. (He wants to divorce his wife.)
+- Sie haben sich noch nicht **scheiden lassen**, aber sie leben getrennt. (They have not divorced yet, but they live separately.)
+'''
+schick, A2
+Español: elegante, bonito
+Русский: шикарный, красивый
+English: chic, beautiful
+
+Frases en alemán usando schick:
+
+- Das Kleid ist sehr schick. (El vestido es muy elegante.)
+- Er hat sich schick gemacht für das Date. (Él se ha puesto guapo para la cita.)
+- Sie hat mir ein schickes Geschenk geschickt. (Ella me ha enviado un bonito regalo.)
+'''
+schlank A2
+Español: delgado, flaco
+Русский: худой, стройный
+English: slim, skinny
+
+Frases en alemán usando schlank:
+
+- Er ist sehr schlank und sportlich. (Él es muy delgado y deportivo.)
+- Sie war früher schlank, aber jetzt ist sie dick. (Ella era delgada antes, pero ahora está gorda.)
+- Ich habe zehn Kilo abgenommen und fühle mich schlanker. (He perdido diez kilos y me siento más flaco.)
+'''
+schwanger, A2
+Español: embarazada
+Русский: беременная
+English: pregnant
+
+Frases en alemán usando esta palabra:
+
+- Meine Schwester ist schwanger und erwartet ein Mädchen. (My sister is pregnant and expecting a girl.)
+- Als sie schwanger war, hatte sie oft Übelkeit. (When she was pregnant, she often had nausea.)
+- Sie hat mir erzählt, dass sie schwanger geworden ist. (She told me that she got pregnant.)
+'''
+Schwieger- es un prefijo que se usa para formar palabras compuestas relacionadas con la familia política. Por ejemplo:
+
+- Schwiegermutter: suegra
+- Русский: свекровь
+- English: mother-in-law
+- Ich verstehe mich gut mit meiner Schwiegermutter. (Me llevo bien con mi suegra.)
+- Meine Schwiegermutter hat mir einen Pullover geschenkt. (Mi suegra me regaló un suéter.)
+- Hast du deine Schwiegermutter schon angerufen? (¿Ya llamaste a tu suegra?)
+
+- Schwiegervater: suegro
+- Русский: свекор
+- English: father-in-law
+- Mein Schwiegervater ist sehr streng. (Mi suegro es muy estricto.)
+- Er hat seinen Schwiegervater um Erlaubnis gebeten. (Le pidió permiso a su suegro.)
+- Sie haben ihren Schwiegervater zum Geburtstag eingeladen. (Invitaron a su suegro a su cumpleaños.)
+
+- Schwiegersohn: yerno
+- Русский: зять
+- English: son-in-law
+- Sie ist stolz auf ihren Schwiegersohn. (Ella está orgullosa de su yerno.)
+- Ihr Schwiegersohn arbeitete als Anwalt. (Su yerno trabajaba como abogado.)
+- Sie haben ihren Schwiegersohn kennengelernt. (Conocieron a su yerno.)
+'''
+(die -eltern; die -tochter; der -sohn) A2
+
+Español: (los padres; la hija; el hijo)
+Русский: (родители; дочь; сын)
+English: (the parents; the daughter; the son)
+
+Ejemplos:
+
+- Die Eltern sind stolz auf ihre Tochter und ihren Sohn. (The parents are proud of their daughter and their son.)
+- Die Tochter hat gestern einen Kuchen gebacken. (The daughter baked a cake yesterday.)
+- Der Sohn hat heute seine Hausaufgaben gemacht. (The son did his homework today.)
+'''
+der Single, -s A2
+Español: soltero/a
+Русский: одинокий/одинокая
+English: single
+
+- Ich bin Single und suche eine neue Liebe. (I am single and looking for a new love.)
+- Er war lange Single, bis er seine Frau kennenlernte. (He was single for a long time until he met his wife.)
+- Sie hat sich von ihrem Freund getrennt und ist jetzt wieder Single. (She broke up with her boyfriend and is now single again.)
+'''
+sportlich, A2
+Español: deportivo, atlético
+Русский: спортивный, атлетичный
+English: sporty, athletic
+
+- Er ist sehr sportlich und spielt gerne Fußball. (He is very sporty and likes to play soccer.)
+- Sie war früher sportlich, aber jetzt ist sie faul. (She used to be athletic, but now she is lazy.)
+- Wir sind gestern sportlich gewesen und haben einen Marathon gelaufen. (We were athletic yesterday and ran a marathon.)
+'''
+die Sympathie, -n A2
+Español: la simpatía
+Русский: симпатия
+English: sympathy
+
+- Ich habe viel Sympathie für dich und deine Situation. (I have a lot of sympathy for you and your situation.)
+- Er erregte die Sympathie der Menschen mit seiner Freundlichkeit. (He aroused the sympathy of the people with his kindness.)
+- Sie haben keine Sympathie für die Opposition gezeigt. (They showed no sympathy for the opposition.)
+'''
+sich trennen, A2
+Español: separarse
+Русский: расставаться
+English: to break up
+
+Frases en alemán usando sich trennen:
+
+- Lisa und Tom haben sich gestern getrennt. (Lisa and Tom broke up yesterday.)
+- Warum hast du dich von ihm getrennt? (Why did you break up with him?)
+- Sie haben sich schon vor einem Jahr getrennt, aber sie sind immer noch Freunde. (They broke up a year ago, but they are still friends.)
+'''
+die Trennung, - en A2
+Español: la separación
+Русский: разделение
+English: the separation
+
+Frases en alemán usando esta palabra:
+
+- Die Trennung von ihren Eltern war sehr schwer für sie. (The separation from her parents was very hard for her.)
+- Er hat die Trennung von seiner Frau noch nicht überwunden. (He has not overcome the separation from his wife yet.)
+- Nach der Trennung haben sie keinen Kontakt mehr. (After the separation, they have no contact anymore.)
+'''
+treu, A2
+Español: fiel
+Русский: верный
+English: loyal
+
+- Er ist mir immer treu geblieben. (He has always remained loyal to me.)
+- Sie war ihrem Mann nicht treu. (She was not faithful to her husband.)
+- Wir haben uns treu geschworen. (We swore loyalty to each other.)
+'''
+verheiraten, A2
+Español: casar
+Русский: жениться, выходить замуж
+English: marry
+
+Frases en alemán usando verheiraten:
+
+- Meine Schwester **hat** gestern ihren Freund **geheiratet**. (My sister married her boyfriend yesterday.)
+- Sie **heirateten** im Sommer in einer kleinen Kirche. (They married in the summer in a small church.)
+- Er möchte sie **heiraten**, aber sie ist noch nicht bereit. (He wants to marry her, but she is not ready yet.)
+'''
+sich verloben A2
+Español: comprometerse
+Русский: обручаться
+English: to get engaged
+
+Frases en alemán usando sich verloben:
+
+- Meine Schwester hat sich gestern mit ihrem Freund verlobt. (My sister got engaged to her boyfriend yesterday.)
+- Sie haben sich vor einem Jahr verlobt, aber sie haben noch kein Hochzeitsdatum festgelegt. (They got engaged a year ago, but they haven't set a wedding date yet.)
+- Wie hast du dich mit deiner Frau verlobt? (How did you get engaged to your wife?)
+'''
+zufrieden, A2
+Español: satisfecho, contento
+Русский: довольный, удовлетворенный
+English: satisfied, pleased
+
+Frases en alemán usando zufrieden:
+
+- Ich bin **zufrieden** mit meinem Leben. (Estoy satisfecho con mi vida.)
+- Er war nicht **zufrieden** mit seiner Arbeit und kündigte. (Él no estaba contento con su trabajo y renunció.)
+- Hast du **zufrieden** gestellt deine Kunden? (¿Has satisfecho a tus clientes?)
+'''
+die Altersangabe, -n B1
+Español: la indicación de la edad
+Русский: указание возраста
+English: the indication of the age
+
+- Die Altersangabe ist für manche Berufe wichtig. (The indication of the age is important for some professions.)
+- Er hat seine Altersangabe gefälscht, um in den Club zu kommen. (He faked his indication of the age to get into the club.)
+- Sie hat mir ihre Altersangabe nicht verraten. (She did not tell me her indication of the age.)
+'''
+angenehm, B1
+Español: agradable, cómodo
+Русский: приятный, удобный
+English: pleasant, comfortable
+
+Frases en alemán usando angenehm:
+
+- Ich finde das Wetter heute sehr angenehm. (Me parece el clima hoy muy agradable.)
+- Er hat sich in seinem neuen Haus angenehm eingerichtet. (Él se ha instalado cómodamente en su nueva casa.)
+- Hast du angenehm geschlafen? (¿Has dormido bien?)
+'''
+anstrengend, B1
+Español: agotador, cansado
+Русский: утомительный, усталый
+English: exhausting, tired
+
+Ejemplos:
+
+- Die Prüfung war sehr anstrengend, aber ich habe sie bestanden. (The exam was very exhausting, but I passed it.)
+- Er war nach dem langen Flug sehr anstrengend. (He was very tired after the long flight.)
+- Sie hat sich anstrengend, um ihre Ziele zu erreichen. (She worked hard to achieve her goals.)
+'''
+sich aufregen, B1
+Español: enfadarse, alterarse
+Русский: волноваться, злиться
+English: get upset, get angry
+
+- Er regt sich immer über die Politik auf. (He always gets upset about politics.)
+- Sie regte sich gestern über ihren Chef auf. (She got angry at her boss yesterday.)
+- Hast du dich über meine Verspätung aufgeregt? (Did you get upset about my delay?)
+'''
+der Bart, - ¨e B1
+Español: la barba
+Русский: борода
+English: the beard
+
+Frases en alemán usando esta palabra:
+
+- Er hat einen langen **Bart** und braune Haare. (He has a long beard and brown hair.)
+- Gestern hat er sich den **Bart** abrasiert. (Yesterday he shaved off his beard.)
+- Er hat sich schon lange nicht mehr den **Bart** gestutzt. (He hasn't trimmed his beard for a long time.)
+'''
+beeinflussen B1
+Español: influir
+Русский: влиять
+English: influence
+
+Frases en alemán usando la palabra beeinflussen:
+
+- Die Medien beeinflussen die öffentliche Meinung. (Los medios influyen en la opinión pública.)
+- Er beeinflusste sie, ihm zu helfen. (Él la influyó para que le ayudara.)
+- Sie hat mich sehr beeinflusst. (Ella me ha influido mucho.)
+'''
+beleidigen B1
+Español: ofender, insultar
+Русский: оскорблять, обижать
+English: offend, insult
+
+Frases en alemán usando la palabra beleidigen:
+
+- Er hat mich beleidigt, indem er mich einen Lügner genannt hat. (He insulted me by calling me a liar.)
+- Sie beleidigte niemanden absichtlich. (She did not offend anyone on purpose.)
+- Hast du ihn beleidigt, bevor er gegangen ist? (Did you insult him before he left?)
+'''
+blind, B1
+Español: ciego
+Русский: слепой
+English: blind
+- Er ist blind seit seiner Geburt. (He is blind since his birth.)
+- Sie wurde blind, als sie einen Autounfall hatte. (She became blind when she had a car accident.)
+- Er hat sich blind in sie verliebt. (He fell blindly in love with her.)
+'''
+die Ehefrau, - en B1
+Español: la esposa
+Русский: жена
+English: the wife
+
+- Er liebt seine Ehefrau sehr. (He loves his wife very much.)
+- Er hat seine Ehefrau gestern angerufen. (He called his wife yesterday.)
+- Er hat seiner Ehefrau einen Ring geschenkt. (He gave his wife a ring as a gift.)
+'''
+der Ehemann, -¨er B1
+Español: el esposo
+Русский: муж
+English: the husband
+
+- Mein Ehemann ist sehr nett und lustig. (My husband is very nice and funny.)
+- Als sie ihren Ehemann kennenlernte, war er noch Student. (When she met her husband, he was still a student.)
+- Sie hat ihren Ehemann vor zwei Jahren geheiratet. (She married her husband two years ago.)
+'''
+No entiendo tu mensaje. Por favor, escribe una palabra en alemán seguida de su nivel, como "das Gehirn A2". Te daré la traducción al español, al ruso y al inglés, y tres frases en alemán usando esa palabra.
+'''
+das Ehepaar, -e B1
+Español: la pareja casada
+Русский: супружеская пара
+English: the married couple
+
+Frases en alemán usando esta palabra:
+
+- **Das Ehepaar** Müller wohnt seit zehn Jahren in Berlin. (The married couple Müller has been living in Berlin for ten years.)
+- Gestern habe ich **ein Ehepaar** im Park getroffen, das sehr nett war. (Yesterday I met a married couple in the park who were very nice.)
+- **Das Ehepaar** hat sich im Urlaub kennengelernt und nach einem Jahr geheiratet. (The married couple met on vacation and got married after a year.)
+'''
+ehrlich, B1
+Español: honesto, sincero
+Русский: честный, искренний
+English: honest, sincere
+
+Frases en alemán usando ehrlich:
+
+- Ich bin immer ehrlich zu dir. (Presente: Siempre soy honesto contigo.)
+- Er war ehrlich genug, um seinen Fehler zuzugeben. (Präteritum: Fue lo suficientemente honesto como para admitir su error.)
+- Sie hat mir ehrlich gesagt, was sie von mir hält. (Perfekt: Me dijo honestamente lo que piensa de mí.)
+'''
+eigen, B1
+Español: propio, propio/a
+Русский: собственный, свой
+English: own, proper
+
+Frases en alemán usando esta palabra:
+
+- Das ist mein **eigenes** Auto. (Ese es mi propio coche.)
+- Er hat seinen **eigenen** Stil. (Él tiene su propio estilo.)
+- Sie hat das Buch mit **eigener** Hand geschrieben. (Ella escribió el libro con su propia mano.)
+'''
+einzeln, B1
+Español: individual, solo, separado
+Русский: отдельный, единичный, раздельный
+English: single, individual, separate
+
+- Er lebt **einzeln** in einer kleinen Wohnung. (He lives **alone** in a small apartment.)
+- Die Schüler müssen die Aufgabe **einzeln** lösen. (The students have to solve the task **individually**.)
+- Die Kekse sind **einzeln** verpackt. (The cookies are **separately** wrapped.)
+'''
+Ernst, B1
+Español: serio
+Русский: серьезный
+English: serious
+
+- Er ist ein sehr ernster Mensch, er lacht nie. (He is a very serious person, he never laughs.)
+- Sie war gestern sehr ernst, weil sie eine schlechte Nachricht bekommen hatte. (She was very serious yesterday, because she had received bad news.)
+- Er hat mir ernsthaft gesagt, dass er mich liebt. (He told me seriously that he loves me.)
+'''
+erreichen B1
+Español: alcanzar, lograr
+Русский: достигать, добиваться
+English: reach, achieve
+
+Frases en alemán usando erreichen:
+
+- Ich möchte dieses Jahr mein Deutsch verbessern und das B2-Niveau **erreichen**. (Quiero mejorar mi alemán este año y **alcanzar** el nivel B2.)
+- Er hat gestern seine Großmutter angerufen, aber er konnte sie nicht **erreichen**. (Él llamó a su abuela ayer, pero no pudo **contactarla**.)
+- Sie hat hart gearbeitet und endlich ihren Traum **erreicht**. (Ella trabajó duro y finalmente **logró** su sueño.)
+'''
+erträglich, B1
+Español: tolerable, soportable
+Русский: терпимый, сносный
+English: tolerable, bearable
+
+- Das Wetter ist heute erträglich, nicht zu heiß und nicht zu kalt. (The weather is tolerable today, not too hot and not too cold.)
+- Er fand die Schmerzen kaum erträglich, aber er gab nicht auf. (He found the pain barely bearable, but he did not give up.)
+- Sie hat die Prüfung erträglich gemacht, obwohl sie nicht viel gelernt hat. (She has passed the exam tolerably, although she did not study much.)
+'''
+die Existenz, -en B1
+Español: la existencia
+Русский: существование
+English: the existence
+
+- Die Existenz von Außerirdischen ist ein faszinierendes Thema für viele Menschen. (The existence of aliens is a fascinating topic for many people.)
+- Er zweifelte an seiner eigenen Existenz, als er die schreckliche Nachricht hörte. (He doubted his own existence when he heard the terrible news.)
+- Sie hat ihre Existenz dem Schreiben gewidmet. (She has dedicated her existence to writing.)
+'''
+existieren B1
+Español: existir
+Русский: существовать
+English: exist
+- Die Dinosaurier existierten vor Millionen von Jahren. (The dinosaurs existed millions of years ago.)
+- Existierst du wirklich oder bist du nur ein Traum? (Do you really exist or are you just a dream?)
+- Er hat nie existiert, er ist nur eine Erfindung. (He never existed, he is just an invention.)
+'''
+fähig, B1
+Español: capaz, hábil
+Русский: способный, умелый
+English: capable, skilled
+
+- Er ist sehr fähig in Mathematik. (He is very capable in mathematics.)
+- Sie war nicht fähig, die Wahrheit zu sagen. (She was not able to tell the truth.)
+- Ich habe es endlich geschafft, das Puzzle zu lösen. (I have finally managed to solve the puzzle.)
+'''
+feige, B1
+Español: cobarde, higo
+Русский: трусливый, инжир
+English: cowardly, fig
+
+Frases en alemán usando feige como adjetivo:
+
+- Er ist zu feige, um ihr die Wahrheit zu sagen. (He is too cowardly to tell her the truth.)
+- Sie war nicht feige, sondern vorsichtig. (She was not cowardly, but cautious.)
+- Er hat sich feige aus der Verantwortung gestohlen. (He cowardly shirked his responsibility.)
+
+Frases en alemán usando Feige como sustantivo:
+
+- Ich mag Feigen sehr gerne. (I like figs very much.)
+- Er pflückte eine Feige vom Baum. (He picked a fig from the tree.)
+- Feigen sind reich an Ballaststoffen und Antioxidantien. (Figs are rich in fiber and antioxidants.)
+'''
+freiwillig, B1
+Español: voluntario, voluntaria
+Русский: доброволец, добровольница
+English: volunteer
+
+Frases en alemán usando la palabra freiwillig:
+
+- Ich bin **freiwillig** in der Suppenküche tätig. (I am a volunteer at the soup kitchen.)
+- Er hat sich **freiwillig** für die Prüfung angemeldet. (He voluntarily signed up for the exam.)
+- Sie hat die Aufgabe **freiwillig** abgegeben. (She voluntarily handed in the assignment.)
+'''
+gemeinsam, B1
+Español: juntos, en común
+Русский: вместе, общий
+English: together, common
+
+- Wir machen **gemeinsam** eine Reise nach Berlin. (We are going on a trip to Berlin **together**.)
+- Er hat **gemeinsam** mit seiner Schwester ein Buch geschrieben. (He wrote a book **together** with his sister.)
+- Sie haben viele **gemeinsame** Interessen. (They have many **common** interests.)
+'''
+die Gemeinsamkeit, -en B1
+Español: la similitud, el punto en común
+Русский: сходство, общность
+English: the similarity, the commonality
+
+Frases en alemán usando esta palabra:
+
+- Die Gemeinsamkeit zwischen diesen beiden Ländern ist ihre Sprache. (La similitud entre estos dos países es su idioma.)
+- Wir haben viele Gemeinsamkeiten, aber auch einige Unterschiede. (Tenemos muchos puntos en común, pero también algunas diferencias.)
+- Er hat eine Gemeinsamkeit mit seinem Bruder entdeckt: Sie mögen beide Schach. (Él ha descubierto un punto en común con su hermano: A ambos les gusta el ajedrez.)
+'''
+das Geschlecht, - er B1
+Español: el sexo, el género
+Русский: пол, род
+English: sex, gender
+
+Frases en alemán usando esta palabra:
+
+- Das Geschlecht eines Menschen ist nicht immer gleich seinem biologischen Geschlecht. (The gender of a person is not always the same as their biological sex.)
+- Er hat sein Geschlecht in den offiziellen Dokumenten ändern lassen. (He had his gender changed in the official documents.)
+- Die Gleichberechtigung der Geschlechter ist ein wichtiges Thema in unserer Gesellschaft. (Gender equality is an important issue in our society.)
+'''
+die Geschwister, B1
+Español: los hermanos
+Русский: братья и сестры
+English: the siblings
+
+- Ich habe zwei Geschwister: einen Bruder und eine Schwester.
+- Als wir Kinder waren, haben meine Geschwister und ich oft im Garten gespielt.
+- Meine Geschwister sind schon ausgezogen, aber wir halten noch Kontakt.
+'''
+das Gesicht, - er B1
+Español: la cara, las caras
+Русский: лицо, лица
+English: face, faces
+
+- Er hat ein freundliches Gesicht. (He has a friendly face.)
+- Sie wusch sich das Gesicht und zog sich an. (She washed her face and got dressed.)
+- Er hat mir ins Gesicht gelogen. (He lied to me in the face.)
+'''
+gleichaltrig, B1
+Español: de la misma edad
+Русский: ровесник
+English: same-aged
+
+Frases en alemán usando esta palabra:
+
+- Meine Schwester ist **gleichaltrig** mit mir. (Mi hermana tiene la misma edad que yo.)
+- Er hat viele **gleichaltrige** Freunde in der Schule. (Él tiene muchos amigos de la misma edad en la escuela.)
+- Sie hat sich mit einem **gleichaltrigen** Mann verlobt. (Ella se ha comprometido con un hombre de la misma edad.)
+'''
+gründlich, B1
+Español: minucioso, exhaustivo
+Русский: тщательный, глубокий
+English: thorough, profound
+
+- Er macht seine Arbeit immer sehr gründlich. (He always does his work very thoroughly.)
+- Sie hat die Wohnung gründlich geputzt, bevor die Gäste kamen. (She cleaned the apartment thoroughly before the guests arrived.)
+- Ich habe das Buch gründlich gelesen und viele Notizen gemacht. (I read the book thoroughly and made a lot of notes.)
+'''
+kräftig, B1
+Español: fuerte, vigoroso, potente
+Русский: сильный, крепкий, мощный
+English: strong, powerful, vigorous
+
+Frases en alemán usando kräftig:
+
+- Er ist sehr kräftig und kann schwere Sachen heben. (Él es muy fuerte y puede levantar cosas pesadas.)
+- Sie hat kräftig in die Suppe gerührt. (Ella revolvió vigorosamente la sopa.)
+- Das Auto hat einen kräftigen Motor. (El coche tiene un motor potente.)
+'''
+mager, B1
+Español: flaco, delgado
+Русский: худой, тощий
+English: skinny, thin
+
+- Er ist sehr mager, er sollte mehr essen.
+(Él es muy flaco, debería comer más.)
+- Sie war früher mager, aber jetzt hat sie zugenommen.
+(Ella era flaca antes, pero ahora ha engordado.)
+- Ich habe abgenommen und bin mager geworden.
+(He perdido peso y me he vuelto delgado.)
+'''
+männlich, B1
+Español: masculino
+Русский: мужской
+English: male
+
+- Das ist ein männlicher Löwe. (That is a male lion.)
+- Er war sehr männlich und stark. (He was very masculine and strong.)
+- Sie hat einen männlichen Namen. (She has a male name.)
+'''
+neugierig, B1
+Español: curioso
+Русский: любопытный
+English: curious
+
+Frases en alemán usando neugierig:
+
+- Ich bin **neugierig**, was du mir zum Geburtstag schenkst. (I am curious what you will give me for my birthday.)
+- Er war **neugierig** auf die Geschichte seines Großvaters und fragte ihn viele Dinge. (He was curious about his grandfather's history and asked him many things.)
+- Sie hat **neugierig** das Buch geöffnet und angefangen zu lesen. (She opened the book curiously and started to read.)
+'''
+die Partnerschaft, -en B1
+Español: la asociación, la pareja
+Русский: партнерство, супружество
+English: partnership, marriage
+- Die Partnerschaft zwischen den beiden Ländern ist sehr wichtig für den Frieden in der Region. (The partnership between the two countries is very important for the peace in the region.)
+- Sie haben ihre Partnerschaft nach zehn Jahren beendet. (They ended their partnership after ten years.)
+- Er hat eine glückliche Partnerschaft mit seiner Frau. (He has a happy partnership with his wife.)
+'''
+die Person, -en B1
+Español: la persona
+Русский: человек
+English: the person
+
+- Ich bin eine **Person**, die gerne liest. (I am a person who likes to read.)
+- Er war eine sehr freundliche **Person**. (He was a very friendly person.)
+- Hast du die **Person** gesehen, die hier vorbeigelaufen ist? (Did you see the person who ran past here?)
+'''
+die Personalien, B1
+Español: los datos personales
+Русский: личные данные
+English: personal details
+
+- Ich muss meine Personalien angeben, um mich anzumelden.
+  - I have to provide my personal details to register.
+- Die Polizei hat die Personalien des Verdächtigen überprüft.
+  - The police checked the personal details of the suspect.
+- Hast du deine Personalien schon aktualisiert?
+  - Have you updated your personal details yet?
+'''
+persönlich, B1
+Español: personal
+Русский: личный
+English: personal
+
+Beispiele:
+- Ich möchte dir etwas **Persönliches** erzählen. (I want to tell you something personal.)
+- Er hat seine **persönliche** Meinung geäußert. (He expressed his personal opinion.)
+- Sie hat mich **persönlich** angerufen. (She called me personally.)
+'''
+scheu, B1
+Español: tímido, vergonzoso
+Русский: застенчивый, робкий
+English: shy, timid
+
+- Er ist sehr scheu und spricht nicht gerne mit Fremden.
+(Él es muy tímido y no le gusta hablar con extraños.)
+- Als Kind war sie immer scheu, aber jetzt ist sie selbstbewusst und mutig.
+(Cuando era niña, siempre era vergonzosa, pero ahora es segura de sí misma y valiente.)
+- Er hat sich scheu hinter seiner Mutter versteckt, als der Lehrer ihn gefragt hat.
+(Él se escondió tímidamente detrás de su madre cuando el profesor le preguntó.)
+'''
+die Seele, -n B1
+Español: el alma
+Русский: душа
+English: the soul
+
+- Die Seele ist der immaterielle Teil des Menschen, der nach dem Tod weiterlebt. (The soul is the immaterial part of the human being that lives on after death.)
+- Er hat eine schöne Seele und ist immer freundlich zu allen. (He has a beautiful soul and is always friendly to everyone.)
+- Sie hat ihre Seele an den Teufel verkauft, um berühmt zu werden. (She sold her soul to the devil to become famous.)
+'''
+Aquí está la información de las palabras que me has escrito:
+
+der Stolz (kein Plural) B1
+Español: el orgullo
+Русский: гордость
+English: pride
+Ejemplos:
+- Er ist sehr **stolz** auf seine Tochter. (Él está muy **orgulloso** de su hija.)
+- Sie hat ihren **Stolz** verloren. (Ella ha perdido su **orgullo**.)
+- Er hat keinen **Stolz** mehr. (Él ya no tiene **orgullo**.)
+
+die Treue (kein Plural) B1
+Español: la fidelidad
+Русский: верность
+English: loyalty
+Ejemplos:
+- Sie schworen sich ewige **Treue**. (Ellos se juraron **fidelidad** eterna.)
+- Er hat ihre **Treue** missbraucht. (Él ha abusado de su **lealtad**.)
+- Sie hat ihm immer die **Treue** gehalten. (Ella siempre le ha sido **fiel**.)
+'''
+der Typ, - en B1
+Español: el tipo, el chico
+Русский: тип, парень
+English: the guy, the boy
+
+- Er ist ein netter Typ, aber er redet zu viel. (He is a nice guy, but he talks too much.)
+- Was für ein Typ bist du? (What kind of guy are you?)
+- Ich habe gestern einen neuen Typen kennengelernt. (I met a new guy yesterday.)
+'''
+die Visitenkarte, -n B1
+Español: la tarjeta de visita
+Русский: визитная карточка
+English: the business card
+
+- Ich habe meine Visitenkarte in der Tasche vergessen. (I forgot my business card in the bag.)
+- Er gab ihr seine Visitenkarte und lächelte. (He gave her his business card and smiled.)
+- Hast du die Visitenkarten von den Kunden gesammelt? (Did you collect the business cards from the customers?)
+'''
+weiblich, B1
+Español: femenino
+Русский: женский
+English: female
+
+- Das weibliche Geschlecht ist in vielen Sprachen durch ein Suffix gekennzeichnet. (The female gender is marked by a suffix in many languages.)
+- Die weibliche Katze heißt Katze, der männliche Kater. (The female cat is called cat, the male tomcat.)
+- Er hat eine weibliche Stimme imitiert, um uns zu täuschen. (He imitated a female voice to deceive us.)
+'''
+weitergeben, B1
+Español: transmitir, pasar
+Русский: передавать, распространять
+English: pass on, spread
+
+Beispiele:
+- Er hat die Nachricht an seine Freunde **weitergegeben**. (He passed on the message to his friends.)
+- Die Lehrerin hat die Tests an die Schüler **weitergegeben**. (The teacher handed out the tests to the students.)
+- Die Krankheit kann durch Tröpfcheninfektion **weitergegeben** werden. (The disease can be spread by droplet infection.)
+'''
+zärtlich, B1
+Español: tierno, cariñoso
+Русский: нежный, ласковый
+English: tender, affectionate
+
+Frases en alemán usando zärtlich:
+
+- Er küsste sie zärtlich auf die Wange. (He kissed her tenderly on the cheek.)
+- Sie ist sehr zärtlich zu ihrem Hund. (She is very affectionate to her dog.)
+- Er hat ihr zärtlich die Hand gehalten. (He held her hand tenderly.)
+'''
+die Zufriedenheit, B1
+Español: la satisfacción
+Русский: удовлетворенность
+English: satisfaction
+
+- Er hat seine Arbeit mit großer Zufriedenheit erledigt. (He did his work with great satisfaction.)
+- Sie war sehr zufrieden mit ihrem Geschenk. (She was very satisfied with her gift.)
+- Ich habe meine Zufriedenheit zum Ausdruck gebracht. (I expressed my satisfaction.)
+'''
+der Anspruch, - ¨e B2
+Español: la exigencia, el derecho
+Русский: требование, право
+English: the demand, the right
+
+Frases en alemán usando esta palabra:
+
+- Er hat hohe **Ansprüche** an sich selbst. (Él tiene altas exigencias para sí mismo.)
+- Sie hat keinen **Anspruch** auf eine Rente. (Ella no tiene derecho a una pensión.)
+- Hast du deine **Ansprüche** geltend gemacht? (¿Has reclamado tus derechos?)
+'''
+anstreben B2
+Español: aspirar, pretender
+Русский: стремиться, добиваться
+English: strive, aim
+
+Frases en alemán usando anstreben:
+
+- Er strebt eine Karriere als Schriftsteller an. (Él aspira a una carrera como escritor.)
+- Sie strebte immer danach, die Beste zu sein. (Ella siempre pretendía ser la mejor.)
+- Wir haben es angestrebt, das Projekt rechtzeitig zu beenden. (Nosotros hemos intentado terminar el proyecto a tiempo.)
+'''
+benötigen, B2
+Español: necesitar
+Русский: нуждаться
+English: need
+
+- Ich **benötige** deine Hilfe bei dieser Aufgabe. (I need your help with this task.)
+- Er **benötigte** viel Zeit, um sich zu erholen. (He needed a lot of time to recover.)
+- Sie haben das Buch nicht **benötigt**. (They have not needed the book.)
+'''
+die Bereitschaft, - en B2
+Español: la disposición, la voluntad
+Русский: готовность, дежурство
+English: readiness, willingness, duty
+
+- Ich habe die Bereitschaft, dir zu helfen. (I have the willingness to help you.)
+- Er war in der Bereitschaft, als der Notfall passierte. (He was on duty when the emergency happened.)
+- Sie haben ihre Bereitschaft zum Dialog gezeigt. (They have shown their readiness for dialogue.)
+'''
+die Dame, -n B2
+Español: la dama, las damas
+Русский: дама, дамы
+English: the lady, the ladies
+
+- Die Dame an der Rezeption war sehr freundlich. (The lady at the reception was very friendly.)
+- Er erinnerte sich an die Dame, die er gestern getroffen hatte. (He remembered the lady he had met yesterday.)
+- Er hat die Dame zum Tanz aufgefordert. (He asked the lady to dance.)
+'''
+die Fähigkeit, - en B2
+Español: la habilidad
+Русский: способность
+English: the ability
+
+- Er hat die Fähigkeit, schnell zu lernen. (He has the ability to learn quickly.)
+- Sie zeigte ihre Fähigkeit, Klavier zu spielen. (She showed her ability to play the piano.)
+- Hast du die Fähigkeit, dieses Problem zu lösen? (Have you the ability to solve this problem?)
+'''
+der Gatte, -n / die Gattin, -nen B2
+Español: el esposo, -s / la esposa, -s
+Русский: муж, -ья / жена, -ы
+English: the husband, -s / the wife, -s
+
+Tres frases en alemán usando esta palabra son:
+
+- Mein Gatte ist Arzt und meine Gattin ist Lehrerin. (Mi esposo es médico y mi esposa es profesora.)
+- Sie haben ihren Gatten vor einem Jahr verloren. (Ella perdió a su esposo hace un año.)
+- Er hat seiner Gattin einen Ring zum Geburtstag geschenkt. (Él le regaló un anillo a su esposa por su cumpleaños.)
+'''
+gepflegt, B2
+Español: cuidado, aseado, pulcro
+Русский: ухоженный, опрятный, аккуратный
+English: well-groomed, neat, tidy
+
+Frases en alemán usando la palabra gepflegt:
+
+- Er hat immer ein gepflegtes Aussehen. (Él siempre tiene un aspecto cuidado.)
+- Sie pflegt ihre Haare mit natürlichen Produkten. (Ella cuida su cabello con productos naturales.)
+- Wir haben gestern Abend gepflegt gegessen. (Ayer por la noche comimos de forma elegante.)
+'''
+lesbisch, B2
+Español: lesbiana
+Русский: лесбиянка
+English: lesbian
+'''
+der Neffe, -n B2
+Español: el sobrino
+Русский: племянник
+English: the nephew
+
+Frases en alemán usando esta palabra:
+
+- Mein **Neffe** ist sehr klug und lernt gerne neue Sprachen. (Mi sobrino es muy inteligente y le gusta aprender nuevos idiomas.)
+- Gestern hat mein **Neffe** mir einen Brief geschrieben, in dem er mir von seiner Reise nach Frankreich erzählte. (Ayer mi sobrino me escribió una carta en la que me contaba su viaje a Francia.)
+- Ich habe meinen **Neffen** schon lange nicht mehr gesehen, aber ich habe gehört, dass er einen guten Job gefunden hat. (No he visto a mi sobrino desde hace mucho tiempo, pero he oído que ha encontrado un buen trabajo.)
+'''
+die Nichte, -n B2
+Español: la sobrina
+Русский: племянница
+English: the niece
+
+- Meine **Nichte** ist sehr klug und studiert Medizin. (My niece is very smart and studies medicine.)
+- Als ich klein war, habe ich oft mit meiner **Nichte** gespielt. (When I was little, I often played with my niece.)
+- Ich habe meiner **Nichte** zum Geburtstag ein Buch geschenkt. (I gave my niece a book for her birthday.)
+'''
+partnerschaftlich, B2
+Español: de forma asociativa, cooperativa
+Русский: партнерский, совместный
+English: partnership-based, cooperative
+
+Algunas frases en alemán usando esta palabra son:
+
+- Die beiden Länder arbeiten partnerschaftlich zusammen. (Los dos países trabajan de forma asociativa.)
+- Er hat eine partnerschaftliche Beziehung zu seiner Frau. (Él tiene una relación cooperativa con su esposa.)
+- Sie haben das Projekt partnerschaftlich abgeschlossen. (Ellos han terminado el proyecto de forma conjunta.)
+'''
+schwul, B2
+Español: homosexual
+Русский: гомосексуальный
+English: gay
+
+- Er ist schwul und hat einen Freund. (He is gay and has a boyfriend.)
+- Sie war früher mit einem Mann verheiratet, aber dann hat sie gemerkt, dass sie schwul ist. (She was married to a man before, but then she realized that she is gay.)
+- Er hat sich gestern bei seinen Eltern als schwul geoutet. (He came out as gay to his parents yesterday.)
+'''
+das Selbstverständnis, - se B2
+Español: la autoconciencia, la identidad
+Русский: самосознание, идентичность
+English: self-awareness, identity
+
+- Ich habe mein Selbstverständnis als Schriftstellerin gefunden. (I have found my identity as a writer.)
+- Er hatte kein Selbstverständnis für seine Fehler. (He had no self-awareness of his mistakes.)
+- Sie haben ihr Selbstverständnis durch die Erfahrungen geprägt. (They have shaped their identity through the experiences.)
+'''
+das Sorgenkind, - er B2
+Español: el niño problema
+Русский: проблемный ребенок
+English: the problem child
+
+- Er ist das Sorgenkind der Familie. (He is the problem child of the family.)
+- Als Sorgenkind galt früher die Wirtschaft. (The economy used to be considered a problem child.)
+- Sie hat ihr Sorgenkind an eine Pflegefamilie abgegeben. (She gave her problem child to a foster family.)
+'''
+das Temperament, -e B2
+Español: el temperamento
+Русский: темперамент
+English: the temperament
+
+- Er hat ein sehr lebhaftes Temperament. (He has a very lively temperament.)
+- Sie war immer ruhig und ausgeglichen, aber im Alter änderte sich ihr Temperament. (She was always calm and balanced, but in old age her temperament changed.)
+- Er hat sein Temperament nicht unter Kontrolle und schreit oft. (He doesn't have his temperament under control and often shouts.)
+'''
+ticken, B2
+Español: hacer tic-tac
+Русский: тикать
+English: tick
+
+- Die Uhr tickt laut. (The clock ticks loudly.)
+- Er tickte die Antwort auf seinem Computer an. (He ticked the answer on his computer.)
+- Die Bombe hat schon getickt, als sie gefunden wurde. (The bomb had already ticked when it was found.)
+'''
+träge, B2
+Español: perezoso, lento
+Русский: ленивый, медленный
+English: lazy, slow
+
+- Er ist sehr träge und macht nie seine Hausaufgaben. (He is very lazy and never does his homework.)
+- Die Schildkröte bewegte sich träge über den Rasen. (The turtle moved slowly across the lawn.)
+- Sie hat sich von ihrer träge gewordenen Katze verabschiedet. (She said goodbye to her cat that had become sluggish.)
+'''
+die Verwandtschaft, - en B2
+Español: el parentesco
+Русский: родство
+English: the kinship
+
+- Ich habe eine große Verwandtschaft, die überall in Deutschland lebt.
+- Als er nach Amerika auswanderte, verlor er den Kontakt zu seiner Verwandtschaft.
+- Hast du deine Verwandtschaft zum Geburtstag eingeladen?
+'''
+der Vetter, -n B2
+Español: el primo
+Русский: двоюродный брат
+English: the cousin
+
+- Mein Vetter wohnt in Berlin und arbeitet als Lehrer. (My cousin lives in Berlin and works as a teacher.)
+- Als ich klein war, habe ich oft mit meinem Vetter gespielt. (When I was little, I often played with my cousin.)
+- Ich habe meinen Vetter gestern besucht und wir haben viel geredet. (I visited my cousin yesterday and we talked a lot.)
+'''
+das Wesen, - B2
+Español: el ser, la esencia, la criatura
+Русский: существо, сущность, создание
+English: the being, the essence, the creature
+
+- Das Wesen der Kunst ist schwer zu definieren. (The essence of art is hard to define.)
+- Er ist ein freundliches Wesen, das allen helfen will. (He is a friendly being who wants to help everyone.)
+- Sie haben ein seltsames Wesen im Wald gefunden. (They found a strange creature in the forest.)
+'''
+anhaben, C1
+Español: llevar puesto
+Русский: носить
+English: wear
+
+- Er hat einen schwarzen Anzug und eine rote Krawatte an.
+(He is wearing a black suit and a red tie.)
+- Sie hatte ein schönes Kleid an, als ich sie gestern sah.
+(She was wearing a nice dress when I saw her yesterday.)
+- Was hast du heute angehabt?
+(What did you wear today?)

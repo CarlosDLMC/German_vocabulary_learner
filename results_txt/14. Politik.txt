@@ -1,0 +1,856 @@
+'''
+das Bundesland, -¨er A2
+Español: estado federal
+Русский: федеральная земля
+English: federal state
+
+- Deutschland besteht aus 16 Bundesländern. (Germany consists of 16 federal states.)
+- Das Bundesland Bayern hat die größte Fläche in Deutschland. (The federal state of Bavaria has the largest area in Germany.)
+- Ich bin in dem Bundesland Hessen geboren und aufgewachsen. (I was born and raised in the federal state of Hesse.)
+'''
+die Demokratie, -n A2
+Español: la democracia
+Русский: демократия
+English: democracy
+
+- Die Demokratie ist eine Staatsform, in der die Macht vom Volk ausgeht.
+- Im alten Griechenland wurde die Demokratie erfunden.
+- Deutschland ist seit 1949 eine parlamentarische Demokratie.
+'''
+demokratisch, A2
+Español: democrático
+Русский: демократический
+English: democratic
+
+Beispiele:
+- Die Schweiz ist ein **demokratisches** Land mit direkter Demokratie.
+- Er hat sich immer für **demokratische** Werte eingesetzt.
+- Die Partei wurde bei den letzten Wahlen **demokratisch** gewählt.
+
+die Demonstration, -en, A2
+Español: la manifestación
+Русский: демонстрация
+English: the demonstration
+
+Beispiele:
+- Die Menschen gingen auf die Straße, um gegen die Regierung zu **demonstrieren**.
+- Die Polizei löste die **Demonstration** mit Gewalt auf.
+- Er hat an vielen **Demonstrationen** für den Frieden teilgenommen.
+'''
+demonstrieren A2
+Español: demostrar
+Русский: демонстрировать
+English: demonstrate
+
+Frases en alemán usando la palabra demonstrieren:
+
+- Die Schüler demonstrieren gegen die Klimapolitik der Regierung. (Los estudiantes se manifiestan contra la política climática del gobierno.)
+- Er demonstrierte gestern, wie man einen Kuchen backt. (Él demostró ayer cómo hacer un pastel.)
+- Sie hat mir demonstriert, dass sie mich liebt. (Ella me ha demostrado que me ama.)
+'''
+europäisch, A2
+Español: europeo
+Русский: европейский
+English: European
+
+- Ich bin europäisch und ich spreche vier Sprachen. (I am European and I speak four languages.)
+- Er war europäisch, aber er lebte in Asien. (He was European, but he lived in Asia.)
+- Sie haben europäisch studiert und sind jetzt Experten für die Europäische Union. (They have studied European and are now experts on the European Union.)
+'''
+die Hauptstadt, - ¨e A2
+Español: la capital
+Русский: столица
+English: the capital
+
+- Berlin ist die **Hauptstadt** von Deutschland. (Berlin is the capital of Germany.)
+- Im Jahr 1871 wurde Berlin zur **Hauptstadt** des Deutschen Reiches. (In 1871, Berlin became the capital of the German Empire.)
+- Ich habe viele **Hauptstädte** in Europa besucht. (I have visited many capitals in Europe.)
+'''
+kontrollieren, A2
+Español: controlar
+Русский: контролировать
+English: control
+
+- Ich kontrolliere meine Hausaufgaben, bevor ich sie abgebe.
+- Er kontrollierte gestern die Rechnungen im Büro.
+- Hast du schon deine E-Mails kontrolliert?
+'''
+das Ministerium, die Ministerien A2
+Español: el ministerio, los ministerios
+Русский: министерство, министерства
+English: the ministry, the ministries
+
+- Das Ministerium für Bildung und Forschung fördert innovative Projekte.
+  - The Ministry of Education and Research supports innovative projects.
+- Die Ministerien arbeiteten eng zusammen, um die Krise zu bewältigen.
+  - The ministries worked closely together to overcome the crisis.
+- Er war früher im Außenministerium tätig.
+  - He used to work in the Foreign Ministry.
+'''
+das Parlament, -e A2
+Español: el parlamento
+Русский: парламент
+English: the parliament
+
+- Das Parlament **besteht** aus zwei Kammern: dem Bundestag und dem Bundesrat. (The parliament **consists** of two chambers: the Bundestag and the Bundesrat.)
+- Im Jahr 1933 **löste** Hitler das Parlament **auf** und errichtete eine Diktatur. (In 1933, Hitler **dissolved** the parliament and established a dictatorship.)
+- Die Abgeordneten haben gestern im Parlament **abgestimmt**. (The deputies **voted** yesterday in the parliament.)
+'''
+die Partei, - en A2
+Español: el partido (político)
+Русский: партия (политическая)
+English: the party (political)
+
+Frases en alemán usando esta palabra:
+
+- Er ist Mitglied einer **Partei**, die für Umweltschutz eintritt. (Él es miembro de un partido que aboga por la protección del medio ambiente.)
+- Die **Partei** gewann die Wahl mit einer knappen Mehrheit. (El partido ganó las elecciones con una estrecha mayoría.)
+- Sie hat sich von ihrer **Partei** abgewandt, weil sie mit ihrer Politik nicht einverstanden war. (Ella se alejó de su partido porque no estaba de acuerdo con su política.)
+'''
+die Politik, A2
+Español: la política
+Русский: политика
+English: politics
+
+- Ich interessiere mich sehr für **die Politik** in meinem Land. (I am very interested in **politics** in my country.)
+- Gestern haben wir über **die Politik** der Europäischen Union gesprochen. (Yesterday we talked about **the politics** of the European Union.)
+- Hast du schon gehört, dass **die Politik** sich geändert hat? (Have you heard that **the politics** have changed?)
+'''
+der Politiker, - / die Politikerin, -nen A2
+Español: el político, - / la política, -s
+Русский: политик, - / политик, -и
+English: the politician, - / the politician, -s
+
+Frases en alemán usando esta palabra:
+
+- Der Politiker hat eine Rede im Parlament gehalten. (The politician gave a speech in parliament.)
+- Die Politikerin war früher Lehrerin. (The politician used to be a teacher.)
+- Er hat viele Politiker und Politikerinnen getroffen, als er in Berlin war. (He met many politicians when he was in Berlin.)
+'''
+politisch, A2
+Español: político, política
+Русский: политический, политическая
+English: political
+
+- Die politische Situation in dem Land ist sehr kompliziert. (The political situation in the country is very complicated.)
+- Er war politisch aktiv, als er jung war. (He was politically active when he was young.)
+- Sie hat sich politisch engagiert und ist in eine Partei eingetreten. (She got politically involved and joined a party.)
+'''
+der Präsident, - en A2
+Español: el presidente
+Русский: президент
+English: the president
+
+- Der Präsident **hält** eine Rede an die Nation. (The president **gives** a speech to the nation.)
+- Der Präsident **hielt** gestern einen Gipfel mit dem Premierminister ab. (The president **held** a summit with the prime minister yesterday.)
+- Der Präsident **hat** viele wichtige Entscheidungen getroffen. (The president **has** made many important decisions.)
+'''
+die Rede, -n A2
+Español: el discurso
+Русский: речь
+English: the speech
+
+- Der Präsident hält eine Rede über die Wirtschaftskrise. (The president gives a speech about the economic crisis.)
+- Er hielt eine lange Rede, die niemanden interessierte. (He gave a long speech that nobody was interested in.)
+- Sie hat gestern eine tolle Rede gehalten und viel Applaus bekommen. (She gave a great speech yesterday and got a lot of applause.)
+'''
+die Reform, - en A2
+Español: la reforma
+Русский: реформа
+English: the reform
+
+- Die Regierung plant eine Reform des Gesundheitssystems. (The government plans a reform of the health system.)
+- Nach der Revolution gab es viele Reformen in dem Land. (After the revolution, there were many reforms in the country.)
+- Die Reform hat das Leben der Menschen verbessert. (The reform has improved the lives of the people.)
+'''
+reformieren, A2
+Español: reformar
+Русский: реформировать
+English: reform
+
+- Die Regierung will das Gesundheitssystem reformieren. (The government wants to reform the health system.)
+- Er reformierte die Kirche im 16. Jahrhundert. (He reformed the church in the 16th century.)
+- Sie haben ihre Wohnung komplett reformiert. (They have completely reformed their apartment.)
+'''
+wählen, A2
+Español: elegir, votar
+Русский: выбирать, голосовать
+English: choose, vote
+
+Frases en alemán usando wählen:
+
+- Ich **wähle** ein rotes Kleid für die Party. (I choose a red dress for the party.)
+- Gestern **wählten** die Bürger einen neuen Präsidenten. (Yesterday the citizens voted for a new president.)
+- Hast du schon **gewählt**, was du studieren willst? (Have you already chosen what you want to study?)
+'''
+abstimmen, B1
+Español: votar, decidir, afinar
+Русский: голосовать, согласовывать, настраивать
+English: vote, agree, tune
+
+Frases en alemán usando abstimmen:
+
+- Die Bürger können heute über das neue Gesetz **abstimmen**. (The citizens can vote on the new law today.)
+- Wir müssen die Details noch mit dem Kunden **abstimmen**. (We still have to agree on the details with the customer.)
+- Er hat seine Gitarre vor dem Konzert **abgestimmt**. (He tuned his guitar before the concert.)
+'''
+die Abstimmung, - en B1
+Español: la votación
+Русский: голосование
+English: the vote
+
+Frases en alemán usando esta palabra:
+
+- Die Abstimmung über den Gesetzentwurf findet morgen statt. (The vote on the bill will take place tomorrow.)
+- Er hat bei der Abstimmung mit Nein gestimmt. (He voted no in the vote.)
+- Hast du schon an der Abstimmung teilgenommen? (Have you already participated in the vote?)
+'''
+die Armee, -n B1
+Español: el ejército
+Русский: армия
+English: the army
+
+- Die Armee ist für die Verteidigung des Landes zuständig. (The army is responsible for the defense of the country.)
+- Im Mittelalter kämpften die Armeen mit Schwertern und Pfeilen. (In the Middle Ages, the armies fought with swords and arrows.)
+- Er hat in der Armee gedient und viele Länder bereist. (He served in the army and traveled to many countries.)
+'''
+das Asyl, -e B1
+Español: el asilo
+Русский: убежище
+English: the asylum
+- Er hat in Deutschland **Asyl** beantragt. (He applied for **asylum** in Germany.)
+- Die Regierung gewährte ihr **Asyl**, weil sie in ihrem Heimatland verfolgt wurde. (The government granted her **asylum** because she was persecuted in her home country.)
+- Sie haben ihr **Asyl** verweigert und sie abgeschoben. (They denied her **asylum** and deported her.)
+'''
+der Bundesbürger, - B1
+Español: el ciudadano federal
+Русский: федеральный гражданин
+English: the federal citizen
+
+Frases en alemán usando esta palabra:
+
+- Der Bundesbürger hat das Recht, an der Bundestagswahl teilzunehmen. (El ciudadano federal tiene el derecho de participar en las elecciones federales.)
+- Im Jahr 2019 lebten rund 83 Millionen Bundesbürger in Deutschland. (En el año 2019, vivían alrededor de 83 millones de ciudadanos federales en Alemania.)
+- Die Bundesbürger sind mit der Regierung unzufrieden. (Los ciudadanos federales están insatisfechos con el gobierno.)
+'''
+die Bundesregierung, - en B1
+Español: el gobierno federal
+Русский: федеральное правительство
+English: the federal government
+
+- Die Bundesregierung **besteht** aus der Bundeskanzlerin und den Bundesministern. (The federal government **consists** of the Federal Chancellor and the Federal Ministers.)
+- Die Bundesregierung **beschloss** gestern ein neues Gesetz zur Bekämpfung des Klimawandels. (The federal government **decided** yesterday on a new law to combat climate change.)
+- Die Bundesregierung **hat** in den letzten Jahren viele Reformen **durchgeführt**. (The federal government **has** **carried out** many reforms in recent years.)
+'''
+durchsetzen, B1
+Español: imponer, hacer valer
+Русский: проталкивать, настаивать
+English: enforce, assert
+
+- Er hat sich gegen seine Konkurrenten durchgesetzt. (He asserted himself against his competitors.)
+- Sie setzte ihre Idee trotz aller Widerstände durch. (She enforced her idea despite all the resistance.)
+- Er hat sich in der Schule immer durchgesetzt. (He has always asserted himself at school.)
+'''
+der Einfluss, - ¨e B1
+Español: la influencia
+Русский: влияние
+English: influence
+
+Frases en alemán usando esta palabra:
+
+- Der Einfluss der Medien auf die öffentliche Meinung ist enorm. (The influence of the media on public opinion is enormous.)
+- Er hatte einen großen Einfluss auf die Entwicklung der Musik. (He had a great influence on the development of music.)
+- Sie hat sich von seinem Einfluss befreit. (She freed herself from his influence.)
+'''
+eintreten in A B1
+Español: entrar en A
+Русский: вступать в A
+English: enter into A
+
+Tres frases en alemán usando esta palabra son:
+
+- Er ist in die Partei eingetreten, um Politik zu machen. (Él entró en el partido para hacer política.)
+- Sie trat in das Zimmer ein und sah ihn an. (Ella entró en la habitación y lo miró.)
+- Er hat in die Firma eingetreten, nachdem er sein Studium beendet hatte. (Él entró en la empresa después de terminar sus estudios.)
+'''
+sich entscheiden für A /gegen A B1
+Español: decidirse por A /contra A
+Русский: решиться на A /против A
+English: decide for A /against A
+
+Frases en alemán usando esta palabra:
+
+- Er hat sich **für** die Universität **entschieden**, weil sie einen guten Ruf hat. (He decided **for** the university because it has a good reputation.)
+- Sie hat sich **gegen** den Job **entschieden**, weil er zu stressig war. (She decided **against** the job because it was too stressful.)
+- Hast du dich schon **für** einen Urlaubsort **entschieden**? (Have you already decided **for** a vacation destination?)
+'''
+die Entscheidung, - en B1
+Español: la decisión
+Русский: решение
+English: decision
+
+Ejemplos:
+
+- Ich muss eine **Entscheidung** treffen. (Tengo que tomar una decisión.)
+- Er traf eine falsche **Entscheidung** und bereute es später. (Él tomó una mala decisión y se arrepintió más tarde.)
+- Hast du schon eine **Entscheidung** getroffen? (¿Ya has tomado una decisión?)
+'''
+die EU, B1
+Español: la Unión Europea
+Русский: Европейский союз
+English: the European Union
+
+- Die EU ist eine politische und wirtschaftliche Gemeinschaft von 27 Mitgliedstaaten in Europa.
+- Im Jahr 2012 erhielt die EU den Friedensnobelpreis für ihre Bemühungen um Frieden, Demokratie und Menschenrechte.
+- Seit dem Brexit ist das Vereinigte Königreich nicht mehr Teil der EU.
+'''
+fassen, B1
+Español: agarrar, sujetar, capturar
+Русский: хватать, схватить, захватить
+English: grasp, seize, capture
+
+Frases en alemán usando fassen:
+
+- Er fasst ihre Hand und lächelt. (Él agarra su mano y sonríe.)
+- Die Polizei hat den Dieb gefasst. (La policía capturó al ladrón.)
+- Sie hat den Stoff nicht richtig gefasst. (Ella no sujetó bien la tela.)
+'''
+der Friede, - en B1
+Español: la paz
+Русский: мир
+English: peace
+
+- Der Friede ist ein kostbares Gut, das wir schätzen müssen.
+(Peace is a precious good that we must appreciate.)
+- Im Jahr 1918 wurde der Friedensvertrag von Versailles unterzeichnet, der den Ersten Weltkrieg beendete.
+(In 1918, the Treaty of Versailles was signed, which ended the First World War.)
+- Die beiden Länder haben nach langen Verhandlungen endlich Frieden geschlossen.
+(The two countries have finally made peace after long negotiations.)
+'''
+der Führer, - / die Führerin, -nen B1
+Español: el líder / la líder
+Русский: лидер / лидерша
+English: the leader / the female leader
+
+- Er ist der Führer der Oppositionspartei. (He is the leader of the opposition party.)
+- Sie war eine berühmte Führerin der Frauenbewegung. (She was a famous leader of the women's movement.)
+- Die Gruppe hat einen neuen Führer gewählt. (The group has elected a new leader.)
+'''
+die Geschichte, B1
+Español: la historia
+Русский: история
+English: history
+
+- Ich interessiere mich sehr für **die Geschichte** Deutschlands.
+- Er hat uns eine spannende **Geschichte** erzählt.
+- Sie hat **die Geschichte** studiert und arbeitet jetzt als Lehrerin.
+'''
+der Kandidat, - en B1
+Español: el candidato
+Русский: кандидат
+English: the candidate
+
+- Der Kandidat **stellt** sich den Fragen der Jury. (The candidate **answers** the questions of the jury.)
+- Der Kandidat **stellte** sich als Experte für Umweltfragen vor. (The candidate **presented** himself as an expert on environmental issues.)
+- Der Kandidat **hat** die Prüfung bestanden. (The candidate **has** passed the exam.)
+'''
+der Kanzler, - in B1
+Español: el canciller
+Русский: канцлер
+English: the chancellor
+
+Frases en alemán usando esta palabra:
+
+- Der Kanzler **spricht** heute mit dem Präsidenten. (The chancellor **speaks** with the president today.)
+- Der Kanzler **sprach** gestern mit den Medien. (The chancellor **spoke** with the media yesterday.)
+- Der Kanzler hat die Wahl **gewonnen**. (The chancellor has **won** the election.)
+'''
+die Kommission, - en B1
+Español: la comisión
+Русский: комиссия
+English: the commission
+
+- Die Kommission hat einen Bericht über die Lage in dem Land veröffentlicht.
+  - The commission has published a report on the situation in the country.
+- Die Kommission ermittelte gegen den korrupten Politiker.
+  - The commission investigated the corrupt politician.
+- Die Kommission hat ihre Arbeit erfolgreich abgeschlossen.
+  - The commission has successfully completed its work.
+'''
+der Kommunismus, B1
+Español: el comunismo
+Русский: коммунизм
+English: communism
+
+Frases en alemán usando esta palabra:
+
+- Der Kommunismus ist eine politische Ideologie, die eine klassenlose und egalitäre Gesellschaft anstrebt.
+- In der Sowjetunion herrschte bis 1991 der Kommunismus.
+- Viele Menschen glauben nicht, dass der Kommunismus in der Praxis funktionieren kann.
+'''
+kommunistisch, B1
+Español: comunista
+Русский: коммунистический
+English: communist
+
+- Er ist ein **kommunistischer** Politiker und Aktivist.
+(He is a communist politician and activist.)
+- Die DDR war eine **kommunistische** Diktatur unter der Führung der SED.
+(The GDR was a communist dictatorship under the leadership of the SED.)
+- Nach dem Fall der Berliner Mauer haben viele Menschen die **kommunistische** Ideologie abgelehnt.
+(After the fall of the Berlin Wall, many people rejected the communist ideology.)
+'''
+der Kompromiss, -e B1
+Español: el compromiso
+Русский: компромисс
+English: the compromise
+
+Frases en alemán usando esta palabra:
+
+- Die beiden Parteien haben einen **Kompromiss** gefunden, um den Streit zu beenden.
+(Las dos partes han encontrado un compromiso para terminar la disputa.)
+- Er war nicht bereit, einen **Kompromiss** einzugehen, und blieb bei seiner Meinung.
+(Él no estaba dispuesto a hacer un compromiso, y se mantuvo en su opinión.)
+- Sie haben sich auf einen **Kompromiss** geeinigt, nachdem sie lange diskutiert hatten.
+(Ellos llegaron a un compromiso, después de haber discutido largo tiempo.)
+'''
+die Konsequenz, -en B1
+Español: la consecuencia
+Русский: последствие
+English: the consequence
+
+- Er hat die Konsequenzen seines Fehlers akzeptiert. (He accepted the consequences of his mistake.)
+- Sie zog aus ihrer Entscheidung keine Konsequenzen. (She did not draw any consequences from her decision.)
+- Hast du schon die Konsequenzen gezogen, die du ziehen wolltest? (Have you already drawn the consequences that you wanted to draw?)
+'''
+konservativ, B1
+Español: conservador
+Русский: консервативный
+English: conservative
+
+- Er ist sehr konservativ und mag keine Veränderungen. (He is very conservative and does not like changes.)
+- Sie war früher konservativ, aber jetzt ist sie liberaler geworden. (She used to be conservative, but now she has become more liberal.)
+- Die konservative Partei hat die Wahl gewonnen. (The conservative party won the election.)
+'''
+das Konsulat, -e B1
+Español: el consulado
+Русский: консульство
+English: the consulate
+
+- Ich muss zum **Konsulat** gehen, um mein Visum zu beantragen.
+- Gestern war das **Konsulat** geschlossen, weil es einen Feiertag gab.
+- Hast du schon gehört, dass das **Konsulat** umgezogen ist? Es ist jetzt in der Nähe des Bahnhofs.
+'''
+die Kontrolle, -n B1
+Español: el control, la inspección
+Русский: контроль, проверка
+English: the control, the inspection
+
+Frases en alemán usando esta palabra:
+
+- Die Polizei hat eine **Kontrolle** an der Grenze durchgeführt. (The police carried out an **inspection** at the border.)
+- Er hat die **Kontrolle** über das Auto verloren. (He lost **control** of the car.)
+- Sie müssen Ihre Fahrkarte bei der **Kontrolle** vorzeigen. (You have to show your ticket at the **control**.)
+
+liberal B1
+Español: liberal, tolerante
+Русский: либеральный, толерантный
+English: liberal, tolerant
+
+Frases en alemán usando esta palabra:
+
+- Er hat eine sehr **liberale** Einstellung zu Religion. (He has a very **liberal** attitude towards religion.)
+- Sie ist nicht so **liberal** wie ihre Eltern. (She is not as **tolerant** as her parents.)
+- Die **liberale** Partei hat die Wahl gewonnen. (The **liberal** party won the election.)
+'''
+die Maßnahme, -n B1
+Español: la medida
+Русский: мера
+English: the measure
+
+- Die Regierung hat neue Maßnahmen zur Bekämpfung der Pandemie angekündigt. (The government has announced new measures to combat the pandemic.)
+- Er ergriff die Maßnahme, um sein Leben zu retten. (He took the measure to save his life.)
+- Sie haben die Maßnahmen ergriffen, die notwendig waren. (They have taken the measures that were necessary.)
+'''
+die Mehrheit, - en B1
+Español: la mayoría
+Русский: большинство
+English: the majority
+
+- Die Mehrheit der Menschen ist gegen den Krieg. (The majority of people are against the war.)
+- In der Vergangenheit hatte die Mehrheit keine Stimme. (In the past, the majority had no voice.)
+- Die Mehrheit hat für den Vorschlag gestimmt. (The majority voted for the proposal.)
+'''
+das Mitglied, - er B1
+Español: el miembro
+Русский: член
+English: the member
+
+- Er ist ein **Mitglied** der Band. (He is a member of the band.)
+- Sie war früher **Mitglied** im Parlament. (She used to be a member of parliament.)
+- Wir sind seit drei Jahren **Mitglieder** im Sportverein. (We have been members of the sports club for three years.)
+'''
+regieren B1
+Español: gobernar
+Русский: править
+English: rule
+
+Frases en alemán usando regieren:
+
+- Die Königin regiert das Land mit Weisheit und Güte. (La reina gobierna el país con sabiduría y bondad.)
+- Vor langer Zeit regierte ein grausamer Tyrann diese Stadt. (Hace mucho tiempo, un tirano cruel gobernaba esta ciudad.)
+- Wer wird das Land regieren, wenn der Präsident zurücktritt? (¿Quién gobernará el país cuando el presidente renuncie?)
+'''
+die Regierung, - en B1
+Español: el gobierno
+Русский: правительство
+English: the government
+
+- Die Regierung hat neue Maßnahmen gegen die Pandemie angekündigt. (The government has announced new measures against the pandemic.)
+- Im Jahr 2019 wurde die Regierung von einer Koalition aus CDU/CSU und SPD gebildet. (In 2019, the government was formed by a coalition of CDU/CSU and SPD.)
+- Die Bürger haben das Recht, die Regierung zu kritisieren und zu kontrollieren. (The citizens have the right to criticize and control the government.)
+'''
+der Regierungschef, -s B1
+Español: el jefe de gobierno
+Русский: глава правительства
+English: the head of government
+
+- Der Regierungschef **spricht** mit den Medien über die aktuelle Lage. (The head of government **speaks** with the media about the current situation.)
+- Der Regierungschef **sprach** gestern mit dem Präsidenten. (The head of government **spoke** with the president yesterday.)
+- Der Regierungschef **hat** eine neue Koalition **gebildet**. (The head of government **has formed** a new coalition.)
+'''
+regulieren B1
+Español: regular
+Русский: регулировать
+English: regulate
+
+- Die Regierung reguliert die Preise für Lebensmittel. (The government regulates the prices of food.)
+- Die Schüler regulierten ihre Atmung vor der Prüfung. (The students regulated their breathing before the exam.)
+- Er hat die Temperatur des Ofens reguliert. (He regulated the temperature of the oven.)
+'''
+die Regulierung, - en B1
+Español: la regulación
+Русский: регулирование
+English: regulation
+
+Ejemplos de frases en alemán usando esta palabra:
+
+- Die Regulierung des Blutdrucks ist eine wichtige Funktion des Körpers. (La regulación de la presión arterial es una función importante del cuerpo.)
+- Die Bundesregierung hat die Regulierung des Finanzmarktes verschärft. (El gobierno federal ha endurecido la regulación del mercado financiero.)
+- Die EU hat die Regulierung von Online-Diensten angekündigt. (La UE ha anunciado la regulación de los servicios en línea.)
+'''
+der Sitz, -e B1
+Español: el asiento
+Русский: сиденье
+English: the seat
+
+- Der Sitz ist sehr bequem. (The seat is very comfortable.)
+- Er nahm auf dem Sitz Platz. (He took a seat on the seat.)
+- Sie haben ihren Sitz in Berlin. (They have their seat in Berlin.)
+'''
+die Sitzung, -en B1
+Español: la sesión, la reunión
+Русский: сессия, заседание
+English: the session, the meeting
+
+Ejemplos:
+
+- Die Sitzung des Parlaments wurde auf nächste Woche verschoben. (The session of the parliament was postponed to next week.)
+- Er nahm an einer Sitzung mit den Anwälten teil. (He attended a meeting with the lawyers.)
+- Sie haben die Sitzung erfolgreich abgeschlossen. (They have successfully completed the session.)
+'''
+stimmen für A / gegen A, B1
+Español: votar a favor de A / en contra de A
+Русский: голосовать за A / против A
+English: vote for A / against A
+
+Ejemplos:
+
+- Die meisten Menschen **stimmen für A**, weil sie glauben, dass es besser für die Umwelt ist. (Most people **vote for A** because they believe it is better for the environment.)
+- Er **stimmte gegen A**, weil er mit der Regierung unzufrieden war. (He **voted against A** because he was dissatisfied with the government.)
+- Hast du schon **für A oder gegen A gestimmt**? (Have you already **voted for A or against A**?)
+'''
+vertreten, B1
+Español: representar, sustituir
+Русский: представлять, заменять
+English: represent, substitute
+
+Frases en alemán usando vertreten:
+
+- Ich vertrete meine Meinung mit Überzeugung. (Presente)
+Español: Defiendo mi opinión con convicción.
+English: I defend my opinion with conviction.
+
+- Er vertrat gestern seinen kranken Kollegen. (Präteritum)
+Español: Ayer sustituyó a su colega enfermo.
+English: He substituted his sick colleague yesterday.
+
+- Sie hat uns gut bei der Konferenz vertreten. (Perfekt)
+Español: Ella nos representó bien en la conferencia.
+English: She represented us well at the conference.
+'''
+die Vertretung, - en B1
+Español: la sustitución, la representación
+Русский: замещение, представительство
+English: the substitution, the representation
+
+Ejemplos:
+
+- Frau Müller ist krank. Herr Schmidt macht die **Vertretung** für sie. (Mrs. Müller is sick. Mr. Schmidt is doing the **substitution** for her.)
+- Ich bin die **Vertretung** von Herrn Meier. Er ist im Urlaub. (I am the **representative** of Mr. Meier. He is on vacation.)
+- Er hat die **Vertretung** seiner Klasse übernommen. (He has taken over the **representation** of his class.)
+'''
+das Veto, -s B1
+Español: el veto
+Русский: вето
+English: the veto
+
+Frases en alemán usando esta palabra:
+
+- Der Präsident hat sein **Veto** gegen das Gesetz eingelegt. (El presidente ha vetado la ley.)
+- Sie können mein **Veto** nicht ignorieren. (No pueden ignorar mi veto.)
+- Er hat sein **Veto** zurückgezogen, nachdem er die Änderungen gesehen hat. (Retiró su veto después de ver los cambios.)
+'''
+die Wahl, -en B1
+Español: la elección
+Русский: выбор
+English: the choice
+
+- Ich habe die Wahl zwischen zwei Optionen: Kaffee oder Tee.
+- Bei der letzten Wahl hat er für die Grünen gestimmt.
+- Hast du schon gewählt?
+'''
+die Agenda, Agenden B2
+Español: la agenda
+Русский: повестка дня
+English: the agenda
+
+- Die Agenda für die heutige Sitzung ist sehr umfangreich. (The agenda for today's meeting is very extensive.)
+- Gestern haben wir die Agenda für das nächste Jahr festgelegt. (Yesterday we set the agenda for the next year.)
+- Hast du die Agenda schon gelesen? (Have you read the agenda yet?)
+'''
+der Anschlag, - ¨e B2
+Español: el atentado
+Русский: теракт
+English: the attack
+
+Frases en alemán usando esta palabra:
+
+- Die Polizei hat den Anschlag auf das Parlament verhindert. (The police prevented the attack on the parliament.)
+- Nach dem Anschlag herrschte Trauer und Wut in der Stadt. (After the attack, there was grief and anger in the city.)
+- Er hat den Anschlag gestanden und wurde zu lebenslanger Haft verurteilt. (He confessed to the attack and was sentenced to life imprisonment.)
+'''
+besetzen, B2
+Español: ocupar, tomar
+Русский: занимать, захватывать
+English: occupy, take
+
+Frases en alemán usando besetzen:
+
+- Die Demonstranten haben das Rathaus **besetzt**. (Los manifestantes han ocupado el ayuntamiento.)
+- Er **besetzte** den Thron nach dem Tod seines Vaters. (Él tomó el trono después de la muerte de su padre.)
+- Sie haben alle Plätze im Theater **besetzt**. (Ellos han ocupado todos los asientos en el teatro.)
+'''
+die Bundeshauptstadt, - ¨e B2
+Español: la capital federal
+Русский: федеральная столица
+English: the federal capital
+
+Frases en alemán usando esta palabra:
+
+- Berlin ist **die Bundeshauptstadt** von Deutschland. (Berlín es la capital federal de Alemania.)
+- In **der Bundeshauptstadt** gibt es viele Sehenswürdigkeiten, wie das Brandenburger Tor oder den Reichstag. (En la capital federal hay muchos lugares de interés, como la Puerta de Brandeburgo o el Reichstag.)
+- Ich war noch nie in **der Bundeshauptstadt**, aber ich möchte sie gerne besuchen. (Nunca he estado en la capital federal, pero me gustaría visitarla.)
+'''
+die Bürgerinitiative, -n B2
+Español: la iniciativa ciudadana
+Русский: гражданская инициатива
+English: the citizens' initiative
+
+- Die Bürgerinitiative hat eine Petition gegen den Bau der Autobahn gestartet.
+- Die Stadt unterstützte die Bürgerinitiative, die sich für mehr Grünflächen einsetzte.
+- Viele Menschen haben sich der Bürgerinitiative angeschlossen, die für mehr Transparenz in der Politik kämpft.
+'''
+eingreifen in A B2
+Español: intervenir en A
+Русский: вмешиваться в A
+English: intervene in A
+
+Frases en alemán usando eingreifen in A:
+
+- Die Polizei musste in den Streit eingreifen, bevor er eskalierte. (The police had to intervene in the dispute before it escalated.)
+- Er griff in die Diskussion ein und sagte seine Meinung. (He intervened in the discussion and said his opinion.)
+- Sie hat nie in die Erziehung ihrer Kinder eingegriffen. (She never intervened in the upbringing of her children.)
+'''
+der Eintritt, -e B2
+Español: la entrada
+Русский: вход
+English: the entrance
+
+Frases en alemán usando esta palabra:
+
+- Der Eintritt ist frei, aber eine Spende wird erwartet. (The entrance is free, but a donation is expected.)
+- Er hat den Eintritt in die Universität geschafft. (He has managed to enter the university.)
+- Hast du schon die Eintrittskarten für das Konzert gekauft? (Have you already bought the tickets for the concert?)
+'''
+einwirken auf, B2
+Español: influir en
+Русский: влиять на
+English: influence on
+
+Frases en alemán usando einwirken auf:
+
+- Die Sonne wirkt auf die Pflanzen ein und fördert ihr Wachstum. (The sun influences the plants and promotes their growth.)
+- Er wirkte auf sie ein, damit sie ihm verzeiht. (He influenced her to forgive him.)
+- Sie hat auf die Entscheidung des Richters eingewirkt. (She has influenced the judge's decision.)
+'''
+ergreifen B2
+Español: agarrar, capturar, aprovechar
+Русский: хватать, захватывать, использовать
+English: grab, capture, seize
+
+- Er hat die Chance ergriffen, nach Deutschland zu reisen. (He seized the opportunity to travel to Germany.)
+- Die Polizei ergriff den Dieb. (The police captured the thief.)
+- Sie hat meine Hand ergriffen. (She grabbed my hand.)
+'''
+erlassen, B2
+Español: promulgar, perdonar, eximir
+Русский: издавать, прощать, освобождать
+English: enact, forgive, exempt
+
+Frases en alemán usando erlassen:
+
+- Der Bundestag hat ein neues Gesetz erlassen, das die Rechte der Verbraucher schützt.
+(El parlamento ha promulgado una nueva ley que protege los derechos de los consumidores.)
+
+- Der König hat allen Gefangenen Gnade erlassen und sie freigelassen.
+(El rey ha perdonado a todos los prisioneros y los ha liberado.)
+
+- Die Schule hat den Kindern die Hausaufgaben erlassen, weil es zu heiß war.
+(La escuela ha eximido a los niños de hacer los deberes porque hacía mucho calor.)
+'''
+die Gemeinde, -n B2
+Español: el municipio, la comunidad
+Русский: община, муниципалитет
+English: the municipality, the community
+
+- Die Gemeinde hat einen neuen Bürgermeister gewählt. (The municipality has elected a new mayor.)
+- In unserer Gemeinde gibt es viele Freizeitangebote für Kinder und Jugendliche. (In our community there are many leisure activities for children and young people.)
+- Er hat früher in einer kleinen Gemeinde im Schwarzwald gelebt. (He used to live in a small municipality in the Black Forest.)
+'''
+gestaltet B2
+Español: diseña, forma, configura
+Русский: оформляет, формирует, настраивает
+English: designs, shapes, configures
+
+- Er **gestaltet** seine Website mit viel Kreativität und Geschmack.
+  - He designs his website with a lot of creativity and taste.
+- Sie **gestaltete** die Geschichte so spannend, dass alle Zuhörer gebannt waren.
+  - She shaped the story so excitingly that all listeners were captivated.
+- Wir haben unser Zimmer neu **gestaltet**.
+  - We have configured our room anew.
+'''
+gewährleisten, B2
+Español: garantizar
+Русский: обеспечивать
+English: ensure
+
+Frases en alemán usando gewährleisten:
+
+- Der Arzt muss die Sicherheit der Patienten gewährleisten. (El médico debe garantizar la seguridad de los pacientes.)
+- Die Polizei gewährleistete die öffentliche Ordnung während der Demonstration. (La policía aseguró el orden público durante la manifestación.)
+- Sie haben gewährleistet, dass das Projekt rechtzeitig fertig wird. (Ellos se aseguraron de que el proyecto se terminara a tiempo.)
+'''
+greifen zu, D B2
+Español: recurrir a, echar mano de
+Русский: прибегать к, хвататься за
+English: resort to, grab
+
+- Er greift zu seinem Handy, um die Nachrichten zu lesen. (He resorts to his phone to read the news.)
+- Sie griff zu einem Messer und stach ihn in die Brust
+'''
+das Gremium, die Gremien B2
+Español: el comité, los comités
+Русский: комитет, комитеты
+English: the committee, the committees
+
+- Das Gremium hat die Entscheidung einstimmig getroffen. (The committee made the decision unanimously.)
+- Er war Mitglied in mehreren Gremien. (He was a member of several committees.)
+- Die Gremien haben ihre Arbeit noch nicht abgeschlossen. (The committees have not yet completed their work.)
+'''
+die Kampagne, -n B2
+Español: la campaña
+Русский: кампания
+English: the campaign
+
+- Die Regierung startet eine **Kampagne** gegen Drogenmissbrauch.
+- Die Opposition führte eine erfolgreiche **Kampagne** für die Parlamentswahlen durch.
+- Hast du die **Kampagne** für den Klimaschutz unterschrieben?
+'''
+die Koalition, - en B2
+Español: la coalición
+Русский: коалиция
+English: the coalition
+
+- Die Koalition aus CDU/CSU und SPD hat einen neuen Koalitionsvertrag unterzeichnet. (The coalition of CDU/CSU and SPD has signed a new coalition agreement.)
+- Nach der Wahl bildeten die Grünen und die FDP eine Koalition. (After the election, the Greens and the FDP formed a coalition.)
+- Die Koalition ist am Streit über die Flüchtlingspolitik zerbrochen. (The coalition broke up over the refugee policy.)
+'''
+die Mehrheitsentscheidung, - en B2
+Español: la decisión por mayoría
+Русский: решение большинства
+English: the majority decision
+
+- Die Mehrheitsentscheidung ist oft nicht die beste Lösung für ein Problem. (The majority decision is often not the best solution for a problem.)
+- Gestern traf das Parlament eine Mehrheitsentscheidung über den Haushalt. (Yesterday, the parliament made a majority decision on the budget.)
+- Hast du dich an die Mehrheitsentscheidung gehalten? (Did you stick to the majority decision?)
+'''
+parteiisch, B2
+Español: parcial
+Русский: предвзятый
+English: biased
+
+- Er ist ein parteiischer Schiedsrichter, der immer für die Heimmannschaft pfeift.
+(He is a biased referee who always whistles for the home team.)
+- Sie war nicht parteiisch, als sie die Essays bewertete, sondern berücksichtigte nur die Qualität der Argumente.
+(She was not biased when she graded the essays, but only considered the quality of the arguments.)
+- Er hat mir parteiisch geholfen, die Prüfung zu bestehen, weil er mein Freund ist.
+(He helped me pass the exam in a biased way, because he is my friend.)
+'''
+parteilich, B2
+Español: parcial
+Русский: предвзятый
+English: biased
+
+- Er ist nicht parteilich, er ist nur ehrlich. (He is not biased, he is just honest.)
+- Sie war parteilisch gegenüber ihrem Sohn und gab ihm immer mehr Geschenke als ihrer Tochter. (She was biased towards her son and always gave him more gifts than her daughter.)
+- Die Jury hat parteilich geurteilt und den Angeklagten freigesprochen. (The jury judged in a biased way and acquitted the defendant.)
+'''
+der Reformstau, -s B2
+Español: el estancamiento de las reformas
+Русский: застой в реформах
+English: the reform backlog
+
+- Die Regierung muss den Reformstau in der Bildungspolitik auflösen. (The government must resolve the reform backlog in education policy.)
+- Im Gesundheitswesen gab es lange einen Reformstau, der viele Probleme verursacht hat. (There was a long reform backlog in the health sector, which caused many problems.)
+- Der Reformstau wurde endlich überwunden, nachdem die neue Koalition an die Macht kam. (The reform backlog was finally overcome after the new coalition came to power.)
+'''
+zusammengehen, B2
+Español: ir juntos, unirse
+Русский: идти вместе, объединяться
+English: go together, merge
+
+Frases en alemán usando zusammengehen:
+
+- Wir gehen jeden Morgen zusammen zur Schule. (We go to school together every morning.)
+- Die beiden Firmen sind zusammengegangen, um ihre Marktanteile zu erhöhen. (The two companies merged to increase their market share.)
+- Er ist mit ihr zusammengegangen, obwohl sie nichts gemeinsam haben. (He went with her, even though they have nothing in common.)
+'''
+geleiten, C1
+Español: escoltar, acompañar
+Русский: сопровождать, провожать
+English: escort, accompany
+
+- Er geleitete sie zum Bahnhof. (He escorted her to the train station.)
+- Sie geleiteten den König zum Thron. (They accompanied the king to the throne.)
+- Er hat sie zum Flughafen geleitet. (He has escorted her to the airport.)

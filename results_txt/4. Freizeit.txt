@@ -1,0 +1,1972 @@
+'''
+das Ballett, -e A1
+Español: el ballet
+Русский: балет
+English: ballet
+
+- Ich mag **das Ballett** sehr. Es ist eine schöne Kunstform. (I like ballet very much. It is a beautiful art form.)
+- Gestern habe ich mir ein **Ballett** von Tschaikowski angesehen. Es war wunderbar. (Yesterday I watched a ballet by Tchaikovsky. It was wonderful.)
+- Hast du schon mal **Ballett** getanzt? Es ist gar nicht so einfach. (Have you ever danced ballet? It is not so easy.)
+'''
+die Disco, -s (die Discothek, -en) A1
+Español: la discoteca
+Русский: дискотека
+English: the disco
+
+Ejemplos:
+- Am Wochenende gehe ich gerne in die Disco.
+(El fin de semana me gusta ir a la discoteca.)
+- Gestern war ich mit meinen Freunden in einer Discothek.
+(Ayer estuve con mis amigos en una discoteca.)
+- Hast du schon mal in einer Disco getanzt?
+(¿Alguna vez has bailado en una discoteca?)
+'''
+der Fußball, - ¨e A1
+Español: el fútbol
+Русский: футбол
+English: soccer
+
+Frases en alemán usando esta palabra:
+
+- Ich spiele gern **Fußball** mit meinen Freunden. (Me gusta jugar al fútbol con mis amigos.)
+- Gestern haben wir ein spannendes **Fußball**spiel im Fernsehen gesehen. (Ayer vimos un partido de fútbol emocionante en la televisión.)
+- Er hat sich beim **Fußball**spielen das Bein verletzt. (Se lesionó la pierna jugando al fútbol.)
+'''
+die Gymnastik, - en A1
+Español: la gimnasia
+Русский: гимнастика
+English: gymnastics
+
+- Ich mache jeden Morgen **Gymnastik**. (I do gymnastics every morning.)
+- Als Kind hat sie viel **Gymnastik** gemacht. (As a child, she did a lot of gymnastics.)
+- Hast du gestern **Gymnastik** gemacht? (Did you do gymnastics yesterday?)
+'''
+der Hit, -s A1
+Español: éxito
+Русский: хит
+English: hit
+
+- Dieser Song ist ein echter Hit. (This song is a real hit.)
+- Der Film war ein Hit an den Kinokassen. (The movie was a hit at the box office.)
+- Er hat viele Hits geschrieben. (He has written many hits.)
+'''
+das Hobby, -s A1
+Español: afición, pasatiempo
+Русский: хобби, увлечение
+English: hobby, pastime
+
+- Mein Hobby ist Lesen. Ich lese gern Romane und Gedichte.
+- Was ist dein Hobby? Spielst du ein Instrument?
+- Er hat viele Hobbys. Er malt, fotografiert und kocht gern.
+'''
+das Kino, -s A1
+Español: el cine
+Русский: кинотеатр
+English: the cinema
+
+Frases en alemán usando esta palabra:
+
+- Ich gehe heute Abend ins Kino. (Voy al cine esta noche.)
+- Gestern war ich mit meinen Freunden im Kino. (Ayer fui al cine con mis amigos.)
+- Hast du schon den neuen Film im Kino gesehen? (¿Ya has visto la nueva película en el cine?)
+'''
+der Klub, -s A1
+Español: el club
+Русский: клуб
+English: the club
+
+- Ich bin Mitglied in einem Sportklub. (I am a member of a sports club.)
+- Gestern war ich mit meinen Freunden im Klub. (Yesterday I was at the club with my friends.)
+- Hast du schon den neuen Klub in der Stadt gesehen? (Have you seen the new club in the city?)
+'''
+die Kneipe, -n A1
+Español: el bar, los bares
+Русский: пивная, пивные
+English: the pub, the pubs
+
+- Ich gehe oft mit meinen Freunden in die Kneipe.
+  - Voy a menudo con mis amigos al bar.
+  - Я часто хожу с друзьями в пивную.
+  - I often go to the pub with my friends.
+- Gestern war ich in einer neuen Kneipe, die sehr gemütlich war.
+  - Ayer estuve en un bar nuevo que era muy acogedor.
+  - Вчера я был в новой пивной, которая была очень уютной.
+  - Yesterday I was in a new pub that was very cozy.
+- Hast du schon mal in einer Kneipe gearbeitet?
+  - ¿Alguna vez has trabajado en un bar?
+  - Ты когда-нибудь работал в пивной?
+  - Have you ever worked in a pub?
+'''
+die Musik, - en A1
+Español: la música
+Русский: музыка
+English: music
+
+- Ich höre gern Musik. (Me gusta escuchar música.)
+- Gestern habe ich Musik gemacht. (Ayer hice música.)
+- Hast du schon die neue Musik von Rammstein gehört? (¿Ya has escuchado la nueva música de Rammstein?)
+'''
+die Party, -s A1
+Español: la fiesta
+Русский: вечеринка
+English: the party
+
+- Ich gehe heute Abend zu einer Party. (I'm going to a party tonight.)
+- Gestern haben wir eine tolle Party gefeiert. (Yesterday we had a great party.)
+- Hast du schon die Fotos von der Party gesehen? (Have you seen the photos from the party?)
+'''
+das Rad, -¨er A1
+Español: la rueda, las ruedas
+Русский: колесо, колёса
+English: the wheel, the wheels
+
+- Das Rad ist eine der wichtigsten Erfindungen der Menschheit. (The wheel is one of the most important inventions of humanity.)
+- Er fuhr mit dem Rad zur Schule. (He rode his bike to school.)
+- Sie hat gestern ein neues Rad gekauft. (She bought a new bike yesterday.)
+'''
+singen, A1
+Español: cantar
+Русский: петь
+English: sing
+
+Ejemplos:
+
+- Ich **singe** gern im Chor. (Me gusta cantar en el coro.)
+- Gestern **sang** er ein schönes Lied. (Ayer cantó una bonita canción.)
+- Er hat das ganze Wochenende **gesungen**. (Él ha cantado todo el fin de semana.)
+'''
+spazieren, A1
+Español: pasear
+Русский: гулять
+English: walk
+
+- Ich gehe jeden Tag spazieren. (I walk every day.)
+- Gestern spazierte ich mit meinem Hund im Park. (Yesterday I walked with my dog in the park.)
+- Ich bin schon lange nicht mehr spazieren gegangen. (I have not gone for a walk in a long time.)
+'''
+der Spaziergang, - ¨e A1
+Español: el paseo
+Русский: прогулка
+English: the walk
+
+- Ich mache jeden Tag einen Spaziergang im Park. (I take a walk in the park every day.)
+- Gestern machte er einen langen Spaziergang am Strand. (Yesterday he took a long walk on the beach.)
+- Hast du schon einen Spaziergang gemacht? (Have you taken a walk yet?)
+'''
+spielen, A1
+Español: jugar
+Русский: играть
+English: play
+
+- Ich spiele gerne Schach. (Me gusta jugar al ajedrez.)
+- Gestern spielten wir Fußball im Park. (Ayer jugamos al fútbol en el parque.)
+- Hast du schon das neue Spiel gespielt? (¿Ya has jugado al nuevo juego?)
+'''
+der Sport, A1
+Español: el deporte
+Русский: спорт
+English: sport
+
+- Ich mache jeden Tag Sport, weil es gesund ist. (I do sport every day, because it is healthy.)
+- Gestern hat er viel Sport getrieben und war sehr müde. (Yesterday he did a lot of sport and was very tired.)
+- Hast du schon Sport gemacht? (Have you done sport yet?)
+'''
+tanzen, A1
+Español: bailar
+Русский: танцевать
+English: dance
+
+- Ich **tanze** gern mit meinen Freunden. (I like to dance with my friends.)
+- Gestern **tanzte** er mit seiner Frau auf der Hochzeit. (Yesterday he danced with his wife at the wedding.)
+- Hast du schon mal in einem Club **getanzt**? (Have you ever danced in a club?)
+'''
+klassisch, A1
+Español: clásico
+Русский: классический
+English: classic
+- Das ist ein klassisches Beispiel für Ironie. (This is a classic example of irony.)
+- Er spielte klassische Musik auf dem Klavier. (He played classical music on the piano.)
+- Sie hat klassische Literatur studiert. (She has studied classical literature.)
+'''
+die Pause, -n A1
+Español: el descanso, la pausa
+Русский: перерыв, пауза
+English: the break, the pause
+
+Frases en alemán usando esta palabra:
+
+- Ich mache eine Pause und trinke einen Kaffee. (Hago una pausa y bebo un café.)
+- In der Schule haben wir zwei Pausen pro Tag. (En la escuela tenemos dos descansos por día.)
+- Er hat die Pause genutzt, um seine Hausaufgaben zu machen. (Él aprovechó el descanso para hacer sus deberes.)
+'''
+der Film, -e A1
+Español: la película, las películas
+Русский: фильм, фильмы
+English: the movie, the movies
+
+Tres frases en alemán usando esta palabra son:
+
+- Ich gehe heute Abend ins Kino, um einen Film zu sehen. (Voy al cine esta noche para ver una película.)
+- Hast du den neuen Film von Quentin Tarantino schon gesehen? (¿Ya has visto la nueva película de Quentin Tarantino?)
+- Sie hat gestern einen Film über die Geschichte Deutschlands gedreht. (Ella hizo ayer una película sobre la historia de Alemania.)
+'''
+das Museum, die Museen A1
+Español: el museo, los museos
+Русский: музей, музеи
+English: the museum, the museums
+
+- Ich gehe gern ins Museum. (Me gusta ir al museo.)
+- Gestern waren wir in einem interessanten Museum. (Ayer estuvimos en un museo interesante.)
+- Hast du schon alle Museen in Berlin besucht? (¿Ya has visitado todos los museos de Berlín?)
+'''
+Español: el teatro
+Русский: театр
+English: the theater
+
+Ejemplos:
+
+- Ich gehe gern ins **Theater**, um Musicals zu sehen. (Me gusta ir al teatro para ver musicales.)
+- Gestern war ich mit meiner Freundin im **Theater**. Wir haben eine Komödie angeschaut. (Ayer fui al teatro con mi novia. Vimos una comedia.)
+- Hast du schon mal im **Theater** gespielt? (¿Alguna vez has actuado en el teatro?)
+'''
+angeln, A2
+Español: pescar
+Русский: рыбачить
+English: fish
+
+Frases en alemán usando angeln:
+
+- Ich gehe gern am Wochenende angeln. (Me gusta ir a pescar los fines de semana.)
+- Gestern hat er einen großen Fisch geangelt. (Ayer pescó un pez grande.)
+- Er hat schon viele Fische geangelt. (Él ha pescado muchos peces.)
+'''
+anschauen A2
+Español: mirar
+Русский: смотреть
+English: look at
+
+Frases en alemán usando anschauen:
+
+- Ich schaue mir die Fotos von meinem Urlaub an. (Me miro las fotos de mis vacaciones.)
+- Er schaute sie lange an, bevor er etwas sagte. (Él la miró largo rato antes de decir algo.)
+- Hast du dir schon den neuen Film angeschaut? (¿Ya te has mirado la nueva película?)
+'''
+der Ausflug, - ¨e A2
+Español: la excursión
+Русский: экскурсия
+English: the excursion
+
+Frases en alemán usando esta palabra:
+
+- Wir machen morgen einen Ausflug zum See. (Hacemos una excursión al lago mañana.)
+- Letztes Jahr haben wir einen Ausflug nach Berlin gemacht. (El año pasado hicimos una excursión a Berlín.)
+- Hast du schon mal einen Ausflug in die Berge gemacht? (¿Has hecho alguna vez una excursión a las montañas?)
+'''
+sich ausruhen A2
+Español: descansar
+Русский: отдыхать
+English: rest
+
+Frases en alemán usando sich ausruhen:
+
+- Ich muss mich heute ausruhen, weil ich gestern viel gearbeitet habe. (I have to rest today, because I worked a lot yesterday.)
+- Als er krank war, ruhte er sich viel aus und trank Tee. (When he was sick, he rested a lot and drank tea.)
+- Hast du dich gut ausgeruht? Wir müssen bald losfahren. (Did you rest well? We have to leave soon.)
+'''
+die Ausstellung, - en A2
+Español: la exposición
+Русский: выставка
+English: the exhibition
+
+- Ich gehe morgen mit meiner Freundin in **die Ausstellung** über moderne Kunst. (I'm going to **the exhibition** on modern art with my girlfriend tomorrow.)
+- Letztes Jahr haben wir **eine Ausstellung** über die Geschichte der Eisenbahn besucht. (Last year we visited **an exhibition** on the history of the railway.)
+- Hast du schon **die Ausstellung** gesehen, die eröffnet wurde? (Have you seen **the exhibition** that opened?)
+'''
+baden, A2
+Español: bañar, bañarse
+Русский: купать, купаться
+English: bathe, bathe oneself
+
+Frases en alemán usando baden:
+
+- Ich bade jeden Morgen. (Me baño todas las mañanas.)
+- Gestern badete er im See. (Ayer se bañó en el lago.)
+- Hast du dich schon gebadet? (¿Ya te has bañado?)
+'''
+basteln, A2
+Español: hacer manualidades
+Русский: мастерить
+English: to do crafts
+
+Frases en alemán usando basteln:
+
+- Ich **bastele** gerne mit Papier und Schere. (Me gusta hacer manualidades con papel y tijeras.)
+- Gestern **bastelte** er ein Vogelhaus aus Holz. (Ayer hizo una casita de pájaros de madera.)
+- Sie hat ein schönes Bild aus Muscheln **gebastelt**. (Ella hizo una bonita imagen con conchas.)
+'''
+sich erholen, A2
+Español: recuperarse
+Русский: восстанавливаться
+English: recover
+
+- Er muss sich von der Operation erholen. (He has to recover from the surgery.)
+- Sie erholte sich schnell von ihrer Grippe. (She recovered quickly from her flu.)
+- Wir haben uns gut im Urlaub erholt. (We recovered well on vacation.)
+'''
+die Erholung, - en A2
+Español: el descanso, la recuperación
+Русский: отдых, восстановление
+English: the rest, the recovery
+
+Frases en alemán usando esta palabra:
+
+- Nach der langen Wanderung brauchten wir eine **Erholung**. (Después de la larga caminata, necesitábamos un descanso.)
+- Die **Erholung** der Wirtschaft ist noch unsicher. (La recuperación de la economía es aún incierta.)
+- Er hat sich von der Operation gut **erholt**. (Él se ha recuperado bien de la operación.)
+'''
+e Farbe, -n A2
+Español: el color, los colores
+Русский: цвет, цвета
+English: the color, the colors
+
+Frases en alemán usando e Farbe, -n:
+
+- Welche **Farbe** hat dein Auto? (¿Qué **color** tiene tu coche?)
+- Er malte die Wand in einer dunklen **Farbe**. (Él pintó la pared de un **color** oscuro.)
+- Sie hat ihre **Farben** verändert. (Ella ha cambiado sus **colores**.)
+'''
+die Feier, -n A2
+Español: la fiesta, las fiestas
+Русский: праздник, праздники
+English: the party, the parties
+
+Frases en alemán usando esta palabra:
+
+- Ich gehe heute Abend zu einer **Feier**. (I'm going to a party tonight.)
+- Wir haben gestern unsere Hochzeit **gefeiert**. (We celebrated our wedding yesterday.)
+- Hast du schon eine Einladung für die **Feier** bekommen? (Did you get an invitation for the party?)
+'''
+feiern A2
+Español: celebrar
+Русский: праздновать
+English: celebrate
+
+Frases en alemán usando feiern:
+
+- Wir **feiern** heute den Geburtstag meiner Schwester. (We celebrate my sister's birthday today.)
+- Gestern **feierten** sie ihren Hochzeitstag. (Yesterday they celebrated their anniversary.)
+- Sie haben die Prüfung bestanden und **haben** das **gefeiert**. (They passed the exam and celebrated that.)
+'''
+der Feiertag, -e A2
+Español: el día festivo
+Русский: праздник
+English: the holiday
+
+- Heute ist ein Feiertag und wir haben keine Schule. (Today is a holiday and we have no school.)
+- Gestern war ein schöner Feiertag. Wir sind zum See gefahren und haben gegrillt. (Yesterday was a nice holiday. We went to the lake and had a barbecue.)
+- Hast du schon Pläne für den nächsten Feiertag? Ich möchte gerne ins Museum gehen. (Do you already have plans for the next holiday? I would like to go to the museum.)
+'''
+das Festival, -s A2
+Español: el festival
+Русский: фестиваль
+English: the festival
+
+- Jedes Jahr findet in Berlin ein großes **Festival** der Kulturen statt.
+- Wir waren letzte Woche auf einem Rock-**Festival** und haben viele Bands gesehen.
+- Hast du schon Karten für das Film-**Festival** gekauft?
+'''
+die Freizeit, - en A2
+Español: el tiempo libre
+Русский: свободное время
+English: free time
+
+Frases en alemán usando esta palabra:
+
+- Was machst du in deiner Freizeit? (¿Qué haces en tu tiempo libre?)
+- Gestern habe ich in meiner Freizeit ein Buch gelesen. (Ayer leí un libro en mi tiempo libre.)
+- Ich habe viel Freizeit, seit ich in Rente bin. (Tengo mucho tiempo libre desde que me jubilé.)
+'''
+joggen, A2
+Español: correr
+Русский: бегать
+English: to jog
+
+Frases en alemán usando joggen:
+
+- Ich jogge jeden Morgen im Park. (Corro todas las mañanas en el parque.)
+- Gestern joggte er mit seinem Hund. (Ayer corrió con su perro.)
+- Hast du schon gejoggt? (¿Ya has corrido?)
+'''
+die Kassette, -n A2
+Español: el casete, los casetes
+Русский: кассета, кассеты
+English: the cassette, the cassettes
+
+Ejemplos de frases en alemán usando esta palabra:
+
+- Ich habe eine Kassette mit alten Liedern gefunden. (He encontrado un casete con canciones antiguas.)
+- Er hat die Kassette in den Recorder gesteckt und auf Play gedrückt. (Él metió el casete en el reproductor y pulsó play.)
+- Hast du die Kassette schon zurückgespult? (¿Ya has rebobinado el casete?)
+'''
+der Krimi, -s (= der Kriminalfilm, - e)
+Español: la novela policiaca / la película policiaca
+Русский: детектив / криминальный фильм
+English: the crime novel / the crime film
+
+Ejemplos de frases en alemán usando esta palabra:
+
+- Ich lese gerne Krimis, weil sie spannend sind. (Me gusta leer novelas policiacas, porque son emocionantes.)
+- Gestern haben wir einen Krimi im Fernsehen gesehen. Er war sehr gut gemacht. (Ayer vimos una película policiaca en la televisión. Estaba muy bien hecha.)
+- Hast du den neuen Krimi von Agatha Christie schon gelesen? Er ist sehr rätselhaft. (¿Ya has leído la nueva novela policiaca de Agatha Christie? Es muy enigmática.)
+'''
+oder der Kriminalroman, - e) A2
+Español: o la novela policíaca
+Русский: или детективный роман
+English: or the crime novel
+
+Ejemplos:
+- Ich lese gerne Kriminalromane, weil sie spannend sind. (Me gusta leer novelas policíacas, porque son emocionantes.)
+- Er hat gestern einen Kriminalroman geschrieben, der sehr erfolgreich war. (Él escribió ayer una novela policíaca que fue muy exitosa.)
+- Sie hat schon viele Kriminalromane gelesen, aber dieser ist ihr Lieblingsbuch. (Ella ha leído ya muchas novelas policíacas, pero esta es su libro favorito.)
+'''
+das Lied, - er A2
+Español: canción
+Русский: песня
+English: song
+
+- Ich höre gerne **Lieder** von Ed Sheeran. (I like to listen to **songs** by Ed Sheeran.)
+- Gestern hat er ein neues **Lied** gesungen. (Yesterday he sang a new **song**.)
+- Er hat viele schöne **Lieder** geschrieben. (He has written many beautiful **songs**.)
+
+die Lust, - ¨e A2
+Español: ganas, deseo
+Русский: желание, настроение
+English: desire, mood
+
+- Hast du **Lust**, ins Kino zu gehen? (Do you feel like going to the cinema?)
+- Er hatte keine **Lust** mehr zu arbeiten. (He had no **desire** to work anymore.)
+- Sie hat immer **Lust** auf Schokolade. (She always has a **craving** for chocolate.)
+'''
+die Mannschaft, - en A2
+Español: el equipo
+Русский: команда
+English: the team
+
+Frases en alemán usando esta palabra:
+
+- Die Mannschaft hat das Spiel gewonnen. (El equipo ha ganado el partido.)
+- Ich bin stolz auf meine Mannschaft. (Estoy orgulloso de mi equipo.)
+- Welche Mannschaft unterstützt du? (¿Qué equipo apoyas?)
+'''
+musizieren, A2
+Español: hacer música
+Русский: музицировать
+English: make music
+
+Frases en alemán usando musizieren:
+
+- Ich **musiziere** gerne mit meinen Freunden. (Me gusta hacer música con mis amigos.)
+- Gestern **musizierte** er auf der Bühne. (Ayer hizo música en el escenario.)
+- Sie hat schon lange nicht mehr **musiziert**. (Ella no ha hecho música en mucho tiempo.)
+'''
+rudern, A2
+Español: remar
+Русский: грести
+English: row
+
+Ejemplos de frases en alemán usando rudern:
+
+- Ich **ruder** jeden Morgen auf dem See. (I row every morning on the lake.)
+- Er **ruderte** gestern mit seinen Freunden um die Insel. (He rowed with his friends around the island yesterday.)
+- Sie haben schon lange nicht mehr **gerudert**. (They have not rowed for a long time.)
+'''
+das Schach, A2
+Español: el ajedrez
+Русский: шахматы
+English: chess
+
+- Ich spiele gern Schach mit meinem Bruder. (I like to play chess with my brother.)
+- Gestern spielte er Schach mit einem Freund. (Yesterday he played chess with a friend.)
+- Er hat schon viele Schachpartien gewonnen. (He has already won many chess games.)
+'''
+das Schwimmbad, -¨er A2
+Español: la piscina
+Русский: бассейн
+English: the swimming pool
+
+Frases en alemán usando esta palabra:
+
+- Ich gehe jeden Samstag ins Schwimmbad. (Voy a la piscina todos los sábados.)
+- Gestern war das Schwimmbad geschlossen. (Ayer la piscina estaba cerrada.)
+- Hast du dein Handtuch für das Schwimmbad mitgebracht? (¿Has traído tu toalla para la piscina?)
+'''
+der Schwimmer, - / die Schwimmerin, -nen, A1
+Español: nadador / nadadora
+Русский: пловец / пловчиха
+English: swimmer
+
+Ejemplos:
+- Der Schwimmer **trainiert** jeden Tag im Schwimmbad. (The swimmer trains every day in the swimming pool.)
+- Die Schwimmerin **gewann** die Goldmedaille bei den Olympischen Spielen. (The swimmer won the gold medal at the Olympic Games.)
+- Er hat als Schwimmer **teilgenommen**. (He participated as a swimmer.)
+'''
+Schwimmerin, -nen A2
+Español: nadadora
+Русский: пловчиха
+English: swimmer
+
+- Die Schwimmerin hat eine gute Technik. (The swimmer has a good technique.)
+- Gestern schwamm die Schwimmerin sehr schnell. (Yesterday the swimmer swam very fast.)
+- Die Schwimmerin hat schon viele Medaillen gewonnen. (The swimmer has already won many medals.)
+'''
+segeln A2
+Español: navegar
+Русский: парусный спорт
+English: sailing
+
+- Ich segel**e** gern im Sommer. (I like sailing in the summer.)
+- Er segel**te** mit seinem Boot über den See. (He sailed with his boat across the lake.)
+- Sie hab**en** gestern gesegel**t**. (They sailed yesterday.)
+'''
+der Ski, -er (auch: Schi) A2
+Español: el esquí
+Русский: лыжа
+English: ski
+
+- Ich fahre gerne **Ski** im Winter. (I like to ski in winter.)
+- Als Kind habe ich oft mit meinen Freunden **Ski** gesprungen. (As a child, I often jumped with my friends on skis.)
+- Hast du schon mal **Ski** gefahren? (Have you ever skied?)
+'''
+sich sonnen, A2
+Español: tomar el sol
+Русский: загорать
+English: sunbathe
+
+- Ich **sonne** mich gerne am Strand. (Me gusta tomar el sol en la playa.)
+- Gestern **sonnte** er sich im Garten. (Ayer tomó el sol en el jardín.)
+- Sie hat sich zu lange **gesonnt** und einen Sonnenbrand bekommen. (Ella se ha expuesto demasiado al sol y se ha quemado.)
+'''
+das Spiel, -e A2
+Español: el juego, los juegos
+Русский: игра, игры
+English: the game, the games
+
+- Ich spiele gern Schach. Es ist ein sehr interessantes Spiel.
+- Gestern haben wir ein Fußballspiel gesehen. Es war sehr spannend.
+- Hast du schon das neue Videospiel gespielt? Es ist sehr lustig.
+'''
+der Spieler, - / die Spielerin, -nen A2
+Español: el jugador / la jugadora
+Русский: игрок / игрокиня
+English: the player / the female player
+
+Frases en alemán usando esta palabra:
+
+- Der Spieler hat den Ball geschossen. (El jugador ha disparado el balón.)
+- Die Spielerin spielt Klavier sehr gut. (La jugadora toca el piano muy bien.)
+- Er war ein berühmter Spieler in seiner Jugend. (Él fue un jugador famoso en su juventud.)
+- Sie ist eine talentierte Spielerin, die viele Preise gewonnen hat. (Ella es una jugadora talentosa que ha ganado muchos premios.)
+- Er hat gestern als Spieler angefangen. (Él empezó ayer como jugador.)
+- Sie hat als Spielerin aufgehört. (Ella dejó de ser jugadora.)
+'''
+der Sportplatz, - ¨e A2
+Español: el campo de deportes
+Русский: спортивная площадка
+English: the sports field
+
+- Der Sportplatz ist sehr groß und hat viele Geräte.
+- Gestern spielten wir Fußball auf dem Sportplatz.
+- Wir haben schon oft auf diesem Sportplatz trainiert.
+'''
+die Sportveranstaltung, - en A2
+Español: el evento deportivo
+Русский: спортивное мероприятие
+English: the sports event
+
+Frases en alemán usando esta palabra:
+
+- Ich gehe heute Abend zu einer **Sportveranstaltung** im Stadion. (I'm going to a **sports event** at the stadium tonight.)
+- Gestern haben wir eine spannende **Sportveranstaltung** im Fernsehen gesehen. (Yesterday we watched an exciting **sports event** on TV.)
+- Hast du schon mal an einer **Sportveranstaltung** teilgenommen? (Have you ever participated in a **sports event**?)
+'''
+springen, A2
+Español: saltar
+Русский: прыгать
+English: jump
+
+Frases en alemán usando springen:
+
+- Der Hund springt über den Zaun. (El perro salta sobre la valla.)
+- Er sprang ins Wasser und schwamm zum Ufer. (Él saltó al agua y nadó hasta la orilla.)
+- Sie ist vor Freude gesprungen, als sie die Nachricht hörte. (Ella saltó de alegría cuando escuchó la noticia.)
+'''
+das Stadion, -s A2
+Español: el estadio
+Русский: стадион
+English: the stadium
+
+- Ich gehe heute ins Stadion, um das Fußballspiel zu sehen. (I'm going to the stadium today to watch the soccer game.)
+- Gestern war das Stadion voller Fans, die ihre Mannschaft anfeuerten. (Yesterday the stadium was full of fans cheering for their team.)
+- Hast du schon mal in einem Stadion gesungen? (Have you ever sung in a stadium?)
+'''
+surfen, A2
+Español: surfear
+Русский: серфинг
+English: surfing
+
+- Ich **surfe** gern am Strand. (I like to surf at the beach.)
+- Gestern **surfte** er zum ersten Mal. (Yesterday he surfed for the first time.)
+- Sie hat schon oft **gesurft**. (She has surfed many times.)
+'''
+trainieren, A2
+Español: entrenar
+Русский: тренировать
+English: train
+
+Frases en alemán usando trainieren:
+
+- Ich trainiere jeden Morgen im Fitnessstudio. (Entreno todas las mañanas en el gimnasio.)
+- Gestern trainierte er für den Marathon. (Ayer entrenó para el maratón.)
+- Hast du schon für die Prüfung trainiert? (¿Ya has entrenado para el examen?)
+'''
+das Training, - A2
+Español: entrenamiento
+Русский: тренировка
+English: training
+
+- Ich gehe jeden Morgen zum Training. (I go to training every morning.)
+- Gestern habe ich das Training ausgelassen, weil ich krank war. (Yesterday I skipped training because I was sick.)
+- Hast du schon dein Training beendet? (Have you finished your training yet?)
+'''
+treiben A2
+Español: impulsar, conducir, practicar
+Русский: гнать, вести, заниматься
+English: drive, lead, do
+
+Frases en alemán usando treiben:
+
+- Die Kinder treiben Sport in der Schule. (Los niños practican deporte en la escuela.)
+- Er trieb die Kühe auf die Weide. (Él condujo las vacas al pasto.)
+- Die Flut trieb das Boot an den Strand. (La marea impulsó el bote a la playa.)
+'''
+wandern, A2
+Español: caminar
+Русский: гулять
+English: hike
+
+- Ich gehe gerne wandern, weil ich die Natur mag. (I like to hike because I like nature.)
+- Gestern sind wir zum Berg gewandert. (Yesterday we hiked to the mountain.)
+- Wir haben schon viele Orte gewandert. (We have hiked many places.)
+'''
+die Wanderung, - en A2
+Español: la excursión, el senderismo
+Русский: поход, пеший туризм
+English: the hike, the hiking
+
+Ejemplos:
+
+- Wir machen am Wochenende eine **Wanderung** in den Bergen. (We are going on a **hike** in the mountains on the weekend.)
+- Als Kind bin ich oft mit meinen Großeltern **gewandert**. (As a child, I often **hiked** with my grandparents.)
+- Hast du schon mal eine **Wanderung** durch den Schwarzwald gemacht? (Have you ever done a **hike** through the Black Forest?)
+'''
+zeichnen A2
+Español: dibujar
+Русский: рисовать
+English: draw
+
+- Ich zeichne gerne Landschaften mit Bleistift. (Me gusta dibujar paisajes con lápiz.)
+- Als Kind zeichnete er oft Comics. (De niño, él dibujaba a menudo cómics.)
+- Hast du das Bild gezeichnet, das an der Wand hängt? (¿Has dibujado tú el cuadro que está en la pared?)
+'''
+die Zeichnung, - en A2
+Español: el dibujo
+Русский: рисунок
+English: the drawing
+
+- Ich mag deine Zeichnung sehr. (I like your drawing very much.)
+- Er machte eine Zeichnung von seinem Haus. (He made a drawing of his house.)
+- Sie hat viele Zeichnungen in ihrem Zimmer aufgehängt. (She has hung many drawings in her room.)
+'''
+(sich) ansehen, A2
+Español: mirar, ver
+Русский: смотреть, видеть
+English: look, see
+
+Ejemplos:
+
+- Ich sehe mir einen Film an. (Me veo una película.)
+- Er sah sich die Fotos an. (Él se miró las fotos.)
+- Hast du dir schon die neue Serie angesehen? (¿Ya te has visto la nueva serie?)
+'''
+die Schönheit, - en A2
+Español: la belleza
+Русский: красота
+English: beauty
+
+- Die Schönheit der Natur ist atemberaubend. (The beauty of nature is breathtaking.)
+- Er war von ihrer Schönheit verzaubert. (He was enchanted by her beauty.)
+- Sie hat die Schönheit ihrer Mutter geerbt. (She inherited the beauty of her mother.)
+'''
+das Ballett, -e A2
+Español: el ballet
+Русский: балет
+English: ballet
+
+- Ich mag **das Ballett** sehr. Es ist eine schöne Kunstform. (I like ballet very much. It is a beautiful art form.)
+- Gestern ging ich mit meiner Freundin ins Theater, um **ein Ballett** zu sehen. Es war sehr beeindruckend. (Yesterday I went to the theater with my girlfriend to see a ballet. It was very impressive.)
+- Hast du schon mal **Ballett** getanzt? Es ist gar nicht so einfach, wie es aussieht. (Have you ever danced ballet? It is not as easy as it looks.)
+'''
+das Bild, - er A2
+Español: la imagen, las imágenes
+Русский: изображение, изображения
+English: the image, the images
+
+Ejemplos de frases en alemán usando esta palabra:
+
+- Ich habe ein schönes **Bild** von dir gemalt. (He pintado un bonito **cuadro** de ti.)
+- Er hat viele **Bilder** an der Wand hängen. (Él tiene muchos **cuadros** colgados en la pared.)
+- Hast du das **Bild** in der Zeitung gesehen? (¿Has visto la **imagen** en el periódico?)
+'''
+das Konzert, -e A2
+Español: el concierto
+Русский: концерт
+English: the concert
+
+- Ich gehe heute Abend zu einem Konzert. (I'm going to a concert tonight.)
+- Gestern haben wir ein tolles Konzert im Park gesehen. (Yesterday we saw a great concert in the park.)
+- Hast du schon mal ein Konzert von Beyoncé besucht? (Have you ever been to a concert by Beyoncé?)
+'''
+die Kultur, - en A2
+Español: la cultura
+Русский: культура
+English: culture
+
+- Die Kultur eines Landes ist sehr wichtig für seine Identität. (The culture of a country is very important for its identity.)
+- Als ich in Berlin war, habe ich viele verschiedene Kulturen kennengelernt. (When I was in Berlin, I met many different cultures.)
+- Ich habe viel über die deutsche Kultur gelernt, seit ich hier wohne. (I have learned a lot about the German culture since I live here.)
+'''
+kulturell, A2
+Español: cultural
+Русский: культурный
+English: cultural
+
+- Die kulturelle Vielfalt ist ein wichtiger Wert für unsere Gesellschaft. (The cultural diversity is an important value for our society.)
+- Er interessierte sich sehr für kulturelle Themen und besuchte oft Museen und Theater. (He was very interested in cultural topics and often visited museums and theaters.)
+- Sie hat in ihrem Leben viele kulturelle Erfahrungen gesammelt. (She has collected many cultural experiences in her life.)
+'''
+malen, A2
+Español: pintar
+Русский: рисовать
+English: paint
+
+Frases en alemán usando malen:
+
+- Ich **male** gerne Landschaften mit Ölfarben. (Me gusta pintar paisajes con óleos.)
+- Als Kind **malte** er oft an den Wänden. (De niño, él pintaba a menudo en las paredes.)
+- Er hat ein schönes Bild von seiner Familie **gemalt**. (Él ha pintado un bonito cuadro de su familia.)
+'''
+der Maler, - / die Malerin, -nen A2
+Español: el pintor / la pintora
+Русский: художник / художница
+English: the painter
+
+- Der Maler **malt** ein schönes Bild. (The painter paints a beautiful picture.)
+- Die Malerin **malte** gestern ein Porträt. (The painter painted a portrait yesterday.)
+- Er hat als Maler **gearbeitet**. (He worked as a painter.)
+'''
+der Musiker, - / die Musikerin, -nen A2
+Español: el músico, la música
+Русский: музыкант, музыкантка
+English: the musician, the female musician
+
+- Er ist ein berühmter Musiker und spielt Klavier. (He is a famous musician and plays piano.)
+- Die Musikerin sang gestern ein schönes Lied. (The female musician sang a beautiful song yesterday.)
+- Hast du schon gehört, dass die Musiker eine neue CD veröffentlicht haben? (Have you heard that the musicians have released a new CD?)
+'''
+die Oper, -n A2
+Español: la ópera
+Русский: опера
+English: the opera
+
+- Ich gehe morgen mit meiner Freundin in die Oper. (I'm going to the opera with my girlfriend tomorrow.)
+- Als Kind war er einmal in der Oper und fand es langweilig. (As a child, he went to the opera once and found it boring.)
+- Hast du schon die neue Oper von Mozart gesehen? (Have you seen the new opera by Mozart?)
+'''
+das Orchester, - A2
+Español: la orquesta
+Русский: оркестр
+English: the orchestra
+
+- Das Orchester spielt eine schöne Melodie. (The orchestra plays a beautiful melody.)
+- Gestern spielte das Orchester im Theater. (Yesterday the orchestra played in the theater.)
+- Er hat schon zweimal mit dem Orchester gespielt. (He has already played with the orchestra twice.)
+'''
+der Sänger, - / die Sängerin, -nen A2
+Español: el cantante / la cantante
+Русский: певец / певица
+English: the singer / the singer
+
+- Der Sänger singt ein Lied. (The singer sings a song.)
+- Die Sängerin sang gestern im Theater. (The singer sang yesterday at the theater.)
+- Er hat viele Sänger und Sängerinnen getroffen. (He has met many singers.)
+'''
+der Schauspieler, - / die Schauspielerin, -nen, A2
+Español: actor / actriz
+Русский: актёр / актриса
+English: actor / actress
+
+- Er ist ein berühmter Schauspieler und hat in vielen Filmen mitgespielt. (He is a famous actor and has starred in many movies.)
+- Als sie noch jung war, wollte sie Schauspielerin werden. (When she was young, she wanted to become an actress.)
+- Er hat früher als Schauspieler gearbeitet, aber jetzt ist er Lehrer. (He used to work as an actor, but now he is a teacher.)
+'''
+Schauspielerin, -nen A2
+Español: actriz, -ces
+Русский: актриса, -ы
+English: actress, -es
+
+- Meine Schwester ist Schauspielerin und spielt in einem Theaterstück mit. (My sister is an actress and plays in a play.)
+- Die Schauspielerin hat gestern einen Oscar gewonnen. (The actress won an Oscar yesterday.)
+- Ich habe die Schauspielerin schon einmal in einem Film gesehen. (I have seen the actress in a movie before.)
+'''
+absagen, B1
+Español: rechazar, cancelar
+Русский: отказывать, отменять
+English: refuse, cancel
+
+Frases en alemán usando absagen:
+
+- Ich muss leider unsere Verabredung für morgen absagen. (Tengo que cancelar nuestra cita de mañana, lo siento.)
+- Er hat ihr einen Heiratsantrag gemacht, aber sie hat abgesagt. (Él le hizo una propuesta de matrimonio, pero ella se negó.)
+- Hast du schon abgesagt, dass du nicht zum Geburtstag kommst? (¿Ya has avisado de que no vas a venir al cumpleaños?)
+'''
+sich amüsieren, B1
+Español: divertirse
+Русский: развлекаться
+English: to have fun
+
+Ejemplos:
+- Ich **amüsiere mich** sehr mit meinen Freunden. (Me divierto mucho con mis amigos.)
+- Gestern **amüsierte er sich** im Kino. (Ayer se divirtió en el cine.)
+- Hast du dich auf der Party **amüsiert**? (¿Te divertiste en la fiesta?)
+'''
+ausgehen B1
+Español: salir
+Русский: выходить
+English: go out
+
+- Ich gehe heute Abend mit meinen Freunden aus. (I go out with my friends tonight.)
+- Gestern ging er mit seiner Freundin aus. (Yesterday he went out with his girlfriend.)
+- Sie sind schon lange nicht mehr ausgegangen. (They have not gone out for a long time.)
+'''
+16, A1
+Español: dieciséis
+Русский: шестнадцать
+English: sixteen
+
+- Ich bin **16** Jahre alt. (I am 16 years old.)
+- Er hat **16** Bücher gelesen. (He has read 16 books.)
+- Sie hat mir **16** Blumen geschenkt. (She gave me 16 flowers as a gift.)
+'''
+bergsteigen, B1
+Español: escalar montañas
+Русский: альпинизм
+English: mountaineering
+
+Frases en alemán usando la palabra bergsteigen:
+
+- Ich liebe **bergsteigen**, weil es mir ein Gefühl von Freiheit gibt. (I love mountaineering because it gives me a feeling of freedom.)
+- Als ich ein Kind war, bin ich mit meinem Vater oft **bergsteigen** gegangen. (When I was a child, I often went mountaineering with my father.)
+- Er hat gestern einen Unfall beim **bergsteigen** gehabt und sich das Bein gebrochen. (He had an accident while mountaineering yesterday and broke his leg.)
+'''
+erleben, B1
+Español: experimentar, vivir
+Русский: переживать, жить
+English: experience, live
+
+Ejemplos:
+
+- Ich habe viele schöne Dinge erlebt, als ich in Spanien war. (I experienced many beautiful things when I was in Spain.)
+- Er erlebte den Krieg als Kind und vergaß ihn nie. (He experienced the war as a child and never forgot it.)
+- Sie hat gestern etwas Schreckliches erlebt. (She experienced something terrible yesterday.)
+'''
+das Erlebnis, - se B1
+Español: la experiencia, las experiencias
+Русский: переживание, переживания
+English: the experience, the experiences
+
+- Ich erzähle dir von meinem **Erlebnis** in Berlin. (I tell you about my **experience** in Berlin.)
+- Er hatte ein schreckliches **Erlebnis** als Kind. (He had a terrible **experience** as a child.)
+- Sie haben viele schöne **Erlebnisse** in ihrem Urlaub gehabt. (They have had many nice **experiences** on their vacation.)
+'''
+fangen B1
+Español: atrapar, capturar
+Русский: ловить, поймать
+English: catch, capture
+
+Algunas frases en alemán usando este verbo son:
+
+- Ich **fange** den Ball mit einer Hand. (Presente)
+- Español: Atrapo la pelota con una mano.
+- Русский: Я ловлю мяч одной рукой.
+- English: I catch the ball with one hand.
+
+- Er **fing** einen großen Fisch. (Präteritum)
+- Español: Él capturó un pez grande.
+- Русский: Он поймал большую рыбу.
+- English: He captured a big fish.
+
+- Hast du die Nachrichten **gefangen**? (Perfekt)
+- Español: ¿Has captado las noticias?
+- Русский: Ты понял новости?
+- English: Did you catch the news?
+'''
+fischen B1
+Español: pescar
+Русский: рыбачить
+English: fish
+Ejemplos:
+- Ich gehe gern am Wochenende fischen. (Me gusta ir a pescar los fines de semana.)
+- Er hat gestern einen großen Fisch gefischt. (Él pescó ayer un pez grande.)
+- Hast du schon mal in diesem See gefischt? (¿Has pescado alguna vez en este lago?)
+'''
+der Freizeitpark, -s B1
+Español: el parque de atracciones
+Русский: парк развлечений
+English: the amusement park
+
+Frases en alemán usando esta palabra:
+
+- Wir gehen am Wochenende in den **Freizeitpark**. (We go to the amusement park on the weekend.)
+- Letztes Jahr war ich mit meiner Familie im **Freizeitpark**. (Last year I was with my family at the amusement park.)
+- Hast du schon mal die Achterbahn im **Freizeitpark** ausprobiert? (Have you ever tried the roller coaster at the amusement park?)
+'''
+Der Kampf, - ¨e B1
+Español: la lucha, el combate
+Русский: борьба, сражение
+English: the fight, the battle
+
+- Er hat den Kampf gegen die Krankheit gewonnen. (He won the fight against the disease.)
+- Im Mittelalter führten die Ritter viele Kämpfe. (In the Middle Ages, the knights fought many battles.)
+- Sie haben lange um ihre Liebe gekämpft. (They fought for their love for a long time.)
+'''
+kämpfen, B1
+Español: luchar
+Русский: бороться
+English: fight
+
+Frases en alemán usando la palabra kämpfen:
+
+- Die Soldaten kämpfen für ihr Land. (Los soldados luchan por su país.)
+- Er kämpfte gegen den Drachen. (Él luchó contra el dragón.)
+- Sie hat lange gegen die Krankheit gekämpft. (Ella ha luchado mucho contra la enfermedad.)
+'''
+kleben, B1
+Español: pegar
+Русский: клеить
+English: glue
+
+Ejemplos de frases en alemán usando kleben:
+
+- Ich klebe die Fotos in mein Album. (Pego las fotos en mi álbum.)
+- Er klebte an seiner Mutter wie eine Klette. (Él se pegaba a su madre como una lapa.)
+- Hast du die Briefmarke schon auf den Umschlag geklebt? (¿Ya has pegado el sello en el sobre?)
+'''
+Der Klebstoff, -e B1
+Español: el pegamento
+Русский: клей
+English: the glue
+
+- Ich brauche Klebstoff, um das Poster an die Wand zu kleben. (I need glue to stick the poster to the wall.)
+- Er klebte die Briefmarke mit Klebstoff auf den Umschlag. (He glued the stamp with glue on the envelope.)
+- Hast du den Klebstoff benutzt, den ich dir gegeben habe? (Did you use the glue that I gave you?)
+'''
+klettern B1
+Español: escalar
+Русский: лазать
+English: climb
+
+- Ich klettere gern in den Bergen. (Me gusta escalar en las montañas.)
+- Gestern kletterten wir auf einen hohen Baum. (Ayer escalamos a un árbol alto.)
+- Hast du schon mal an einer Kletterwand geklettert? (¿Alguna vez has escalado en una pared de escalada?)
+'''
+pfeifen, B1
+Español: silbar
+Русский: свистеть
+English: whistle
+
+- Er kann sehr laut pfeifen. (He can whistle very loudly.)
+- Sie pfiff ein fröhliches Lied. (She whistled a cheerful song.)
+- Er hat gepfiffen, als er das schöne Mädchen sah. (He whistled when he saw the beautiful girl.)
+'''
+der Rekord, -e B1
+Español: el récord
+Русский: рекорд
+English: the record
+
+- Er hat einen neuen **Rekord** aufgestellt. (He set a new record.)
+- Sie brach den alten **Rekord** im Präteritum. (She broke the old record in the past tense.)
+- Hast du schon gehört, dass er den **Rekord** gebrochen hat? (Have you heard that he broke the record?)
+'''
+das Rennen, - B1
+Español: la carrera
+Русский: гонка
+English: the race
+
+- Er nimmt an einem **Rennen** teil. (He participates in a **race**.)
+- Sie gewann das **Rennen** im letzten Jahr. (She won the **race** last year.)
+- Hast du das **Rennen** gestern gesehen? (Did you see the **race** yesterday?)
+'''
+das Ruder, - B1
+Español: el remo
+Русский: весло
+English: the oar
+
+Frases en alemán usando das Ruder:
+
+- Er nahm das Ruder und begann zu rudern. (He took the oar and started to row.)
+- Sie hatten nur ein Ruder, um das Boot zu steuern. (They had only one oar to steer the boat.)
+- Er hat das Ruder verloren, als eine Welle das Boot traf. (He lost the oar when a wave hit the boat.)
+'''
+schwitzen, B1
+Español: sudar
+Русский: потеть
+English: sweat
+
+Frases en alemán usando schwitzen:
+
+- Ich **schwitze** sehr viel, wenn ich Sport mache. (Sudo mucho cuando hago deporte.)
+- Gestern **schwitzte** er vor Angst, als er die Prüfung machte. (Ayer sudó de miedo cuando hizo el examen.)
+- Er hat so viel **geschwitzt**, dass sein Hemd ganz nass war. (Él ha sudado tanto que su camisa estaba toda mojada.)
+'''
+das Segel, - B1
+Español: la vela
+Русский: парус
+English: the sail
+
+Frases en alemán usando esta palabra:
+
+- Das Boot hat ein großes **Segel**. (The boat has a big sail.)
+- Er **segelte** gestern mit seinem Freund über den See. (He sailed across the lake with his friend yesterday.)
+- Sie haben das **Segel** gehisst und sind losgefahren. (They hoisted the sail and drove off.)
+'''
+die Seidenmalerei, - en B1
+Español: la pintura sobre seda
+Русский: роспись по шелку
+English: silk painting
+- Die Seidenmalerei ist eine alte Kunstform, die aus Asien stammt. (Silk painting is an ancient art form that originated in Asia.)
+- Sie hat gestern einen Kurs für Seidenmalerei besucht und ein schönes Tuch bemalt. (She attended a silk painting course yesterday and painted a beautiful cloth.)
+- Er hat seiner Frau zum Geburtstag ein Bild geschenkt, das er mit Seidenmalerei gemacht hat. (He gave his wife a picture for her birthday that he made with silk painting.)
+'''
+der Sieg, -e B1
+Español: la victoria
+Русский: победа
+English: the victory
+
+- Er hat einen großen Sieg errungen. (He achieved a great victory.)
+- Im Mittelalter kämpften die Ritter für den Sieg ihres Königs. (In the Middle Ages, the knights fought for the victory of their king.)
+- Hast du schon gehört? Unsere Mannschaft hat gestern gesiegt! (Have you heard? Our team won yesterday!)
+'''
+siegen B1
+Español: vencer, ganar
+Русский: побеждать, выигрывать
+English: to defeat, to win
+
+Frases en alemán usando siegen:
+
+- Die Mannschaft hat gestern gesiegt und ist ins Finale gekommen. (The team won yesterday and reached the final.)
+- Als er jung war, siegte er oft bei Schachturnieren. (When he was young, he often won at chess tournaments.)
+- Sie hat die Krankheit besiegt und ist jetzt gesund. (She has defeated the disease and is now healthy.)
+'''
+der Sieger, - B1
+Español: el ganador
+Русский: победитель
+English: the winner
+
+- Er ist der Sieger des Wettbewerbs. (He is the winner of the competition.)
+- Sie war eine Siegerin im Leben. (She was a winner in life.)
+- Sie haben das Spiel gewonnen und sind die Sieger. (They have won the game and are the winners.)
+'''
+die Spielregel, -n B1
+Español: la regla del juego
+Русский: правило игры
+English: the game rule
+
+- Bevor wir anfangen, müssen wir die Spielregeln festlegen. (Before we start, we have to set the game rules.)
+- Er hat die Spielregel gebrochen und wurde disqualifiziert. (He broke the game rule and was disqualified.)
+- Hast du die Spielregeln verstanden, die ich dir erklärt habe? (Did you understand the game rules that I explained to you?)
+'''
+die Sportart, -en B1
+Español: el tipo de deporte
+Русский: вид спорта
+English: the kind of sport
+
+- Ich mag viele **Sportarten**, aber mein Lieblingssport ist Fußball. (I like many kinds of sports, but my favorite sport is soccer.)
+- Als Kind habe ich verschiedene **Sportarten** ausprobiert, wie Schwimmen, Tennis und Karate. (As a child, I tried different kinds of sports, such as swimming, tennis and karate.)
+- Hast du schon mal eine neue **Sportart** gelernt? (Have you ever learned a new kind of sport?)
+'''
+tauchen, B1
+Español: bucear
+Русский: нырять
+English: dive
+
+Frases en alemán usando tauchen:
+
+- Ich **tauche** gerne im Meer, weil ich die Fische und Korallen bewundern kann. (Presente)
+- Er **tauchte** gestern mit seinem Freund im See, aber es war zu kalt. (Präteritum)
+- Sie hat schon in vielen Ländern **getaucht** und viele Abenteuer erlebt. (Perfekt)
+'''
+das Tor, -e B1
+Español: la puerta, el gol
+Русский: ворота, гол
+English: the gate, the goal
+
+- Er öffnet das Tor und geht in den Garten. (He opens the gate and goes into the garden.)
+- Im letzten Spiel hat er drei Tore geschossen. (In the last game, he scored three goals.)
+- Hast du das Tor gesehen, das Messi gestern gemacht hat? (Did you see the goal that Messi made yesterday?)
+'''
+der Trainer, - B1
+Español: el entrenador
+Русский: тренер
+English: the coach
+
+- Der Trainer ist sehr zufrieden mit der Leistung seiner Mannschaft. (The coach is very satisfied with the performance of his team.)
+- Gestern trainierte der Trainer die Spieler hart. (Yesterday the coach trained the players hard.)
+- Der Trainer hat schon viele Erfolge gefeiert. (The coach has already celebrated many successes.)
+'''
+turnen, B1
+Español: hacer gimnasia
+Русский: заниматься гимнастикой
+English: do gymnastics
+
+Frases en alemán usando turnen:
+
+- Ich turne jeden Morgen, um fit zu bleiben. (Presente: Hago gimnasia todas las mañanas para mantenerme en forma.)
+- Als Kind turnte er im Sportverein. (Präteritum: De niño hacía gimnasia en el club deportivo.)
+- Hast du schon mal geturnt? (Perfekt: ¿Alguna vez has hecho gimnasia?)
+'''
+der Turnschuh, -e B1
+Español: la zapatilla de deporte
+Русский: кроссовок
+English: the sneaker
+
+- Ich trage gerne Turnschuhe, weil sie bequem sind. (I like to wear sneakers because they are comfortable.)
+- Gestern kaufte er sich neue Turnschuhe im Geschäft. (Yesterday he bought new sneakers in the store.)
+- Hast du deine Turnschuhe schon geputzt? (Have you cleaned your sneakers yet?)
+'''
+unternehmen B1
+Español: emprender, empresa
+Русский: предпринимать, предприятие
+English: undertake, enterprise
+
+- Ich möchte ein eigenes Geschäft **unternehmen**. (I want to start my own business.)
+- Er **unternahm** eine Reise nach Japan. (He undertook a trip to Japan.)
+- Sie haben viele spannende Projekte **unternommen**. (They have undertaken many exciting projects.)
+'''
+der Vorverkauf, - ¨e B1
+Español: la preventa
+Русский: предварительная продажа
+English: the presale
+
+Frases en alemán usando esta palabra:
+
+- Der Vorverkauf für das Konzert beginnt morgen. (The presale for the concert starts tomorrow.)
+- Ich habe die Tickets im Vorverkauf gekauft, weil sie billiger waren. (I bought the tickets in the presale, because they were cheaper.)
+- Hast du schon im Vorverkauf bestellt? (Have you already ordered in the presale?)
+'''
+weitergehen, B1
+Español: seguir, continuar
+Русский: идти дальше, продолжать
+English: go on, continue
+
+- Er geht weiter, obwohl er müde ist. (He goes on, even though he is tired.)
+- Sie ging weiter, als sie die Stimme hörte. (She went on when she heard the voice.)
+- Wir sind weitergegangen, nachdem wir uns verabschiedet hatten. (We went on after we said goodbye.)
+'''
+der Weltmeister, - B1
+Español: el campeón mundial
+Русский: чемпион мира
+English: the world champion
+
+Frases en alemán usando esta palabra:
+
+- **Deutschland ist der Weltmeister im Fußball.** (Alemania es el campeón mundial de fútbol.)
+- **Er war der Weltmeister im Schach, bis er von einem jungen Herausforderer besiegt wurde.** (Él era el campeón mundial de ajedrez, hasta que fue derrotado por un joven retador.)
+- **Sie hat hart trainiert, um Weltmeisterin im Schwimmen zu werden.** (Ella ha entrenado duro para convertirse en campeona mundial de natación.)
+'''
+werfen B1
+Español: lanzar, tirar
+Русский: бросать, кидать
+English: throw, toss
+- Er **wirft** den Ball in die Luft. (He throws the ball in the air.)
+- Sie **warf** ihm einen bösen Blick zu. (She threw him a nasty look.)
+- Er hat die Flasche in den Müll **geworfen**. (He threw the bottle in the trash.)
+'''
+das Ziel, -e B1
+Español: el objetivo, la meta
+Русский: цель
+English: the goal, the target
+
+- Er hat sein Ziel erreicht. (He achieved his goal.)
+- Was ist dein Ziel für dieses Jahr? (What is your goal for this year?)
+- Sie haben das Ziel verfehlt. (They missed the target.)
+'''
+strecken, B1
+Español: estirar, alargar
+Русский: растягивать, удлинять
+English: stretch, extend
+
+Frases en alemán usando esta palabra:
+
+- Ich strecke mich jeden Morgen, bevor ich aufstehe. (Me estiro cada mañana antes de levantarme.)
+- Er hat die Wahrheit gestreckt, um nicht in Schwierigkeiten zu geraten. (Él alargó la verdad para no meterse en problemas.)
+- Sie haben die Straße gestreckt, um mehr Autos zu ermöglichen. (Ellos extendieron la calle para permitir más coches.)
+'''
+sich verabreden mit, B1
+Español: quedar con
+Русский: договариваться с
+English: arrange with
+
+Frases en alemán usando sich verabreden mit:
+
+- Ich habe mich mit meiner Freundin zum Kino verabredet. (Me he quedado con mi amiga para ir al cine.)
+- Er verabredete sich mit seinem Chef, um über seine Zukunft zu sprechen. (Él quedó con su jefe para hablar de su futuro.)
+- Hast du dich schon mit jemandem für die Party verabredet? (¿Ya has quedado con alguien para la fiesta?)
+'''
+die Verabredung, - en B1
+Español: la cita
+Русский: свидание
+English: the date
+
+Ejemplos:
+
+- Ich habe heute Abend eine Verabredung mit Anna. (Tengo una cita con Anna esta noche.)
+- Er hat die Verabredung abgesagt, weil er krank war. (Él canceló la cita porque estaba enfermo.)
+- Hast du schon eine Verabredung für den Valentinstag? (¿Ya tienes una cita para el día de San Valentín?)
+'''
+ausprobieren, B1
+Español: probar, experimentar
+Русский: пробовать, экспериментировать
+English: try, experiment
+
+- Ich möchte ein neues Rezept **ausprobieren**. (I want to try a new recipe.)
+- Er **probier**te die Suppe und fand sie zu salzig. (He tried the soup and found it too salty.)
+- Hast du schon mal Sushi **ausprobiert**? (Have you ever tried sushi?)
+'''
+die Band, -s B1
+Español: la banda
+Русский: группа
+English: the band
+
+- Ich spiele in einer Band. Wir machen Rockmusik. (I play in a band. We make rock music.)
+- Gestern haben wir eine tolle Band im Radio gehört. Sie heißt "Die Ärzte". (Yesterday we heard a great band on the radio. It's called "Die Ärzte".)
+- Hast du schon die neue CD von deiner Lieblingsband gekauft? (Have you already bought the new CD from your favorite band?)
+'''
+die Aktivität, - en B1
+Español: la actividad
+Русский: деятельность
+English: the activity
+
+- Ich mag diese Aktivität, weil sie mir Spaß macht. (I like this activity because it is fun for me.)
+- Gestern haben wir eine interessante Aktivität in der Schule gemacht. (Yesterday we did an interesting activity at school.)
+- Hast du schon eine Aktivität für das Wochenende geplant? (Have you already planned an activity for the weekend?)
+'''
+der Lauf, - ¨e B1
+Español: la carrera, el curso
+Русский: бег, ход
+English: the run, the course
+
+Ejemplos:
+
+- Er nimmt an einem **Lauf** teil, um Geld für einen guten Zweck zu sammeln. (He participates in a **run** to raise money for a good cause.)
+- Der **Lauf** der Zeit ist unaufhaltsam. (The **course** of time is unstoppable.)
+- Er hat den **Lauf** seines Lebens gehabt. (He had the **run** of his life.)
+'''
+der Autor, - en B1
+Español: el autor, la autora
+Русский: автор, авторка
+English: the author
+
+- Der Autor dieses Buches ist sehr berühmt. (The author of this book is very famous.)
+- Er war ein bekannter Autor im 19. Jahrhundert. (He was a well-known author in the 19th century.)
+- Sie hat schon mehrere Bücher als Autorin veröffentlicht. (She has already published several books as an author.)
+'''
+filmen, B1
+Español: filmar
+Русский: снимать
+English: film
+
+- Ich filme gerne die Natur mit meiner Kamera. (Me gusta filmar la naturaleza con mi cámara.)
+- Gestern filmte er eine interessante Szene in der Stadt. (Ayer filmó una escena interesante en la ciudad.)
+- Hast du schon den neuen Film gefilmt, den du mir erzählt hast? (¿Ya has filmado la nueva película que me contaste?)
+'''
+die Galerie, -n B1
+Español: la galería
+Русский: галерея
+English: the gallery
+
+- Ich war gestern in der **Galerie** und habe mir die neue Ausstellung angesehen. (I was in the gallery yesterday and looked at the new exhibition.)
+- In dieser **Galerie** werden nur moderne Kunstwerke gezeigt. (Only modern artworks are shown in this gallery.)
+- Hast du schon die **Galerie** besucht, die sie im alten Bahnhof eröffnet haben? (Have you visited the gallery that they opened in the old train station?)
+'''
+die Göttin, -nen B1
+Español: la diosa
+Русский: богиня
+English: the goddess
+
+- Die Göttin **Athena** ist die Tochter von Zeus und die Schutzpatronin von Athen.
+- Die alten Ägypter verehrten viele **Göttinnen**, wie zum Beispiel Isis, Hathor und Bastet.
+- Die nordischen **Göttinnen** sind in zwei Gruppen unterteilt: die Asen und die Wanen.
+'''
+die Grafik, -en B1
+Español: el gráfico
+Русский: график
+English: the graph
+
+- Die Grafik zeigt die Entwicklung der Bevölkerung in Deutschland von 1950 bis 2020. (The graph shows the development of the population in Germany from 1950 to 2020.)
+- Ich habe eine Grafik erstellt, um die Ergebnisse meiner Umfrage zu präsentieren. (I created a graph to present the results of my survey.)
+- Hast du die Grafik schon an den Chef geschickt? (Did you already send the graph to the boss?)
+
+komisch B1
+Español: extraño, gracioso
+Русский: странный, смешной
+English: strange, funny
+
+- Er hat einen komischen Akzent, ich verstehe ihn kaum. (He has a strange accent, I can barely understand him.)
+- Das ist eine komische Situation, ich weiß nicht, was ich tun soll. (This is a strange situation, I don't know what to do.)
+- Er ist sehr komisch, er bringt mich immer zum Lachen. (He is very funny, he always makes me laugh.)
+'''
+die Kunst, - ¨e B1
+Español: el arte
+Русский: искусство
+English: art
+
+Frases en alemán usando esta palabra:
+
+- Ich mag **die Kunst** sehr. (Me gusta mucho el arte.)
+- Er studiert **die Kunst** an der Universität. (Él estudia arte en la universidad.)
+- Sie hat ein schönes Bild für **die Kunst**-Klasse gemalt. (Ella pintó una bonita imagen para la clase de arte.)
+'''
+die Literatur, - en B1
+Español: la literatura
+Русский: литература
+English: literature
+
+- Ich lese gern **Literatur** aus verschiedenen Ländern und Epochen. (I like to read literature from different countries and epochs.)
+- Er studiert **Literatur** an der Universität. (He studies literature at the university.)
+- Sie hat viele Bücher über deutsche **Literatur**. (She has many books about German literature.)
+'''
+das Märchen, - B1
+Español: el cuento de hadas
+Русский: сказка
+English: the fairy tale
+
+- Er liebt Märchen, besonders die von den Brüdern Grimm. (He loves fairy tales, especially those by the Brothers Grimm.)
+- Als Kind hörte sie oft Märchen von ihrer Großmutter. (As a child, she often listened to fairy tales from her grandmother.)
+- Hast du schon das neue Märchen von Disney gesehen? (Have you seen the new fairy tale from Disney yet?)
+'''
+das Publikum, -s B1
+Español: el público
+Русский: публика
+English: the audience
+
+Frases en alemán usando esta palabra:
+
+- Das Publikum **applaudiert** dem Sänger. (El público **aplaude** al cantante.)
+- Gestern **war** das Publikum sehr **begeistert**. (Ayer el público estaba muy **entusiasmado**.)
+- Er hat das Publikum **unterhalten**. (Él ha **entretenido** al público.)
+'''
+die Serie, -n B1
+Español: la serie
+Русский: сериал
+English: the series
+
+- Ich schaue gerne **Serien** auf Netflix. (I like to watch **series** on Netflix.)
+- Gestern habe ich die erste Folge einer neuen **Serie** gesehen. (Yesterday I watched the first episode of a new **series**.)
+- Hast du schon die ganze **Serie** geschaut? (Have you already watched the whole **series**?)
+'''
+die Spannung, - en B1
+Español: la tensión, el suspense
+Русский: напряжение, интрига
+English: tension, suspense
+
+- Die Spannung steigt, als der Detektiv dem Mörder näher kommt. (The tension rises as the detective gets closer to the murderer.)
+- Er erzählte die Geschichte mit so viel Spannung, dass alle gebannt zuhörten. (He told the story with so much suspense that everyone listened spellbound.)
+- Sie spürte die Spannung in der Luft, als sie das Zimmer betrat. (She felt the tension in the air as she entered the room.)
+'''
+der Star, -s B1
+Español: el estornino
+Русский: скворец
+English: the starling
+
+Frases en alemán usando esta palabra:
+
+- Der Star ist ein sehr geselliger Vogel, der oft in großen Schwärmen fliegt. (The starling is a very sociable bird that often flies in large flocks.)
+- Gestern habe ich einen Star gefunden, der verletzt war. Ich habe ihn mit nach Hause genommen und versorgt. (Yesterday I found a starling that was injured. I took him home and took care of him.)
+- Hast du gewusst, dass die Stare zu den besten Imitatoren unter den Vögeln gehören? Sie können sogar menschliche Sprache nachahmen. (Did you know that starlings are among the best imitators among birds? They can even mimic human speech.)
+'''
+das Taschenbuch, -¨er B1
+Español: el libro de bolsillo
+Русский: карманный словарь
+English: the paperback
+
+- Ich lese gerne Taschenbücher, weil sie leicht und billig sind. (I like to read paperbacks because they are light and cheap.)
+- Er hat ihr zum Geburtstag ein Taschenbuch geschenkt. (He gave her a paperback for her birthday.)
+- Hast du das Taschenbuch schon gelesen, das ich dir geliehen habe? (Have you read the paperback that I lent you?)
+'''
+veranstalten B1
+Español: organizar, celebrar
+Русский: организовывать, проводить
+English: organize, hold
+
+Frases en alemán usando veranstalten:
+
+- Wir **veranstalten** heute Abend eine Party. Möchtest du kommen?
+(We are holding a party tonight. Do you want to come?)
+- Gestern **veranstaltete** er einen Vortrag über die Geschichte Deutschlands.
+(Yesterday he held a lecture about the history of Germany.)
+- Sie haben schon viele Konzerte **veranstaltet**.
+(They have organized many concerts.)
+'''
+beten, B1
+Español: rezar
+Русский: молиться
+English: pray
+
+Frases en alemán usando beten:
+
+- Ich bete jeden Abend vor dem Schlafengehen. (Rezo todas las noches antes de acostarme.)
+- Er betete, dass er die Prüfung bestehen würde. (Él rezó para que aprobara el examen.)
+- Sie haben lange und innig gebetet. (Ellos han rezado largo y tendido.)
+'''
+kirchlich, B1
+Español: eclesiástico, religioso
+Русский: церковный, религиозный
+English: ecclesiastical, religious
+
+- Die kirchliche Trauung findet in der Kathedrale statt.
+  - La boda religiosa tiene lugar en la catedral.
+  - Церковная свадьба проходит в соборе.
+  - The religious wedding takes place in the cathedral.
+- Er war kirchlich nicht sehr engagiert, aber er glaubte an Gott.
+  - No estaba muy comprometido con la iglesia, pero creía en Dios.
+  - Он не был очень религиозным, но верил в Бога.
+  - He was not very involved in the church, but he believed in God.
+- Sie haben sich kirchlich scheiden lassen, weil sie nicht mehr zusammen leben wollten.
+  - Se divorciaron por la iglesia porque ya no querían vivir juntos.
+  - Они развелись по церковному, потому что больше не хотели жить вместе.
+  - They got divorced by the church because they did not want to live together anymore.
+'''
+das Abenteuer, - B2
+Español: la aventura
+Русский: приключение
+English: adventure
+
+- Ich liebe es, neue **Abenteuer** zu erleben. (I love to experience new adventures.)
+- Als Kind las er gerne Bücher über **Abenteuer**. (As a child, he liked to read books about adventures.)
+- Sie haben viele **Abenteuer** erlebt, seit sie nach Australien gezogen sind. (They have had many adventures since they moved to Australia.)
+'''
+das Badetuch, -¨er B2
+Español: la toalla de baño
+Русский: банное полотенце
+English: bath towel
+
+- Ich brauche ein neues **Badetuch**, meins ist zu klein. (I need a new bath towel, mine is too small.)
+- Er wickelte sich das **Badetuch** um die Hüften und ging zum Strand. (He wrapped the bath towel around his hips and went to the beach.)
+- Hast du dein **Badetuch** schon gewaschen? (Have you washed your bath towel yet?)
+'''
+der Barhocker, - B2
+Español: el taburete de bar
+Русский: барный стул
+English: the bar stool
+
+Frases en alemán usando esta palabra:
+
+- Ich habe mir einen neuen **Barhocker** für meine Küche gekauft. (I bought a new bar stool for my kitchen.)
+- Er saß auf dem **Barhocker** und trank sein Bier. (He sat on the bar stool and drank his beer.)
+- Sie ist vom **Barhocker** gefallen und hat sich den Arm gebrochen. (She fell off the bar stool and broke her arm.)
+'''
+die Freizeitgesellschaft, -en B2
+Español: la sociedad del ocio
+Русский: общество досуга
+English: the leisure society
+
+- Die Freizeitgesellschaft ist ein soziologischer Begriff, der eine Gesellschaft beschreibt, in der die Menschen viel Zeit für Freizeitaktivitäten haben.
+- In der Freizeitgesellschaft haben die Menschen mehr Möglichkeiten, ihre Interessen und Talente zu entfalten.
+- Die Kehrseite der Freizeitgesellschaft ist, dass viele Menschen sich gelangweilt oder unzufrieden fühlen, weil sie keinen Sinn in ihrem Leben finden.
+'''
+die Freizeitindustrie, B2
+Español: la industria del ocio
+Русский: индустрия досуга
+English: the leisure industry
+
+- Die Freizeitindustrie ist ein wichtiger Wirtschaftszweig, der viele Arbeitsplätze schafft. (The leisure industry is an important economic sector that creates many jobs.)
+- Vor der Pandemie war die Freizeitindustrie sehr erfolgreich und beliebt. (Before the pandemic, the leisure industry was very successful and popular.)
+- Die Freizeitindustrie hat sich von der Krise erholt und bietet wieder viele attraktive Angebote an. (The leisure industry has recovered from the crisis and offers many attractive offers again.)
+'''
+die Jagd, -en B2
+Español: la caza
+Русский: охота
+English: the hunting
+
+- Er liebt die Jagd auf wilde Tiere. (He loves hunting wild animals.)
+- Sie ging gestern mit ihrem Vater zur Jagd. (She went hunting with her father yesterday.)
+- Hast du schon mal an einer Jagd teilgenommen? (Have you ever participated in a hunting?)
+'''
+spaßen, B2
+Español: bromear
+Русский: шутить
+English: joke
+
+- Er spaßt nur, er meint das nicht ernst. (He is just joking, he doesn't mean it seriously.)
+- Sie spaßten gestern über die neue Lehrerin. (They joked about the new teacher yesterday.)
+- Hast du schon mit ihm gespaßt? (Have you joked with him yet?)
+'''
+spendieren B2
+Español: invitar, pagar la cuenta
+Русский: угощать, расплачиваться
+English: treat, pay the bill
+
+- Er hat uns zum Essen spendiert. (He treated us to a meal.)
+- Ich habe ihr gestern einen Kaffee spendiert. (I bought her a coffee yesterday.)
+- Hast du ihm das Buch gespendiert? (Did you pay for the book for him?)
+'''
+der TV, B2
+Español: el club de gimnasia
+Русский: гимнастический клуб
+English: the gymnastics club
+
+- Der TV hat viele Mitglieder, die verschiedene Sportarten ausüben.
+- Als ich klein war, war ich im TV und habe geturnt.
+- Hast du schon gehört, dass der TV einen neuen Trainer eingestellt hat?
+'''
+die Umkleidekabine, -n B2
+Español: el probador, los probadores
+Русский: примерочная, примерочные
+English: the fitting room, the fitting rooms
+
+- Ich gehe in die Umkleidekabine, um das Kleid anzuprobieren.
+- Er kam aus der Umkleidekabine und fragte seine Freundin, wie ihm die Hose stand.
+- Sie haben gestern in der Umkleidekabine geküsst.
+'''
+sich umkleiden, B2
+Español: cambiarse de ropa
+Русский: переодеваться
+English: to change clothes
+
+- Ich muss mich umkleiden, bevor ich zur Arbeit gehe. (I have to change clothes before I go to work.)
+- Er kleidete sich schnell um und rannte zum Bus. (He changed clothes quickly and ran to the bus.)
+- Hast du dich schon umgekleidet? Du siehst sehr schick aus. (Have you already changed clothes? You look very chic.)
+'''
+sich vergnügen, B2
+Español: divertirse
+Русский: развлекаться
+English: to have fun
+
+Frases en alemán usando sich vergnügen:
+
+- Er vergnügt sich mit seinen Freunden im Park. (Él se divierte con sus amigos en el parque.)
+- Sie vergnügte sich gestern auf der Party. (Ella se divirtió ayer en la fiesta.)
+- Wir haben uns sehr im Urlaub vergnügt. (Nos hemos divertido mucho en las vacaciones.)
+'''
+die Vergnügung, - en B2
+Español: el placer, la diversión
+Русский: удовольствие, развлечение
+English: the pleasure, the amusement
+
+- Ich habe keine Vergnügung an diesem Spiel. (I have no pleasure in this game.)
+- Er erzählte uns von seiner Vergnügung in Paris. (He told us about his amusement in Paris.)
+- Sie haben sich gestern zur Vergnügung ins Kino gegangen. (They went to the cinema for fun yesterday.)
+'''
+werken B2
+Español: trabajar
+Русский: работать
+English: work
+
+Algunas frases en alemán usando el verbo werken son:
+
+- Ich arbeite jeden Tag von neun bis fünf Uhr. (Trabajo todos los días de nueve a cinco.)
+- Er arbeitete gestern bis spät in die Nacht. (Él trabajó hasta tarde anoche.)
+- Sie hat als Lehrerin gearbeitet. (Ella ha trabajado como profesora.)
+'''
+wetten, B2
+Español: apostar
+Русский: ставить
+English: bet
+
+Frases en alemán usando wetten:
+
+- Ich **wette** mit dir, dass er nicht kommt. (Presente)
+- Er **wettete** gestern viel Geld auf das Pferd. (Präteritum)
+- Sie haben alles verloren, was sie **gewettet** haben. (Perfekt)
+'''
+zielen B2
+Español: apuntar, tener como objetivo
+Русский: целиться, ставить цель
+English: aim, target
+
+Frases en alemán usando zielen:
+
+- Er zielte mit der Pistole auf die Zielscheibe. (Él apuntó con la pistola al blanco.)
+- Wir zielen darauf ab, unsere Kunden zufrieden zu stellen. (Tenemos como objetivo satisfacer a nuestros clientes.)
+- Sie hat mit ihrer Kritik nicht auf dich gezielt. (Ella no te ha tenido como objetivo con su crítica.)
+'''
+ringen, B2
+Español: luchar, pelear
+Русский: бороться, драться
+English: wrestle, fight
+
+Algunas frases en alemán usando esta palabra son:
+
+- Er ringt mit seinem Bruder um die Fernbedienung. (Él lucha con su hermano por el control remoto.)
+- Sie hat lange mit ihrer Entscheidung gerungen. (Ella ha luchado mucho con su decisión.)
+- Er hat den Gegner im Finale besiegt, nachdem er ihn zu Boden gerungen hatte. (Él derrotó al oponente en la final, después de haberlo derribado.)
+'''
+gestalten B2
+Español: crear, diseñar, dar forma
+Русский: создавать, проектировать, формировать
+English: create, design, shape
+
+Frases en alemán usando gestalten:
+
+- Ich möchte meine Zukunft selbst gestalten. (Quiero crear mi propio futuro.)
+- Er hat das Buch sehr kreativ gestaltet. (Él diseñó el libro de forma muy creativa.)
+- Wie hast du dein Zimmer gestaltet? (¿Cómo le diste forma a tu habitación?)
+'''
+der Akt, -e B2
+Español: el acto, la acción
+Русский: акт, действие
+English: the act, the action
+
+- Der Akt der Vergebung ist sehr wichtig für die Heilung. (The act of forgiveness is very important for healing.)
+- Er malte einen Akt von seiner Frau. (He painted a nude of his wife.)
+- Die Polizei hat den Akt des Vandalismus untersucht. (The police investigated the act of vandalism.)
+'''
+die Aufklärung, - en B2
+Español: la ilustración
+Русский: просвещение
+English: the enlightenment
+- Die Aufklärung war eine kulturelle Bewegung in Europa, die im 18. Jahrhundert begann und die Vernunft betonte.
+- Immanuel Kant war einer der wichtigsten Philosophen der Aufklärung. Er schrieb: "Aufklärung ist der Ausgang des Menschen aus seiner selbstverschuldeten Unmündigkeit."
+- Die Aufklärung hat viele Bereiche wie Wissenschaft, Kunst, Politik und Religion beeinflusst. Sie hat auch zur Entstehung der Menschenrechte und der Demokratie beigetragen.
+'''
+darstellen, B2
+Español: representar, mostrar, exponer
+Русский: изображать, показывать, излагать
+English: depict, show, present
+
+Frases en alemán usando darstellen:
+
+- Er stellt die Landschaft mit viel Detail dar. (Él representa el paisaje con mucho detalle.)
+- Sie stellte mir ihre Familie vor. (Ella me presentó a su familia.)
+- Er hat seine Meinung klar dargestellt. (Él expuso su opinión claramente.)
+'''
+der Darsteller, - / die Darstellerin, -
+Español: el actor / la actriz
+Русский: актёр / актриса
+English: the actor / the actress
+
+Algunas frases en alemán usando esta palabra son:
+
+- Der Darsteller von James Bond ist Daniel Craig. (El actor de James Bond es Daniel Craig.)
+- Die Darstellerin hat für ihre Rolle einen Oscar gewonnen. (La actriz ganó un Oscar por su papel.)
+- Er war ein berühmter Darsteller in den 80er Jahren, aber jetzt ist er in Vergessenheit geraten. (Él fue un famoso actor en los años 80, pero ahora está olvidado.)
+'''
+nen, B2
+Español: nombrar
+Русский: называть
+English: to name
+
+Frases en alemán usando nen:
+
+- Ich nenne dich meinen Freund. (Te llamo mi amigo.)
+- Er nannte sie seine Schwester. (Él la llamó su hermana.)
+- Sie haben das Kind Anna genannt. (Han llamado al niño Anna.)
+'''
+ewig, B2
+Español: eterno, eterna
+Русский: вечный, вечная
+English: eternal
+
+Ejemplos:
+- Die Liebe ist ewig. (El amor es eterno.)
+- Er war ewig nicht mehr hier. (Él no ha estado aquí por una eternidad.)
+- Sie hat ewig auf ihn gewartet. (Ella lo ha esperado por siempre.)
+'''
+formen, B2
+Español: formar, moldear
+Русский: формировать, лепить
+English: shape, mold
+- Er formt den Ton zu einer Vase. (He shapes the clay into a vase.)
+- Sie formten eine Allianz gegen den Feind. (They formed an alliance against the enemy.)
+- Er hat seine Persönlichkeit im Laufe der Jahre geformt. (He has molded his personality over the years.)
+'''
+das Gedicht, -e B2
+Español: el poema
+Русский: стихотворение
+English: the poem
+
+- Ich lese gerne **Gedichte** von Rilke und Goethe.
+- Er hat ihr ein schönes **Gedicht** zum Geburtstag geschrieben.
+- Hast du schon das neue **Gedicht** von Nora Gomringer gelesen?
+'''
+das Gemälde, - B2
+Español: el cuadro
+Русский: картина
+English: the painting
+
+- Das Gemälde hängt an der Wand. (The painting hangs on the wall.)
+- Er malte das Gemälde im Jahr 1923. (He painted the painting in 1923.)
+- Sie hat das Gemälde von ihrem Großvater geerbt. (She inherited the painting from her grandfather.)
+'''
+die Handlung, - en B2
+Español: la acción, el argumento
+Русский: действие, сюжет
+English: the action, the plot
+
+- Die Handlung des Films war sehr spannend und überraschend. (The plot of the film was very exciting and surprising.)
+- Er handelte aus Liebe und nicht aus Hass. (He acted out of love and not out of hate.)
+- Sie hat gestern eine mutige Handlung vollbracht. (She accomplished a brave action yesterday.)
+'''
+die Hauptrolle, -n B2
+Español: el papel principal
+Русский: главная роль
+English: the main role
+
+- Er spielt die Hauptrolle in dem neuen Film. (He plays the main role in the new film.)
+- Sie hatte die Hauptrolle in einem Theaterstück. (She had the main role in a play.)
+- Er hat die Hauptrolle in vielen Filmen gespielt. (He has played the main role in many films.)
+'''
+das Kabarett, -s B2
+Español: el cabaret
+Русский: кабаре
+English: the cabaret
+
+Frases en alemán usando esta palabra:
+
+- Ich gehe heute Abend ins Kabarett, um mir eine Satire-Show anzusehen. (Voy al cabaret esta noche para ver un espectáculo de sátira.)
+- Gestern war er im Kabarett und hat viel gelacht. (Ayer estuvo en el cabaret y se rió mucho.)
+- Er hat schon in vielen Kabaretts gespielt und ist sehr beliebt. (Ha actuado en muchos cabarets y es muy popular.)
+'''
+klatschen, B2
+Español: aplaudir
+Русский: хлопать
+English: clap
+
+- Die Zuschauer klatschen begeistert nach der Vorstellung. (The audience claps enthusiastically after the performance.)
+- Er klatschte ihr eine Ohrfeige. (He slapped her in the face.)
+- Sie haben viel geklatscht, als sie das Ergebnis gehört haben. (They clapped a lot when they heard the result.)
+'''
+die Komik, B2
+Español: la comicidad
+Русский: комизм
+English: the comicality
+
+- Die Komik dieser Szene ist unübertroffen. (The comicality of this scene is unsurpassed.)
+- Er erzählte uns von der Komik seines ersten Dates. (He told us about the comicality of his first date.)
+- Sie hat einen Sinn für Komik. (She has a sense of comicality.)
+'''
+der Kult, -e oder -s B2
+Español: el culto
+Русский: культ
+English: the cult
+
+- Dieser Film hat einen **Kult**status erreicht. (This film has achieved a **cult** status.)
+- Die Anhänger des **Kults** trugen alle weiße Gewänder. (The followers of the **cult** all wore white robes.)
+- Er hat sich von dem **Kult** losgesagt und ist geflohen. (He renounced the **cult** and fled.)
+'''
+17, A1
+Español: diecisiete
+Русский: семнадцать
+English: seventeen
+
+- Ich bin **17** Jahre alt. (I am 17 years old.)
+- Er hat **17** Bücher gelesen. (He has read 17 books.)
+- Sie hat **17** Euro für das Kleid bezahlt. (She paid 17 euros for the dress.)
+'''
+der Musikant, -en B2
+Español: músico
+Русский: музыкант
+English: musician
+
+Frases en alemán usando esta palabra:
+
+- Er ist ein talentierter **Musikant**, der viele Instrumente spielen kann. (Él es un músico talentoso que puede tocar muchos instrumentos.)
+- Gestern trafen wir einen alten **Musikanten**, der uns von seinen Reisen erzählte. (Ayer nos encontramos con un viejo músico que nos contó de sus viajes.)
+- Sie hat den **Musikanten** geheiratet, den sie im Konzert kennengelernt hat. (Ella se casó con el músico que conoció en el concierto.)
+'''
+die Plakat, -e B2
+Español: el cartel
+Русский: плакат
+English: the poster
+
+- Das Plakat hängt an der Wand. (The poster hangs on the wall.)
+- Er hat gestern ein Plakat gemalt. (He painted a poster yesterday.)
+- Sie haben viele Plakate für die Demonstration gemacht. (They made many posters for the demonstration.)
+'''
+plakatieren, B2
+Español: pegar carteles
+Русский: плакатировать
+English: to poster
+
+Frases en alemán usando plakatieren:
+
+- Die Aktivisten plakatieren die Stadt mit ihren Forderungen. (The activists poster the city with their demands.)
+- Er plakatierte früher für die SPD, aber jetzt ist er parteilos. (He used to poster for the SPD, but now he is non-partisan.)
+- Hast du schon die neuen Plakate plakatiert? (Have you already posted the new posters?)
+'''
+die Probe, -n B2
+Español: el ensayo, la muestra
+Русский: репетиция, проба
+English: the rehearsal, the sample
+
+- Er hat die Probe für das Theaterstück verpasst. (He missed the rehearsal for the play.)
+- Die Polizei hat eine Blutprobe von dem Verdächtigen genommen. (The police took a blood sample from the suspect.)
+- Hast du schon für die Matheprobe gelernt? (Have you studied for the math test yet?)
+'''
+der Regisseur, -e B2
+Español: el director, -es
+Русский: режиссёр, -ы
+English: the director, -s
+
+- Der Regisseur **lobt** die Schauspieler für ihre Leistung. (The director **praises** the actors for their performance.)
+- Der Regisseur **lobte** die Schauspieler für ihre Leistung. (The director **praised** the actors for their performance.)
+- Der Regisseur **hat** die Schauspieler für ihre Leistung **gelobt**. (The director **has praised** the actors for their performance.)
+
+- Der Regisseur **arbeitet** an einem neuen Filmprojekt. (The director **works** on a new film project.)
+- Der Regisseur **arbeitete** an einem neuen Filmprojekt. (The director **worked** on a new film project.)
+- Der Regisseur **hat** an einem neuen Filmprojekt **gearbeitet**. (The director **has worked** on a new film project.)
+
+- Der Regisseur **stellt** dem Publikum seinen Film vor. (The director **introduces** his film to the audience.)
+- Der Regisseur **stellte** dem Publikum seinen Film vor. (The director **introduced** his film to the audience.)
+- Der Regisseur **hat** dem Publikum seinen Film **vorgestellt**. (The director **has introduced** his film to the audience.)
+'''
+der Roman, -e B2
+Español: la novela
+Русский: роман
+English: the novel
+
+Frases en alemán usando esta palabra:
+
+- Ich lese gerne **Romane** von verschiedenen Autoren. (Me gusta leer **novelas** de diferentes autores.)
+- Er hat einen historischen **Roman** geschrieben, der im Mittelalter spielt. (Él escribió una **novela** histórica ambientada en la Edad Media.)
+- Hast du den neuen **Roman** von J.K. Rowling schon gelesen? (¿Ya leíste la nueva **novela** de J.K. Rowling?)
+'''
+der Rundfunk, B2
+Español: la radiodifusión
+Русский: радиовещание
+English: broadcasting
+
+Frases en alemán usando esta palabra:
+
+- Der Rundfunk ist ein wichtiges Medium für die Informationsvermittlung. (La radiodifusión es un medio importante para la transmisión de información.)
+- In der DDR kontrollierte die Regierung den Rundfunk. (En la RDA, el gobierno controlaba la radiodifusión.)
+- Hast du schon die neue Rundfunkgebühr bezahlt? (¿Ya has pagado la nueva tasa de radiodifusión?)
+'''
+der Salon, -s B2
+Español: el salón
+Русский: салон
+English: the salon
+
+- Der Salon ist sehr elegant und modern eingerichtet. (The salon is very elegant and modern furnished.)
+- Gestern war ich in einem neuen Friseursalon. (Yesterday I was in a new hair salon.)
+- Sie hat mir erzählt, dass sie oft literarische Salons besucht hat. (She told me that she often visited literary salons.)
+'''
+das Schauspielhaus, -¨er B2
+Español: el teatro
+Русский: театр
+English: the theater
+- Das Schauspielhaus in Zürich ist eines der bekanntesten Theater in der Schweiz. (The theater in Zurich is one of the most famous theaters in Switzerland.)
+- Wir haben gestern Abend eine tolle Vorstellung im Schauspielhaus gesehen. (We saw a great performance at the theater last night.)
+- Das Schauspielhaus wurde im Jahr 1892 erbaut und steht unter Denkmalschutz. (The theater was built in 1892 and is a protected monument.)
+
+der Schriftsteller, - B2
+Español: el escritor
+Русский: писатель
+English: the writer
+- Der Schriftsteller arbeitet an seinem neuen Roman. (The writer is working on his new novel.)
+- Er ist ein berühmter Schriftsteller, der viele Preise gewonnen hat. (He is a famous writer who has won many awards.)
+- Sie hat schon als Kind davon geträumt, Schriftstellerin zu werden. (She dreamed of becoming a writer since she was a child.)
+'''
+der Schwarz-Weiß-Film, -e B2
+Español: la película en blanco y negro
+Русский: черно-белый фильм
+English: the black-and-white movie
+
+- Ich mag **Schwarz-Weiß-Filme**, weil sie einen besonderen Charme haben. (I like black-and-white movies because they have a special charm.)
+- Als Kind sah ich oft **Schwarz-Weiß-Filme** mit meinen Großeltern. (As a child, I often watched black-and-white movies with my grandparents.)
+- Hast du schon den neuen **Schwarz-Weiß-Film** von Tim Burton gesehen? Er ist sehr kreativ und spannend. (Have you seen the new black-and-white movie by Tim Burton? It is very creative and exciting.)
+'''
+der Verlag, -e B2
+Español: la editorial
+Русский: издательство
+English: the publishing house
+
+Frases en alemán usando esta palabra:
+
+- Mein Traum ist es, eines Tages ein Buch bei einem großen **Verlag** zu veröffentlichen. (Mi sueño es publicar algún día un libro en una gran editorial.)
+- Er arbeitet seit zehn Jahren als Lektor in einem **Verlag**. (Él trabaja desde hace diez años como editor en una editorial.)
+- Sie hat den **Verlag** gewechselt, weil sie mit ihrem alten Vertrag unzufrieden war. (Ella cambió de editorial porque estaba insatisfecha con su antiguo contrato.)
+'''
+verlegen, B2
+Español: avergonzado, tímido, confundido; colocar, instalar, publicar
+Русский: смущенный, застенчивый, растерянный; укладывать, монтировать, издавать
+English: embarrassed, shy, confused; lay, install, publish
+
+Frases en alemán usando verlegen:
+
+- Er war verlegen, als sie ihn küsste. (Él estaba avergonzado cuando ella lo besó.)
+- Sie haben den Teppich im Wohnzimmer verlegt. (Ellos colocaron la alfombra en la sala de estar.)
+- Das Buch wurde im Jahr 2010 verlegt. (El libro fue publicado en el año 2010.)
+'''
+verwandeln, B2
+Español: transformar
+Русский: превращать
+English: transform
+
+- Er kann sich in einen Wolf **verwandeln**. (He can **transform** into a wolf.)
+- Sie **verwandelte** das Wasser in Wein. (She **transformed** the water into wine.)
+- Er hat sich in einen besseren Menschen **verwandelt**. (He has **transformed** into a better person.)
+'''
+die Verwandlung, - en B2
+Español: la transformación, el cambio
+Русский: превращение, изменение
+English: the transformation, the change
+
+- Die Verwandlung von einem Menschen in ein Tier ist ein häufiges Motiv in der Literatur. (The transformation of a human into an animal is a common motif in literature.)
+- Er erzählte mir von seiner Verwandlung vom Raucher zum Nichtraucher. (He told me about his change from smoker to non-smoker.)
+- Sie hat sich in den letzten Jahren sehr verwandelt. (She has changed a lot in the last few years.)
+'''
+der Zuschauer, - / die Zuschauerin, -
+Español: el espectador / la espectadora
+Русский: зритель / зрительница
+English: the spectator / the spectator (female)
+
+Frases en alemán usando esta palabra:
+
+- Der Zuschauer applaudiert dem Schauspieler. (The spectator applauds the actor.)
+- Die Zuschauerin hat die ganze Show genossen. (The spectator (female) enjoyed the whole show.)
+- Gestern waren viele Zuschauer im Stadion. (Yesterday there were many spectators in the stadium.)
+'''
+nen, B2
+Español: nombrar, llamar
+Русский: называть, звать
+English: name, call
+
+Frases en alemán usando nen:
+
+- Wie nennt man dieses Gerät auf Deutsch? (¿Cómo se llama este aparato en alemán?)
+- Er nannte sie seine beste Freundin. (Él la llamó su mejor amiga.)
+- Ich habe ihn gestern angerufen, aber er hat nicht geantwortet. (Lo llamé ayer, pero no contestó.)
+'''
+anschlagen C1
+Español: golpear, pegar, colgar, sonar, tener efecto
+Русский: ударять, приклеивать, вешать, звучать, действовать
+English: hit, stick, hang, sound, work
+
+Frases en alemán usando anschlagen:
+
+- Er schlug die Tür so hart zu, dass die Fenster anschlugen. (Él cerró la puerta tan fuerte que las ventanas sonaron.)
+- Sie schlugen das Plakat an die Wand. (Ellos pegaron el cartel en la pared.)
+- Er hat die Gitarre angeschlagen und alle haben zugehört. (Él tocó la guitarra y todos escucharon.)
+- Die Medizin hat schnell angeschlagen und er fühlte sich besser. (La medicina tuvo efecto rápido y él se sintió mejor.)
+- Wir haben die Jacken an den Haken angeschlagen. (Colgamos las chaquetas en los ganchos.)

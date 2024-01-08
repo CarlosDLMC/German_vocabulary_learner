@@ -1,0 +1,1655 @@
+'''
+die Arbeit, - en A1
+Español: el trabajo, los trabajos
+Русский: работа, работы
+English: work, works
+- Ich gehe jeden Tag zur Arbeit. (Voy al trabajo todos los días.)
+- Gestern habe ich viel Arbeit gehabt. (Ayer tuve mucho trabajo.)
+- Er hat seine Arbeit gut gemacht. (Él ha hecho bien su trabajo.)
+'''
+arbeiten, A1
+Español: trabajar
+Русский: работать
+English: work
+
+Frases en alemán usando arbeiten:
+
+- Ich **arbeite** jeden Tag von neun bis fünf Uhr. (Trabajo todos los días de nueve a cinco.)
+- Gestern **arbeitete** er bis spät in die Nacht. (Ayer trabajó hasta tarde en la noche.)
+- Sie hat hart **gearbeitet**, um ihre Ziele zu erreichen. (Ella ha trabajado duro para alcanzar sus objetivos.)
+'''
+der Arbeiter, - A1
+Español: el trabajador
+Русский: рабочий
+English: the worker
+
+- Der Arbeiter arbeitet in der Fabrik. (The worker works in the factory.)
+- Der Arbeiter arbeitete gestern nicht. (The worker did not work yesterday.)
+- Der Arbeiter hat heute viel geschafft. (The worker has accomplished a lot today.)
+'''
+der Job, -s A1
+Español: el trabajo
+Русский: работа
+English: the job
+
+- Ich suche einen neuen **Job**. (I am looking for a new job.)
+- Er hat seinen **Job** verloren. (He lost his job.)
+- Hast du schon einen **Job** gefunden? (Have you found a job yet?)
+'''
+das Büro, -s A1
+Español: la oficina
+Русский: офис
+English: the office
+
+- Ich arbeite in einem **Büro** in der Stadt. (I work in an **office** in the city.)
+- Gestern war ich nicht im **Büro**, weil ich krank war. (Yesterday I was not in the **office**, because I was sick.)
+- Hast du schon die neuen Möbel für das **Büro** bestellt? (Have you already ordered the new furniture for the **office**?)
+'''
+der Kollege, -n / die Kollegin, -nen A1
+Español: el colega / la colega
+Русский: коллега / коллега
+English: the colleague / the colleague
+
+Ejemplos:
+- Ich arbeite gerne mit **meinem Kollegen** zusammen. Er ist sehr nett und kompetent.
+- **Die Kollegin** von Frau Müller hat heute Geburtstag. Wir haben ihr einen Kuchen gekauft.
+- Hast du schon mit **den Kollegen** gesprochen? Sie warten auf deine Antwort.
+'''
+der Termin, -e A1
+Español: la cita, las citas
+Русский: встреча, встречи
+English: the appointment, the appointments
+
+- Ich habe morgen einen Termin beim Zahnarzt. (I have an appointment with the dentist tomorrow.)
+- Er hat gestern einen wichtigen Termin verpasst. (He missed an important appointment yesterday.)
+- Hast du schon einen Termin für die Prüfung gemacht? (Have you already made an appointment for the exam?)
+'''
+die Pause, -n A1
+Español: el descanso, la pausa
+Русский: перерыв, пауза
+English: the break, the pause
+
+Ejemplos:
+
+- Ich mache eine **Pause** und trinke einen Kaffee. (Hago una pausa y tomo un café.)
+- Gestern haben wir in der Schule keine **Pause** gehabt. (Ayer no tuvimos descanso en la escuela.)
+- Hast du schon deine Hausaufgaben nach der **Pause** gemacht? (¿Ya hiciste tus deberes después del descanso?)
+'''
+der Beruf, -e A1
+Español: la profesión
+Русский: профессия
+English: profession
+
+Frases en alemán usando esta palabra:
+
+- Was ist dein Beruf? Ich bin Lehrer. (¿Cuál es tu profesión? Soy profesor.)
+- Sie hat ihren Beruf gewechselt, weil sie unglücklich war. (Ella cambió de profesión porque era infeliz.)
+- Er hat seinen Beruf sehr gut gelernt. (Él aprendió muy bien su profesión.)
+'''
+der Elektriker, - / die Elektrikerin, -
+Español: el electricista / la electricista
+Русский: электрик / электрик
+English: the electrician
+
+Algunas frases en alemán usando esta palabra son:
+
+- Der Elektriker **repariert** die Lampe. (El electricista repara la lámpara.)
+- Gestern **reparierte** der Elektriker die Steckdose. (Ayer el electricista reparó el enchufe.)
+- Die Elektrikerin **hat** das Kabel **ausgetauscht**. (La electricista ha cambiado el cable.)
+'''
+nen, A1
+Español: nombrar
+Русский: называть
+English: to name
+
+Frases en alemán usando nen:
+
+- Wie heißt du? Ich heiße Anna. (¿Cómo te llamas? Me llamo Anna.)
+- Er nannte seinen Hund Rex. (Él llamó a su perro Rex.)
+- Sie haben ihr Kind Emma genannt. (Ellos han llamado a su hija Emma.)
+'''
+der Fotograf, - en A1
+Español: el fotógrafo
+Русский: фотограф
+English: the photographer
+
+Frases en alemán usando esta palabra:
+
+- Der Fotograf macht schöne Bilder von der Landschaft. (El fotógrafo hace bonitas fotos del paisaje.)
+- Gestern war ich bei einem Fotografen, der ein Porträt von mir gemacht hat. (Ayer estuve en un fotógrafo que me hizo un retrato.)
+- Hast du schon die Fotos gesehen, die der Fotograf uns geschickt hat? (¿Ya has visto las fotos que nos ha mandado el fotógrafo?)
+'''
+der Friseur, -e / die Friseuse, -n A1
+Español: el peluquero, -a
+Русский: парикмахер
+English: the hairdresser
+
+Tres frases en alemán usando esta palabra son:
+
+- Ich gehe morgen zum Friseur, weil ich eine neue Frisur brauche.
+  - Voy al peluquero mañana porque necesito un nuevo peinado.
+  - Я иду завтра к парикмахеру, потому что мне нужна новая прическа.
+  - I'm going to the hairdresser tomorrow because I need a new hairstyle.
+- Die Friseuse hat mir die Haare zu kurz geschnitten.
+  - La peluquera me ha cortado el pelo demasiado corto.
+  - Парикмахер слишком коротко подстригла мне волосы.
+  - The hairdresser cut my hair too short.
+- Er hat gestern als Friseur gearbeitet, aber heute ist er krank.
+  - Ayer trabajó como peluquero, pero hoy está enfermo.
+  - Вчера он работал парикмахером, но сегодня он болен.
+  - He worked as a hairdresser yesterday, but he is sick today.
+'''
+der Journalist,-en / die Journalistin, - (B1)
+
+Español: el periodista / la periodista
+Русский: журналист / журналистка
+English: the journalist
+
+Frases en alemán:
+
+- Der Journalist schreibt einen Artikel über die Wahlen. (The journalist writes an article about the elections.)
+- Die Journalistin hat gestern den Präsidenten interviewt. (The journalist interviewed the president yesterday.)
+- Er hat als Journalist gearbeitet, bevor er Lehrer wurde. (He worked as a journalist before he became a teacher.)
+'''
+nen, A1
+Español: nombrar
+Русский: называть
+English: name
+
+Ejemplos de frases en alemán usando la palabra nen:
+
+- Wie nennt man das auf Deutsch? (¿Cómo se llama eso en alemán?)
+- Er nannte sie seine Freundin. (Él la llamó su novia.)
+- Sie haben ihr Kind Anna genannt. (Ellos han llamado a su hija Anna.)
+'''
+der Kellner, - / die Kellnerin, -nen A1
+Español: el camarero, - / la camarera, -s
+Русский: официант, - / официантка, -и
+English: the waiter, - / the waitress, -es
+
+Tres frases en alemán usando esta palabra son:
+
+- Der Kellner **bringt** uns die Speisekarte. (The waiter **brings** us the menu.)
+- Die Kellnerin **hat** gestern im Restaurant **gearbeitet**. (The waitress **worked** in the restaurant yesterday.)
+- Wir **haben** dem Kellner ein gutes Trinkgeld **gegeben**. (We **gave** the waiter a good tip.)
+'''
+der Mechaniker, - A1
+Español: el mecánico
+Русский: механик
+English: the mechanic
+
+Frases en alemán usando esta palabra:
+
+- Der Mechaniker **repariert** das Auto in der Werkstatt. (El mecánico repara el coche en el taller.)
+- Gestern **reparierte** der Mechaniker einen alten Traktor. (Ayer el mecánico reparó un viejo tractor.)
+- Der Mechaniker **hat** schon viele Autos **repariert**. (El mecánico ha reparado ya muchos coches.)
+'''
+der Verkäufer, - / die Verkäuferin, -
+Español: el vendedor / la vendedora
+Русский: продавец / продавщица
+English: the seller / the saleswoman
+
+Frases en alemán usando esta palabra:
+
+- Der Verkäufer an der Kasse war sehr freundlich. (The seller at the cash register was very friendly.)
+- Die Verkäuferin hat mir ein schönes Kleid empfohlen. (The saleswoman recommended me a nice dress.)
+- Er hat als Verkäufer in einem Buchladen gearbeitet. (He worked as a seller in a bookstore.)
+
+'''
+nen, A1
+Español: nombrar
+Русский: называть
+English: to name
+
+Frases en alemán usando nen:
+
+- Wie heißt du? Ich heiße Anna. (¿Cómo te llamas? Me llamo Anna.)
+- Er nannte seinen Hund Rex. (Él llamó a su perro Rex.)
+- Sie haben das Kind Emma genannt. (Ellos han llamado a la niña Emma.)
+'''
+jobben, A2
+Español: trabajar
+Русский: работать
+English: work
+
+Ejemplos:
+- Ich jobbe jeden Tag von neun bis fünf Uhr. (Trabajo todos los días de nueve a cinco.)
+- Letztes Jahr jobbte er als Kellner in einem Restaurant. (El año pasado trabajó como camarero en un restaurante.)
+- Er hat lange als Lehrer gejobbt, bevor er Schriftsteller wurde. (Él trabajó mucho tiempo como profesor antes de convertirse en escritor.)
+'''
+der Chef, -s / die Chefin, -nen A2
+Español: el jefe / la jefa
+Русский: начальник / начальница
+English: the boss / the boss lady
+
+Frases en alemán usando esta palabra:
+
+- Mein Chef ist sehr nett und verständnisvoll. (My boss is very nice and understanding.)
+- Die Chefin hat gestern einen wichtigen Vertrag unterschrieben. (The boss lady signed an important contract yesterday.)
+- Er hat seinen Chef angerufen, um sich krank zu melden. (He called his boss to report sick.)
+'''
+das Gehalt, -¨er A2
+Español: el sueldo, los sueldos
+Русский: зарплата, зарплаты
+English: the salary, the salaries
+
+- Er verdient ein gutes **Gehalt** als Ingenieur. (He earns a good **salary** as an engineer.)
+- Sie bekam ihr **Gehalt** immer pünktlich. (She always got her **salary** on time.)
+- Hast du schon dein **Gehalt** für diesen Monat erhalten? (Have you already received your **salary** for this month?)
+'''
+das Monatsgehalt, -¨er A2
+Español: el sueldo mensual
+Русский: месячная зарплата
+English: the monthly salary
+
+Frases en alemán usando esta palabra:
+
+- Er verdient ein gutes **Monatsgehalt** als Ingenieur. (Él gana un buen sueldo mensual como ingeniero.)
+- Wie hoch war dein **Monatsgehalt** im letzten Jahr? (¿Cuánto fue tu sueldo mensual el año pasado?)
+- Sie hat ihr **Monatsgehalt** gespendet, um den Armen zu helfen. (Ella donó su sueldo mensual para ayudar a los pobres.)
+'''
+professionell, A2
+Español: profesional
+Русский: профессиональный
+English: professional
+
+- Er ist ein professioneller Fußballspieler. (He is a professional soccer player.)
+- Sie arbeitete professionell als Lehrerin. (She worked professionally as a teacher.)
+- Ich habe meine Arbeit professionell erledigt. (I have done my work professionally.)
+'''
+sicher, A2
+Español: seguro, segura
+Русский: безопасный, безопасная
+English: safe, secure
+
+- Ich fühle mich **sicher** in diesem Haus. (I feel **safe** in this house.)
+- Er war **sicher**, dass er die Prüfung bestanden hatte. (He was **sure** that he had passed the exam.)
+- Hast du die Tür **gesichert**? (Did you **secure** the door?)
+'''
+das Team, -s A2
+Español: el equipo
+Русский: команда
+English: the team
+
+Frases en alemán usando esta palabra:
+
+- Ich bin stolz auf **mein Team**, weil wir hart gearbeitet haben. (Estoy orgulloso de mi equipo porque hemos trabajado duro.)
+- Gestern hat **das Team** ein Fußballspiel gewonnen. (Ayer el equipo ganó un partido de fútbol.)
+- Wir haben **das Team** für das Projekt zusammengestellt. (Hemos formado el equipo para el proyecto.)
+'''
+verdienen A2
+Español: ganar, merecer
+Русский: зарабатывать, заслуживать
+English: earn, deserve
+
+Frases en alemán usando esta palabra:
+
+- Ich verdiene mein Geld als Lehrer. (Gano mi dinero como profesor.)
+- Er hat sich diese Auszeichnung verdient. (Él se merece este premio.)
+- Hast du schon dein Weihnachtsgeld verdient? (¿Ya has ganado tu dinero de Navidad?)
+'''
+der Bäcker, - / die Bäckerin, -nen A2
+Español: el panadero / la panadera
+Русский: пекарь / пекарша
+English: the baker
+
+Frases en alemán usando esta palabra:
+
+- Der Bäcker backt jeden Morgen frisches Brot. (El panadero hornea pan fresco cada mañana.)
+- Gestern habe ich eine Bäckerin kennengelernt, die sehr nett war. (Ayer conocí a una panadera que era muy simpática.)
+- Er hat als Bäcker gearbeitet, bevor er Lehrer wurde. (Él trabajó como panadero antes de ser profesor.)
+'''
+die Bäckerei, - en A2
+Español: la panadería
+Русский: булочная
+English: the bakery
+
+Frases en alemán usando esta palabra:
+
+- Ich kaufe jeden Morgen frisches Brot in der Bäckerei. (Compro pan fresco todas las mañanas en la panadería.)
+- Gestern war die Bäckerei geschlossen, weil der Bäcker krank war. (Ayer la panadería estaba cerrada, porque el panadero estaba enfermo.)
+- Hast du schon die leckeren Kuchen in der neuen Bäckerei probiert? (¿Ya has probado los deliciosos pasteles en la nueva panadería?)
+'''
+der Bauer, -n / die Bäuerin, -nen A2
+Español: el campesino, -s / la campesina, -s
+Русский: крестьянин, -е / крестьянка, -и
+English: the farmer, -s / the farmer's wife, -s
+
+Tres frases en alemán usando esta palabra son:
+
+- Der Bauer pflügt das Feld mit seinem Traktor. (The farmer plows the field with his tractor.)
+- Die Bäuerin hat frische Milch und Eier zum Markt gebracht. (The farmer's wife brought fresh milk and eggs to the market.)
+- Die Bauern haben sich gegen die niedrigen Preise für ihre Erzeugnisse beschwert. (The farmers complained about the low prices for their products.)
+'''
+der Beamte, -n / die Beamtin, -nen A2
+Español: el funcionario, -s / la funcionaria, -s
+Русский: государственный служащий, -е / государственная служащая, -е
+English: the civil servant, -s / the civil servant, -s
+
+Tres frases en alemán usando esta palabra son:
+
+- Der Beamte arbeitet im Finanzamt. (El funcionario trabaja en la oficina de impuestos.)
+- Die Beamtin hat gestern einen wichtigen Bericht geschrieben. (La funcionaria escribió ayer un informe importante.)
+- Er ist schon seit zehn Jahren Beamter. (Él es funcionario desde hace diez años.)
+'''
+frisieren A2
+Español: peinar
+Русский: причесывать
+English: comb
+
+- Ich frisiere meine Haare jeden Morgen. (I comb my hair every morning.)
+- Er frisierte seine Haare mit Gel. (He combed his hair with gel.)
+- Sie hat sich die Haare frisiert. (She combed her hair.)
+'''
+die Hausfrau, -en / der Hausmann, -
+Español: la ama de casa / el amo de casa
+Русский: домохозяйка / домохозяин
+English: the housewife / the househusband
+
+- **Die Hausfrau** kümmert sich um die Kinder und den Haushalt. (The housewife takes care of the children and the household.)
+- **Der Hausmann** hat gestern den Rasen gemäht und die Fenster geputzt. (The househusband mowed the lawn and cleaned the windows yesterday.)
+- Sie hat früher als Lehrerin gearbeitet, aber jetzt ist sie **Hausfrau**. (She used to work as a teacher, but now she is a housewife.)
+'''
+er, A2
+Español: él
+Русский: он
+English: he
+
+Frases en alemán usando er:
+
+- Er ist mein bester Freund. (Él es mi mejor amigo.)
+- Er ging gestern ins Kino. (Él fue ayer al cine.)
+- Er hat einen Kuchen gebacken. (Él ha horneado un pastel.)
+'''
+der Koch, -¨e / die Köchin, -nen A2
+Español: el cocinero / la cocinera
+Русский: повар / повариха
+English: the cook / the chef
+- Der Koch bereitet das Essen für die Gäste vor. (The cook prepares the food for the guests.)
+- Die Köchin arbeitete früher in einem Sternerestaurant. (The chef used to work in a star restaurant.)
+- Er hat als Koch gearbeitet, bevor er Lehrer wurde. (He worked as a cook before he became a teacher.)
+'''
+der Pilot, -en / die Pilotin, -nen A2
+Español: el piloto / la pilota
+Русский: пилот / пилотка
+English: the pilot / the female pilot
+Frases en alemán:
+- Der Pilot fliegt das Flugzeug nach Berlin. (The pilot flies the plane to Berlin.)
+- Die Pilotin war gestern sehr müde, weil sie lange gearbeitet hatte. (The female pilot was very tired yesterday, because she had worked long.)
+- Er möchte Pilot werden, wenn er groß ist. (He wants to become a pilot when he grows up.)
+'''
+der Polizist, -en / die Polizistin, -nen A2
+Español: el policía, -s / la policía, -s
+Русский: полицейский, -е / полицейская, -и
+English: the policeman, -en / the policewoman, -en
+
+- Der Polizist hilft den Menschen in Not. (The policeman helps people in need.)
+- Die Polizistin verhaftete den Dieb gestern. (The policewoman arrested the thief yesterday.)
+- Die Polizisten haben den Fall gelöst. (The policemen have solved the case.)
+'''
+der Rentner, - / die Rentnerin, -nen A2
+Español: el jubilado / la jubilada
+Русский: пенсионер / пенсионерка
+English: the retiree / the retired woman
+
+Frases en alemán usando esta palabra:
+
+- Mein Opa ist **Rentner** und hat viel Zeit für seine Hobbys. (Mi abuelo es jubilado y tiene mucho tiempo para sus aficiones.)
+- Die **Rentnerin** freut sich über den Besuch ihrer Enkel. (La jubilada se alegra de la visita de sus nietos.)
+- Er hat letztes Jahr als Lehrer aufgehört und ist jetzt **Rentner**. (Él dejó de ser profesor el año pasado y ahora es jubilado.)
+'''
+der Spezialist, -en / die Spezialistin, -
+Español: el especialista / la especialista
+Русский: специалист / специалистка
+English: the specialist / the specialist
+
+Frases en alemán usando esta palabra:
+
+- Er ist ein **Spezialist** für Herzchirurgie. (He is a **specialist** in heart surgery.)
+- Die **Spezialistin** hat uns sehr gut beraten. (The **specialist** gave us very good advice.)
+- Sie haben viele **Spezialisten** für dieses Projekt eingestellt. (They hired many **specialists** for this project.)
+'''
+nen, A2
+Español: nombrar
+Русский: называть
+English: name
+
+Frases en alemán usando nen:
+
+- Wie nennt man das auf Deutsch? (¿Cómo se llama eso en alemán?)
+- Er nannte sie seine beste Freundin. (Él la llamó su mejor amiga.)
+- Sie haben ihr Kind Anna genannt. (Ellos han llamado a su hija Anna.)
+'''
+der Steward, -s / die Stewardess, - en A2
+Español: el auxiliar de vuelo / la azafata
+Русский: стюард / стюардесса
+English: the steward / the stewardess
+
+Frases en alemán usando esta palabra:
+
+- Der Steward **bringt** den Passagieren Getränke und Snacks. (The steward **brings** the passengers drinks and snacks.)
+- Die Stewardess **fragte**, ob wir einen Kaffee oder einen Tee wollten. (The stewardess **asked** if we wanted a coffee or a tea.)
+- Er **hat** als Steward bei Lufthansa **gearbeitet**. (He **worked** as a steward for Lufthansa.)
+'''
+der Techniker, - / die Technikerin, -
+Español: el técnico / la técnica
+Русский: техник / техничка
+English: the technician
+
+Frases en alemán usando esta palabra:
+
+- Der Techniker repariert den Computer. (El técnico repara el ordenador.)
+- Die Technikerin arbeitete gestern an einem neuen Projekt. (La técnica trabajó ayer en un nuevo proyecto.)
+- Er hat als Techniker bei Siemens gearbeitet. (Él ha trabajado como técnico en Siemens.)
+'''
+nen, A2
+Español: nombrar
+Русский: называть
+English: to name
+
+- Ich nenne meinen Hund Luna. (I name my dog Luna.)
+- Er nannte sie seine Freundin. (He called her his girlfriend.)
+- Sie haben ihr Kind Max genannt. (They have named their child Max.)
+'''
+die Anzeige, -n A2
+Español: el anuncio, la denuncia
+Русский: объявление, жалоба
+English: the advertisement, the complaint
+
+Frases en alemán usando die Anzeige:
+- Ich habe **die Anzeige** für das neue Auto in der Zeitung gesehen. (I saw **the advertisement** for the new car in the newspaper.)
+- Er hat **die Anzeige** gegen seinen Nachbarn zurückgezogen. (He withdrew **the complaint** against his neighbor.)
+- Die Polizei hat **die Anzeigen** von mehreren Opfern erhalten. (The police received **the complaints** from several victims.)
+
+arbeitslos A2
+Español: desempleado
+Русский: безработный
+English: unemployed
+
+Frases en alemán usando arbeitslos:
+- Er ist seit einem Jahr **arbeitslos**. (He has been **unemployed** for a year.)
+- Sie wurde **arbeitslos**, nachdem sie ihren Job verloren hatte. (She became **unemployed** after she lost her job.)
+- Er hat eine neue Stelle gefunden, nachdem er lange **arbeitslos** war. (He found a new position after he was **unemployed** for a long time.)
+'''
+die Arbeitslosigkeit, - en A2
+Español: el desempleo
+Русский: безработица
+English: unemployment
+
+- Die Arbeitslosigkeit ist in diesem Jahr gestiegen. (El desempleo ha aumentado este año.)
+- Er verlor seinen Job und litt unter Arbeitslosigkeit. (Él perdió su trabajo y sufrió de desempleo.)
+- Sie hat nach ihrer Arbeitslosigkeit eine neue Stelle gefunden. (Ella encontró un nuevo trabajo después de su desempleo.)
+'''
+sich bewerben um A A2
+Español: postularse para A
+Русский: подавать заявку на A
+English: apply for A
+
+Frases en alemán usando esta palabra:
+
+- Ich möchte mich um einen Studienplatz an der Universität bewerben. (Quiero postularme para un lugar en la universidad.)
+- Er hat sich um die Stelle als Lehrer beworben, aber er wurde abgelehnt. (Él se postuló para el puesto de profesor, pero fue rechazado.)
+- Hast du dich schon um ein Visum beworben? (¿Ya has solicitado una visa?)
+'''
+der Bewerber, - / die Bewerberin, -
+Español: el solicitante / la solicitante
+Русский: претендент / претендентка
+English: the applicant
+
+- Der Bewerber hat einen guten Lebenslauf. (The applicant has a good resume.)
+- Die Bewerberin wurde gestern zum Vorstellungsgespräch eingeladen. (The applicant was invited to the interview yesterday.)
+- Er hat sich als Bewerber für die Stelle zurückgezogen. (He withdrew as an applicant for the position.)
+'''
+nen, A2
+Español: nombrar
+Русский: называть
+English: name
+
+Frases en alemán usando nen:
+
+- Wie nennt man das auf Deutsch? (¿Cómo se llama eso en alemán?)
+- Er nannte sie seine beste Freundin. (Él la llamó su mejor amiga.)
+- Sie haben ihr Kind Anna genannt. (Ellos han llamado a su hijo Anna.)
+'''
+die Bewerbung, - en A2
+Español: la solicitud
+Русский: заявление
+English: the application
+
+- Ich schreibe gerade eine Bewerbung für einen neuen Job. (I am writing an application for a new job.)
+- Er hat gestern seine Bewerbung abgeschickt. (He sent his application yesterday.)
+- Hast du schon eine Antwort auf deine Bewerbung bekommen? (Have you received a reply to your application yet?)
+'''
+die Chance, -n A2
+Español: la oportunidad, el chance
+Русский: шанс, возможность
+English: the chance, the opportunity
+
+- Ich habe die Chance, nach Deutschland zu reisen. (I have the chance to travel to Germany.)
+- Er nutzte seine Chance und gewann das Spiel. (He used his chance and won the game.)
+- Hast du schon die Chance gehabt, das Buch zu lesen? (Have you had the chance to read the book?)
+'''
+der Lebenslauf, - ¨e A2
+Español: el currículum vitae
+Русский: резюме
+English: the resume
+
+- Ich habe meinen Lebenslauf aktualisiert und an die Firma geschickt. (I have updated my resume and sent it to the company.)
+- Er hat einen beeindruckenden Lebenslauf mit vielen Erfahrungen. (He has an impressive resume with many experiences.)
+- Hast du schon einen Lebenslauf geschrieben? (Have you already written a resume?)
+'''
+die Stelle, -n A2
+Español: el puesto, la posición
+Русский: место, должность
+English: the place, the position
+
+- Ich habe eine neue Stelle als Lehrer gefunden. (I have found a new position as a teacher.)
+- An dieser Stelle möchte ich mich bei Ihnen bedanken. (At this point I would like to thank you.)
+- Er hat sich an der Stelle verletzt, wo er operiert wurde. (He injured himself at the place where he was operated on.)
+'''
+die Stellenanzeige, -n A2
+Español: el anuncio de empleo
+Русский: объявление о вакансии
+English: the job advertisement
+
+- Ich habe eine interessante **Stellenanzeige** in der Zeitung gesehen. (I saw an interesting **job advertisement** in the newspaper.)
+- Hast du dich auf die **Stellenanzeige** beworben? (Did you apply for the **job advertisement**?)
+- Er hat eine neue Arbeit gefunden, weil er eine **Stellenanzeige** im Internet gelesen hat. (He found a new job because he read a **job advertisement** on the internet.)
+'''
+der Erfolg, -e A2
+Español: el éxito
+Русский: успех
+English: success
+
+Frases en alemán usando esta palabra:
+
+- Er hat viel **Erfolg** in seinem Beruf. (Él tiene mucho éxito en su profesión.)
+- Sie freute sich über ihren **Erfolg** bei der Prüfung. (Ella se alegró de su éxito en el examen.)
+- Er hat es geschafft, er hat **Erfolg** gehabt. (Lo ha logrado, ha tenido éxito.)
+'''
+erfolgreich ↔ erfolglos, A2
+Español: exitoso ↔ fracasado
+Русский: успешный ↔ неудачный
+English: successful ↔ unsuccessful
+
+Frases con erfolgreich:
+- Er ist ein sehr **erfolgreicher** Geschäftsmann. (Él es un hombre de negocios muy exitoso.)
+- Sie hat die Prüfung **erfolgreich** bestanden. (Ella ha aprobado el examen con éxito.)
+- Ich habe **erfolgreich** einen Kuchen gebacken. (He horneado un pastel con éxito.)
+
+Frases con erfolglos:
+- Er hat sich **erfolglos** um die Stelle beworben. (Él solicitó el puesto sin éxito.)
+- Sie versuchte **erfolglos**, ihn anzurufen. (Ella intentó llamarlo sin éxito.)
+- Wir haben **erfolglos** nach dem Schlüssel gesucht. (Buscamos la llave sin éxito.)
+'''
+flexibel, A2
+Español: flexible
+Русский: гибкий
+English: flexible
+
+- Ich bin flexibel und kann mich an jede Situation anpassen.
+- Als er jung war, war er sehr flexibel und konnte viele Sportarten ausüben.
+- Er hat mir gesagt, dass er flexibel gearbeitet hat und deshalb mehr Zeit für seine Familie hatte.
+'''
+die Akte, -n B1
+Español: el expediente
+Русский: дело
+English: the file
+
+- Die Polizei hat die Akte über den Mordfall geschlossen. (The police closed the file on the murder case.)
+- Er bewahrte alle seine Akten in einem Schrank auf. (He kept all his files in a cabinet.)
+- Sie hat ihre Akte aus dem Büro mitgenommen. (She took her file from the office.)
+'''
+das Einkommen, - en B1
+Español: el ingreso, los ingresos
+Русский: доход, доходы
+English: the income, the incomes
+
+Frases en alemán usando esta palabra:
+
+- Mein **Einkommen** reicht nicht aus, um die Miete zu bezahlen. (My income is not enough to pay the rent.)
+- Er hat sein **Einkommen** im letzten Jahr verdoppelt. (He doubled his income last year.)
+- Sie haben ein hohes **Einkommen** und zahlen viele Steuern. (They have a high income and pay a lot of taxes.)
+'''
+entlassen, B1
+Español: despedir, liberar, soltar
+Русский: увольнять, освобождать, отпускать
+English: dismiss, release, let go
+
+Frases en alemán usando entlassen:
+
+- Der Chef hat ihn wegen seiner schlechten Leistung entlassen. (El jefe lo despidió por su mal rendimiento.)
+- Die Gefangenen wurden nach zehn Jahren Haft entlassen. (Los prisioneros fueron liberados después de diez años de cárcel.)
+- Er hat seine Tochter mit einem Kuss entlassen. (Él dejó ir a su hija con un beso.)
+'''
+die Entlassung, - en B1
+Español: el despido
+Русский: увольнение
+English: the dismissal
+
+- Er hat die Entlassung seines Mitarbeiters angekündigt. (He announced the dismissal of his employee.)
+- Nach der Entlassung aus dem Krankenhaus ging sie nach Hause. (After being discharged from the hospital, she went home.)
+- Sie hat ihre Entlassung eingereicht, weil sie unzufrieden war. (She submitted her resignation because she was dissatisfied.)
+'''
+die Führung, - en B1
+Español: el liderazgo, la guía, el tour
+Русский: руководство, гид, экскурсия
+English: leadership, guide, tour
+
+Ejemplos:
+
+- Er hat die Führung des Projekts übernommen. (He took over the leadership of the project.)
+- Wir haben eine Führung durch das Museum gebucht. (We booked a tour of the museum.)
+- Sie ist eine erfahrene Führung für Bergwanderer. (She is an experienced guide for mountain hikers.)
+'''
+die Kantine, -n B1
+Español: el comedor
+Русский: столовая
+English: the cafeteria
+
+- In der Kantine gibt es heute Nudeln mit Tomatensoße. (In the cafeteria there is pasta with tomato sauce today.)
+- Gestern war ich mit meinen Kollegen in der Kantine essen. (Yesterday I went to eat in the cafeteria with my colleagues.)
+- Hast du schon mal in der Kantine gefrühstückt? (Have you ever had breakfast in the cafeteria?)
+'''
+der Lohn, - ¨e B1
+Español: el sueldo
+Русский: зарплата
+English: the salary
+
+Frases en alemán usando esta palabra:
+
+- Er arbeitet hart für seinen **Lohn**. (Él trabaja duro por su sueldo.)
+- Sie bekam einen höheren **Lohn**, weil sie eine Gehaltserhöhung verlangte. (Ella recibió un salario más alto porque pidió un aumento de sueldo.)
+- Hast du schon deinen **Lohn** für diesen Monat bekommen? (¿Ya has recibido tu salario de este mes?)
+'''
+sich lohnen, B1
+Español: valer la pena
+Русский: стоить того
+English: to be worth it
+
+- Es lohnt sich, diese Serie zu sehen. Sie ist sehr spannend und lustig.
+(It is worth it to watch this series. It is very exciting and funny.)
+- Er lohnte sich nicht, für die Prüfung zu lernen. Er hat trotzdem eine schlechte Note bekommen.
+(He did not bother to study for the exam. He still got a bad grade.)
+- Sie hat sich sehr gelohnt, eine Reise nach Japan zu machen. Sie hat viele schöne Orte besucht und neue Freunde gefunden.
+(She was very glad to make a trip to Japan. She visited many beautiful places and made new friends.)
+'''
+der Mitarbeiter, - / die Mitarbeiterin, -
+Español: el empleado / la empleada
+Русский: сотрудник / сотрудница
+English: the employee / the employee
+
+Frases en alemán usando esta palabra:
+
+- Der Mitarbeiter hat seine Arbeit gut gemacht. (El empleado hizo bien su trabajo.)
+- Die Mitarbeiterin war sehr freundlich und hilfsbereit. (La empleada fue muy amable y servicial.)
+- Er ist seit fünf Jahren ein Mitarbeiter dieser Firma. (Él es un empleado de esta empresa desde hace cinco años.)
+'''
+nen, B1
+Español: nombrar, llamar
+Русский: называть, звать
+English: name, call
+
+Frases en alemán usando nen:
+
+- Wie nennt man das auf Deutsch? (¿Cómo se llama eso en alemán?)
+- Er nennt mich immer Schatz. (Él siempre me llama cariño.)
+- Sie hat ihn gestern angerufen, aber er hat nicht geantwortet. (Ella lo llamó ayer, pero él no contestó.)
+'''
+die Prämie, -n B1
+Español: la prima, el bono
+Русский: премия, бонус
+English: the premium, the bonus
+
+Frases en alemán usando esta palabra:
+
+- Er hat eine hohe Prämie für seine Arbeit bekommen. (He got a high bonus for his work.)
+- Die Versicherung verlangt eine monatliche Prämie. (The insurance company requires a monthly premium.)
+- Hast du schon deine Prämie für dieses Jahr erhalten? (Have you already received your bonus for this year?)
+'''
+prämieren, B1
+Español: premiar
+Русский: награждать
+English: award
+
+- Der Film wurde mit dem Oscar prämiert. (The film was awarded an Oscar.)
+- Sie prämierte ihn für seine gute Arbeit mit einem Lächeln. (She rewarded him for his good work with a smile.)
+- Er hat seine Schüler für ihre Fortschritte prämiert. (He has rewarded his students for their progress.)
+'''
+die Rente, B1
+Español: la pensión
+Русский: пенсия
+English: the pension
+
+- Ich bekomme bald meine Rente. (I will soon get my pension.)
+- Er hat seine Rente im letzten Jahr bekommen. (He got his pension last year.)
+- Sie hat ihre Rente schon lange bekommen. (She has received her pension for a long time.)
+'''
+der Streik, -s B1
+Español: la huelga
+Русский: забастовка
+English: the strike
+
+- Die Arbeiter haben einen Streik angekündigt, um höhere Löhne zu fordern.
+(The workers have announced a strike to demand higher wages.)
+- Während des Streiks blieben die Fabriken geschlossen.
+(During the strike, the factories remained closed.)
+- Die Regierung hat versucht, den Streik mit einem Kompromiss zu beenden.
+(The government tried to end the strike with a compromise.)
+'''
+streiken B1
+Español: hacer huelga
+Русский: забастовать
+English: to strike
+
+Frases en alemán usando el verbo streiken:
+
+- Die Arbeiter streiken für bessere Löhne und Arbeitsbedingungen. (Los trabajadores hacen huelga por mejores salarios y condiciones laborales.)
+- Im Jahr 1918 streikten die Matrosen gegen den Krieg. (En el año 1918, los marineros hicieron huelga contra la guerra.)
+- Die Gewerkschaft hat angekündigt, dass sie nächste Woche gestreikt hat. (El sindicato ha anunciado que ha hecho huelga la semana que viene.)
+'''
+die Überstunde, -n B1
+Español: la hora extra
+Русский: сверхурочная работа
+English: the overtime
+
+- Ich muss heute eine Überstunde machen, weil ich viel Arbeit habe. (I have to do an overtime today, because I have a lot of work.)
+- Gestern hat er drei Überstunden gemacht und war sehr müde. (Yesterday he did three overtime hours and was very tired.)
+- Hast du schon mal Überstunden gemacht? (Have you ever done overtime?)
+'''
+üblich, B1
+Español: usual, común, habitual
+Русский: обычный, привычный, общепринятый
+English: usual, common, customary
+
+Frases en alemán usando üblich:
+
+- Es ist üblich, sich die Hände zu waschen, bevor man isst. (It is usual to wash your hands before eating.)
+- Er sprach mit dem üblichen Akzent seiner Region. (He spoke with the usual accent of his region.)
+- Sie hat das Buch wie üblich in einer Nacht gelesen. (She read the book as usual in one night.)
+'''
+wegrationalisieren, B1
+Español: racionalizar
+Русский: рационализировать
+English: rationalize
+
+- Die Firma hat viele Mitarbeiter wegrationalisiert, um Kosten zu sparen.
+  (The company has rationalized many employees to save costs.)
+- Er wegrationalisierte seine Angst vor Spinnen, indem er sich eine Spinne als Haustier kaufte.
+  (He rationalized his fear of spiders by buying a spider as a pet.)
+- Sie hat ihre Entscheidung, ihn zu verlassen, wegrationalisiert, obwohl sie ihn immer noch liebte.
+  (She rationalized her decision to leave him, even though she still loved him.)
+'''
+vereinbaren, B1
+Español: acordar, concertar
+Русский: договариваться, согласовывать
+English: agree, arrange
+
+Ejemplos de frases en alemán usando vereinbaren:
+
+- Wir haben einen Termin beim Arzt **vereinbart**. (We have arranged an appointment with the doctor.)
+- Er **vereinbarte** mit ihr, dass er sie am Bahnhof abholen würde. (He agreed with her that he would pick her up at the station.)
+- Sie haben gestern einen Waffenstillstand **vereinbart**. (They agreed on a ceasefire yesterday.)
+'''
+verkürzen B1
+Español: acortar
+Русский: сокращать
+English: shorten
+
+Tres frases en alemán usando esta palabra son:
+
+- Ich muss meinen Text verkürzen, weil er zu lang ist. (Tengo que acortar mi texto porque es demasiado largo.)
+- Er verkürzte seinen Urlaub, um früher zur Arbeit zurückzukehren. (Él acortó sus vacaciones para volver al trabajo antes.)
+- Sie hat die Hose verkürzt, damit sie besser passt. (Ella ha acortado el pantalón para que le quede mejor.)
+'''
+die Verkürzung, - en B1
+Español: la reducción
+Русский: сокращение
+English: the reduction
+
+- Die Verkürzung der Arbeitszeit hat viele Vorteile für die Mitarbeiter. (The reduction of working hours has many benefits for the employees.)
+- Wegen der Pandemie musste das Theater die Verkürzung der Spielzeit verkünden. (Because of the pandemic, the theater had to announce the reduction of the season.)
+- Die Schüler haben sich über die Verkürzung der Sommerferien beschwert. (The students complained about the reduction of the summer holidays.)
+'''
+verlängern B1
+Español: prolongar, extender
+Русский: продлевать, удлинять
+English: prolong, extend
+
+- Ich möchte meinen Urlaub verlängern. (I want to prolong my vacation.)
+- Er verlängerte seinen Arm, um das Buch zu erreichen. (He extended his arm to reach the book.)
+- Hast du schon deinen Pass verlängert? (Have you already extended your passport?)
+'''
+die Verlängerung, - en B1
+Español: la prórroga, la extensión
+Русский: продление, расширение
+English: the extension, the prolongation
+
+- Die Verlängerung des Visums kostet 50 Euro. (The extension of the visa costs 50 euros.)
+- Er hat die Verlängerung des Vertrags abgelehnt. (He rejected the prolongation of the contract.)
+- Wir haben in der Verlängerung gewonnen. (We won in extra time.)
+'''
+absagen, B1
+Español: cancelar, rechazar
+Русский: отменять, отказывать
+English: cancel, refuse
+
+Frases en alemán usando absagen:
+
+- Ich muss leider unseren Termin für morgen **absagen**. (Lamentablemente tengo que **cancelar** nuestra cita para mañana.)
+- Er hat ihr einen Heiratsantrag gemacht, aber sie hat ihm **abgesagt**. (Él le hizo una propuesta de matrimonio, pero ella se la **rechazó**.)
+- Sie haben die Reise **abgesagt**, weil sie krank geworden sind. (Ellos **cancelaron** el viaje porque se enfermaron.)
+'''
+der Ersatz, B1
+Español: el reemplazo, la sustitución
+Русский: замена, заменитель
+English: the replacement, the substitute
+
+Frases en alemán usando esta palabra:
+
+- Ich brauche einen **Ersatz** für meine kaputte Kaffeemaschine. (Necesito un reemplazo para mi cafetera rota.)
+- Er ist nur ein **Ersatz** für den verletzten Spieler. (Él es solo un sustituto para el jugador lesionado.)
+- Sie hat den Zucker durch Honig **ersetzt**. (Ella ha sustituido el azúcar por miel.)
+'''
+der Fachmann, die Fachleute B1
+Español: el experto, los expertos
+Русский: эксперт, эксперты
+English: the expert, the experts
+
+- Der Fachmann hat das Problem schnell gelöst. (The expert solved the problem quickly.)
+- Die Fachleute berieten sich lange über die beste Lösung. (The experts consulted for a long time about the best solution.)
+- Er hat sich zu einem Fachmann auf seinem Gebiet entwickelt. (He has developed into an expert in his field.)
+'''
+die Feuerwehr, - en B1
+Español: el cuerpo de bomberos
+Русский: пожарная служба
+English: the fire brigade
+
+- Die Feuerwehr ist schnell am Ort des Brandes angekommen. (The fire brigade arrived quickly at the scene of the fire.)
+- Gestern half die Feuerwehr einem Kind, das auf einem Baum festsaß. (Yesterday, the fire brigade helped a child who was stuck on a tree.)
+- Die Feuerwehr hat schon viele Menschen gerettet. (The fire brigade has already saved many people.)
+'''
+der Handwerker, - B1
+Español: el artesano, el obrero
+Русский: ремесленник, работник
+English: the craftsman, the worker
+
+Frases en alemán usando esta palabra:
+
+- Mein Vater ist ein **Handwerker**. Er arbeitet als Schreiner. (Mi padre es un artesano. Trabaja como carpintero.)
+- Gestern kam ein **Handwerker**, um die kaputte Heizung zu reparieren. (Ayer vino un obrero para arreglar la calefacción rota.)
+- Sie hat viele **Handwerker** engagiert, um ihr Haus zu renovieren. (Ella ha contratado a muchos trabajadores para renovar su casa.)
+'''
+der Kapitän, -e B1
+Español: el capitán
+Русский: капитан
+English: the captain
+
+- Der Kapitän des Schiffes begrüßt die Passagiere an Bord. (The captain of the ship welcomes the passengers on board.)
+- Als er ein Kind war, wollte er immer Kapitän werden. (When he was a child, he always wanted to become a captain.)
+- Er hat als Kapitän viele Länder bereist. (He has traveled to many countries as a captain.)
+'''
+leiten B1
+Español: dirigir, liderar, guiar
+Русский: вести, руководить, направлять
+English: lead, guide, direct
+
+Frases en alemán usando leiten:
+
+- Er leitet die Firma seit zehn Jahren. (Él dirige la empresa desde hace diez años.)
+- Sie leitete die Schüler durch das Museum. (Ella guió a los alumnos por el museo.)
+- Er hat das Projekt erfolgreich geleitet. (Él ha liderado el proyecto con éxito.)
+'''
+die Leitung, -en B1
+Español: la dirección, el liderazgo, la conducción, la tubería, la línea
+Русский: руководство, лидерство, проведение, трубопровод, линия
+English: the management, the leadership, the conduct, the pipeline, the line
+
+Ejemplos de frases en alemán usando esta palabra:
+
+- Die Leitung der Firma hat sich für eine Fusion entschieden. (The management of the company has decided on a merger.)
+- Er hat die Leitung des Projekts übernommen. (He has taken over the leadership of the project.)
+- Die Leitung ist verstopft, wir müssen einen Klempner rufen. (The pipe is clogged, we have to call a plumber.)
+'''
+managen, B1
+Español: gestionar
+Русский: управлять
+English: manage
+
+- Ich manage ein kleines Team von Programmierern. (I manage a small team of programmers.)
+- Er hat das Projekt gut gemanagt. (He managed the project well.)
+- Sie hat früher eine Buchhandlung gemanagt. (She used to manage a bookstore.)
+'''
+der Manager, - / die Managerin, -nen B1
+Español: el gerente / la gerente
+Русский: менеджер / менеджерша
+English: the manager / the manageress
+
+Frases en alemán usando esta palabra:
+
+- Der Manager des Hotels begrüßt die Gäste persönlich. (The manager of the hotel greets the guests personally.)
+- Die Managerin hat gestern einen wichtigen Vertrag unterschrieben. (The manageress signed an important contract yesterday.)
+- Er möchte Manager werden, weil er gerne Verantwortung übernimmt. (He wants to become a manager because he likes to take responsibility.)
+'''
+der Metzger, - B1
+Español: el carnicero
+Русский: мясник
+English: the butcher
+
+Frases en alemán usando esta palabra:
+
+- Der Metzger schneidet das Fleisch mit einem scharfen Messer. (The butcher cuts the meat with a sharp knife.)
+- Gestern kaufte ich eine Wurst beim Metzger. (Yesterday I bought a sausage from the butcher.)
+- Er hat früher als Metzger gearbeitet, aber jetzt ist er Vegetarier. (He used to work as a butcher, but now he is a vegetarian.)
+'''
+der Profi, -s B1
+Español: el profesional
+Русский: профессионал
+English: the professional
+
+Frases en alemán usando esta palabra:
+
+- Er ist ein **Profi** im Schachspielen. (Él es un profesional en jugar al ajedrez.)
+- Sie war früher eine **Profi**-Tennisspielerin. (Ella era una tenista profesional antes.)
+- Er hat den Job als **Profi** erledigt. (Él hizo el trabajo como un profesional.)
+'''
+der Schreiner, - / die Schreinerin, - (B1)
+Español: el carpintero / la carpintera
+Русский: плотник / плотница
+English: the carpenter
+
+- Der Schreiner repariert die Tür. (The carpenter repairs the door.)
+- Die Schreinerin baute früher Möbel. (The carpenter used to build furniture.)
+- Er hat als Schreiner gearbeitet. (He has worked as a carpenter.)
+'''
+nen, B1
+Español: nombrar, llamar
+Русский: называть, звать
+English: name, call
+
+Frases en alemán usando nen:
+
+- Wie nennt man das auf Deutsch? (¿Cómo se llama eso en alemán?)
+- Er nennt sich selbst einen Künstler. (Él se llama a sí mismo un artista.)
+- Sie hat ihn gestern angerufen, aber er hat nicht geantwortet. (Ella lo llamó ayer, pero él no respondió.)
+'''
+selbständig (selbstständig), B1
+Español: independiente, autónomo
+Русский: самостоятельный, независимый
+English: independent, self-employed
+
+Frases en alemán usando esta palabra:
+
+- Er arbeitet **selbständig** als Journalist. (Él trabaja de forma independiente como periodista.)
+- Sie hat sich **selbstständig** gemacht und eine eigene Firma gegründet. (Ella se hizo autónoma y fundó su propia empresa.)
+- Ich bin stolz darauf, dass mein Sohn so **selbständig** ist. (Estoy orgulloso de que mi hijo sea tan independiente.)
+'''
+der Zugführer, - / die Zugführerin, -
+Español: el conductor / la conductora del tren
+Русский: машинист / машинистка поезда
+English: the train driver
+
+Frases en alemán usando esta palabra:
+
+- Der Zugführer begrüßte die Fahrgäste und gab die nächste Station an. (The train driver greeted the passengers and announced the next station.)
+- Als Kind wollte sie immer Zugführerin werden. (As a child, she always wanted to become a train driver.)
+- Er hat gestern seinen ersten Tag als Zugführer gehabt. (He had his first day as a train driver yesterday.)
+'''
+nen, B1
+Español: nombrar, llamar
+Русский: называть, звать
+English: name, call
+
+Frases en alemán usando nen:
+
+- Wie nennt man das auf Deutsch? (¿Cómo se llama eso en alemán?)
+- Er nennt mich immer Schatz. (Él siempre me llama cariño.)
+- Sie hat ihn gestern angerufen, aber er hat nicht geantwortet. (Ella lo llamó ayer, pero él no contestó.)
+'''
+absagen B1
+Español: cancelar, rechazar
+Русский: отменять, отказывать
+English: cancel, refuse
+
+Frases en alemán usando absagen:
+
+- Ich muss leider unsere Verabredung für morgen **absagen**. (Lamentablemente tengo que **cancelar** nuestra cita para mañana.)
+- Er hat ihr einen Heiratsantrag gemacht, aber sie hat ihm **abgesagt**. (Él le hizo una propuesta de matrimonio, pero ella se la **rechazó**.)
+- Sie haben die Reise **abgesagt**, weil sie krank geworden sind. (Ellos **cancelaron** el viaje porque se enfermaron.)
+'''
+das Angebot, -e B1
+Español: la oferta
+Русский: предложение
+English: the offer
+
+- Ich habe ein gutes Angebot für dich. Möchtest du es hören?
+(I have a good offer for you. Do you want to hear it?)
+- Er lehnte das Angebot ab, weil er mehr Geld verlangte.
+(He declined the offer because he demanded more money.)
+- Sie hat das Angebot angenommen, nachdem sie lange darüber nachgedacht hatte.
+(She accepted the offer after thinking about it for a long time.)
+'''
+sich beschäftigen mit D B1
+Español: ocuparse de
+Русский: заниматься чем-то
+English: deal with something
+
+Frases en alemán usando esta palabra:
+
+- Ich beschäftige mich gerne mit Kunst und Literatur. (Me gusta ocuparme de arte y literatura.)
+- Er hat sich gestern mit seinem Bruder beschäftigt. (Él se ocupó de su hermano ayer.)
+- Sie hat sich schon lange nicht mehr mit diesem Thema beschäftigt. (Ella no se ha ocupado de este tema desde hace mucho tiempo.)
+'''
+bieten, B1
+Español: ofrecer
+Русский: предлагать
+English: offer
+
+Frases en alemán usando bieten:
+
+- Ich **biete** dir einen Kaffee an. (Te ofrezco un café.)
+- Er **bot** mir seine Hilfe an. (Él me ofreció su ayuda.)
+- Sie haben mir einen guten Preis **geboten**. (Me han ofrecido un buen precio.)
+'''
+einstellen, B1
+Español: ajustar, contratar
+Русский: настраивать, нанимать
+English: adjust, hire
+
+Frases en alemán usando einstellen:
+
+- Ich muss die Uhr einstellen, sie geht zu schnell. (Tengo que ajustar el reloj, va demasiado rápido.)
+- Die Firma hat viele neue Mitarbeiter eingestellt. (La empresa ha contratado a muchos nuevos empleados.)
+- Er hat das Rauchen eingestellt. (Él ha dejado de fumar.)
+'''
+kündigen, B1
+Español: renunciar, despedir
+Русский: увольнять, увольняться
+English: quit, fire
+
+Frases en alemán usando kündigen:
+
+- Ich möchte meinen Job **kündigen**, weil ich mich langweile. (Quiero renunciar a mi trabajo porque me aburro.)
+- Er hat seinen Vertrag **gekündigt**, weil er bessere Bedingungen gefunden hat. (Él rescindió su contrato porque encontró mejores condiciones.)
+- Sie wurde **gekündigt**, weil sie zu spät kam. (Ella fue despedida porque llegaba tarde.)
+'''
+der Langzeitarbeitslose, -n B1
+Español: el desempleado de larga duración
+Русский: долгосрочный безработный
+English: the long-term unemployed
+
+- Der Langzeitarbeitslose hat seit mehr als einem Jahr keine Arbeit gefunden. (The long-term unemployed has not found a job for more than a year.)
+- Er war früher ein erfolgreicher Anwalt, aber nach einer Scheidung wurde er langzeitarbeitslos. (He used to be a successful lawyer, but after a divorce he became long-term unemployed.)
+- Sie hat endlich eine Stelle als Verkäuferin gefunden, nachdem sie lange langzeitarbeitslos war. (She finally found a job as a saleswoman after being long-term unemployed for a long time.)
+'''
+die Position, - en B1
+Español: la posición
+Русский: позиция
+English: the position
+
+- Er hat eine gute Position in der Firma. (He has a good position in the company.)
+- Sie änderte ihre Position zu diesem Thema. (She changed her position on this issue.)
+- Er hat seine Position im Rennen verbessert. (He has improved his position in the race.)
+'''
+tätig, B1
+Español: activo, ocupado, laboral
+Русский: деятельный, занятый, трудовой
+English: active, busy, work-related
+
+Beispiele:
+- Er ist sehr **tätig** in der Politik. (He is very active in politics.)
+- Sie war den ganzen Tag **tätig**. (She was busy all day.)
+- Er hat eine **tätige** Rolle in dem Projekt. (He has a work-related role in the project.)
+'''
+übernehmen, B1
+Español: asumir, tomar, hacerse cargo
+Русский: брать, принимать, брать на себя
+English: take, accept, take over
+
+Frases en alemán usando übernehmen:
+
+- Ich übernehme die Verantwortung für diesen Fehler. (I take responsibility for this mistake.)
+- Er hat die Firma von seinem Vater übernommen. (He took over the company from his father.)
+- Hast du schon die Hausaufgaben übernommen? (Have you already copied the homework?)
+'''
+die Unterlage, -n B1
+Español: el documento, los documentos
+Русский: документ, документы
+English: the document, the documents
+
+- Ich brauche die Unterlagen für die Anmeldung. (I need the documents for the registration.)
+- Er hat gestern die Unterlage unterschrieben. (He signed the document yesterday.)
+- Hast du die Unterlagen schon abgegeben? (Have you already handed in the documents?)
+'''
+verantwortlich für A B1
+Español: responsable de A
+Русский: ответственный за A
+English: responsible for A
+
+Frases en alemán usando esta palabra:
+
+- Ich bin verantwortlich für die Organisation der Konferenz. (I am responsible for organizing the conference.)
+- Er war verantwortlich für den Unfall. (He was responsible for the accident.)
+- Sie haben sich verantwortlich für ihre Fehler gezeigt. (They have shown themselves responsible for their mistakes.)
+'''
+die Verantwortung, B1
+Español: la responsabilidad
+Русский: ответственность
+English: the responsibility
+
+- Ich übernehme die Verantwortung für meine Fehler. (I take responsibility for my mistakes.)
+- Er hatte die Verantwortung für das Projekt, aber er hat sie nicht ernst genommen. (He had the responsibility for the project, but he did not take it seriously.)
+- Sie hat die Verantwortung für ihre Kinder an ihre Mutter abgegeben. (She has given up the responsibility for her children to her mother.)
+'''
+das Antrag, - ¨e B1
+Español: la solicitud
+Русский: заявление
+English: the application
+
+Frases en alemán usando esta palabra:
+
+- Ich habe einen **Antrag** auf ein Visum gestellt. (He solicitado un visado.)
+- Der **Antrag** wurde abgelehnt. (La solicitud fue rechazada.)
+- Hast du schon den **Antrag** ausgefüllt? (¿Ya has rellenado la solicitud?)
+'''
+die Rentenkasse, -n B1
+Español: la caja de pensiones
+Русский: пенсионный фонд
+English: the pension fund
+
+- Die Rentenkasse ist für die Altersvorsorge der Arbeitnehmer zuständig. (The pension fund is responsible for the retirement provision of the employees.)
+- Er hat gestern einen Antrag bei der Rentenkasse gestellt. (He applied to the pension fund yesterday.)
+- Sie hat von der Rentenkasse eine hohe Rente bekommen. (She received a high pension from the pension fund.)
+'''
+die Rentenreform, - en B1
+Español: la reforma de las pensiones
+Русский: реформа пенсионной системы
+English: the pension reform
+
+- Die Rentenreform ist ein wichtiges Thema für die Zukunft der Gesellschaft. (The pension reform is an important issue for the future of society.)
+- Im Jahr 2001 hat die Bundesregierung eine Rentenreform beschlossen, die das Rentensystem nachhaltiger machen soll. (In 2001, the federal government decided on a pension reform that is supposed to make the pension system more sustainable.)
+- Viele Menschen sind mit der Rentenreform unzufrieden und fordern eine bessere Absicherung im Alter. (Many people are dissatisfied with the pension reform and demand better security in old age.)
+'''
+die Rentenversicherung, - en B1
+Español: el seguro de pensiones
+Русский: пенсионное страхование
+English: the pension insurance
+
+- Die Rentenversicherung ist eine Pflichtversicherung für alle Arbeitnehmer in Deutschland. (The pension insurance is a compulsory insurance for all employees in Germany.)
+- Er hat gestern seinen Rentenversicherungsbescheid bekommen. (He received his pension insurance notification yesterday.)
+- Sie hat 40 Jahre lang in die Rentenversicherung eingezahlt. (She has paid into the pension insurance for 40 years.)
+'''
+die Abteilung, -en B1
+Español: el departamento
+Русский: отдел
+English: the department
+
+- Ich arbeite in der **Abteilung** für Marketing. (I work in the marketing **department**.)
+- Er war der Leiter der **Abteilung** für Geschichte an der Universität. (He was the head of the **department** of history at the university.)
+- Sie haben die **Abteilung** für Damenbekleidung im ersten Stock. (They have the **department** for women's clothing on the first floor.)
+'''
+der Arbeitgeber, - B1
+Español: el empleador
+Русский: работодатель
+English: the employer
+
+- Der Arbeitgeber bietet seinen Mitarbeitern eine flexible Arbeitszeit an. (The employer offers his employees a flexible working time.)
+- Als sie ihren Job verlor, klagte sie gegen ihren Arbeitgeber. (When she lost her job, she sued her employer.)
+- Er hat seinem Arbeitgeber mitgeteilt, dass er nächste Woche kündigen wird. (He informed his employer that he will quit next week.)
+'''
+der Arbeitnehmer, - B1
+Español: el empleado
+Русский: работник
+English: the employee
+
+- Der Arbeitnehmer **muss** seine Arbeitszeit einhalten. (The employee **must** comply with his working hours.)
+- Der Arbeitnehmer **hatte** gestern einen Unfall. (The employee **had** an accident yesterday.)
+- Der Arbeitnehmer **hat** eine Gehaltserhöhung bekommen. (The employee **has** received a pay raise.)
+'''
+das Personal, B1
+Español: el personal
+Русский: персонал
+English: the staff
+
+- Das Personal ist sehr freundlich und hilfsbereit. (The staff is very friendly and helpful.)
+- Gestern arbeitete das Personal bis spät in die Nacht. (Yesterday the staff worked until late at night.)
+- Das Personal hat eine Gehaltserhöhung bekommen. (The staff has received a salary increase.)
+'''
+die Karriere, -n B1
+Español: la carrera (profesional)
+Русский: карьера
+English: the career
+
+Frases en alemán usando esta palabra:
+
+- Er hat eine erfolgreiche Karriere als Anwalt gemacht. (He has made a successful career as a lawyer.)
+- Sie musste ihre Karriere wegen einer Krankheit unterbrechen. (She had to interrupt her career because of an illness.)
+- Er hat seine Karriere mit einem Skandal beendet. (He ended his career with a scandal.)
+'''
+die Bestimmung, -en B1
+Español: el destino, la determinación
+Русский: судьба, определение
+English: fate, determination
+
+- Ich glaube an **die Bestimmung**, die mein Leben lenkt. (I believe in **fate** that guides my life.)
+- Er hat seine **Bestimmung** noch nicht gefunden. (He has not found his **determination** yet.)
+- Die **Bestimmung** des Gewichts erfolgt mit einer Waage. (The **determination** of the weight is done with a scale.)
+'''
+die Pension, -en B1
+Español: pensión, jubilación
+Русский: пенсия, выход на пенсию
+English: pension, retirement
+- Ich möchte in einer **Pension** übernachten, weil es billiger ist als ein Hotel. (I want to stay in a **pension**, because it is cheaper than a hotel.)
+- Er hat mit 65 Jahren seine Arbeit beendet und ist in **Pension** gegangen. (He finished his work at 65 and went into **retirement**.)
+- Sie bekommt jeden Monat eine kleine **Pension** von der Rentenversicherung. (She receives a small **pension** every month from the pension insurance.)
+'''
+der Pensionär, -e / die Pensionärin, - (B1)
+
+Español: el jubilado / la jubilada
+Русский: пенсионер / пенсионерка
+English: the retiree / the retired woman
+
+- Mein Vater ist **Pensionär** und genießt sein Leben. (My father is a retiree and enjoys his life.)
+- Die **Pensionärin** hat uns von ihrer Reise nach Italien erzählt. (The retired woman told us about her trip to Italy.)
+- Er war Lehrer, bevor er **in Pension ging**. (He was a teacher before he retired.)
+'''
+nen, B1
+Español: nombrar, llamar
+Русский: называть, звать
+English: name, call
+
+Frases en alemán usando nen:
+
+- Wie nennt man das auf Deutsch? (¿Cómo se llama eso en alemán?)
+- Er nennt mich immer Schatz. (Él siempre me llama cariño.)
+- Sie hat ihn gestern angerufen, aber er hat nicht geantwortet. (Ella lo llamó ayer, pero él no respondió.)
+'''
+sich weiterbilden, B1
+Español: formarse, capacitarse
+Русский: повышать квалификацию
+English: to further one's education
+
+- Ich möchte mich weiterbilden, um meine Karrierechancen zu verbessern.
+  - Quiero formarme para mejorar mis oportunidades de carrera.
+  - Я хочу повысить свою квалификацию, чтобы улучшить свои карьерные перспективы.
+  - I want to further my education to improve my career prospects.
+- Er hat sich im letzten Jahr weitergebildet und einen Kurs in Webdesign absolviert.
+  - Él se capacitó el año pasado y completó un curso de diseño web.
+  - Он повысил свою квалификацию в прошлом году и прошел курс веб-дизайна.
+  - He furthered his education last year and completed a course in web design.
+- Sie hat sich schon immer weitergebildet und viele Sprachen gelernt.
+  - Ella siempre se ha formado y aprendido muchos idiomas.
+  - Она всегда повышала свою квалификацию и изучала много языков.
+  - She has always furthered her education and learned many languages.
+'''
+Aquí está la información de las palabras que me has escrito:
+
+die Weiterbildung, -en B1
+- Español: la formación continua
+- Русский: повышение квалификации
+- English: further education
+- Ejemplos:
+  - Er nimmt an einer Weiterbildung zum Webdesigner teil. (Él participa en una formación continua para convertirse en diseñador web.)
+  - Sie hat ihre Weiterbildung erfolgreich abgeschlossen. (Ella ha terminado su formación continua con éxito.)
+  - Für die Weiterbildung braucht man viel Motivation und Disziplin. (Para la formación continua se necesita mucha motivación y disciplina.)
+
+der Bereitschaftsdienst, -e B2
+- Español: el servicio de guardia
+- Русский: дежурная служба
+- English: the on-call service
+- Ejemplos:
+  - Der Arzt hat heute Bereitschaftsdienst. (El médico tiene hoy servicio de guardia.)
+  - Sie musste gestern wegen eines Notfalls ihren Bereitschaftsdienst unterbrechen. (Ella tuvo que interrumpir su servicio de guardia ayer por una emergencia.)
+  - Er bekommt für seinen Bereitschaftsdienst eine Zulage. (Él recibe un suplemento por su servicio de guardia.)
+'''
+betreiben B2
+Español: operar, llevar a cabo, practicar
+Русский: заниматься, управлять, осуществлять
+English: operate, carry out, practice
+
+Frases en alemán usando betreiben:
+
+- Er **betreibt** ein kleines Café in der Innenstadt. (Él opera un pequeño café en el centro de la ciudad.)
+- Sie **betrieb** früher viel Sport, aber jetzt nicht mehr. (Ella practicaba mucho deporte antes, pero ahora ya no.)
+- Die Polizei **hat** eine gründliche Untersuchung **betrieben**. (La policía ha llevado a cabo una investigación exhaustiva.)
+'''
+die Eigenverantwortung, - en B2
+Español: la responsabilidad propia
+Русский: самостоятельность
+English: self-reliance
+
+- Jeder Mensch hat die Eigenverantwortung für sein Leben und seine Gesundheit. (Every person has the self-reliance for their life and health.)
+- Als sie ihren Job verlor, musste sie ihre Eigenverantwortung stärken. (When she lost her job, she had to strengthen her self-reliance.)
+- Er hat mir gesagt, dass er seine Eigenverantwortung schon im Perfekt gelernt hat. (He told me that he has already learned his self-reliance in the perfect tense.)
+'''
+der Feierabend, B2
+Español: el fin de la jornada laboral
+Русский: конец рабочего дня
+English: the end of the workday
+
+Frases en alemán usando esta palabra:
+
+- Nach dem Feierabend gehe ich ins Fitnessstudio. (Después del fin de la jornada laboral, voy al gimnasio.)
+- Gestern habe ich bis zum Feierabend gearbeitet. (Ayer trabajé hasta el final del día laboral.)
+- Hast du schon Pläne für den Feierabend? (¿Ya tienes planes para el fin de la jornada laboral?)
+'''
+niederlegen, B2
+Español: renunciar, dejar, depositar
+Русский: уходить в отставку, класть, сдавать
+English: resign, lay down, surrender
+
+Frases en alemán usando niederlegen:
+
+- Der Präsident hat seinen Rücktritt erklärt, nachdem er die Wahl verloren hatte. (The president announced his resignation after losing the election.)
+- Er legte die Waffe auf den Boden und hob die Hände. (He laid the weapon on the ground and raised his hands.)
+- Sie hat ihre Prüfung mit Bravour bestanden und alle ihre Unterlagen niedergelegt. (She passed her exam with flying colors and submitted all her documents.)
+'''
+der Ruhestand, B2
+Español: la jubilación
+Русский: пенсия
+English: retirement
+
+Frases en alemán usando esta palabra:
+
+- Mein Vater freut sich auf **den Ruhestand**, weil er dann mehr Zeit für seine Hobbys hat.
+- Sie hat im Alter von 65 Jahren **den Ruhestand** angetreten und ist nach Spanien gezogen.
+- Er hat **den Ruhestand** genutzt, um ein Buch zu schreiben.
+'''
+übertragen B2
+Español: transmitir, transferir
+Русский: передавать, переносить
+English: transmit, transfer
+
+- Die Nachrichten werden über das Internet übertragen. (The news is transmitted over the internet.)
+- Er übertrug seine Schmerzen auf andere. (He transferred his pain to others.)
+- Sie hat die Dateien auf einen USB-Stick übertragen. (She transferred the files to a USB stick.)
+'''
+die Umschulung, - en B2
+Español: la reconversión profesional
+Русский: переподготовка
+English: retraining
+
+Frases en alemán usando esta palabra:
+
+- Er hat eine Umschulung zum Elektriker gemacht. (He retrained as an electrician.)
+- Nach dem Unfall brauchte sie eine Umschulung. (After the accident, she needed retraining.)
+- Hast du deine Umschulung erfolgreich abgeschlossen? (Did you successfully complete your retraining?)
+'''
+verrichten B2
+Español: realizar, efectuar
+Русский: выполнять, совершать
+English: perform, carry out
+
+- Ich verrichte meine Arbeit mit Sorgfalt und Genauigkeit. (I perform my work with care and accuracy.)
+- Er verrichtete gestern einen großen Einkauf. (He did a big shopping yesterday.)
+- Sie hat ihre Aufgabe gut verrichtet. (She has done her task well.)
+'''
+wegfallen, B2
+Español: caerse, desaparecer, eliminarse
+Русский: отпадать, исчезать, упраздняться
+English: fall off, disappear, be abolished
+
+Frases en alemán usando esta palabra:
+
+- Der Schnee ist weggefallen und die Blumen sind aufgeblüht. (The snow has disappeared and the flowers have bloomed.)
+- Die Prüfung ist weggefallen, weil der Lehrer krank war. (The exam was cancelled because the teacher was sick.)
+- Viele Gesetze sind nach der Revolution weggefallen. (Many laws were abolished after the revolution.)
+'''
+veranlassen, B2
+Español: provocar, causar, inducir
+Русский: вызывать, причинять, побуждать
+English: cause, induce, prompt
+
+Ejemplos de frases en alemán usando veranlassen:
+
+- Der Arzt veranlasst eine Blutuntersuchung. (El médico ordena un análisis de sangre.)
+- Er veranlasste seine Abreise gestern. (Él causó su partida ayer.)
+- Sie hat mich dazu veranlasst, ihr zu helfen. (Ella me indujo a ayudarla.)
+'''
+die Veranlassung, -en B2
+Español: el motivo, la ocasión
+Русский: повод, причина
+English: the reason, the occasion
+
+- Die Veranlassung für diese Feier ist unser Jubiläum. (The reason for this celebration is our anniversary.)
+- Er hatte keine Veranlassung, so wütend zu werden. (He had no reason to get so angry.)
+- Aus welcher Veranlassung hast du ihn angerufen? (For what occasion did you call him?)
+'''
+ausüben, B2
+Español: ejercer
+Русский: осуществлять
+English: exercise
+
+Frases en alemán usando la palabra ausüben:
+
+- Er **übt** seinen Beruf als Lehrer mit Leidenschaft **aus**. (Él ejerce su profesión como profesor con pasión.)
+- Sie **übte** früher viel Sport **aus**, aber jetzt hat sie keine Zeit mehr. (Ella solía practicar mucho deporte, pero ahora no tiene más tiempo.)
+- Er hat viel Druck auf sie **ausgeübt**, damit sie zustimmt. (Él ha ejercido mucha presión sobre ella para que acepte.)
+'''
+färben B2
+Español: teñir, colorear
+Русский: красить, окрашивать
+English: dye, color
+- Ich möchte meine Haare **färben**. (I want to dye my hair.)
+- Er **färbte** die Blätter mit Wasserfarben. (He colored the leaves with watercolors.)
+- Sie hat ihre Kleidung mit natürlichen Farbstoffen **gefärbt**. (She dyed her clothes with natural dyes.)
+'''
+der Installateur, -e B2
+Español: el fontanero, el instalador
+Русский: сантехник, монтажник
+English: the plumber, the installer
+
+- Der Installateur hat die neue Dusche **installiert**. (The installer installed the new shower.)
+- Gestern **reparierte** der Installateur den Wasserhahn. (Yesterday the plumber repaired the faucet.)
+- Der Installateur hat uns eine Rechnung **geschickt**. (The installer sent us a bill.)
+'''
+der Matrose, -n B2
+Español: el marinero
+Русский: моряк
+English: the sailor
+
+- Der Matrose arbeitet auf einem Schiff. (The sailor works on a ship.)
+- Als Kind wollte er immer Matrose werden. (As a child, he always wanted to become a sailor.)
+- Er hat schon viele Länder als Matrose besucht. (He has visited many countries as a sailor.)
+'''
+die Anforderung, -en B2
+Español: el requisito
+Русский: требование
+English: the requirement
+
+- Die Anforderung für diesen Job ist sehr hoch. (The requirement for this job is very high.)
+- Er erfüllte alle Anforderungen, die sie stellten. (He met all the requirements they set.)
+- Hast du die Anforderungen für das Projekt schon erledigt? (Have you already completed the requirements for the project?)
+'''
+sich betätigen B2
+Español: dedicarse a algo, ejercitarse
+Русский: заниматься чем-то, упражняться
+English: to do something, to exercise
+
+Frases en alemán usando sich betätigen:
+
+- Er betätigt sich gerne als Schriftsteller in seiner Freizeit. (Él se dedica a escribir en su tiempo libre.)
+- Sie betätigte sich gestern im Garten. (Ella se ejercitó ayer en el jardín.)
+- Wir haben uns viel betätigt in den Ferien. (Nosotros hicimos muchas cosas en las vacaciones.)
+'''
+erfordern B2
+Español: requerir, exigir
+Русский: требовать, потребовать
+English: require, demand
+
+- Dieses Projekt erfordert viel Zeit und Mühe. (Este proyecto requiere mucho tiempo y esfuerzo.)
+- Er forderte eine Erklärung von ihr. (Él le exigió una explicación a ella.)
+- Sie haben die Prüfung bestanden, weil sie alle Anforderungen erfüllt haben. (Ustedes han aprobado el examen porque han cumplido todos los requisitos.)
+'''
+die Kündigung, -en B2
+Español: el despido, la rescisión
+Русский: увольнение, расторжение
+English: the dismissal, the termination
+
+- Er hat die Kündigung seines Vertrags akzeptiert. (He accepted the termination of his contract.)
+- Sie kündigte ihren Job, weil sie unglücklich war. (She quit her job because she was unhappy.)
+- Er hat mir gestern die Kündigung gegeben. (He gave me the dismissal yesterday.)
+'''
+sachkundig, B2
+Español: experto, competente
+Русский: знающий, компетентный
+English: knowledgeable, competent
+
+- Er ist sehr sachkundig in Mathematik und kann schwierige Probleme lösen.
+(He is very knowledgeable in mathematics and can solve difficult problems.)
+- Sie war nicht sachkundig genug, um die Prüfung zu bestehen.
+(She was not competent enough to pass the exam.)
+- Ich habe mich sachkundig gemacht, bevor ich das Buch gekauft habe.
+(I informed myself well before buying the book.)
+'''
+die Vereinbarung, -en mit D B2
+Español: el acuerdo, los acuerdos con D
+Русский: соглашение, соглашения с D
+English: the agreement, the agreements with D
+
+Frases en alemán usando esta palabra:
+
+- Wir haben eine **Vereinbarung** mit dem Vermieter getroffen. (We have made an agreement with the landlord.)
+- Die EU und das Vereinigte Königreich haben eine neue **Vereinbarung** über den Brexit unterzeichnet. (The EU and the United Kingdom have signed a new agreement on Brexit.)
+- Hast du die **Vereinbarung** mit deinem Chef eingehalten? (Did you keep the agreement with your boss?)
+'''
+die Agentur, - en B2
+Español: la agencia
+Русский: агентство
+English: the agency
+
+- Die Agentur hat viele Kunden aus verschiedenen Branchen. (The agency has many customers from different sectors.)
+- Er arbeitete früher für eine Agentur, die Werbung machte. (He used to work for an agency that did advertising.)
+- Sie haben die Agentur beauftragt, eine neue Website zu erstellen. (They have commissioned the agency to create a new website.)
+'''
+das Amt, -¨er B2
+Español: el cargo, la oficina
+Русский: должность, учреждение
+English: the office, the position
+
+Frases en alemán usando esta palabra:
+
+- Er arbeitet im **Amt** für Umweltschutz. (He works in the **office** for environmental protection.)
+- Sie hat das **Amt** der Bundeskanzlerin übernommen. (She has taken over the **position** of the Chancellor.)
+- Er musste sein **Amt** wegen eines Skandals niederlegen. (He had to resign from his **office** because of a scandal.)
+'''
+die Gewerkschaft, - en B2
+Español: el sindicato
+Русский: профсоюз
+English: the trade union
+
+Ejemplos de frases en alemán usando esta palabra:
+
+- Er ist Mitglied einer **Gewerkschaft**, die für bessere Arbeitsbedingungen kämpft. (Él es miembro de un sindicato que lucha por mejores condiciones laborales.)
+- Die **Gewerkschaften** haben einen Streik angekündigt, um gegen die Kürzung der Löhne zu protestieren. (Los sindicatos han anunciado una huelga para protestar contra el recorte de los salarios.)
+- Sie hat sich bei der **Gewerkschaft** beschwert, weil ihr Chef sie ungerecht behandelt hat. (Ella se ha quejado en el sindicato porque su jefe la ha tratado injustamente.)
+'''
+tariflich, B2
+Español: tarifario, relativo a las tarifas
+Русский: тарифный, относящийся к тарифам
+English: tariff, related to tariffs
+
+Frases en alemán usando la palabra tariflich:
+
+- Die Gewerkschaft fordert eine **tarifliche** Erhöhung der Löhne und Gehälter. (The union demands a **tariff** increase in wages and salaries.)
+- Er arbeitet als **tariflicher** Angestellter bei einer Bank. (He works as a **tariff** employee at a bank.)
+- Sie hat einen **tariflichen** Anspruch auf Urlaubsgeld. (She has a **tariff** entitlement to holiday pay.)
+'''
+der Tarifpartner, - B2
+Español: el socio de negociación colectiva
+Русский: социальный партнер
+English: the collective bargaining partner
+
+- Die Gewerkschaften und die Arbeitgeber sind die wichtigsten **Tarifpartner** in Deutschland.
+- Im Jahr 2019 konnten die **Tarifpartner** einen neuen Vertrag für die Metall- und Elektroindustrie abschließen.
+- Die **Tarifpartner** haben sich darauf geeinigt, die Arbeitszeit flexibler zu gestalten.
+'''
+die Tarifverhandlung, -en B2
+Español: la negociación salarial
+Русский: тарифное соглашение
+English: wage negotiation
+
+Frases en alemán usando esta palabra:
+
+- Die Gewerkschaft fordert eine **Tarifverhandlung** mit dem Arbeitgeber. (The union demands a wage negotiation with the employer.)
+- Die **Tarifverhandlung** war erfolgreich und die Mitarbeiter bekamen eine Gehaltserhöhung. (The wage negotiation was successful and the employees got a pay raise.)
+- Nach einer langen und schwierigen **Tarifverhandlung** haben sich die Parteien auf einen Kompromiss geeinigt. (After a long and difficult wage negotiation, the parties agreed on a compromise.)
+'''
+der Tarifvertrag, - ¨e B2
+Español: el convenio colectivo
+Русский: коллективный договор
+English: the collective agreement
+
+Frases en alemán usando esta palabra:
+
+- Die Gewerkschaften fordern einen neuen **Tarifvertrag** für die Beschäftigten im öffentlichen Dienst. (The trade unions are demanding a new **collective agreement** for public sector employees.)
+- Der **Tarifvertrag** wurde im Juni unterzeichnet und gilt für zwei Jahre. (The **collective agreement** was signed in June and is valid for two years.)
+- Er arbeitet in einer Firma, die keinen **Tarifvertrag** hat. (He works in a company that does not have a **collective agreement**.)
+'''
+die Vollbeschäftigung, B2
+Español: el pleno empleo
+Русский: полная занятость
+English: full employment
+
+- Die Vollbeschäftigung ist ein wichtiges Ziel der Wirtschaftspolitik. (Full employment is an important goal of economic policy.)
+- In den 1950er Jahren herrschte in Deutschland fast Vollbeschäftigung. (In the 1950s, there was almost full employment in Germany.)
+- Trotz der Corona-Krise hat die Bundesregierung die Vollbeschäftigung nicht aufgegeben. (Despite the corona crisis, the federal government has not given up on full employment.)
+'''
+ablösen von, B2
+Español: reemplazar de
+Русский: заменять от
+English: replace from
+
+Frases en alemán usando ablösen von:
+
+- Er hat seinen Vater als Chef der Firma **abgelöst**. (Él ha reemplazado a su padre como jefe de la empresa.)
+- Die Polizei **löste** die Demonstranten **von** der Straße **ab**. (La policía desalojó a los manifestantes de la calle.)
+- Ich habe die Tapete **abgelöst** und eine neue **von** der Wand geklebt. (He quitado el papel pintado y pegado uno nuevo en la pared.)
+'''
+sich fortbilden, B2
+Español: formarse, capacitarse
+Русский: повышать квалификацию
+English: to further one's education, to improve one's skills
+
+Ejemplos:
+- Er **bildet sich** regelmäßig **fort**, um auf dem neuesten Stand zu bleiben. (He **further his education** regularly to stay up to date.)
+- Sie **bildete sich** im Bereich der Informatik **fort**. (She **improved her skills** in the field of computer science.)
+- Ich **habe mich** in einem Online-Kurs **fortgebildet**. (I **furthered my education** in an online course.)
+'''
+die Fortbildung, -en B2
+Español: la formación continua
+Русский: повышение квалификации
+English: further education
+
+- Ich nehme an einer Fortbildung teil, um meine beruflichen Fähigkeiten zu verbessern.
+- Letztes Jahr hat er eine Fortbildung zum Webdesigner gemacht.
+- Hast du schon deine Fortbildung abgeschlossen?
+'''
+die Stellung, -en B2
+Español: la posición, el puesto
+Русский: положение, должность
+English: the position, the post
+
+- Er hat eine hohe Stellung in der Firma. (He has a high position in the company.)
+- Sie nahm eine defensive Stellung ein. (She took a defensive position.)
+- Er hat seine Stellung gekündigt. (He quit his post.)
+'''
+das Inserat, -e B2
+Español: el anuncio
+Русский: объявление
+English: the advertisement
+
+- Ich habe ein interessantes Inserat für eine Wohnung in der Zeitung gesehen.
+- Sie hat gestern ihr Auto in einem Online-Inserat zum Verkauf angeboten.
+- Hast du schon auf die Inserate geantwortet, die du erhalten hast?
+'''
+die Telearbeit, B2
+Español: el teletrabajo
+Русский: телеработа
+English: telework
+
+Ejemplos de frases en alemán usando esta palabra:
+
+- Ich mache **die Telearbeit** seit zwei Jahren und bin sehr zufrieden. (Hago el teletrabajo desde hace dos años y estoy muy contento.)
+- Als die Pandemie begann, mussten viele Menschen **die Telearbeit** machen. (Cuando empezó la pandemia, muchas personas tuvieron que hacer el teletrabajo.)
+- Er hat **die Telearbeit** beendet und ist ins Büro zurückgekehrt. (Él ha terminado el teletrabajo y ha vuelto a la oficina.)

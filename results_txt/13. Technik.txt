@@ -1,0 +1,1630 @@
+'''
+die Maschine, -n A1
+Español: la máquina
+Русский: машина
+English: the machine
+
+- Die Maschine ist sehr laut. (The machine is very loud.)
+- Er reparierte gestern die Maschine. (He repaired the machine yesterday.)
+- Sie hat die Maschine schon benutzt. (She has already used the machine.)
+'''
+der Computer, - A1
+Español: el ordenador
+Русский: компьютер
+English: the computer
+
+Beispiele:
+- Ich arbeite jeden Tag am **Computer**.
+- Mein **Computer** ist sehr schnell und leistungsstark.
+- Hast du einen neuen **Computer** gekauft?
+
+definieren A2
+Español: definir
+Русский: определять
+English: define
+
+Beispiele:
+- Kannst du mir bitte **definieren**, was du unter Glück verstehst?
+- Er hat das Problem klar **definiert**.
+- Sie haben das Ziel noch nicht **definiert**.
+'''
+die Funktion, - en A2
+Español: la función
+Русский: функция
+English: the function
+
+- Eine Funktion ist eine mathematische Vorschrift, die jedem Element einer Menge ein anderes Element zuordnet. (A function is a mathematical rule that assigns another element to each element of a set.)
+- Er erfüllte seine Funktion als Lehrer sehr gut. (He fulfilled his function as a teacher very well.)
+- Die Funktionen dieser Maschine sind sehr komplex. (The functions of this machine are very complex.)
+'''
+funktionieren, A2
+Español: funcionar
+Русский: работать
+English: work
+
+Beispiele:
+- Mein Handy funktioniert nicht mehr. Ich muss es reparieren lassen.
+- Er funktioniert als Lehrer an einer Schule.
+- Hast du gestern gut funktioniert? Du siehst müde aus.
+'''
+das System, -e A2
+Español: el sistema
+Русский: система
+English: the system
+
+- Das System ist sehr komplex und erfordert viel Wissen. (The system is very complex and requires a lot of knowledge.)
+- Er arbeitete früher im System, aber jetzt ist er ein Rebell. (He used to work in the system, but now he is a rebel.)
+- Sie haben das System aktualisiert und verbessert. (They have updated and improved the system.)
+'''
+systematisch A2
+Español: sistemático
+Русский: систематический
+English: systematic
+
+- Er arbeitet sehr systematisch und effizient. (He works very systematically and efficiently.)
+- Sie systematisierte die Daten nach verschiedenen Kriterien. (She systematized the data according to different criteria.)
+- Wir haben systematisch alle Möglichkeiten ausgeschlossen. (We systematically ruled out all possibilities.)
+'''
+die Technik, - en A2
+Español: la técnica, la tecnología
+Русский: техника, технология
+English: the technique, the technology
+
+- Ich interessiere mich für **die Technik** der alten Ägypter. (I am interested in the technology of the ancient Egyptians.)
+- Er hat **die Technik** des Klavierspielens perfektioniert. (He has perfected the technique of playing the piano.)
+- Sie studiert **Technik** an der Universität. (She studies engineering at the university.)
+'''
+technisch, A2
+Español: técnico
+Русский: технический
+English: technical
+
+Frases en alemán usando la palabra technisch:
+
+- Dieses Buch ist sehr **technisch** und schwer zu verstehen. (Este libro es muy técnico y difícil de entender.)
+- Er hat gestern eine **technische** Panne gehabt. (Él tuvo ayer una avería técnica.)
+- Sie hat ihr Projekt **technisch** perfekt umgesetzt. (Ella ha realizado su proyecto técnicamente perfecto.)
+'''
+das Dokument, -e A2
+Español: el documento, los documentos
+Русский: документ, документы
+English: the document, the documents
+
+Frases en alemán usando esta palabra:
+
+- Ich habe das Dokument gestern unterschrieben. (I signed the document yesterday.)
+- Hast du die Dokumente für die Reise schon ausgedruckt? (Have you printed the documents for the trip yet?)
+- Er muss noch einige Dokumente ausfüllen. (He still has to fill out some documents.)
+'''
+drucken, A2
+Español: imprimir
+Русский: печатать
+English: print
+
+Frases en alemán usando drucken:
+
+- Ich drucke die Dokumente für die Präsentation aus. (I print the documents for the presentation.)
+- Er druckte seine Hausaufgaben gestern. (He printed his homework yesterday.)
+- Hast du schon die Fotos gedruckt? (Have you printed the photos yet?)
+'''
+der Drucker, - A2
+Español: la impresora
+Русский: принтер
+English: the printer
+
+- Ich brauche einen neuen **Drucker** für mein Büro. (I need a new printer for my office.)
+- Gestern hat der **Drucker** nicht funktioniert. (Yesterday the printer did not work.)
+- Hast du das Dokument schon ausgedruckt? (Have you already printed the document?)
+
+'''
+die Homepage, -s A2
+Español: la página principal
+Русский: домашняя страница
+English: the homepage
+
+- Ich besuche oft die **Homepage** von Bing, um nach Informationen zu suchen.
+- Gestern hat er die **Homepage** seines Blogs aktualisiert.
+- Hast du schon die neue **Homepage** unserer Schule gesehen?
+'''
+klicken, A2
+Español: hacer clic
+Русский: щелкать
+English: click
+
+Frases en alemán usando klicken:
+
+- Ich klicke auf den Link, um die Website zu öffnen. (Hago clic en el enlace para abrir la página web.)
+- Er klickte die Tür zu und ging. (Él cerró la puerta de un golpe y se fue.)
+- Hast du schon auf das Bild geklickt? (¿Ya has hecho clic en la imagen?)
+'''
+online, A2
+Español: en línea
+Русский: онлайн
+English: online
+
+- Ich bin **online** und kann dir helfen. (I am online and can help you.)
+- Gestern war ich den ganzen Tag **online**. (Yesterday I was online all day.)
+- Hast du schon die Hausaufgabe **online** abgeschickt? (Have you already submitted the homework online?)
+'''
+der Onlineshop, -s A2
+Español: la tienda en línea
+Русский: интернет-магазин
+English: the online shop
+
+Frases en alemán usando esta palabra:
+
+- Ich kaufe gerne Kleidung im Onlineshop. (Me gusta comprar ropa en la tienda en línea.)
+- Hast du schon den neuen Onlineshop von Amazon gesehen? (¿Ya has visto la nueva tienda en línea de Amazon?)
+- Er hat seinen Onlineshop letztes Jahr geschlossen. (Él cerró su tienda en línea el año pasado.)
+'''
+der Onlinespieler, - A2
+Español: el jugador en línea
+Русский: онлайн-игрок
+English: the online player
+
+- Der Onlinespieler spielt jeden Tag mehrere Stunden am Computer. (The online player plays several hours on the computer every day.)
+- Gestern hat der Onlinespieler ein spannendes Turnier gewonnen. (Yesterday, the online player won an exciting tournament.)
+- Er hat schon viele Freunde gefunden, die auch Onlinespieler sind. (He has already found many friends who are also online players.)
+'''
+das Programm, -e A2
+Español: el programa
+Русский: программа
+English: the program
+
+- Ich schaue mir jeden Abend ein Programm im Fernsehen an. (I watch a program on TV every evening.)
+- Gestern haben wir ein neues Programm für den Computer geschrieben. (Yesterday we wrote a new program for the computer.)
+- Hast du das Programm für das Konzert schon gesehen? (Have you seen the program for the concert yet?)
+'''
+programmieren A2
+Español: programar
+Русский: программировать
+English: program
+
+Frases en alemán usando programmieren:
+
+- Ich **programmiere** gerne in Python, weil es eine einfache und vielseitige Sprache ist. (Presente)
+- Er **programmierte** gestern eine App für seinen Freund. (Präteritum)
+- Sie hat schon viele Spiele **programmiert**. (Perfekt)
+'''
+der Provider, - (engl.) A2
+Español: el proveedor
+Русский: провайдер
+English: the provider
+
+- Der Provider bietet verschiedene Dienstleistungen an. (The provider offers different services.)
+- Wir haben gestern den Provider gewechselt. (We changed the provider yesterday.)
+- Hast du schon mit dem Provider gesprochen? (Have you already talked to the provider?)
+'''
+speichern, A2
+Español: guardar
+Русский: сохранять
+English: save
+
+- Ich **speichere** meine Dateien auf dem USB-Stick. (I save my files on the USB stick.)
+- Er **speicherte** die Fotos auf seinem Handy. (He saved the photos on his phone.)
+- Hast du die Änderungen schon **gespeichert**? (Have you already saved the changes?)
+'''
+virtuell, A2
+Español: virtual
+Русский: виртуальный
+English: virtual
+
+- Ein virtueller Assistent ist ein Programm, das mit Menschen kommunizieren kann.
+- Gestern habe ich eine virtuelle Tour durch das Museum gemacht.
+- Hast du schon mal eine virtuelle Realität ausprobiert?
+'''
+die Webseite, -n; die Website, - s, A2
+Español: la página web, el sitio web
+Русский: веб-страница, веб-сайт
+English: web page, website
+
+Ejemplos:
+- Ich habe eine neue **Webseite** für mein Projekt erstellt. (I have created a new web page for my project.)
+- Die **Website** von Microsoft bietet viele Informationen und Dienste an. (The website of Microsoft offers many information and services.)
+- Wie gefällt dir die **Webseite** von diesem Museum? (How do you like the web page of this museum?)
+'''
+(engl.), A2
+Español: inglés
+Русский: английский
+English: English
+
+- Ich lerne **Englisch** in der Schule. (I learn English at school.)
+- Gestern habe ich einen Film auf **Englisch** gesehen. (Yesterday I watched a movie in English.)
+- Ich habe schon viele Bücher auf **Englisch** gelesen. (I have already read many books in English.)
+'''
+elektrisch, A2
+Español: eléctrico
+Русский: электрический
+English: electric
+
+Frases en alemán usando esta palabra:
+
+- Das ist ein elektrisches Auto. Es braucht kein Benzin. (Ese es un coche eléctrico. No necesita gasolina.)
+- Er hat gestern einen elektrischen Schlag bekommen, als er die Lampe reparieren wollte. (Él recibió ayer una descarga eléctrica, cuando quería reparar la lámpara.)
+- Sie hat eine elektrische Gitarre zu ihrem Geburtstag bekommen. Sie spielt sehr gut. (Ella recibió una guitarra eléctrica por su cumpleaños. Ella toca muy bien.)
+'''
+die Steckdose, -n A2
+Español: el enchufe, los enchufes
+Русский: розетка, розетки
+English: the socket, the sockets
+
+- Ich stecke das Handy in die Steckdose. (I plug the phone into the socket.)
+- Gestern hat er die Steckdose repariert. (Yesterday he repaired the socket.)
+- Hast du die Steckdose schon ausgewechselt? (Have you already replaced the socket?)
+'''
+die Energie, -n A2
+Español: la energía
+Русский: энергия
+English: energy
+
+- Die Sonne ist eine wichtige Quelle für **die Energie** auf der Erde. (The sun is an important source of energy on Earth.)
+- Gestern haben wir **die Energie** gespart und das Licht ausgeschaltet. (Yesterday we saved energy and turned off the light.)
+- Er hat viel **Energie** in dieses Projekt gesteckt. (He put a lot of energy into this project.)
+'''
+anmachen, A2
+Español: encender, ligar, provocar
+Русский: включать, флиртовать, раздражать
+English: turn on, flirt, annoy
+
+Frases en alemán usando anmachen:
+
+- Er macht das Licht an. (Él enciende la luz.)
+- Sie macht ihn an der Bar an. (Ella le liga en el bar.)
+- Er hat mich angemacht, weil ich zu spät gekommen bin. (Él me ha provocado porque llegué tarde.)
+'''
+der Apparat, -e A2
+Español: el aparato
+Русский: аппарат
+English: the device
+
+- Der Apparat ist sehr kompliziert und funktioniert nicht immer richtig. (The device is very complicated and does not always work properly.)
+- Früher benutzte man Apparate, um zu telefonieren. (In the past, people used devices to make phone calls.)
+- Er hat einen neuen Apparat gekauft, um seine Fotos zu entwickeln. (He bought a new device to develop his photos.)
+'''
+defekt, A2
+Español: defectuoso, defecto
+Русский: дефектный, дефект
+English: defective, defect
+
+- Das Auto ist defekt. Wir müssen es reparieren lassen. (The car is defective. We have to get it repaired.)
+- Er hatte einen Herzfehler, aber er wurde operiert. (He had a heart defect, but he was operated on.)
+- Ich habe das defekte Gerät zurückgeschickt und mein Geld zurückbekommen. (I sent back the defective device and got my money back.)
+'''
+die Zahl, - en A2
+Español: el número
+Русский: число
+English: the number
+
+- Ich kann bis zehn **zählen**. (I can count to ten.)
+- Er hat eine hohe **Zahl** an Büchern. (He has a high number of books.)
+- Sie hat die **Zahl** vergessen. (She has forgotten the number.)
+'''
+mechanisch, A2
+Español: mecánico
+Русский: механический
+English: mechanical
+
+- Das mechanische Spielzeug ist sehr alt, aber es funktioniert noch.
+- Er reparierte das Auto mit seinen mechanischen Fähigkeiten.
+- Sie hat eine mechanische Uhr, die sie jeden Tag aufziehen muss.
+'''
+der Prozess, -e A2
+Español: el proceso
+Русский: процесс
+English: the process
+
+Frases en alemán usando esta palabra:
+
+- Der Prozess der Photosynthese ist sehr komplex. (El proceso de la fotosíntesis es muy complejo.)
+- Er wurde wegen Diebstahls angeklagt und musste vor Gericht einen Prozess führen. (Fue acusado de robo y tuvo que enfrentar un juicio en la corte.)
+- Sie haben den Prozess erfolgreich abgeschlossen und das Zertifikat erhalten. (Han completado el proceso con éxito y recibido el certificado.)
+'''
+die Anwendung, - en B1
+Español: la aplicación, el uso
+Русский: приложение, применение
+English: the application, the usage
+
+- Ich habe eine neue Anwendung für mein Handy heruntergeladen. (I downloaded a new application for my phone.)
+- Die Anwendung von Wärme kann Schmerzen lindern. (The application of heat can relieve pain.)
+- Er hat seine Anwendung für den Job gestern abgeschickt. (He sent his application for the job yesterday.)
+'''
+das Gerät, -e B1
+Español: el aparato, los aparatos
+Русский: устройство, устройства
+English: the device, the devices
+
+Frases en alemán usando esta palabra:
+
+- Ich habe ein neues Gerät gekauft, das mir hilft, besser zu schlafen. (He comprado un nuevo aparato que me ayuda a dormir mejor.)
+- Das Gerät ist kaputt. Wir müssen es reparieren oder ersetzen. (El aparato está roto. Tenemos que repararlo o reemplazarlo.)
+- Er hat viele Geräte in seinem Zimmer, aber er benutzt sie nie. (Él tiene muchos aparatos en su habitación, pero nunca los usa.)
+'''
+die Phase, -n B1
+Español: la fase
+Русский: фаза
+English: the phase
+
+- Die Mondphasen sind die verschiedenen Formen, die der Mond am Himmel annimmt. (The phases of the moon are the different shapes that the moon takes in the sky.)
+- In der ersten Phase des Projekts haben wir eine Umfrage durchgeführt. (In the first phase of the project, we conducted a survey.)
+- Er hat die Phase überwunden, in der er sich isoliert fühlte. (He overcame the phase in which he felt isolated.)
+'''
+sichtbar, B1
+Español: visible
+Русский: видимый
+English: visible
+
+- Der Mond ist heute Nacht sehr sichtbar. (The moon is very visible tonight.)
+- Er war sichtbar verärgert über die Nachricht. (He was visibly annoyed by the news.)
+- Die Folgen des Klimawandels sind immer deutlicher sichtbar. (The consequences of climate change are becoming more and more visible.)
+'''
+verwenden B1
+Español: usar
+Русский: использовать
+English: use
+
+Frases en alemán usando esta palabra:
+
+- Ich verwende einen Bleistift, um zu schreiben. (Uso un lápiz para escribir.)
+- Er verwendete gestern sein neues Fahrrad. (Él usó su nueva bicicleta ayer.)
+- Sie hat viel Zeit verwendet, um dieses Projekt zu beenden. (Ella ha usado mucho tiempo para terminar este proyecto.)
+'''
+die Verwendung, - en B1
+Español: el uso
+Русский: использование
+English: the use
+
+- Die Verwendung von Plastik hat viele negative Folgen für die Umwelt. (The use of plastic has many negative consequences for the environment.)
+- Früher verwendete man Holz zum Heizen. (In the past, wood was used for heating.)
+- Hast du schon die neue Verwendung für deine alte Jeans gefunden? (Have you already found the new use for your old jeans?)
+'''
+der Anwender, - B1
+Español: el usuario
+Русский: пользователь
+English: the user
+
+Frases en alemán usando esta palabra:
+
+- Der Anwender muss ein Passwort eingeben, um auf die Datenbank zuzugreifen. (El usuario debe introducir una contraseña para acceder a la base de datos.)
+- Gestern hat der Anwender eine E-Mail an den Support geschickt. (Ayer el usuario envió un correo electrónico al soporte.)
+- Der Anwender hat das Programm erfolgreich installiert. (El usuario ha instalado el programa con éxito.)
+'''
+der Bildschirm, -e B1
+Español: la pantalla
+Русский: экран
+English: the screen
+
+- Ich schaue mir einen Film auf dem Bildschirm an. (I watch a movie on the screen.)
+- Er hatte gestern einen kaputten Bildschirm. (He had a broken screen yesterday.)
+- Hast du deinen Bildschirm schon gereinigt? (Have you cleaned your screen yet?)
+'''
+booten, B1
+Español: arrancar (un ordenador)
+Русский: загружать (компьютер)
+English: boot (a computer)
+
+Frases en alemán usando booten:
+
+- Ich muss meinen Computer neu booten, weil er sehr langsam ist.
+- Gestern hat er seinen alten Computer gebootet, aber er hat nicht funktioniert.
+- Hast du deinen Computer schon gebootet?
+'''
+das Computernetzwerk, -e B1
+Español: la red informática
+Русский: компьютерная сеть
+English: computer network
+
+- Das Computernetzwerk verbindet mehrere Geräte miteinander. (The computer network connects several devices with each other.)
+- Gestern ist das Computernetzwerk ausgefallen und wir konnten nicht arbeiten. (Yesterday the computer network failed and we could not work.)
+- Hast du schon das neue Computernetzwerk eingerichtet? (Have you already set up the new computer network?)
+'''
+die Informationstechnik, - en B1
+Español: la tecnología de la información
+Русский: информационные технологии
+English: information technology
+
+- Die Informationstechnik ist ein wichtiger Teil der modernen Gesellschaft. (Information technology is an important part of modern society.)
+- Früher arbeitete er in der Informationstechnik, aber jetzt ist er Lehrer. (He used to work in information technology, but now he is a teacher.)
+- Er hat seine Abschlussarbeit in Informationstechnik geschrieben. (He wrote his thesis in information technology.)
+'''
+die Informationstechnologie, - en B1
+Español: la tecnología de la información
+Русский: информационные технологии
+English: information technology
+
+- Die Informationstechnologie ist ein wichtiger Teil der modernen Gesellschaft.
+- Er studierte Informationstechnologie an der Universität.
+- Sie hat ihre Abschlussarbeit in Informationstechnologie geschrieben.
+'''
+installieren, B1
+Español: instalar
+Русский: устанавливать
+English: install
+
+Frases en alemán usando installieren:
+
+- Ich muss ein neues Programm auf meinem Computer **installieren**. (Tengo que instalar un nuevo programa en mi computadora.)
+- Gestern hat er die Waschmaschine im Badezimmer **installiert**. (Ayer instaló la lavadora en el baño.)
+- Hast du schon die neueste Version von Microsoft Edge **installiert**? (¿Ya has instalado la última versión de Microsoft Edge?)
+'''
+das Kabel, - B1
+Español: el cable
+Русский: кабель
+English: the cable
+
+- Ich brauche ein langes Kabel, um meinen Laptop an die Steckdose anzuschließen. (I need a long cable to connect my laptop to the power outlet.)
+- Er hat gestern das Kabel durchgeschnitten, um den Strom abzustellen. (He cut the cable yesterday to turn off the power.)
+- Hast du das Kabel schon repariert? (Have you repaired the cable yet?)
+'''
+das Netz, -e B1
+Español: la red
+Русский: сеть
+English: network
+
+- Ich bin mit dem **Netz** verbunden.
+- Gestern gab es einen **Netz**ausfall in der Stadt.
+- Das **Netz** ist voller Informationen und Möglichkeiten.
+
+der PC, - s (der Personal Computer, -s) B1
+Español: el ordenador personal
+Русский: персональный компьютер
+English: personal computer
+
+- Ich arbeite jeden Tag an meinem **PC**.
+- Er hat seinen alten **PC** verkauft und einen neuen gekauft.
+- Hast du die Datei auf deinem **PC** gespeichert?
+'''
+-) B1 no es una palabra en alemán, sino un nivel de competencia lingüística según el Marco Común Europeo de Referencia para las Lenguas. Por favor, escribe una palabra en alemán seguida de su nivel, como por ejemplo "das Gehirn A2".
+'''
+die Tastatur, - en B1
+Español: el teclado
+Русский: клавиатура
+English: the keyboard
+
+- Ich schreibe dir eine Nachricht mit meiner **Tastatur**. (I write you a message with my keyboard.)
+- Gestern hat mein Bruder seine **Tastatur** kaputt gemacht. (Yesterday, my brother broke his keyboard.)
+- Hast du eine neue **Tastatur** gekauft? (Did you buy a new keyboard?)
+'''
+die Taste, -n B1
+Español: la tecla
+Русский: клавиша
+English: key
+
+- Ich drücke die Taste, um den Computer einzuschalten. (I press the key to turn on the computer.)
+- Er drückte die falsche Taste und löschte seine Arbeit. (He pressed the wrong key and deleted his work.)
+- Hast du die Taste gedrückt, um das Fenster zu schließen? (Did you press the key to close the window?)
+'''
+das Virus; die Viren B1
+Español: el virus; los virus
+Русский: вирус; вирусы
+English: the virus; the viruses
+
+- Das Virus ist sehr gefährlich und ansteckend. (The virus is very dangerous and contagious.)
+- Die Ärzte haben gestern ein neues Virus entdeckt. (The doctors discovered a new virus yesterday.)
+- Hast du dich gegen das Virus impfen lassen? (Did you get vaccinated against the virus?)
+'''
+elektrifizieren, B1
+Español: electrificar
+Русский: электрифицировать
+English: electrify
+
+Frases en alemán usando esta palabra:
+
+- Die Stadt plant, die Straßenbahnlinien zu **elektrifizieren**. (The city plans to electrify the tram lines.)
+- Er **elektrifizierte** das Publikum mit seiner Rede. (He electrified the audience with his speech.)
+- Sie haben ihr Haus **elektrifiziert**, um mehr Komfort zu haben. (They have electrified their house to have more comfort.)
+'''
+die Elektrizität, - en B1
+Español: la electricidad
+Русский: электричество
+English: electricity
+
+- Die Elektrizität ist eine Form von Energie, die aus dem Fluss von elektrischen Ladungen entsteht.
+- Gestern fiel die Elektrizität in unserer Straße aus und wir mussten Kerzen anzünden.
+- Hast du schon die Rechnung für die Elektrizität bezahlt?
+'''
+der Elektromotor, - en B1
+Español: el motor eléctrico
+Русский: электродвигатель
+English: the electric motor
+
+- Der Elektromotor wandelt elektrische Energie in mechanische Energie um. (The electric motor converts electrical energy into mechanical energy.)
+- Er baute einen Elektromotor aus alten Teilen. (He built an electric motor from old parts.)
+- Sie hat den Elektromotor repariert und wieder eingeschaltet. (She repaired the electric motor and turned it back on.)
+'''
+der Schalter, - B1
+Español: el interruptor
+Русский: выключатель
+English: the switch
+
+- Ich schalte das Licht an, wenn es dunkel wird. (I turn on the light when it gets dark.)
+- Er schaltete den Fernseher aus, weil er müde war. (He turned off the TV because he was tired.)
+- Hast du den Schalter umgelegt? (Did you flip the switch?)
+'''
+die Telefonleitung, - en B1
+Español: la línea telefónica
+Русский: телефонная линия
+English: the telephone line
+
+Frases en alemán usando esta palabra:
+
+- Die Telefonleitung ist gestört. Wir können nicht anrufen. (The telephone line is disrupted. We cannot call.)
+- Er hat die Telefonleitung gekappt, um die Polizei abzuschütteln. (He cut the telephone line to shake off the police.)
+- Hast du die Telefonleitung überprüft? Vielleicht ist sie locker. (Did you check the telephone line? Maybe it is loose.)
+'''
+das Atom, -e B1
+Español: el átomo
+Русский: атом
+English: the atom
+
+- Ein Atom ist die kleinste Einheit eines chemischen Elements. (An atom is the smallest unit of a chemical element.)
+- Die Atome bestehen aus einem Kern und einer Hülle. (The atoms consist of a nucleus and a shell.)
+- Albert Einstein hat die berühmte Formel E = mc² entwickelt, die die Beziehung zwischen Energie und Masse eines Atoms beschreibt. (Albert Einstein developed the famous formula E = mc², which describes the relationship between energy and mass of an atom.)
+'''
+das Gas, -e B1
+Español: el gas
+Русский: газ
+English: gas
+
+- Das Gas ist leichter als die Luft. (The gas is lighter than the air.)
+- Er öffnete das Fenster, weil er Gas roch. (He opened the window because he smelled gas.)
+- Sie hat das Gas abgestellt, nachdem sie das Essen gekocht hatte. (She turned off the gas after she cooked the food.)
+'''
+die Kernenergie, -n B1
+Español: la energía nuclear
+Русский: ядерная энергия
+English: nuclear energy
+
+- Die Kernenergie ist eine umstrittene Energiequelle, die viele Vorteile, aber auch Risiken hat. (Nuclear energy is a controversial energy source that has many advantages, but also risks.)
+- Nach dem Unfall in Fukushima beschloss Deutschland, aus der Kernenergie auszusteigen. (After the accident in Fukushima, Germany decided to phase out nuclear energy.)
+- Hast du schon mal eine Kernenergieanlage besucht? (Have you ever visited a nuclear power plant?)
+'''
+entwickeln, B1
+Español: desarrollar
+Русский: развивать
+English: develop
+
+Frases en alemán usando entwickeln:
+
+- Die Kinder **entwickeln** ihre Fähigkeiten durch das Spiel. (Los niños desarrollan sus habilidades a través del juego.)
+- Er **entwickelte** eine neue Theorie über das Universum. (Él desarrolló una nueva teoría sobre el universo.)
+- Sie hat sich zu einer erfolgreichen Autorin **entwickelt**. (Ella se ha convertido en una exitosa autora.)
+'''
+die Entwicklung, - en B1
+Español: el desarrollo
+Русский: развитие
+English: the development
+
+- Die Entwicklung der Technologie ist sehr schnell. (The development of technology is very fast.)
+- Er erzählte mir von seiner Entwicklung als Schriftsteller. (He told me about his development as a writer.)
+- Sie haben die Entwicklung des Projekts abgeschlossen. (They have completed the development of the project.)
+'''
+erfinden B1
+Español: inventar
+Русский: изобретать
+English: invent
+
+Frases en alemán usando erfinden:
+
+- Thomas Edison hat die Glühbirne erfunden. (Thomas Edison inventó la bombilla.)
+- Wer hat diese Geschichte erfunden? (¿Quién se inventó esta historia?)
+- Sie hat mir erzählt, dass sie eine neue Maschine erfunden hat. (Ella me dijo que había inventado una nueva máquina.)
+'''
+die Erfindung, - en B1
+Español: el invento, la invención
+Русский: изобретение
+English: the invention
+
+Frases en alemán usando esta palabra:
+
+- Die Erfindung des Rades war ein wichtiger Schritt für die Menschheit. (La invención de la rueda fue un paso importante para la humanidad.)
+- Er erfand eine Maschine, die Wasser in Wein verwandeln konnte. (Él inventó una máquina que podía convertir el agua en vino.)
+- Sie hat viele Erfindungen gemacht, aber keine war so erfolgreich wie diese. (Ella hizo muchos inventos, pero ninguno fue tan exitoso como este.)
+'''
+das Ergebnis, - se B1
+Español: el resultado
+Русский: результат
+English: the result
+
+- Das Ergebnis der Prüfung war sehr gut. (The result of the exam was very good.)
+- Er erzählte mir das Ergebnis, als er nach Hause kam. (He told me the result when he came home.)
+- Hast du schon das Ergebnis deines Tests bekommen? (Have you already received the result of your test?)
+'''
+dienen, B1
+Español: servir
+Русский: служить
+English: serve
+
+- Ich diene meinem Land als Soldat. (I serve my country as a soldier.)
+- Er diente ihm als Lehrer und Mentor. (He served him as a teacher and mentor.)
+- Sie hat mir gut gedient. (She has served me well.)
+'''
+drehen, B1
+Español: girar, rotar
+Русский: крутить, вращать
+English: turn, rotate
+
+- Er dreht den Schlüssel im Schloss. (He turns the key in the lock.)
+- Sie drehte sich schnell um und sah ihn an. (She turned around quickly and looked at him.)
+- Er hat die Flasche geöffnet, indem er den Deckel gedreht hat. (He opened the bottle by turning the lid.)
+'''
+das Teil, -e B1
+Español: la parte, el trozo
+Русский: часть, кусок
+English: the part, the piece
+
+- Das Auto besteht aus vielen **Teilen**. (The car consists of many parts.)
+- Er hat nur einen kleinen **Teil** des Kuchens gegessen. (He only ate a small piece of the cake.)
+- Sie hat das Buch zum **Teil** gelesen. (She has partly read the book.)
+'''
+ausstellen, B1
+Español: exhibir, exponer
+Русский: выставлять, экспонировать
+English: exhibit, display
+
+Frases en alemán usando ausstellen:
+
+- Die Künstlerin stellt ihre Werke in der Galerie aus. (La artista exhibe sus obras en la galería.)
+- Er hat seinen Wecker ausgestellt, weil er ausschlafen wollte. (Él apagó su despertador porque quería dormir más.)
+- Sie hat mir ein Zeugnis ausgestellt, das meine Qualifikationen bestätigt. (Ella me expidió un certificado que confirma mis calificaciones.)
+'''
+laden, B1
+Español: cargar
+Русский: загружать
+English: load
+
+Ejemplos:
+
+- Ich lade die Koffer ins Auto. (Presente)
+- Español: Cargo las maletas en el coche.
+- Русский: Я гружу чемоданы в машину.
+- English: I load the suitcases into the car.
+
+- Er lud die Fotos auf seinen Laptop. (Präteritum)
+- Español: Él cargó las fotos en su portátil.
+- Русский: Он загрузил фотографии на свой ноутбук.
+- English: He loaded the photos onto his laptop.
+
+- Sie haben die Wäsche in die Waschmaschine geladen. (Perfekt)
+- Español: Ellos han cargado la ropa en la lavadora.
+- Русский: Они загрузили белье в стиральную машину.
+- English: They have loaded the laundry into the washing machine.
+'''
+abschalten B1
+Español: apagar, desconectar
+Русский: выключать, отключать
+English: switch off, disconnect
+
+- Ich schalte das Licht aus, bevor ich ins Bett gehe. (I switch off the light before I go to bed.)
+- Er hat den Fernseher abgeschaltet, weil er keine Lust mehr hatte. (He switched off the TV because he had no more interest.)
+- Hast du die Heizung abgeschaltet, bevor du gegangen bist? (Did you switch off the heating before you left?)
+'''
+anstellen, B1
+Español: contratar, poner en marcha, hacer cola
+Русский: нанимать, включать, становиться в очередь
+English: hire, turn on, queue up
+
+Frases en alemán usando anstellen:
+
+- Die Firma hat letzte Woche zehn neue Mitarbeiter angestellt. (The company hired ten new employees last week.)
+- Er hat den Fernseher angestellt, um die Nachrichten zu sehen. (He turned on the TV to watch the news.)
+- Viele Leute haben sich vor dem Kino angestellt, um Tickets zu kaufen. (Many people queued up in front of the cinema to buy tickets.)
+'''
+der Automat, -en B1
+Español: el autómata, la máquina expendedora
+Русский: автомат, торговый автомат
+English: the automaton, the vending machine
+
+Ejemplos de frases en alemán usando esta palabra:
+
+- Ich habe mir einen Kaffee aus dem Automaten geholt. (Me he comprado un café de la máquina expendedora.)
+- Der Automat ist kaputt. Er nimmt kein Geld an. (La máquina está rota. No acepta dinero.)
+- In der Zukunft werden viele Arbeiten von Automaten erledigt werden. (En el futuro, muchos trabajos serán realizados por autómatas.)
+'''
+die Batterie, -n B1
+Español: la batería
+Русский: батарея
+English: the battery
+
+- Ich brauche eine neue **Batterie** für meine Taschenlampe. (I need a new battery for my flashlight.)
+- Er hat gestern die **Batterie** seines Autos gewechselt. (He changed the battery of his car yesterday.)
+- Hast du die **Batterien** für die Fernbedienung aufgeladen? (Have you charged the batteries for the remote control?)
+'''
+die Bedienung, - en B1
+Español: el servicio, la atención, el/la camarero/a
+Русский: обслуживание, сервис, официант/ка
+English: service, attention, waiter/waitress
+
+Ejemplos:
+- Die Bedienung in diesem Restaurant ist sehr freundlich und schnell. (El servicio en este restaurante es muy amable y rápido.)
+- Ich möchte bitte die Bedienung sprechen. (Quiero hablar con el/la camarero/a, por favor.)
+- Er hat als Bedienung in einem Café gearbeitet. (Él trabajó como camarero en un café.)
+'''
+der Bestandteil, -e B1
+Español: el componente
+Русский: составная часть
+English: the component
+
+- Dieses Medikament enthält viele **Bestandteile**, die gut für die Gesundheit sind. (This medicine contains many **components** that are good for health.)
+- Die **Bestandteile** des Satzes sind Subjekt, Prädikat und Objekt. (The **components** of the sentence are subject, predicate and object.)
+- Er hat alle **Bestandteile** des Computers auseinandergebaut und wieder zusammengebaut. (He disassembled and reassembled all the **components** of the computer.)
+'''
+einschalten, B1
+Español: encender
+Русский: включать
+English: turn on
+
+Frases en alemán usando einschalten:
+
+- Ich schalte das Licht ein, bevor ich ins Bett gehe. (I turn on the light before I go to bed.)
+- Er schaltete den Fernseher ein, um die Nachrichten zu sehen. (He turned on the TV to watch the news.)
+- Hast du die Heizung eingeschaltet? Es ist kalt hier. (Did you turn on the heater? It is cold here.)
+'''
+der Motor, - en B1
+Español: el motor
+Русский: двигатель
+English: the engine
+
+- Der Motor meines Autos ist sehr laut. (The engine of my car is very loud.)
+- Er reparierte den Motor seines Bootes. (He repaired the engine of his boat.)
+- Sie hat einen neuen Motor für ihr Fahrrad gekauft. (She bought a new engine for her bike.)
+'''
+die Werkstatt, -¨en B1
+Español: el taller
+Русский: мастерская
+English: the workshop
+- Ich gehe morgen in die Werkstatt, um mein Auto reparieren zu lassen. (I'm going to the workshop tomorrow to have my car repaired.)
+- Er arbeitete früher in einer Werkstatt für Holzmöbel. (He used to work in a workshop for wooden furniture.)
+- Sie hat ihre Werkstatt in einem alten Fabrikgebäude eingerichtet. (She set up her workshop in an old factory building.)
+'''
+das Werkzeug, -e B1
+Español: la herramienta, las herramientas
+Русский: инструмент, инструменты
+English: the tool, the tools
+
+Frases en alemán usando esta palabra:
+
+- Er braucht ein Werkzeug, um die Tür zu öffnen. (Él necesita una herramienta para abrir la puerta.)
+- Sie hat gestern viele Werkzeuge gekauft. (Ella compró muchas herramientas ayer.)
+- Er hat das Werkzeug benutzt, um das Fahrrad zu reparieren. (Él ha usado la herramienta para reparar la bicicleta.)
+'''
+(der) Grad, -e (als Maßangabe), A1
+
+Español: grado
+Русский: градус
+English: degree
+
+Frases en alemán usando esta palabra:
+
+- Die Temperatur beträgt heute **15 Grad** Celsius. (The temperature is **15 degrees** Celsius today.)
+- Er hat einen **Mastergrad** in Physik. (He has a **master's degree** in physics.)
+- Der Winkel zwischen den beiden Linien ist **90 Grad**. (The angle between the two lines is **90 degrees**.)
+'''
+ohne Artikel, B1
+Español: sin artículo
+Русский: без артикля
+English: without article
+
+Algunas frases en alemán usando esta expresión son:
+
+- Ich kaufe Obst **ohne Artikel**. (Compro fruta sin artículo.)
+- Er spricht **ohne Artikel** von seinem Bruder. (Habla de su hermano sin artículo.)
+- Sie hat die Prüfung **ohne Artikel** bestanden. (Aprobó el examen sin artículo.)
+'''
+das Gramm, -e B1
+Español: el gramo
+Русский: грамм
+English: the gram
+
+- Ein Gramm Gold ist sehr wertvoll. (A gram of gold is very valuable.)
+- Er hat gestern zwei Gramm Käse gegessen. (He ate two grams of cheese yesterday.)
+- Sie hat in drei Monaten fünf Gramm abgenommen. (She has lost five grams in three months.)
+'''
+das Eisen, - B1
+Español: hierro
+Русский: железо
+English: iron
+
+- Das Eisen ist ein wichtiges Metall für die Industrie. (Iron is an important metal for the industry.)
+- Früher haben die Menschen ihre Kleider mit einem Eisen gebügelt. (In the past, people used to iron their clothes with an iron.)
+- Er hat zu wenig Eisen im Blut und fühlt sich oft müde. (He has too little iron in his blood and often feels tired.)
+'''
+das Gummi, -s B1
+Español: goma
+Русский: резина
+English: rubber
+
+- Ich brauche ein **Gummi**, um diesen Fehler zu korrigieren. (I need a rubber to correct this mistake.)
+- Das **Gummi** ist sehr dehnbar und elastisch. (The rubber is very stretchy and elastic.)
+- Er hat ein Armband aus **Gummi** gemacht. (He made a bracelet out of rubber.)
+'''
+die Kugel, -n B1
+Español: la bola, las bolas
+Русский: шар, шары
+English: the ball, the balls
+
+Frases en alemán usando die Kugel:
+
+- Er hat eine **Kugel** Eis bestellt. (Él ha pedido una bola de helado.)
+- Die Erde ist eine **Kugel**, die sich um die Sonne dreht. (La Tierra es una bola que gira alrededor del sol.)
+- Er wurde von einer **Kugel** getroffen und starb. (Fue alcanzado por una bala y murió.)
+'''
+die Kurve, -n B1
+Español: la curva
+Русский: кривая
+English: the curve
+
+- Die Straße macht hier eine scharfe Kurve. (The road makes a sharp curve here.)
+- Er bog um die Kurve und sah das Ziel. (He turned around the curve and saw the finish line.)
+- Die Kurve zeigt den Anstieg der Infektionen. (The curve shows the increase in infections.)
+'''
+betragen, B1
+Español: ascender a, importar
+Русский: составлять, равняться
+English: amount to, total
+
+Ejemplos:
+- Die Gesamtkosten betragen 500 Euro. (The total costs amount to 500 euros.)
+- Er betrug sich sehr höflich. (He behaved very politely.)
+- Sie hat ihn um 1000 Euro betrogen. (She cheated him out of 1000 euros.)
+'''
+die Gebrauchsanweisung, -en B1
+Español: el manual de instrucciones
+Русский: инструкция по применению
+English: the instruction manual
+
+- Bitte lesen Sie die Gebrauchsanweisung sorgfältig durch, bevor Sie das Gerät benutzen.
+(Por favor, lea el manual de instrucciones cuidadosamente antes de usar el aparato.)
+- Er hatte die Gebrauchsanweisung verloren und wusste nicht, wie er die Waschmaschine reparieren sollte.
+(Él había perdido el manual de instrucciones y no sabía cómo reparar la lavadora.)
+- Hast du die Gebrauchsanweisung gelesen, die ich dir gegeben habe?
+(¿Has leído el manual de instrucciones que te di?)
+'''
+gießen B1
+Español: regar, verter
+Русский: поливать, лить
+English: water, pour
+- Ich gieße jeden Tag die Blumen auf dem Balkon. (I water the flowers on the balcony every day.)
+- Er goss das heiße Wasser in die Tasse. (He poured the hot water into the cup.)
+- Sie hat die Pflanzen gegossen, bevor sie in den Urlaub gefahren ist. (She watered the plants before she went on vacation.)
+'''
+füllen, B1
+Español: llenar
+Русский: наполнять
+English: fill
+
+Frases en alemán usando füllen:
+
+- Ich fülle das Glas mit Wasser. (Presente)
+- Ella llenó el vaso con agua.
+- Она наполнила стакан водой.
+- She filled the glass with water.
+
+- Er füllte den Koffer mit Kleidung. (Präteritum)
+- Él llenó la maleta con ropa.
+- Он наполнил чемодан одеждой.
+- He filled the suitcase with clothes.
+
+- Sie haben den Raum mit Blumen gefüllt. (Perfekt)
+- Ellos llenaron la habitación con flores.
+- Они наполнили комнату цветами.
+- They filled the room with flowers.
+'''
+ölen, B1
+Español: morir
+Русский: умирать
+English: die
+
+Frases en alemán usando ölen:
+
+- Er ist vor zwei Jahren **gestorben**. (Él murió hace dos años.)
+- Sie **starb** an einem Herzinfarkt. (Ella murió de un ataque al corazón.)
+- Er hat sein Leben für sein Land **geopfert**. (Él sacrificó su vida por su país.)
+'''
+die Bedingung, -en B1
+Español: la condición
+Русский: условие
+English: the condition
+
+- Unter welchen **Bedingungen** würdest du mit mir ins Kino gehen?
+(Under what **conditions** would you go to the movies with me?)
+- Er erfüllte alle **Bedingungen**, die ihm gestellt wurden.
+(He fulfilled all the **conditions** that were imposed on him.)
+- Die **Bedingungen** für eine erfolgreiche Fusion sind sehr komplex.
+(The **conditions** for a successful fusion are very complex.)
+'''
+durchführen B2
+Español: llevar a cabo, realizar
+Русский: проводить, выполнять
+English: carry out, perform
+
+- Wir führen eine Umfrage unter den Kunden durch. (We carry out a survey among the customers.)
+- Er führte gestern einen spannenden Vortrag durch. (He performed an exciting lecture yesterday.)
+- Sie hat das Experiment erfolgreich durchgeführt. (She has successfully carried out the experiment.)
+'''
+der Einsatz, - ¨e B2
+Español: el uso, la aplicación, la intervención
+Русский: использование, применение, вмешательство
+English: the use, the application, the intervention
+
+Frases en alemán usando esta palabra:
+
+- Der Einsatz von erneuerbaren Energien ist wichtig für die Umwelt. (El uso de las energías renovables es importante para el medio ambiente.)
+- Die Polizei hat einen großen Einsatz in der Innenstadt durchgeführt. (La policía ha realizado una gran intervención en el centro de la ciudad.)
+- Er hat viel Einsatz gezeigt, um seine Ziele zu erreichen. (Él ha mostrado mucha dedicación para alcanzar sus objetivos.)
+'''
+einsetzen, B2
+Español: usar, insertar, aplicar
+Русский: использовать, вставлять, применять
+English: use, insert, apply
+
+- Ich **setze** die neue Batterie in die Fernbedienung **ein**. (I **insert** the new battery into the remote control.)
+- Er **setzte** sich für die Rechte der Minderheiten **ein**. (He **advocated** for the rights of minorities.)
+- Sie hat die Formel richtig **eingesetzt**. (She has **applied** the formula correctly.)
+'''
+erfolgen, B2
+Español: ocurrir, suceder, seguir
+Русский: происходить, следовать, наступать
+English: occur, happen, follow
+
+- Die Prüfung erfolgt schriftlich und mündlich.
+  - El examen se realiza por escrito y oralmente.
+  - Экзамен проводится письменно и устно.
+  - The exam is done in writing and orally.
+- Der Unfall erfolgte gestern auf der Autobahn.
+  - El accidente ocurrió ayer en la autopista.
+  - Авария произошла вчера на автостраде.
+  - The accident happened yesterday on the highway.
+- Nach dem Tod des Königs erfolgte eine Revolution.
+  - Después de la muerte del rey, siguió una revolución.
+  - После смерти короля наступила революция.
+  - After the death of the king, a revolution followed.
+'''
+ausbauen, B2
+Español: ampliar, desmontar
+Русский: расширять, разбирать
+English: expand, dismantle
+
+Frases en alemán usando ausbauen:
+
+- Wir wollen unser Haus **ausbauen** und eine Terrasse anbauen. (We want to **expand** our house and add a terrace.)
+- Er hat den Motor seines Autos **ausgebaut** und repariert. (He **dismantled** the engine of his car and repaired it.)
+- Sie hat ihre Sprachkenntnisse im Ausland **ausgebaut**. (She **improved** her language skills abroad.)
+'''
+absichern, B2
+Español: asegurar, proteger, respaldar
+Русский: обеспечивать, защищать, подтверждать
+English: secure, protect, confirm
+
+Frases en alemán usando absichern:
+
+- Der Arzt hat mich abgesichert, dass ich keine ernsthafte Krankheit habe. (El médico me ha confirmado que no tengo ninguna enfermedad grave.)
+- Wir müssen unser Haus gegen Einbrüche absichern. (Tenemos que proteger nuestra casa contra robos.)
+- Er hat sich für die Zukunft abgesichert, indem er viel gespart hat. (Él se ha asegurado el futuro ahorrando mucho.)
+'''
+die Absicherung, -en B2
+Español: la protección, el aseguramiento
+Русский: защита, обеспечение
+English: protection, security
+
+- Die Absicherung der Daten ist sehr wichtig für die Privatsphäre der Nutzer. (The protection of the data is very important for the privacy of the users.)
+- Er hat seine Familie durch eine Lebensversicherung abgesichert. (He secured his family with a life insurance.)
+- Sie haben die Tür abgesichert, damit niemand eintreten kann. (They secured the door so that no one can enter.)
+'''
+der Filter, - B2
+Español: el filtro
+Русский: фильтр
+English: the filter
+
+- Ich brauche einen neuen **Filter** für meine Kaffeemaschine. (I need a new filter for my coffee machine.)
+- Er hat gestern den **Filter** seines Autos gewechselt. (He changed the filter of his car yesterday.)
+- Hast du schon mal einen **Filter** auf dein Foto angewendet? (Have you ever applied a filter to your photo?)
+'''
+die Filterung, - en B2
+Español: la filtración
+Русский: фильтрация
+English: the filtration
+
+- Die Filterung des Wassers ist sehr wichtig für die Gesundheit. (The filtration of water is very important for health.)
+- Er filterte den Kaffee mit einem Papierfilter. (He filtered the coffee with a paper filter.)
+- Sie haben das Blut gefiltert, um die Krankheit zu diagnostizieren. (They have filtered the blood to diagnose the disease.)
+'''
+platzen, B2
+Español: estallar, reventar, explotar
+Русский: лопаться, взрываться, разрываться
+English: burst, explode, pop
+
+Frases en alemán usando platzen:
+
+- Der Ballon ist geplatzt, als ich ihn aufgeblasen habe. (The balloon burst when I blew it up.)
+- Er platzte vor Wut, als er die Nachricht hörte. (He exploded with anger when he heard the news.)
+- Sie haben die Party geplatzt, weil sie zu spät waren. (They burst the party because they were late.)
+'''
+saugen, B2
+Español: aspirar
+Русский: сосать
+English: suck
+'''
+spannen, B2
+Español: tensar, estirar, relajar
+Русский: натягивать, растягивать, расслаблять
+English: tense, stretch, relax
+
+- Er spannt die Muskeln an, um sich aufzuwärmen. (He tenses his muscles to warm up.)
+- Sie spannte die Wäscheleine zwischen zwei Bäumen. (She stretched the clothesline between two trees.)
+- Nach der Arbeit hat er sich gespannt. (He relaxed after work.)
+'''
+die Datei, -n B2
+Español: el archivo
+Русский: файл
+English: the file
+
+- Ich habe die Datei auf meinem Computer gespeichert.
+- Er öffnete die Datei und las den Brief.
+- Hast du die Datei schon an den Chef geschickt?
+'''
+das Datennetz, -e B2
+Español: la red de datos
+Русский: сеть данных
+English: data network
+
+- Das Datennetz ist ein System von miteinander verbundenen Geräten, die Daten austauschen können.
+- Gestern hat er über das Datennetz mit seiner Familie in Australien gesprochen.
+- Er hat viele Informationen aus dem Datennetz heruntergeladen.
+'''
+das Laufwerk, -e B2
+Español: la unidad de disco
+Русский: дисковод
+English: the disk drive
+
+- Ich habe ein neues **Laufwerk** für meinen Computer gekauft. (I bought a new disk drive for my computer.)
+- Er hat gestern das **Laufwerk** ausgebaut und repariert. (He removed and repaired the disk drive yesterday.)
+- Hast du das **Laufwerk** schon angeschlossen? (Have you connected the disk drive yet?)
+'''
+das Sicherungssystem, -e B2
+Español: el sistema de seguridad
+Русский: система безопасности
+English: the security system
+
+- Das Sicherungssystem ist sehr wichtig für die Fabrik. (The security system is very important for the factory.)
+- Gestern hat das Sicherungssystem einen Einbruch gemeldet. (Yesterday, the security system reported a break-in.)
+- Wir haben das Sicherungssystem überprüft und es funktioniert einwandfrei. (We have checked the security system and it works perfectly.)
+'''
+erzeugen B2
+Español: producir, generar
+Русский: производить, генерировать
+English: produce, generate
+
+- Die Sonne erzeugt Licht und Wärme. (The sun produces light and heat.)
+- Er erzeugte gestern einen neuen Rekord. (He produced a new record yesterday.)
+- Sie haben viel Müll erzeugt. (They have generated a lot of garbage.)
+'''
+die Erzeugung, - en B2
+Español: la producción, la generación
+Русский: производство, генерация
+English: the production, the generation
+
+- Die Erzeugung von Strom aus erneuerbaren Energien ist umweltfreundlich. (The production of electricity from renewable energies is environmentally friendly.)
+- Die Firma erzeugte im letzten Jahr einen hohen Gewinn. (The company generated a high profit last year.)
+- Die Erzeugung von Kunstwerken erfordert viel Kreativität und Talent. (The creation of artworks requires a lot of creativity and talent.)
+'''
+versorgen (mit D) B2
+Español: proveer, abastecer, cuidar (de alguien)
+Русский: обеспечивать, снабжать, ухаживать (за кем-то)
+English: provide, supply, take care (of someone)
+
+Frases en alemán usando versorgen:
+
+- Die Regierung versorgt die Bevölkerung mit Lebensmitteln und Medikamenten. (The government provides the population with food and medicine.)
+- Er versorgte seine Wunde mit einem Verband. (He treated his wound with a bandage.)
+- Sie hat ihre kranke Mutter jahrelang versorgt. (She took care of her sick mother for years.)
+'''
+die Versorgung, B2
+Español: el abastecimiento, el suministro
+Русский: снабжение, обеспечение
+English: the supply, the provision
+
+Ejemplos:
+
+- Die Versorgung mit Lebensmitteln ist in der Stadt sehr schlecht. (The food supply is very bad in the city.)
+- Er kümmert sich um die Versorgung der Verletzten. (He takes care of the provision of the injured.)
+- Die Stadt hat die Versorgung mit Strom und Wasser wiederhergestellt. (The city has restored the supply of electricity and water.)
+'''
+der Abbau, B2
+Español: la reducción, la eliminación, la degradación
+Русский: сокращение, ликвидация, разрушение
+English: the reduction, the elimination, the degradation
+
+- Der Abbau von Kohlendioxid in der Atmosphäre ist ein wichtiger Faktor für den Klimawandel. (The reduction of carbon dioxide in the atmosphere is an important factor for climate change.)
+- Die Regierung plant den Abbau von Subventionen für erneuerbare Energien. (The government plans the elimination of subsidies for renewable energies.)
+- Der Abbau von Proteinen in den Zellen wird durch Enzyme katalysiert. (The degradation of proteins in the cells is catalyzed by enzymes.)
+'''
+abbauen, B2
+Español: desmontar, reducir, degradar
+Русский: разбирать, сокращать, разлагать
+English: dismantle, reduce, degrade
+
+Frases en alemán usando abbauen:
+
+- Die Arbeiter bauen die Bühne nach dem Konzert ab. (Los trabajadores desmontan el escenario después del concierto.)
+- Die Regierung will die Arbeitslosigkeit abbauen. (El gobierno quiere reducir el desempleo.)
+- Der Körper baut Alkohol schneller ab, wenn man viel Wasser trinkt. (El cuerpo degrada el alcohol más rápido si se bebe mucha agua.)
+'''
+anstauen, B2
+Español: acumular, embalsar
+Русский: накапливать, запруживать
+English: accumulate, dam up
+
+Frases en alemán usando anstauen:
+
+- Der Regen hat das Wasser im Fluss angestaut. (The rain has dammed up the water in the river.)
+- Er staut seinen Ärger an, bis er explodiert. (He accumulates his anger until he explodes.)
+- Sie haben viel Wissen angestaut. (They have accumulated a lot of knowledge.)
+'''
+die Atomkernspaltung, - en B2
+Español: la fisión nuclear
+Русский: ядерное деление
+English: nuclear fission
+
+- Die Atomkernspaltung ist ein Prozess, bei dem ein schwerer Atomkern in zwei oder mehr leichtere Kerne zerfällt.
+- Im Jahr 1938 entdeckten Otto Hahn und Fritz Strassmann die Atomkernspaltung von Uran.
+- Durch die kontrollierte Atomkernspaltung kann Energie in Kernkraftwerken erzeugt werden.
+'''
+die Glühbirne, -n B2
+Español: la bombilla
+Русский: лампочка
+English: the light bulb
+
+- Ich schalte die Glühbirne an, wenn es dunkel wird. (I turn on the light bulb when it gets dark.)
+- Gestern hat er die Glühbirne ausgewechselt, weil sie kaputt war. (Yesterday he changed the light bulb because it was broken.)
+- Hast du schon die Glühbirne überprüft? Sie hat nicht geleuchtet. (Have you checked the light bulb? It didn't light up.)
+'''
+die Kernenergiegewinnung, - en B2
+Español: la obtención de energía nuclear
+Русский: получение ядерной энергии
+English: nuclear energy production
+
+- Die Kernenergiegewinnung ist ein umstrittenes Thema in der Politik und der Gesellschaft.
+- In den 1950er Jahren begannen viele Länder mit der Kernenergiegewinnung, um ihren Energiebedarf zu decken.
+- Die Bundesregierung hat beschlossen, bis 2022 aus der Kernenergiegewinnung auszusteigen.
+'''
+die Turbine, -n B2
+Español: la turbina
+Русский: турбина
+English: the turbine
+
+- Die Turbine wandelt die kinetische Energie des Wassers in elektrische Energie um. (The turbine converts the kinetic energy of the water into electrical energy.)
+- Die Ingenieure bauten eine neue Turbine für das Kraftwerk. (The engineers built a new turbine for the power plant.)
+- Die Turbine hat sich überhitzt und ist explodiert. (The turbine overheated and exploded.)
+'''
+umwandeln, B2
+Español: convertir
+Русский: преобразовывать
+English: transform
+
+- Er hat seinen Schmerz in Kunst umgewandelt. (He transformed his pain into art.)
+- Sie wandelte die Datei in ein anderes Format um. (She converted the file into a different format.)
+- Er hat sich zum Besseren umgewandelt. (He has changed for the better.)
+'''
+die Umwandlung, -en B2
+Español: la transformación
+Русский: преобразование
+English: the conversion
+
+- Die Umwandlung von Wasser in Dampf erfordert viel Energie. (The conversion of water into steam requires a lot of energy.)
+- Er erzählte mir von seiner Umwandlung zum Christentum. (He told me about his conversion to Christianity.)
+- Sie hat die Umwandlung ihrer Garage in ein Büro abgeschlossen. (She has completed the conversion of her garage into an office.)
+'''
+ergeben, B2
+Español: resultar, dar, rendirse
+Русский: давать, приводить, сдаваться
+English: yield, give, surrender
+
+Frases en alemán usando ergeben:
+
+- Die Umfrage ergab, dass die meisten Menschen mit ihrer Arbeit zufrieden sind. (The survey yielded that most people are satisfied with their work.)
+- Er ergab sich den Feinden ohne zu kämpfen. (He surrendered to the enemies without fighting.)
+- Das Ergebnis ergibt sich aus der Summe der beiden Zahlen. (The result is obtained from the sum of the two numbers.)
+'''
+erkennen, B2
+Español: reconocer
+Русский: узнавать
+English: recognize
+
+Ejemplos de frases en alemán usando erkennen:
+
+- Ich **erkenne** dich an deiner Stimme. (Te reconozco por tu voz.)
+- Er **erkannte** seinen Fehler zu spät. (Él reconoció su error demasiado tarde.)
+- Sie hat ihn an der Bushaltestelle **erkannt**. (Ella lo reconoció en la parada de autobús.)
+'''
+die Erkenntnis, - se B2
+Español: el conocimiento, el descubrimiento
+Русский: познание, открытие
+English: the knowledge, the discovery
+
+Ejemplos:
+
+- Die Erkenntnis, dass er mich betrogen hat, war sehr schmerzhaft. (The knowledge that he cheated on me was very painful.)
+- Er kam zu der Erkenntnis, dass er einen Fehler gemacht hatte. (He came to the realization that he had made a mistake.)
+- Durch die Forschung haben wir viele neue Erkenntnisse gewonnen. (Through research, we have gained many new insights.)
+'''
+bewirken B2
+Español: causar, provocar, producir
+Русский: вызывать, действовать, обеспечивать
+English: cause, effect, bring about
+
+- Dieses Medikament kann Schwindel **bewirken**. (This medicine can cause dizziness.)
+- Er **bewirkte** eine Veränderung in der Gesellschaft. (He brought about a change in society.)
+- Sie hat mit ihrer Arbeit viel Gutes **bewirkt**. (She has done a lot of good with her work.)
+'''
+abhören, B2
+Español: escuchar, auscultar
+Русский: подслушивать, аускультация
+English: listen, auscultate
+
+Frases en alemán usando abhören:
+
+- Der Arzt hört die Lunge des Patienten ab. (El médico ausculta el pulmón del paciente.)
+- Er hörte heimlich das Gespräch seiner Eltern ab. (Él escuchó secretamente la conversación de sus padres.)
+- Sie hat gestern die Prüfung abgehört. (Ella ha escuchado la prueba ayer.)
+'''
+Aquí está la información de las palabras que me has escrito:
+
+ausstatten mit, D B2
+Español: equipar con
+Русский: оснащать
+English: equip with
+Ejemplos:
+- Die Schule ist mit modernen Computern ausgestattet. (La escuela está equipada con computadoras modernas.)
+- Wir haben unser Auto mit einem Navigationsgerät ausgestattet. (Hemos equipado nuestro coche con un dispositivo de navegación.)
+- Er hat sein Zimmer mit vielen Postern ausgestattet. (Él ha equipado su habitación con muchos pósters.)
+
+ausstecken, B2
+Español: desconectar
+Русский: вынимать
+English: unplug
+Ejemplos:
+- Vergiss nicht, das Ladegerät auszustecken. (No olvides desconectar el cargador.)
+- Er steckte den USB-Stick aus und gab ihn mir. (Él desconectó la memoria USB y me la dio.)
+- Sie hat die Kaffeemaschine ausgesteckt, bevor sie das Haus verließ. (Ella desconectó la cafetera antes de salir de la casa.)
+'''
+anzeigen B2
+Español: mostrar, denunciar, indicar
+Русский: показывать, жаловаться, указывать
+English: show, report, indicate
+
+- Er zeigt mir seine Briefmarkensammlung. (He shows me his stamp collection.)
+- Sie hat ihren Nachbarn bei der Polizei angezeigt. (She reported her neighbor to the police.)
+- Die Uhr zeigt zehn Minuten nach zwölf. (The clock indicates ten minutes past twelve.)
+'''
+der Nagel, - B2
+Español: el clavo
+Русский: гвоздь
+English: the nail
+
+- Ich habe mir einen Nagel in den Fuß getreten. (I stepped on a nail in my foot.)
+- Er schlug einen Nagel in die Wand. (He hammered a nail into the wall.)
+- Sie hat sich die Nägel lackiert. (She painted her nails.)
+'''
+die Schraube, -n B2
+Español: el tornillo
+Русский: винт
+English: the screw
+
+- Ich brauche eine Schraube, um das Regal zu befestigen. (I need a screw to fix the shelf.)
+- Er schraubte die Lampe an die Decke. (He screwed the lamp to the ceiling.)
+- Hast du die Schrauben schon festgezogen? (Have you tightened the screws yet?)
+'''
+schrauben, B2
+Español: atornillar, tornillo
+Русский: винтить, винт
+English: screw, screw
+
+Frases en alemán usando schrauben:
+
+- Er schraubt die Lampe an die Decke. (Él atornilla la lámpara al techo.)
+- Ich habe gestern eine Schraube verloren. (Ayer perdí un tornillo.)
+- Hast du die Schrauben schon festgezogen? (¿Ya has apretado los tornillos?)
+'''
+die Länge, -n B2
+Español: la longitud, las longitudes
+Русский: длина, длины
+English: the length, the lengths
+
+- Die Länge des Flusses ist schwer zu messen. (The length of the river is hard to measure.)
+- Er hatte eine lange Reise hinter sich. (He had a long journey behind him.)
+- Sie hat ihre Haare kürzer geschnitten, weil sie die Länge nicht mehr mochte. (She cut her hair shorter because she didn't like the length anymore.)
+'''
+die Kunstfaser, -n B2
+Español: la fibra sintética
+Русский: синтетическое волокно
+English: synthetic fiber
+
+- Die Kleidung aus Kunstfasern ist oft billiger als die aus Naturfasern.
+- Er trug einen Anzug aus Kunstfaser, der ihm nicht gut stand.
+- Sie hat ihre alten Kunstfasersachen weggeschmissen und nur noch Baumwolle gekauft.
+'''
+das Mineral, -e B2
+Español: el mineral
+Русский: минерал
+English: the mineral
+
+- Das Mineral ist ein wichtiger Bestandteil der Ernährung. (The mineral is an important part of the nutrition.)
+- Er fand ein seltenes Mineral in der Höhle. (He found a rare mineral in the cave.)
+- Sie hat viele Mineralien gesammelt und studiert. (She has collected and studied many minerals.)
+'''
+das Nylon, B2
+Español: el nailon
+Русский: нейлон
+English: nylon
+
+- Das Nylon ist ein synthetischer Stoff, der für Kleidung und andere Produkte verwendet wird.
+- Er hat seine Jacke aus Nylon gewaschen und sie ist eingelaufen.
+- Sie hat schon viele Nylonstrümpfe gekauft, aber sie reißen immer schnell.
+'''
+zähflüssig, B2
+Español: viscoso
+Русский: вязкий
+English: viscous
+
+- Die Milch ist zähflüssig geworden, weil sie zu lange im Kühlschrank stand. (The milk has become viscous because it was in the refrigerator for too long.)
+- Er fuhr zähflüssig durch den dichten Verkehr. (He drove slowly through the heavy traffic.)
+- Die Wunde heilte schnell, weil das Blut zähflüssig war. (The wound healed quickly because the blood was viscous.)
+'''
+zahlenmäßig, B2
+Español: numérico
+Русский: численный
+English: numerical
+
+- Die zahlenmäßige Überlegenheit der Armee war entscheidend für den Sieg. (The numerical superiority of the army was decisive for the victory.)
+- Er zählte zahlenmäßig die Schafe, bevor er einschlief. (He counted the sheep numerically before he fell asleep.)
+- Die zahlenmäßige Lösung der Gleichung ist kompliziert. (The numerical solution of the equation is complicated.)
+'''
+die Ladung, - en B2
+Español: la carga
+Русский: заряд
+English: the charge
+
+- Die Ladung eines Elektrons ist negativ. (The charge of an electron is negative.)
+- Er hatte eine Ladung Holz auf seinem Wagen. (He had a load of wood on his wagon.)
+- Die Polizei hat ihn wegen Ladendiebstahls angeklagt. (The police charged him with shoplifting.)
+'''
+der Durchschnitt, -e B2
+Español: el promedio
+Русский: среднее
+English: the average
+
+- Der Durchschnitt der Klasse ist 2,5. (The average of the class is 2.5.)
+- Im letzten Jahr lag der Durchschnitt der Temperatur bei 15 Grad. (Last year, the average temperature was 15 degrees.)
+- Er hat den Durchschnitt seiner Noten verbessert. (He has improved the average of his grades.)
+'''
+durchschnittlich, B2
+Español: promedio, medio
+Русский: средний
+English: average, medium
+
+- Die durchschnittliche Temperatur im Januar in Berlin ist -1°C. (The average temperature in January in Berlin is -1°C.)
+- Er war ein durchschnittlicher Schüler, aber er hatte ein großes Interesse an Musik. (He was an average student, but he had a great interest in music.)
+- Ich habe durchschnittlich acht Stunden pro Nacht geschlafen. (I slept an average of eight hours per night.)
+'''
+ansteigen, B2
+Español: aumentar, subir
+Русский: повышаться, подниматься
+English: increase, rise
+
+Frases en alemán usando ansteigen:
+
+- Die Temperatur ist heute um fünf Grad angestiegen. (The temperature has risen by five degrees today.)
+- Die Zahl der Infektionen stieg im letzten Monat stark an. (The number of infections increased sharply last month.)
+- Er ist den Berg langsam angestiegen. (He climbed the mountain slowly.)
+'''
+fetten, B2
+Español: engordar
+Русский: толстеть
+English: to fatten
+
+Frases en alemán usando fetten:
+
+- Die Gans wird für Weihnachten gefettet. (The goose is fattened for Christmas.)
+- Er hat in den letzten Jahren sehr gefettet. (He has fattened a lot in the last years.)
+- Sie hat ihre Haare mit Kokosöl gefettet. (She has greased her hair with coconut oil.)
+'''
+der Funke, -n B2
+Español: la chispa
+Русский: искра
+English: the spark
+
+- Ein Funke Hoffnung glimmte in seinen Augen. (A spark of hope glimmered in his eyes.)
+- Er erinnerte sich an den Tag, als der Funke zwischen ihnen übersprang. (He remembered the day when the spark flew between them.)
+- Das Feuer wurde durch einen Funken ausgelöst. (The fire was triggered by a spark.)
+'''
+funken, B2
+Español: chispear, emitir chispas
+Русский: искрить, искриться
+English: spark, sparkle
+
+Frases en alemán usando funken:
+
+- Der Sternenhimmel funkt in der Nacht. (The starry sky sparkles at night.)
+- Er funkte einen Hilferuf an die Küstenwache. (He sent a distress call to the coast guard.)
+- Die Feuerwerke haben schön gefunkt. (The fireworks sparkled beautifully.)
+'''
+pressen B2
+Español: presionar, apretar
+Русский: давить, сжимать
+English: press, squeeze
+
+Frases en alemán usando pressen:
+
+- Er presst die Zitrone aus, um Saft zu machen. (Él exprime el limón para hacer jugo.)
+- Sie presste sich an ihn, als sie das Feuerwerk sahen. (Ella se apretó contra él cuando vieron los fuegos artificiales.)
+- Er hat die Wunde gepresst, um das Bluten zu stoppen. (Él presionó la herida para detener el sangrado.)
+'''
+verfahren, B2
+Español: proceder, proceso
+Русский: процедировать, процесс
+English: proceed, process
+
+- Er verfährt nach dem Motto: Wer nicht wagt, der nicht gewinnt. (He proceeds according to the motto: Nothing ventured, nothing gained.)
+- Sie verfuhren sehr vorsichtig mit dem alten Buch. (They handled the old book very carefully.)
+- Er hat sich in der Stadt verfahren und musste nach dem Weg fragen. (He got lost in the city and had to ask for directions.)
+'''
+die Dampflokomotive, -n B2
+Español: la locomotora de vapor
+Русский: паровоз
+English: the steam locomotive
+
+- Die Dampflokomotive war eine wichtige Erfindung für die Entwicklung des Eisenbahnverkehrs.
+- Als Kind fuhr er oft mit seinem Großvater in einer alten Dampflokomotive.
+- Er hat viele Modelle von Dampflokomotiven gesammelt und sie stolz in seinem Zimmer ausgestellt.
+'''
+der Diesel, - B2
+Español: el diésel
+Русский: дизель
+English: diesel
+- Der Diesel ist ein Kraftstoff, der aus Erdöl gewonnen wird. (Diesel is a fuel that is obtained from crude oil.)
+- Gestern tankte ich meinen Wagen mit Diesel. (Yesterday I filled up my car with diesel.)
+- Ich habe gehört, dass Diesel schädlich für die Umwelt ist. (I have heard that diesel is harmful for the environment.)
+'''
+die Eisenbahn, - en B2
+Español: el ferrocarril
+Русский: железная дорога
+English: the railway
+
+- Die Eisenbahn ist ein wichtiges Verkehrsmittel in vielen Ländern. (The railway is an important means of transport in many countries.)
+- Als Kind fuhr er oft mit der Eisenbahn zu seinen Großeltern. (As a child, he often took the train to his grandparents.)
+- Er hat gestern eine Modelleisenbahn zum Geburtstag bekommen. (He got a model railway for his birthday yesterday.)
+'''
+die Hochgeschwindigkeit, B2
+Español: la alta velocidad
+Русский: высокая скорость
+English: high speed
+
+- Der Zug fährt mit **Hochgeschwindigkeit** durch die Landschaft. (The train travels at high speed through the countryside.)
+- Er erreichte eine **Hochgeschwindigkeit** von 200 km/h, bevor er die Kontrolle verlor. (He reached a high speed of 200 km/h before he lost control.)
+- Sie haben die **Hochgeschwindigkeit** gemessen und festgestellt, dass sie die Grenze überschritten hat. (They measured the high speed and found out that she had exceeded the limit.)
+'''
+der Katalysator, - en B2
+Español: el catalizador
+Русский: катализатор
+English: the catalyst
+
+- Der Katalysator ist ein Stoff, der eine chemische Reaktion beschleunigt, ohne selbst verbraucht zu werden.
+- Als er den Katalysator in die Lösung gab, änderte sich die Farbe sofort.
+- Sie war der Katalysator für die Revolution, die das Land veränderte.
+- Er hat den Katalysator aus dem Auto ausgebaut, um ihn zu reinigen.
+'''
+der Radar, -e B2
+Español: el radar
+Русский: радар
+English: the radar
+
+- Der Radar ist ein Gerät zur Ortung von Objekten in der Luft oder im Wasser.
+- Gestern hat die Polizei meinen Freund mit dem Radar geblitzt. Er ist zu schnell gefahren.
+- Die Flugzeuge sind vom Radar verschwunden. Was ist passiert?
+- Hast du schon mal einen Radar gebaut? Ich habe das in der Schule gemacht.
+'''
+der Aspekt, -e B2
+Español: el aspecto
+Русский: аспект
+English: the aspect
+
+- Dieser Aspekt ist sehr wichtig für das Verständnis des Problems. (This aspect is very important for understanding the problem.)
+- Er erzählte die Geschichte aus seinem eigenen Aspekt. (He told the story from his own aspect.)
+- Sie haben viele Aspekte dieser Frage analysiert. (They have analyzed many aspects of this question.)
+'''
+die Grundlage, -n B2
+Español: la base, el fundamento
+Русский: основа, основание
+English: the basis, the foundation
+- Die Grundlage für eine gute Beziehung ist Vertrauen. (The basis for a good relationship is trust.)
+- Er schrieb seine Doktorarbeit auf der Grundlage von empirischen Daten. (He wrote his doctoral thesis on the basis of empirical data.)
+- Auf Grundlage der neuen Erkenntnisse haben wir unsere Strategie geändert. (Based on the new findings, we changed our strategy.)
+'''
+grundlegend, B2
+Español: básico, fundamental
+Русский: основной, фундаментальный
+English: basic, fundamental
+
+- Das ist eine **grundlegende** Regel der Grammatik. (This is a basic rule of grammar.)
+- Er hat die **grundlegenden** Fähigkeiten für den Job. (He has the fundamental skills for the job.)
+- Sie hat ihre Meinung **grundlegend** geändert. (She has changed her opinion fundamentally.)
+'''
+der Verlauf, - ¨e B2
+Español: el desarrollo, el curso, el historial
+Русский: развитие, ход, история
+English: the development, the course, the history
+
+Tres frases en alemán usando esta palabra son:
+
+- Der Verlauf der Krankheit war sehr schnell. (The course of the disease was very fast.)
+- Ich habe den Verlauf des Gesprächs nicht verstanden. (I did not understand the development of the conversation.)
+- Du kannst den Verlauf deiner Bestellung online verfolgen. (You can track the history of your order online.)
+'''
+antreiben, B2
+Español: impulsar, motivar, propulsar
+Русский: приводить в движение, мотивировать, двигать
+English: drive, motivate, propel
+
+Frases en alemán usando antreiben:
+
+- Der Wind treibt die Wolken an. (El viento impulsa las nubes.)
+- Was treibt dich an, so hart zu arbeiten? (¿Qué te motiva a trabajar tan duro?)
+- Er hat das Auto mit einem Elektromotor angetrieben. (Él propulsó el coche con un motor eléctrico.)
+'''
+besetzen, B2
+Español: ocupar, tomar
+Русский: занимать, захватывать
+English: occupy, take
+
+- Die Demonstranten haben das Parlamentsgebäude besetzt.
+(Los manifestantes ocuparon el edificio del parlamento.)
+(Протестующие заняли здание парламента.)
+(The protesters occupied the parliament building.)
+
+- Die Römer besetzten viele Gebiete in Europa.
+(Los romanos tomaron muchos territorios en Europa.)
+(Римляне захватили множество территорий в Европе.)
+(The Romans took many territories in Europe.)
+
+- Er hat den Platz neben ihr besetzt.
+(Él ocupó el lugar junto a ella.)
+(Он занял место рядом с ней.)
+(He occupied the place next to her.)
+'''
+abrufen B2+
+Español: recuperar, consultar
+Русский: извлекать, запрашивать
+English: retrieve, request
+
+Frases en alemán usando abrufen:
+
+- Ich kann die Daten von der Festplatte nicht abrufen. (No puedo recuperar los datos del disco duro.)
+- Er rief seine Erinnerungen an die Kindheit ab. (Él recuperó sus recuerdos de la infancia.)
+- Sie müssen die Informationen online abrufen. (Tiene que consultar la información en línea.)
+'''
+gasen, C1
+Español: envenenar
+Русский: отравлять
+English: poison
+
+Frases en alemán usando gasen:
+
+- Die Polizei vermutet, dass der Mörder seine Opfer mit Gas vergiftet hat.
+(La policía sospecha que el asesino envenenó a sus víctimas con gas.)
+
+- In der Vergangenheit wurden viele Menschen von ihren eigenen Regierungen vergast.
+(En el pasado, muchas personas fueron envenenadas por sus propios gobiernos.)
+
+- Er hat sich selbst vergiftet, nachdem er seine Frau betrogen hatte.
+(Él se envenenó a sí mismo después de engañar a su esposa.)
+'''
+fußen C1
+Español: basarse, fundamentarse
+Русский: основываться, базироваться
+English: to be based, to be founded
+
+Frases en alemán usando fußen:
+
+- Die Theorie fußt auf empirischen Daten. (La teoría se basa en datos empíricos.)
+- Die Freundschaft zwischen ihnen fußte auf gegenseitigem Respekt. (La amistad entre ellos se fundamentaba en el respeto mutuo.)
+- Er hat seine Entscheidung auf falsche Annahmen gefußt. (Él ha basado su decisión en suposiciones falsas.)

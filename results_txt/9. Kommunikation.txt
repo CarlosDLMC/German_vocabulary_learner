@@ -1,0 +1,2525 @@
+'''
+das Thema, -s A1
+Español: el tema
+Русский: тема
+English: the topic
+
+- Das Thema des Buches ist sehr interessant. (The topic of the book is very interesting.)
+- Gestern haben wir über ein wichtiges Thema gesprochen. (Yesterday we talked about an important topic.)
+- Hast du schon ein Thema für deine Präsentation gewählt? (Have you already chosen a topic for your presentation?)
+'''
+das Wort, -e oder -¨er A1
+Español: la palabra
+Русский: слово
+English: the word
+
+- Das Wort ist sehr wichtig für die Kommunikation. (The word is very important for communication.)
+- Er sagte kein Wort und ging weg. (He said no word and left.)
+- Sie hat viele neue Wörter gelernt. (She has learned many new words.)
+'''
+das Wörterbuch, -¨er A1
+Español: el diccionario
+Русский: словарь
+English: the dictionary
+
+- Ich brauche ein Wörterbuch, um diesen Text zu verstehen. (I need a dictionary to understand this text.)
+- Er schlug das Wort im Wörterbuch nach. (He looked up the word in the dictionary.)
+- Hast du ein Wörterbuch benutzt, als du den Brief geschrieben hast? (Did you use a dictionary when you wrote the letter?)
+'''
+zweitens, A1
+Español: segundo
+Русский: второй
+English: second
+
+- Zweitens möchte ich Ihnen für Ihre Aufmerksamkeit danken.
+- Er kam zweitens ins Ziel.
+- Ich habe zweitens einen Kuchen gebacken.
+'''
+der Absender, - A1
+Español: el remitente
+Русский: отправитель
+English: the sender
+
+- Der Absender muss seinen Namen und seine Adresse auf dem Briefumschlag angeben.
+- The sender must indicate his name and address on the envelope.
+- El remitente debe indicar su nombre y dirección en el sobre.
+- Отправитель должен указать свое имя и адрес на конверте.
+
+- Gestern habe ich einen Brief von einem unbekannten Absender erhalten.
+- Yesterday I received a letter from an unknown sender.
+- Ayer recibí una carta de un remitente desconocido.
+- Вчера я получил письмо от неизвестного отправителя.
+
+- Hast du schon die E-Mail von unserem Absender geöffnet?
+- Have you already opened the email from our sender?
+- ¿Ya has abierto el correo electrónico de nuestro remitente?
+- Ты уже открыл электронное письмо от нашего отправителя?
+'''
+die Adresse, A1
+Español: la dirección
+Русский: адрес
+English: the address
+
+- Ich brauche deine **Adresse**, um dir das Paket zu schicken. (I need your address to send you the package.)
+- Er hat mir seine neue **Adresse** nicht gegeben. (He did not give me his new address.)
+- Hast du schon die **Adresse** geändert? (Have you already changed the address?)
+'''
+der Brief, -e A1
+Español: la carta
+Русский: письмо
+English: the letter
+
+- Ich schreibe dir einen **Brief**. (I write you a letter.)
+- Er hat gestern einen **Brief** bekommen. (He got a letter yesterday.)
+- Hast du schon den **Brief** gelesen? (Have you read the letter yet?)
+'''
+die Briefmarke, -n A1
+Español: el sello
+Русский: марка
+English: the stamp
+
+- Ich kaufe eine **Briefmarke** für meinen Brief. (I buy a stamp for my letter.)
+- Gestern hast du mir eine schöne **Briefmarke** geschenkt. (Yesterday you gave me a nice stamp as a gift.)
+- Er hat viele **Briefmarken** gesammelt. (He has collected many stamps.)
+'''
+der Briefträger, - A1
+Español: el cartero
+Русский: почтальон
+English: the mailman
+
+Frases en alemán usando esta palabra:
+
+- Der Briefträger bringt jeden Tag die Post. (El cartero trae el correo todos los días.)
+- Gestern habe ich den Briefträger gesehen, als er einen Brief in deinen Briefkasten geworfen hat. (Ayer vi al cartero cuando echó una carta en tu buzón.)
+- Hast du schon mit dem Briefträger gesprochen? Er hat dir ein Paket gebracht. (¿Ya has hablado con el cartero? Te ha traído un paquete.)
+'''
+die E-Mail, -s A1
+Español: el correo electrónico
+Русский: электронная почта
+English: the email
+
+Frases en alemán usando esta palabra:
+
+- Ich schreibe dir eine **E-Mail**. (Te escribo un correo electrónico.)
+- Er hat gestern eine wichtige **E-Mail** bekommen. (Él recibió ayer un correo electrónico importante.)
+- Hast du meine **E-Mail** gelesen? (¿Has leído mi correo electrónico?)
+'''
+geehrt, A1
+Español: honrado, honorable
+Русский: почтенный, уважаемый
+English: honored, honorable
+
+Frases en alemán usando esta palabra:
+
+- Ich bin sehr **geehrt**, Sie kennenzulernen. (Estoy muy honrado de conocerle.)
+- Er ist ein **geehrter** Professor an der Universität. (Él es un profesor honorable en la universidad.)
+- Sie haben mich **geehrt** mit Ihrer Einladung. (Me han honrado con su invitación.)
+'''
+die Post, A1
+Español: el correo, la oficina de correos
+Русский: почта, почтовое отделение
+English: the mail, the post office
+
+Frases en alemán usando esta palabra:
+
+- Ich gehe zur Post, um ein Paket zu schicken. (Voy a la oficina de correos para enviar un paquete.)
+- Hast du meine Post schon geöffnet? (¿Ya has abierto mi correo?)
+- Er arbeitet bei der Post als Briefträger. (Él trabaja en la oficina de correos como cartero.)
+'''
+die Postkarte, -n A1
+Español: la postal
+Русский: открытка
+English: the postcard
+
+- Ich schreibe dir eine Postkarte aus Berlin. (I write you a postcard from Berlin.)
+- Er hat gestern eine Postkarte von seiner Oma bekommen. (He received a postcard from his grandma yesterday.)
+- Hast du schon die Postkarte geschickt, die du in Paris gekauft hast? (Have you already sent the postcard that you bought in Paris?)
+'''
+senden, A1
+Español: enviar
+Русский: отправлять
+English: send
+
+- Ich sende dir eine E-Mail. (I send you an email.)
+- Er sandte ihr einen Brief. (He sent her a letter.)
+- Hast du mir das Paket gesendet? (Did you send me the package?)
+'''
+das Internet, A1
+Español: el internet
+Русский: интернет
+English: the internet
+
+- Ich surfe oft im Internet. (I often surf the internet.)
+- Gestern habe ich im Internet einen interessanten Artikel gelesen. (Yesterday I read an interesting article on the internet.)
+- Hast du schon das neueste Video von Bing im Internet gesehen? (Have you seen the latest video from Bing on the internet?)
+'''
+denken, A1
+Español: pensar
+Русский: думать
+English: think
+
+Ejemplos:
+
+- Ich **denke** an dich. (Pienso en ti.)
+- Er **dachte** an seine Kindheit. (Él pensaba en su infancia.)
+- Sie hat an nichts anderes **gedacht**. (Ella no ha pensado en nada más.)
+'''
+die Diskussion, - en A1
+Español: la discusión
+Русский: дискуссия
+English: the discussion
+
+Ejemplos de frases en alemán usando esta palabra:
+
+- Wir haben eine **Diskussion** über Politik geführt. (We had a discussion about politics.)
+- Er erinnerte sich nicht an die **Diskussion**, die er gestern mit ihr hatte. (He did not remember the discussion he had with her yesterday.)
+- Hast du an der **Diskussion** teilgenommen? (Did you participate in the discussion?)
+'''
+diskutieren, A1
+Español: discutir
+Русский: обсуждать
+English: discuss
+
+- Wir diskutieren über das neue Buch von J.K. Rowling. (We discuss the new book by J.K. Rowling.)
+- Gestern diskutierte ich mit meinem Bruder über Politik. (Yesterday I discussed politics with my brother.)
+- Hast du schon mit deinem Chef über deine Gehaltserhöhung diskutiert? (Have you already discussed your salary increase with your boss?)
+'''
+bedeuten A1
+Español: significar
+Русский: означать
+English: mean
+- Was bedeutet dieses Wort? (¿Qué significa esta palabra?)
+- Das bedeutet viel für mich. (Eso significa mucho para mí.)
+- Er hat es nicht so gemeint. (Él no lo dijo en serio.)
+
+buchstabieren A1
+Español: deletrear
+Русский: произносить по буквам
+English: spell
+- Wie buchstabiert man das? (¿Cómo se deletrea eso?)
+- Ich kann meinen Namen buchstabieren. (Puedo deletrear mi nombre.)
+- Sie hat das Wort falsch buchstabiert. (Ella deletreó la palabra mal.)
+'''
+ergänzen, A1
+Español: completar, rellenar
+Русский: дополнять, заполнять
+English: complement, fill in
+
+- Ich ergänze die Lücke mit dem richtigen Wort. (I fill in the gap with the correct word.)
+- Er ergänzte seine Rede mit einem Zitat. (He complemented his speech with a quote.)
+- Sie hat das Formular ergänzt und unterschrieben. (She filled in and signed the form.)
+'''
+Die Grammatik, -en (Plural nur, wenn man von verschiedenen Grammatiken spricht)
+Español: la gramática
+Русский: грамматика
+English: grammar
+
+Beispiele:
+- Ich lerne jeden Tag die Grammatik.
+- Er sprach ohne Grammatikfehler.
+- Hast du die Grammatik schon gelernt?
+'''
+ein Buch, A1
+Español: un libro
+Русский: книга
+English: a book
+
+Frases en alemán usando esta palabra:
+
+- Ich lese gern **ein Buch** vor dem Schlafengehen. (Me gusta leer un libro antes de dormir.)
+- Er hat mir gestern **ein Buch** geschenkt. (Él me regaló un libro ayer.)
+- Hast du schon **ein Buch** für die Prüfung ausgewählt? (¿Ya has elegido un libro para el examen?)
+'''
+der Satz, - ¨e A1
+Español: la frase
+Русский: предложение
+English: the sentence
+
+Ejemplos de frases en alemán usando esta palabra:
+
+- Er hat einen langen **Satz** gesprochen. (Él ha hablado una frase larga.)
+- Was bedeutet dieser **Satz**? (¿Qué significa esta frase?)
+- Sie hat den **Satz** noch nicht beendet. (Ella no ha terminado la frase todavía.)
+'''
+die Zeitung, - en A1
+Español: el periódico
+Русский: газета
+English: the newspaper
+
+Frases en alemán usando esta palabra:
+
+- Ich lese jeden Morgen die Zeitung. (I read the newspaper every morning.)
+- Gestern habe ich eine interessante Geschichte in der Zeitung gelesen. (Yesterday I read an interesting story in the newspaper.)
+- Hast du die Zeitung von heute schon gesehen? (Have you seen today's newspaper yet?)
+'''
+notieren A1
+Español: anotar, apuntar
+Русский: записывать, отмечать
+English: note, mark
+
+Frases en alemán usando notieren:
+
+- Ich **notiere** mir die wichtigsten Punkte der Präsentation. (Presente)
+- Ella **notierte** die Telefonnummer auf einem Zettel. (Präteritum)
+- Hast du dir seine Adresse **notiert**? (Perfekt)
+'''
+die Antwort, - en A1
+Español: la respuesta
+Русский: ответ
+English: the answer
+
+- Ich weiß die Antwort nicht. (No sé la respuesta.)
+- Er gab mir eine falsche Antwort. (Él me dio una respuesta equivocada.)
+- Hast du schon die Antwort auf deine E-Mail bekommen? (¿Ya has recibido la respuesta a tu correo electrónico?)
+'''
+antworten, A1
+Español: responder
+Русский: отвечать
+English: answer
+
+- Ich antworte dir auf Deutsch, weil du diese Sprache lernen möchtest. (I answer you in German, because you want to learn this language.)
+- Er antwortete nicht, als ich ihn nach seinem Namen fragte. (He did not answer when I asked him his name.)
+- Hast du schon auf die E-Mail geantwortet? (Have you already answered the email?)
+'''
+erzählen A1
+Español: contar, narrar
+Русский: рассказывать
+English: tell, narrate
+
+Frases en alemán usando erzählen:
+
+- Ich erzähle dir eine Geschichte. (Te cuento una historia.)
+- Er erzählte mir, dass er nach Berlin gefahren war. (Él me contó que había ido a Berlín.)
+- Hast du ihr schon von deinem Urlaub erzählt? (¿Ya le has contado de tus vacaciones?)
+'''
+interviewen, A1
+Español: entrevistar
+Русский: интервьюировать
+English: interview
+
+Algunas frases en alemán usando el verbo interviewen son:
+
+- Der Journalist **interviewt** den berühmten Schriftsteller. (El periodista **entrevista** al famoso escritor.)
+- Gestern **interviewte** sie den Bürgermeister für die Zeitung. (Ayer ella **entrevistó** al alcalde para el periódico.)
+- Hast du schon jemanden für die Stelle **interviewt**? (¿Ya has **entrevistado** a alguien para el puesto?)
+'''
+sprechen, A1
+Español: hablar
+Русский: говорить
+English: speak
+
+Ejemplos:
+
+- Ich **spreche** Deutsch. (Yo hablo alemán.)
+- Gestern **sprach** er mit seiner Mutter. (Ayer habló con su madre.)
+- Er hat lange mit ihr **gesprochen**. (Él ha hablado mucho con ella.)
+'''
+der Anruf, -e A1
+Español: la llamada
+Русский: звонок
+English: the call
+- Ich bekomme einen Anruf von meiner Mutter. (I get a call from my mother.)
+- Er rief mich gestern an. (He called me yesterday.)
+- Hast du schon den Anruf von der Bank erhalten? (Have you already received the call from the bank?)
+'''
+anrufen, A1
+Español: llamar (por teléfono)
+Русский: звонить (по телефону)
+English: call (by phone)
+
+Ejemplos de frases en alemán usando anrufen:
+
+- Ich rufe dich morgen an. (Te llamo mañana.)
+- Er rief seine Mutter an, um ihr zu gratulieren. (Él llamó a su madre para felicitarla.)
+- Hast du schon deine Freundin angerufen? (¿Ya has llamado a tu novia?)
+'''
+das Telefon, -e A1
+Español: el teléfono
+Русский: телефон
+English: the phone
+
+- Ich rufe dich morgen **am Telefon** an. (I will call you tomorrow **on the phone**.)
+- Er **telefonierte** gestern mit seiner Mutter. (He **phoned** his mother yesterday.)
+- Hast du schon mit ihr **telefoniert**? (Have you already **talked to** her on the phone?)
+'''
+telefonieren A1
+Español: llamar por teléfono
+Русский: звонить по телефону
+English: to make a phone call
+
+Frases en alemán usando esta palabra:
+
+- Ich **telefoniere** jeden Tag mit meiner Mutter. (Presente)
+- Er **telefonierte** gestern mit seinem Chef. (Präteritum)
+- Hast du schon mit deiner Freundin **telefoniert**? (Perfekt)
+'''
+die Information, -nen A1
+Español: la información
+Русский: информация
+English: information
+
+- Ich brauche **die Information** über das Projekt. (I need the information about the project.)
+- Er hat mir **keine Information** gegeben. (He gave me no information.)
+- Hast du **die Informationen** gelesen, die ich dir geschickt habe? (Did you read the information that I sent you?)
+'''
+der Text, -e A1
+Español: el texto
+Русский: текст
+English: the text
+
+- Ich lese einen interessanten **Text** über die Geschichte Deutschlands. (I read an interesting **text** about the history of Germany.)
+- Er hat gestern einen langen **Text** an seine Freundin geschrieben. (He wrote a long **text** to his girlfriend yesterday.)
+- Hast du den **Text** für die Prüfung gelernt? (Did you learn the **text** for the exam?)
+'''
+verstehen, A1
+Español: entender
+Русский: понимать
+English: understand
+
+- Ich verstehe dich nicht. (I don't understand you.)
+- Er verstand die Frage nicht. (He didn't understand the question.)
+- Hast du die Antwort verstanden? (Did you understand the answer?)
+'''
+die Auskunft, - ¨e A2
+Español: la información
+Русский: справка
+English: the information
+
+Frases en alemán usando esta palabra:
+
+- Ich brauche eine Auskunft über die Zugverbindungen nach Berlin. (Necesito una información sobre las conexiones de tren a Berlín.)
+- Er gab mir keine Auskunft über seine Pläne. (No me dio ninguna información sobre sus planes.)
+- Hast du schon die Auskunft vom Finanzamt erhalten? (¿Ya has recibido la información de la oficina de impuestos?)
+'''
+der Vorteil, -e A2
+Español: la ventaja
+Русский: преимущество
+English: the advantage
+
+- Ein Vorteil von Online-Lernen ist, dass man flexibel sein kann. (One advantage of online learning is that you can be flexible.)
+- Er hatte den Vorteil, dass er die Prüfung schon kannte. (He had the advantage that he already knew the exam.)
+- Sie hat viele Vorteile aus ihrer Reise gezogen. (She gained many advantages from her trip.)
+'''
+z.B. (zum Beispiel), A2
+Español: por ejemplo
+Русский: например
+English: for example
+
+- Ich mag z.B. Schokolade und Kuchen. (I like chocolate and cake, for example.)
+- Er hat z.B. gestern einen Film gesehen. (He saw a movie yesterday, for example.)
+- Sie hat z.B. einen Brief geschrieben. (She has written a letter, for example.)
+'''
+express, A2
+Español: expresar
+Русский: выражать
+English: express
+
+- Ich möchte meine Meinung **express**. (I want to express my opinion.)
+- Er **expressierte** seine Liebe mit einem Lied. (He expressed his love with a song.)
+- Sie hat ihre Wut mit einem Schrei **expressiert**. (She expressed her anger with a scream.)
+'''
+das Fax, -e A2
+Español: el fax
+Русский: факс
+English: the fax
+
+- Ich habe dir gestern ein Fax geschickt. Hast du es bekommen?
+- Er schickte ihr ein Fax, in dem er ihr seine Liebe gestand.
+- Sie haben das Fax noch nicht gesendet? Beeilen Sie sich, bitte!
+'''
+faxen, A2
+Español: bromear, hacer bromas
+Русский: шутить, подшучивать
+English: joke, make jokes
+
+- Er faxt gerne mit seinen Freunden. (He likes to joke with his friends.)
+- Sie faxte gestern mit dem Lehrer. (She joked with the teacher yesterday.)
+- Hast du schon mit ihm gefaxt? (Have you already joked with him?)
+'''
+das Faxgerät, -e A2
+Español: el aparato de fax, los aparatos de fax
+Русский: факс, факсы
+English: the fax machine, the fax machines
+
+Frases en alemán usando esta palabra:
+
+- Ich habe das Faxgerät gestern repariert. (Reparé el aparato de fax ayer.)
+- Er schickt mir die Dokumente per Faxgerät. (Él me envía los documentos por fax.)
+- Hast du schon das neue Faxgerät gesehen? (¿Ya has visto el nuevo aparato de fax?)
+'''
+der Kontakt, -e A2
+Español: el contacto
+Русский: контакт
+English: the contact
+
+- Ich habe keinen Kontakt zu meinen Eltern. (I have no contact with my parents.)
+- Er hat gestern seine alten Freunde kontaktiert. (He contacted his old friends yesterday.)
+- Hast du schon mit dem Arzt Kontakt aufgenommen? (Have you already contacted the doctor?)
+'''
+kontaktieren, A2
+Español: contactar
+Русский: контактировать
+English: contact
+
+- Ich kontaktiere dich morgen. (I contact you tomorrow.)
+- Er kontaktierte seine Familie per Telefon. (He contacted his family by phone.)
+- Hast du sie schon kontaktiert? (Have you contacted her yet?)
+'''
+mailen (e-mailen) A2
+Español: enviar un correo electrónico
+Русский: отправлять электронную почту
+English: to send an email
+
+Frases en alemán usando mailen (e-mailen):
+
+- Ich **maile** dir die Datei gleich. (Te envío el archivo por correo electrónico enseguida.)
+- Er **mailte** mir gestern seine Meinung. (Él me envió su opinión por correo electrónico ayer.)
+- Hast du ihm schon **gemailt**? (¿Ya le has enviado un correo electrónico?)
+'''
+das Päckchen, - A2
+Español: el paquete pequeño
+Русский: маленькая посылка
+English: the small package
+
+- Ich habe gestern ein Päckchen von meiner Oma bekommen. (I received a small package from my grandma yesterday.)
+- Er schickt ihr jeden Monat ein Päckchen mit Süßigkeiten. (He sends her a small package with sweets every month.)
+- Hast du das Päckchen schon zur Post gebracht? (Did you already bring the small package to the post office?)
+'''
+packen, A2
+Español: empacar, hacer las maletas
+Русский: упаковывать, собирать чемоданы
+English: pack, pack up
+
+Ejemplos:
+
+- Ich packe meine Sachen für die Reise. (Presente)
+- Ella packte gestern ihre Koffer. (Präteritum)
+- Hast du schon alles gepackt? (Perfekt)
+'''
+das Paket, -e A2
+Español: el paquete
+Русский: посылка
+English: the package
+
+- Ich habe gestern ein **Paket** von meiner Tante bekommen. (I received a package from my aunt yesterday.)
+- Er bringt das **Paket** zur Post. (He takes the package to the post office.)
+- Hast du das **Paket** schon geöffnet? (Have you opened the package yet?)
+'''
+die SMS, -
+Español: el mensaje de texto
+Русский: смс
+English: the text message
+
+- Ich schicke dir eine **SMS**, wenn ich zu Hause bin. (I will send you a **text message** when I am home.)
+- Gestern habe ich eine lustige **SMS** von meinem Bruder bekommen. (Yesterday I received a funny **text message** from my brother.)
+- Hast du meine **SMS** gelesen? (Did you read my **text message**?)
+'''
+SMSen, A2
+Español: enviar mensajes de texto
+Русский: отправлять смс
+English: to text
+
+Frases en alemán usando SMSen:
+
+- Ich **SMS**e dir, wenn ich zu Hause bin. (Presente)
+- Er **SMS**te mir gestern seine Adresse. (Präteritum)
+- Hast du ihr schon **geSMS**t? (Perfekt)
+'''
+deutlich, A2
+Español: claro, evidente
+Русский: ясный, очевидный
+English: clear, obvious
+
+- Er spricht sehr deutlich und langsam. (He speaks very clearly and slowly.)
+- Die Polizei hat deutliche Spuren am Tatort gefunden. (The police found clear traces at the crime scene.)
+- Ich habe ihm deutlich gemacht, dass ich nicht interessiert bin. (I made it clear to him that I'm not interested.)
+'''
+meinen, A2
+Español: pensar, opinar
+Русский: думать, считать
+English: think, mean
+
+Frases en alemán usando meinen:
+
+- Ich **meine** es ernst. (I mean it seriously.)
+- Was **meinst** du damit? (What do you mean by that?)
+- Er hat gemeint, dass er morgen kommt. (He meant that he would come tomorrow.)
+'''
+die Meinung, -en A2
+Español: la opinión
+Русский: мнение
+English: the opinion
+
+Frases en alemán usando esta palabra:
+
+- Ich bin **der Meinung**, dass du recht hast. (Presente)
+- Er äußerte seine **Meinung** zu dem Thema. (Präteritum)
+- Sie haben ihre **Meinungen** geändert. (Perfekt)
+'''
+der Buchstabe, -n A2
+Español: la letra
+Русский: буква
+English: letter
+
+- Ich schreibe dir einen **Buchstaben**. (I write you a letter.)
+- Er hat gestern einen langen **Brief** geschrieben. (He wrote a long letter yesterday.)
+- Hast du den **Brief** schon gelesen? (Have you read the letter yet?)
+'''
+der Dialekt, -e A2
+Español: dialecto
+Русский: диалект
+English: dialect
+
+- Er spricht einen schwäbischen Dialekt. (He speaks a Swabian dialect.)
+- Als Kind lernte sie den Dialekt ihrer Großeltern. (As a child, she learned the dialect of her grandparents.)
+- Sie haben ihren Dialekt beibehalten, obwohl sie in die Stadt gezogen sind. (They have kept their dialect, even though they moved to the city.)
+'''
+die Sprache, -n A2
+Español: el idioma, los idiomas
+Русский: язык, языки
+English: the language, the languages
+
+- Ich lerne gerne neue **Sprachen**. (I like to learn new languages.)
+- Er sprach gestern mit ihr in seiner Muttersprache. (He spoke to her yesterday in his native language.)
+- Hast du schon mal eine fremde Sprache gelernt? (Have you ever learned a foreign language?)
+'''
+übersetzen, A2
+Español: traducir
+Русский: переводить
+English: translate
+
+- Ich **übersetze** einen Text vom Deutschen ins Englische. (I translate a text from German to English.)
+- Gestern **übersetzte** er ein Gedicht von Rilke. (Yesterday he translated a poem by Rilke.)
+- Hast du schon das Buch **übersetzt**? (Have you translated the book yet?)
+'''
+die Übersetzung, - en A2
+Español: la traducción
+Русский: перевод
+English: translation
+
+Frases en alemán usando esta palabra:
+
+- Ich brauche eine **Übersetzung** für diesen Text. (Necesito una traducción para este texto.)
+- Er hat die **Übersetzung** gestern gemacht. (Él hizo la traducción ayer.)
+- Hast du die **Übersetzung** schon fertig? (¿Ya terminaste la traducción?)
+'''
+der Artikel, - A2
+Español: el artículo
+Русский: статья
+English: the article
+
+- Der Artikel ist sehr interessant und informativ. (The article is very interesting and informative.)
+- Ich habe gestern einen Artikel über die Fusionsexperimente gelesen. (I read an article about the fusion experiments yesterday.)
+- Hast du den Artikel schon geschrieben? (Have you written the article yet?)
+'''
+die Illustrierte, -n A2
+Español: la revista
+Русский: журнал
+English: the magazine
+
+- Ich lese gerne **die Illustrierte** am Wochenende. (I like to read **the magazine** on weekends.)
+- Hast du **die Illustrierte** von letzter Woche gesehen? (Did you see **the magazine** from last week?)
+- Er hat mir **eine Illustrierte** geschenkt, die ich schon gelesen hatte. (He gave me **a magazine** that I had already read.)
+'''
+der Bericht, -e A2
+Español: el informe
+Русский: отчет
+English: the report
+
+- Der Lehrer liest den Bericht der Schüler. (The teacher reads the report of the students.)
+- Er schrieb gestern einen Bericht über das Projekt. (He wrote a report about the project yesterday.)
+- Sie hat mir einen Bericht geschickt, den ich noch nicht gelesen habe. (She sent me a report that I have not read yet.)
+'''
+berichten, A2
+Español: informar, reportar
+Русский: сообщать, докладывать
+English: report, inform
+
+Frases en alemán usando berichten:
+
+- Er berichtet mir von seinem Urlaub. (Él me informa de sus vacaciones.)
+- Sie berichtete, dass sie krank war. (Ella reportó que estaba enferma.)
+- Er hat uns alles berichtet, was passiert ist. (Él nos ha informado todo lo que ha pasado.)
+'''
+erklären A2
+Español: explicar
+Русский: объяснять
+English: explain
+
+Frases en alemán usando erklären:
+
+- Ich **erkläre** dir, wie man einen Kuchen backt. (Te explico cómo hacer un pastel.)
+- Er **erklärte** uns die Regeln des Spiels. (Él nos explicó las reglas del juego.)
+- Sie hat mir alles **erklärt**. (Ella me lo explicó todo.)
+'''
+die Erklärung, - en A2
+Español: la explicación
+Русский: объяснение
+English: the explanation
+
+- Ich verstehe deine Erklärung nicht. Kannst du es nochmal sagen? (I don't understand your explanation. Can you say it again?)
+- Er gab eine kurze Erklärung für sein Verhalten. (He gave a short explanation for his behavior.)
+- Sie hat mir die Erklärung geschrieben, aber ich habe sie noch nicht gelesen. (She wrote me the explanation, but I haven't read it yet.)
+'''
+formulieren A2
+Español: formular
+Русский: формулировать
+English: formulate
+
+- Ich kann meine Meinung gut formulieren. (I can formulate my opinion well.)
+- Er formulierte seine Frage im Präteritum. (He formulated his question in the preterite.)
+- Hast du schon eine Antwort formuliert? (Have you formulated an answer yet?)
+'''
+illustrieren A2
+Español: ilustrar
+Русский: иллюстрировать
+English: illustrate
+
+Frases en alemán usando la palabra illustrieren:
+
+- Der Autor illustriert seine Ideen mit vielen Beispielen. (El autor ilustra sus ideas con muchos ejemplos.)
+- Sie illustrierte die Geschichte mit ihren eigenen Zeichnungen. (Ella ilustró la historia con sus propios dibujos.)
+- Er hat mir illustriert, wie er das Problem gelöst hat. (Él me ilustró cómo resolvió el problema.)
+'''
+der Schritt, -e A2
+Español: el paso
+Русский: шаг
+English: the step
+
+Frases en alemán usando esta palabra:
+
+- Er macht **große Schritte**, um seine Ziele zu erreichen. (He makes **big steps** to achieve his goals.)
+- Sie ging **Schritt für Schritt** die Treppe hinunter. (She went down the stairs **step by step**.)
+- Er hat den ersten **Schritt** gemacht und sie angerufen. (He made the first **step** and called her.)
+'''
+unterschreiben, A2
+Español: firmar
+Русский: подписывать
+English: sign
+
+Frases en alemán usando unterschreiben:
+
+- Ich **unterschreibe** den Vertrag morgen. (I sign the contract tomorrow.)
+- Er **unterschrieb** einen Brief an seine Freundin. (He signed a letter to his girlfriend.)
+- Hast du das Formular schon **unterschrieben**? (Have you signed the form yet?)
+'''
+beantworten A2
+Español: responder
+Русский: отвечать
+English: answer
+
+- Ich beantworte die Frage des Lehrers. (I answer the teacher's question.)
+- Er beantwortete die E-Mail gestern. (He answered the email yesterday.)
+- Hast du die Umfrage schon beantwortet? (Have you already answered the survey?)
+'''
+der Sprecher, - / die Sprecherin, -nen A2
+Español: el orador / la oradora
+Русский: оратор / ораторша
+English: the speaker
+
+Frases en alemán usando esta palabra:
+
+- Der Sprecher der Regierung gab eine wichtige Erklärung ab. (The government spokesman gave an important statement.)
+- Die Sprecherin des Hörbuchs hat eine angenehme Stimme. (The audiobook speaker has a pleasant voice.)
+- Er war ein guter Sprecher, aber kein guter Zuhörer. (He was a good speaker, but not a good listener.)
+'''
+der Anrufbeantworter, - A2
+Español: el contestador automático
+Русский: автоответчик
+English: the answering machine
+
+- Ich habe dir eine Nachricht auf **den Anrufbeantworter** gesprochen. (I left you a message on the answering machine.)
+- Früher hatten viele Leute einen **Anrufbeantworter** zu Hause. (In the past, many people had an answering machine at home.)
+- Hast du schon **den Anrufbeantworter** abgehört? (Have you already listened to the answering machine?)
+'''
+das Mobiltelefon, -e A2
+Español: el teléfono móvil
+Русский: мобильный телефон
+English: the mobile phone
+
+- Ich habe mein **Mobiltelefon** im Zug vergessen. (I forgot my mobile phone on the train.)
+- Er rief seine Mutter mit seinem **Mobiltelefon** an. (He called his mother with his mobile phone.)
+- Hast du dein **Mobiltelefon** schon aufgeladen? (Have you charged your mobile phone yet?)
+'''
+das Telefonbuch, -¨er A2
+Español: la guía telefónica
+Русский: телефонный справочник
+English: the phone book
+
+Frases en alemán usando esta palabra:
+
+- Ich habe deine Nummer im **Telefonbuch** gefunden. (Encontré tu número en la guía telefónica.)
+- Früher haben die Leute oft das **Telefonbuch** benutzt, um jemanden anzurufen. (Antes, la gente usaba a menudo la guía telefónica para llamar a alguien.)
+- Hast du das alte **Telefonbuch** weggeschmissen? (¿Has tirado la vieja guía telefónica?)
+'''
+das Handy, -s A2
+Español: teléfono móvil
+Русский: мобильный телефон
+English: mobile phone
+
+- Ich habe mein Handy zu Hause vergessen. (I forgot my mobile phone at home.)
+- Er kaufte sich gestern ein neues Handy. (He bought a new mobile phone yesterday.)
+- Hast du ihr Handy schon repariert? (Have you repaired her mobile phone yet?)
+'''
+der Kasten, -¨ A2
+Español: la caja, el armario
+Русский: ящик, шкаф
+English: the box, the cupboard
+
+Frases en alemán usando esta palabra:
+
+- Ich habe einen neuen **Kasten** für mein Schlafzimmer gekauft. (He comprado un nuevo armario para mi dormitorio.)
+- Er hat alle seine Bücher in einem **Kasten** verstaut. (Él ha guardado todos sus libros en una caja.)
+- Hast du den **Kasten** schon aufgebaut? (¿Ya has montado el armario?)
+'''
+die Besprechung, -en B1
+Español: la reunión
+Русский: совещание
+English: the meeting
+
+- Ich habe morgen eine wichtige Besprechung mit meinem Chef. (I have an important meeting with my boss tomorrow.)
+- Gestern fand eine Besprechung über das neue Projekt statt. (Yesterday there was a meeting about the new project.)
+- Wir haben die Besprechung erfolgreich abgeschlossen. (We have successfully completed the meeting.)
+'''
+tippen, B1
+Español: teclear
+Русский: печатать
+English: type
+
+Algunas frases en alemán usando esta palabra son:
+
+- Ich **tippe** gerade eine E-Mail an meinen Chef. (Estoy tecleando un correo electrónico a mi jefe.)
+- Er **tippte** gestern einen langen Bericht. (Él tecleó ayer un largo informe.)
+- Hast du schon deine Hausaufgaben **getippt**? (¿Ya has tecleado tus deberes?)
+'''
+beschließen, B1
+Español: decidir
+Русский: решать
+English: decide
+
+Frases en alemán usando beschließen:
+
+- Ich **beschließe**, heute Abend ins Kino zu gehen. (I decide to go to the cinema tonight.)
+- Er **beschloss**, seine Arbeit zu kündigen und eine Weltreise zu machen. (He decided to quit his job and go on a world trip.)
+- Hast du schon **beschlossen**, was du studieren willst? (Have you already decided what you want to study?)
+'''
+der Beschluss, - ¨e B1
+Español: la decisión, el acuerdo
+Русский: решение, соглашение
+English: the decision, the agreement
+
+- Der Beschluss wurde einstimmig gefasst. (The decision was made unanimously.)
+- Sie haben einen Beschluss zur Änderung der Verfassung unterzeichnet. (They signed an agreement to amend the constitution.)
+- Er hat den Beschluss bereut, nach Berlin zu ziehen. (He regretted the decision to move to Berlin.)
+
+anliegen B1
+Español: importar, interesar, incumbir
+Русский: иметь значение, интересовать, касаться
+English: matter, interest, concern
+
+- Es liegt mir sehr an dir. (I care a lot about you.)
+- Was liegt Ihnen an diesem Projekt? (What interests you about this project?)
+- Das Thema liegt mir am Herzen. (The topic is close to my heart.)
+'''
+empfehlen, B1
+Español: recomendar
+Русский: рекомендовать
+English: recommend
+
+- Ich empfehle dir, diesen Film zu sehen. Er ist sehr spannend. (I recommend you to watch this movie. It is very exciting.)
+- Er empfahl mir, einen Arzt aufzusuchen. (He recommended me to see a doctor.)
+- Sie hat mir ein gutes Buch empfohlen. (She recommended me a good book.)
+'''
+der Vorschlag, - ¨e B1
+Español: la propuesta
+Русский: предложение
+English: the suggestion
+
+Frases en alemán usando esta palabra:
+
+- Er hat einen guten **Vorschlag** gemacht. (Él hizo una buena propuesta.)
+- Was hältst du von meinem **Vorschlag**? (¿Qué te parece mi sugerencia?)
+- Sie haben den **Vorschlag** abgelehnt. (Ellos rechazaron la propuesta.)
+'''
+vorschlagen B1
+Español: proponer, sugerir
+Русский: предлагать, советовать
+English: propose, suggest
+
+- Ich schlage dir vor, mit mir ins Kino zu gehen. (I suggest you go to the cinema with me.)
+- Er schlug vor, dass wir eine Pause machen sollten. (He suggested that we should take a break.)
+- Sie haben mir einen guten Preis vorgeschlagen. (They proposed a good price to me.)
+'''
+die Vorwahl, -en B1
+Español: el prefijo telefónico
+Русский: телефонный код
+English: the area code
+
+- Die Vorwahl von Berlin ist 030.
+- Als ich nach München gezogen bin, habe ich meine Vorwahl geändert.
+- Hast du die Vorwahl für Frankreich gewählt?
+'''
+die Zeile, -n B1
+Español: la fila, la línea
+Русский: ряд, строка
+English: the row, the line
+
+- Die Schüler sitzen in **Zeilen** im Klassenzimmer. (The students sit in **rows** in the classroom.)
+- Er schreibt eine **Zeile** in sein Tagebuch. (He writes a **line** in his diary.)
+- Sie hat alle **Zeilen** des Gedichts auswendig gelernt. (She has memorized all the **lines** of the poem.)
+'''
+zusammenfassen, B1
+Español: resumir
+Русский: резюмировать
+English: summarize
+
+Ejemplos de frases en alemán usando la palabra zusammenfassen:
+
+- Ich werde die wichtigsten Punkte meiner Präsentation **zusammenfassen**. (Voy a resumir los puntos principales de mi presentación.)
+- Er **fasste** seine Erfahrungen in einem kurzen Bericht **zusammen**. (Él resumió sus experiencias en un breve informe.)
+- Hast du das Buch schon **zusammengefasst**? (¿Ya has resumido el libro?)
+'''
+die Zusammenfassung, - en B1
+Español: el resumen
+Русский: резюме
+English: the summary
+
+- Er hat eine **Zusammenfassung** des Buches geschrieben. (He wrote a summary of the book.)
+- In der **Zusammenfassung** steht, dass die Hauptfigur stirbt. (The summary says that the main character dies.)
+- Hast du die **Zusammenfassung** gelesen, die ich dir geschickt habe? (Did you read the summary that I sent you?)
+'''
+zweisprachig, B1
+Español: bilingüe
+Русский: двуязычный
+English: bilingual
+
+- Ich bin **zweisprachig**, weil ich Deutsch und Englisch spreche. (I am bilingual because I speak German and English.)
+- Als sie nach Deutschland kam, war sie noch nicht **zweisprachig**. Sie lernte Deutsch in der Schule. (When she came to Germany, she was not bilingual yet. She learned German at school.)
+- Er hat einen **zweisprachigen** Roman geschrieben, der sowohl auf Deutsch als auch auf Französisch gelesen werden kann. (He wrote a bilingual novel that can be read in both German and French.)
+'''
+der Anhang, - ¨e B1
+Español: el adjunto, el anexo
+Русский: вложение, приложение
+English: the attachment, the appendix
+
+- Ich habe dir den Bericht per E-Mail geschickt. Hast du den **Anhang** geöffnet?
+- Envié el informe por correo electrónico. ¿Has abierto el **adjunto**?
+- Я отправил тебе отчет по электронной почте. Ты открыл **вложение**?
+- I sent you the report by email. Did you open the **attachment**?
+
+- In diesem Buch gibt es einen interessanten **Anhang** mit zusätzlichen Informationen.
+- En este libro hay un interesante **anexo** con información adicional.
+- В этой книге есть интересное **приложение** с дополнительной информацией.
+- In this book there is an interesting **appendix** with additional information.
+
+- Er hat seine Bewerbung abgeschickt, aber er hat vergessen, seinen Lebenslauf als **Anhang** hinzuzufügen.
+- Envió su solicitud, pero se olvidó de adjuntar su currículum como **adjunto**.
+- Он отправил свою заявку, но забыл приложить свое резюме в качестве **вложения**.
+- He sent his application, but he forgot to attach his resume as an **attachment**.
+'''
+die Anlage, -n B1
+Español: la instalación, el equipo, el sistema
+Русский: установка, оборудование, система
+English: the installation, the equipment, the system
+
+Tres frases en alemán usando esta palabra son:
+
+- Die Anlage ist sehr modern und effizient. (La instalación es muy moderna y eficiente.)
+- Er hat eine neue Anlage für seine Stereoanlage gekauft. (Él compró un nuevo equipo para su equipo de música.)
+- Das Nervensystem ist eine wichtige Anlage des menschlichen Körpers. (El sistema nervioso es un sistema importante del cuerpo humano.)
+'''
+einwerfen, B1
+Español: introducir, echar
+Русский: бросать, вкидывать
+English: throw, toss
+
+Ejemplos:
+- Er **warf** den Ball in den Korb. (Präteritum)
+- Él **echó** la pelota en la canasta.
+- He **threw** the ball into the basket.
+- Sie **wirft** jeden Tag einen Brief in den Briefkasten. (Präsens)
+- Ella **introduce** una carta en el buzón todos los días.
+- She **tosses** a letter into the mailbox every day.
+- Er hat gestern eine Münze in den Brunnen **eingeworfen**. (Perfekt)
+- Él **echó** una moneda en el pozo ayer.
+- He **tossed** a coin into the well yesterday.
+'''
+der Empfänger, - B1
+Español: el receptor
+Русский: получатель
+English: the receiver
+
+Frases en alemán usando esta palabra:
+
+- Ich bin der Empfänger dieses Briefes. (Soy el receptor de esta carta.)
+- Er hat den Empfänger nicht richtig verstanden. (No entendió bien al receptor.)
+- Hast du den Empfänger schon angerufen? (¿Ya has llamado al receptor?)
+'''
+das Postfach, -¨er B1
+Español: el buzón
+Русский: почтовый ящик
+English: the mailbox
+
+- Ich habe einen Brief in **das Postfach** geworfen. (I threw a letter in **the mailbox**.)
+- Er hat gestern kein Paket in **seinem Postfach** gefunden. (He did not find a package in **his mailbox** yesterday.)
+- Hast du schon **dein Postfach** geleert? (Have you emptied **your mailbox** yet?)
+'''
+die Postleitzahl, -en B1
+Español: el código postal
+Русский: почтовый индекс
+English: the postal code
+
+- Die Postleitzahl von Berlin ist 10115.
+- Als ich nach München gezogen bin, musste ich meine Postleitzahl ändern.
+- Hast du die Postleitzahl von dem Hotel in Hamburg notiert?
+'''
+die Sendung, -en B1
+Español: el programa, el envío
+Русский: программа, посылка
+English: the show, the shipment
+
+Ejemplos:
+
+- Ich schaue jeden Abend die Sendung über Naturwissenschaften. (I watch the show about natural sciences every evening.)
+- Er hat gestern eine Sendung nach Kanada geschickt. (He sent a shipment to Canada yesterday.)
+- Hast du die Sendung mit dem neuen Moderator gesehen? (Did you see the show with the new host?)
+'''
+das Telegramm, -e B1
+Español: el telegrama
+Русский: телеграмма
+English: the telegram
+- Er hat mir ein Telegramm geschickt, um mir zu gratulieren. (He sent me a telegram to congratulate me.)
+- Früher schickten die Leute oft Telegramme, wenn sie eine wichtige Nachricht hatten. (In the past, people often sent telegrams when they had an important message.)
+- Hast du das Telegramm schon erhalten, das ich dir geschickt habe? (Have you already received the telegram that I sent you?)
+'''
+der Schreiber, - B1
+Español: el escritor
+Русский: писатель
+English: the writer
+
+- Der Schreiber arbeitet an seinem neuen Roman. (The writer is working on his new novel.)
+- Er war ein berühmter Schreiber im 18. Jahrhundert. (He was a famous writer in the 18th century.)
+- Sie hat viele Bücher von diesem Schreiber gelesen. (She has read many books by this writer.)
+'''
+das Medium, die Medien B1
+Español: el medio, los medios
+Русский: средство, средства
+English: the medium, the media
+
+- Das Internet ist ein wichtiges Medium für die Kommunikation. (The internet is an important medium for communication.)
+- Die Medien berichten oft über Politik und Gesellschaft. (The media often report on politics and society.)
+- Er hat sein Buch in verschiedenen Medien veröffentlicht. (He published his book in various media.)
+'''
+die Neuigkeit, -en B1
+Español: la noticia
+Русский: новость
+English: the news
+
+- Ich habe eine gute Neuigkeit für dich: Wir fahren morgen in den Urlaub. (I have good news for you: We are going on vacation tomorrow.)
+- Er erzählte mir eine interessante Neuigkeit über seine Arbeit. (He told me an interesting news about his work.)
+- Hast du die Neuigkeiten schon gehört? Sie haben sich verlobt. (Have you heard the news? They got engaged.)
+'''
+die Presse, B1
+Español: la prensa
+Русский: пресса
+English: the press
+
+Beispiele:
+- Die Presse hat viel über den Skandal berichtet. (The press reported a lot about the scandal.)
+- Er arbeitete früher für die Presse. (He used to work for the press.)
+- Sie vertraut der Presse nicht. (She does not trust the press.)
+'''
+der Wetterbericht, -e B1
+Español: el pronóstico del tiempo
+Русский: прогноз погоды
+English: the weather forecast
+
+- Der Wetterbericht für morgen ist sehr gut. Es wird sonnig und warm sein.
+- Gestern habe ich den Wetterbericht im Fernsehen gesehen. Er hat gesagt, dass es regnen wird.
+- Hast du schon den Wetterbericht für das Wochenende gelesen? Wir können einen Ausflug machen.
+'''
+die Ansicht, -en B1
+Español: la opinión, el punto de vista
+Русский: мнение, взгляд
+English: the opinion, the view
+
+- Ich bin der **Ansicht**, dass du recht hast. (I am of the **opinion** that you are right.)
+- Er änderte seine **Ansicht** über die Politik. (He changed his **view** on politics.)
+- Sie haben uns ihre **Ansichten** mitgeteilt. (They have informed us of their **views**.)
+'''
+einig, B1
+Español: unido, de acuerdo
+Русский: единый, согласный
+English: united, agreed
+
+Frases en alemán usando einig:
+
+- Die Europäische Union ist eine **einige** Gemeinschaft von Ländern. (The European Union is a **united** community of countries.)
+- Wir sind uns **einig**, dass wir mehr für die Umwelt tun müssen. (We **agree** that we need to do more for the environment.)
+- Sie haben sich nach langer Diskussion **geeinigt**. (They **reached an agreement** after a long discussion.)
+'''
+sich einigen auf A B1
+Español: ponerse de acuerdo en A
+Русский: договориться о A
+English: agree on A
+
+Ejemplos:
+
+- Die Parteien haben sich auf einen Kompromiss geeinigt. (The parties agreed on a compromise.)
+- Er konnte sich nicht auf einen Termin für das Treffen einigen. (He could not agree on a date for the meeting.)
+- Sie haben sich gestern auf einen neuen Vertrag geeinigt. (They agreed on a new contract yesterday.)
+'''
+erscheinen B1
+Español: aparecer
+Русский: появляться
+English: appear
+
+- Der Mond erscheint am Himmel. (The moon appears in the sky.)
+- Er erschien gestern zu spät zur Arbeit. (He appeared too late for work yesterday.)
+- Sie ist plötzlich in meinem Leben erschienen. (She suddenly appeared in my life.)
+'''
+das Gegenteil, -e B1
+Español: el contrario, el opuesto
+Русский: противоположность, антоним
+English: the opposite, the antonym
+
+- Das Gegenteil von heiß ist kalt. (The opposite of hot is cold.)
+- Er sagte das Gegenteil von dem, was er dachte. (He said the opposite of what he thought.)
+- Sie hat das Gegenteil von dem gemacht, was ich ihr geraten habe. (She did the opposite of what I advised her.)
+'''
+gegenüber, D B1
+Español: frente a, enfrente de, respecto a
+Русский: напротив, против, по отношению к
+English: opposite, against, in relation to
+
+Ejemplos en alemán:
+- Das Hotel liegt **gegenüber** dem Bahnhof. (The hotel is **opposite** the train station.)
+- Er ist **gegenüber** seinen Freunden sehr loyal. (He is very loyal **to** his friends.)
+- Wie stehst du **gegenüber** dieser Idee? (How do you feel **about** this idea?)
+'''
+die Tendenz, - en B1
+Español: la tendencia
+Русский: тенденция
+English: the tendency
+
+- Die Tendenz zur Globalisierung ist in der heutigen Welt unvermeidlich. (The tendency towards globalization is inevitable in today's world.)
+- Er hatte die Tendenz, alles zu vergessen, was er gelernt hatte. (He had the tendency to forget everything he had learned.)
+- Sie hat ihre Tendenz geändert, nachdem sie die Wahrheit erfahren hatte. (She changed her tendency after she learned the truth.)
+'''
+tendenziell, B1
+Español: tendencialmente, con tendencia
+Русский: тенденциозно, с тенденцией
+English: tendentially, with tendency
+
+Frases en alemán usando tendenziell:
+
+- Die Umfrage zeigt, dass die Menschen **tendenziell** glücklicher sind als vor einem Jahr. (The survey shows that people are **tendentially** happier than a year ago.)
+- Er ist **tendenziell** eher konservativ, aber er stimmt nicht immer mit seiner Partei überein. (He is **tendentially** rather conservative, but he does not always agree with his party.)
+- Sie hat die Prüfung **tendenziell** bestanden, aber sie muss noch einige Fehler korrigieren. (She has **tendentially** passed the exam, but she still has to correct some mistakes.)
+'''
+überzeugen, B1
+Español: convencer
+Русский: убеждать
+English: persuade
+
+- Ich versuche, dich zu **überzeugen**, dass du mit mir ins Kino gehst. (I try to persuade you to go to the cinema with me.)
+- Er **überzeugte** mich mit seinen Argumenten. (He persuaded me with his arguments.)
+- Sie hat ihn endlich davon **überzeugt**, dass er zum Arzt gehen muss. (She finally convinced him that he had to go to the doctor.)
+'''
+verneinen, B1
+Español: negar
+Русский: отрицать
+English: negate
+
+Frases en alemán usando verneinen:
+
+- Ich **verneine** nicht, dass ich einen Fehler gemacht habe. (No niego que cometí un error.)
+- Er **verneinte** die Anschuldigungen gegen ihn. (Él negó las acusaciones contra él.)
+- Hast du jemals etwas **verneint**, was du wirklich wolltest? (¿Alguna vez has negado algo que realmente querías?)
+'''
+die Verneinung, - en B1
+Español: la negación
+Русский: отрицание
+English: negation
+
+Ejemplos de frases en alemán usando esta palabra:
+
+- Die Verneinung eines Satzes erfolgt durch das Wort "nicht". (La negación de una oración se realiza mediante la palabra "no".)
+- Er hat die Verneinung seiner Schuld immer aufrechterhalten. (Él siempre mantuvo la negación de su culpa.)
+- Hast du die Verneinung dieser Aussage bewiesen? (¿Has demostrado la negación de esta afirmación?)
+'''
+ablehnen, B1
+Español: rechazar
+Русский: отклонять
+English: reject
+
+Frases en alemán usando la palabra ablehnen:
+
+- Ich lehne dein Angebot ab. (Rechazo tu oferta.)
+- Er lehnte die Einladung höflich ab. (Él rechazó la invitación cortésmente.)
+- Sie hat den Antrag nicht abgelehnt. (Ella no rechazó la propuesta.)
+'''
+die Bedeutung, -en B1
+Español: el significado
+Русский: значение
+English: the meaning
+
+Frases en alemán usando esta palabra:
+
+- Was ist die Bedeutung dieses Wortes? (¿Qué significa esta palabra?)
+- Er verstand die Bedeutung seiner Tat nicht. (Él no entendió el significado de su acción.)
+- Ich habe ihr einen Ring geschenkt, aber er hatte keine besondere Bedeutung. (Le regalé un anillo, pero no tenía ningún significado especial.)
+'''
+die Endung, -en B1
+Español: la terminación
+Русский: окончание
+English: the ending
+
+- Die Endung eines Wortes zeigt oft seine Funktion im Satz an. (The ending of a word often indicates its function in the sentence.)
+- Er hat das Buch mit einer überraschenden Endung geschrieben. (He wrote the book with a surprising ending.)
+- Hast du das Buch schon zu Ende gelesen? (Have you finished reading the book yet?)
+'''
+das Fremdwort, -¨er B1
+Español: la palabra extranjera
+Русский: иностранное слово
+English: the foreign word
+
+Frases en alemán usando esta palabra:
+
+- Ich verstehe dieses Fremdwort nicht. Kannst du es mir erklären? (No entiendo esta palabra extranjera. ¿Puedes explicármela?)
+- Er benutzte viele Fremdwörter in seinem Vortrag, um klug zu wirken. (Usó muchas palabras extranjeras en su discurso para parecer inteligente.)
+- Sie hat viele Fremdwörter gelernt, als sie in Frankreich war. (Aprendió muchas palabras extranjeras cuando estuvo en Francia.)
+'''
+die Kommunikation, - en B1
+Español: la comunicación
+Русский: коммуникация
+English: communication
+
+- Die Kommunikation zwischen den Menschen ist sehr wichtig für das Zusammenleben. (La comunicación entre las personas es muy importante para la convivencia.)
+- Als ich gestern mit ihm gesprochen habe, war die Kommunikation sehr schlecht. Er hat mir nicht zugehört. (Cuando hablé con él ayer, la comunicación fue muy mala. No me escuchó.)
+- Wir haben viel miteinander kommuniziert und unsere Probleme gelöst. (Hemos comunicado mucho entre nosotros y hemos resuelto nuestros problemas.)
+'''
+kommunikativ, B1
+Español: comunicativo
+Русский: коммуникативный
+English: communicative
+
+- Er ist sehr kommunikativ und freundlich. (He is very communicative and friendly.)
+- Sie war gestern nicht so kommunikativ wie sonst. (She was not as communicative as usual yesterday.)
+- Wir haben viel kommuniziert und uns gut verstanden. (We communicated a lot and got along well.)
+'''
+kommunizieren, B1
+Español: comunicar
+Русский: общаться
+English: communicate
+
+Frases en alemán usando la palabra kommunizieren:
+
+- Ich kommuniziere gerne mit meinen Freunden über das Internet. (Me gusta comunicarme con mis amigos por internet.)
+- Gestern kommunizierte er mit seiner Familie per Telefon. (Ayer se comunicó con su familia por teléfono.)
+- Hast du schon mit deinem Chef über deine Gehaltserhöhung kommuniziert? (¿Ya has comunicado con tu jefe sobre tu aumento de sueldo?)
+'''
+mündlich, B1
+Español: oral
+Русский: устный
+English: oral
+
+- Ich habe morgen eine mündliche Prüfung in Geschichte. (I have an oral exam in history tomorrow.)
+- Er hat seine mündliche Prüfung nicht bestanden, weil er zu nervös war. (He did not pass his oral exam because he was too nervous.)
+- Hast du schon deine mündliche Note bekommen? (Did you already get your oral grade?)
+'''
+der Satzteil, -e B1
+Español: la parte de la oración
+Русский: часть предложения
+English: the part of the sentence
+
+Tres frases en alemán usando esta palabra son:
+
+- Der **Satzteil** vor dem Komma ist das Subjekt. (La parte de la oración antes de la coma es el sujeto.)
+- Er kann jeden **Satzteil** analysieren. (Él puede analizar cada parte de la oración.)
+- Sie hat den **Satzteil** umgestellt. (Ella ha cambiado el orden de la parte de la oración.)
+'''
+die Schrift, -en B1
+Español: la escritura
+Русский: письмо
+English: the writing
+- Ich mag **die Schrift** von diesem Autor. (I like the writing of this author.)
+- Er hat mir gestern einen Brief in alter **Schrift** geschickt. (He sent me a letter in old writing yesterday.)
+- Sie hat ihre **Schrift** verbessert. (She has improved her writing.)
+'''
+schriftlich, B1
+Español: escrito, escrita
+Русский: письменный, письменная
+English: written
+
+Ejemplos de frases en alemán usando schriftlich:
+
+- Ich habe die schriftliche Prüfung bestanden. (He aprobado el examen escrito.)
+- Er hat mir einen schriftlichen Antrag geschickt. (Él me ha enviado una solicitud por escrito.)
+- Sie müssen Ihre Beschwerde schriftlich einreichen. (Usted debe presentar su queja por escrito.)
+'''
+die Silbe, -n B1
+Español: la sílaba
+Русский: слог
+English: the syllable
+
+- Das Wort "Schmetterling" hat vier **Silben**. (The word "butterfly" has four syllables.)
+- Er sprach jede **Silbe** deutlich aus. (He pronounced every syllable clearly.)
+- Sie hat die **Silben** betont, die wichtig sind. (She stressed the syllables that are important.)
+'''
+das Sprichwort, -¨er B1
+Español: el refrán
+Русский: поговорка
+English: the proverb
+- Ein Sprichwort sagt: "Der Apfel fällt nicht weit vom Stamm." (A proverb says: "The apple does not fall far from the tree.")
+- Er kannte viele Sprichwörter auswendig und zitierte sie oft. (He knew many proverbs by heart and quoted them often.)
+- Hast du schon mal das Sprichwort gehört: "Not macht erfinderisch"? (Have you ever heard the proverb: "Necessity is the mother of invention"?)
+'''
+das Symbol, -e B1
+Español: el símbolo
+Русский: символ
+English: the symbol
+
+- Das Symbol für Frieden ist eine weiße Taube. (The symbol for peace is a white dove.)
+- Er erkannte sie an ihrem roten Schal, der ihr Symbol war. (He recognized her by her red scarf, which was her symbol.)
+- Sie haben das Symbol für Liebe auf die Wand gemalt. (They painted the symbol for love on the wall.)
+'''
+symbolisch B1
+Español: simbólico
+Русский: символический
+English: symbolic
+
+- Das Kreuz ist ein symbolisches Zeichen für das Christentum.
+- Die symbolische Bedeutung der Farben ist kulturell unterschiedlich.
+- Er hat ihr symbolisch einen Ring geschenkt, um seine Liebe zu zeigen.
+'''
+die Tabelle, -n B1
+Español: la tabla
+Русский: таблица
+English: the table
+
+- Die Tabelle zeigt die Ergebnisse der Umfrage. (The table shows the results of the survey.)
+- Er hat gestern eine Tabelle erstellt. (He created a table yesterday.)
+- Hast du die Tabelle schon ausgefüllt? (Have you filled out the table yet?)
+'''
+die Tageszeitung, - en B1
+Español: el periódico
+Русский: газета
+English: the newspaper
+
+- Ich lese jeden Morgen **die Tageszeitung**. (I read the newspaper every morning.)
+- Gestern habe ich in **der Tageszeitung** einen interessanten Artikel über Politik gelesen. (Yesterday I read an interesting article about politics in the newspaper.)
+- Hast du schon **die Tageszeitungen** von letzter Woche weggeschmissen? (Did you already throw away the newspapers from last week?)
+'''
+die Wochenzeitung, - en B1
+Español: el periódico semanal
+Русский: еженедельная газета
+English: the weekly newspaper
+
+- Ich lese jeden Freitag **die Wochenzeitung**. (I read the weekly newspaper every Friday.)
+- Früher hat er für **eine Wochenzeitung** gearbeitet. (He used to work for a weekly newspaper.)
+- Hast du schon **die neue Wochenzeitung** gesehen? (Have you seen the new weekly newspaper?)
+'''
+die Zeitschrift, - en B1
+Español: la revista
+Русский: журнал
+English: the magazine
+
+- Ich lese gerne **Zeitschriften** über Wissenschaft und Technologie. (I like to read **magazines** about science and technology.)
+- Früher hat er immer **Zeitschriften** gesammelt, aber jetzt hat er keine mehr. (He used to collect **magazines**, but now he has none.)
+- Hast du die neue Ausgabe der **Zeitschrift** schon gelesen? (Have you read the new issue of the **magazine** yet?)
+'''
+der Ausdruck, - ¨e B1
+Español: la expresión
+Русский: выражение
+English: expression
+
+Frases en alemán usando esta palabra:
+
+- Er hat einen **Ausdruck** der Freude auf seinem Gesicht. (He has an **expression** of joy on his face.)
+- Wie lautet der mathematische **Ausdruck** für diese Gleichung? (What is the mathematical **expression** for this equation?)
+- Sie hat ihren Gefühlen mit einem Gedicht **Ausdruck** verliehen. (She expressed her feelings with a poem.)
+'''
+die Aussage, -n B1
+Español: la declaración, el testimonio
+Русский: заявление, показание
+English: statement, testimony
+
+Frases en alemán usando esta palabra:
+
+- Der Richter hörte sich die Aussage des Zeugen an. (El juez escuchó el testimonio del testigo.)
+- Er hat seine Aussage widerrufen. (Él ha retractado su declaración.)
+- Sie hat eine falsche Aussage gemacht. (Ella ha hecho una declaración falsa.)
+'''
+aussagen, B1
+Español: afirmar, declarar
+Русский: утверждать, заявлять
+English: assert, state
+
+Frases en alemán usando aussagen:
+
+- Er sagt aus, dass er den Täter nicht kennt. (Él afirma que no conoce al culpable.)
+- Die Zeugin sagte gestern vor Gericht aus. (La testigo declaró ayer en el tribunal.)
+- Was hast du ausgesagt? (¿Qué has declarado?)
+'''
+begründen B1
+Español: justificar
+Русский: обосновывать
+English: justify
+
+- Er kann seine Entscheidung nicht begründen. (He cannot justify his decision.)
+- Sie begründete ihre Abwesenheit mit einer Krankheit. (She justified her absence with an illness.)
+- Hast du deine Meinung begründet? (Have you justified your opinion?)
+'''
+die Begründung, - en B1
+Español: la justificación
+Русский: обоснование
+English: the justification
+
+Frases en alemán usando esta palabra:
+
+- Er hat seine **Begründung** für den Rücktritt nicht angegeben. (He did not give his **justification** for resigning.)
+- Die **Begründung** des Urteils war sehr umstritten. (The **justification** of the verdict was very controversial.)
+- Sie hat mir ihre **Begründung** für die Verspätung erklärt. (She explained to me her **justification** for being late.)
+'''
+sich beziehen auf, B1
+Español: referirse a
+Русский: относиться к
+English: refer to
+
+- Dieser Artikel **bezieht sich auf** die aktuelle Situation in Syrien.
+- Er **bezog sich auf** seine eigene Erfahrung als Lehrer.
+- Sie hat sich in ihrer Rede oft **auf** die Quellen **bezogen**.
+'''
+feststellen, B1
+Español: determinar, constatar, establecer
+Русский: определять, констатировать, устанавливать
+English: determine, ascertain, establish
+
+Ejemplos de frases en alemán usando feststellen:
+
+- Der Arzt hat festgestellt, dass ich eine Lungenentzündung habe. (El médico ha determinado que tengo una neumonía.)
+- Ich stelle fest, dass du sehr gut Deutsch sprichst. (Constato que hablas muy bien alemán.)
+- Er hat seine Fehler festgestellt und sich entschuldigt. (Él ha establecido sus errores y se ha disculpado.)
+'''
+der Grund, - ¨e B1
+Español: la razón, el motivo
+Русский: причина, основание
+English: the reason, the ground
+
+- Ich habe einen guten Grund, warum ich heute nicht zur Schule gegangen bin. (I have a good reason why I didn't go to school today.)
+- Aus welchem Grund hast du dich für diesen Beruf entschieden? (For what reason did you choose this profession?)
+- Er hat das Haus aus dem Grund gekauft, weil es ihm gefallen hat. (He bought the house for the reason that he liked it.)
+'''
+klären, B1
+Español: aclarar, resolver
+Русский: прояснять, разрешать
+English: clarify, resolve
+
+Frases en alemán usando klären:
+
+- Ich muss etwas mit dir klären. (Tengo que aclarar algo contigo.)
+- Er klärte die Situation mit seinem Chef. (Él resolvió la situación con su jefe.)
+- Hast du das Problem schon geklärt? (¿Ya has aclarado el problema?)
+'''
+kommentieren B1
+Español: comentar
+Русский: комментировать
+English: comment
+
+- Ich kommentiere oft die Beiträge meiner Freunde auf Facebook. (I often comment on my friends' posts on Facebook.)
+- Gestern kommentierte er die Nachrichten im Fernsehen. (Yesterday he commented on the news on TV.)
+- Hast du schon den neuen Artikel von ihr kommentiert? (Have you commented on her new article yet?)
+'''
+melden, B1
+Español: informar, reportar, anunciar
+Русский: сообщать, докладывать, объявлять
+English: report, announce, inform
+
+Ejemplos:
+
+- Ich melde mich morgen bei dir. (Me comunicaré contigo mañana.)
+- Er meldete seinen Diebstahl der Polizei. (Él reportó su robo a la policía.)
+- Sie hat sich für den Kurs angemeldet. (Ella se inscribió en el curso.)
+'''
+die Meldung, -en B1
+Español: el aviso, el comunicado, la noticia
+Русский: сообщение, известие, новость
+English: the notice, the announcement, the news
+
+- Die Polizei hat eine **Meldung** über einen Einbruch erhalten. (The police received a **notice** about a break-in.)
+- Der Präsident hat eine wichtige **Meldung** an die Nation gemacht. (The president made an important **announcement** to the nation.)
+- Ich habe eine gute **Meldung** für dich: Du hast die Prüfung bestanden! (I have good **news** for you: You passed the exam!)
+'''
+nennen, B1
+Español: nombrar, llamar
+Русский: называть, звать
+English: name, call
+
+Ejemplos:
+- Wie nennt man dieses Tier auf Deutsch? (¿Cómo se llama este animal en alemán?)
+- Er nannte mich einen Lügner. (Él me llamó mentiroso.)
+- Sie hat ihn schon oft ihren Freund genannt. (Ella ya lo ha llamado muchas veces su novio.)
+'''
+der Punkt, -e B1
+Español: el punto
+Русский: точка
+English: the point
+- Er hat einen guten Punkt gemacht. (He made a good point.)
+- Ich habe gestern einen Punkt in Mathe verloren. (I lost a point in math yesterday.)
+- Hast du den Punkt auf der Karte gefunden? (Did you find the point on the map?)
+'''
+der Rat, die Ratschläge B1
+Español: el consejo, los consejos
+Русский: совет, советы
+English: the advice, the pieces of advice
+
+- Er hat mir einen guten Rat gegeben. (He gave me a good piece of advice.)
+- Sie brauchte keinen Rat von ihm. (She didn't need any advice from him.)
+- Hast du schon einen Rat befolgt? (Have you already followed a piece of advice?)
+'''
+raten, B1
+Español: aconsejar, suponer, adivinar
+Русский: советовать, предполагать, угадывать
+English: advise, suppose, guess
+
+Frases en alemán usando raten:
+
+- Ich rate dir, mehr Wasser zu trinken. (Te aconsejo que bebas más agua.)
+- Er ratet, dass es morgen regnen wird. (Él supone que mañana lloverá.)
+- Kannst du raten, was ich gekauft habe? (¿Puedes adivinar qué he comprado?)
+'''
+sinnvoll, B1
+Español: sensato, razonable
+Русский: разумный, целесообразный
+English: sensible, reasonable
+
+Frases en alemán usando sinnvoll:
+
+- Es ist sinnvoll, sich vor der Reise zu informieren. (Es sensato informarse antes de viajar.)
+- Er hat sinnvoll gehandelt, als er die Polizei gerufen hat. (Él actuó de manera razonable cuando llamó a la policía.)
+- Hast du schon sinnvoll genutzt, was du gelernt hast? (¿Ya has utilizado de forma sensata lo que has aprendido?)
+'''
+die Spitze, -n B1
+Español: la punta, el pico, el vértice
+Русский: вершина, кончик, острие
+English: the tip, the peak, the vertex
+
+Frases en alemán usando esta palabra:
+
+- Er hat sich an der **Spitze** des Bleistifts gestochen. (Se pinchó con la punta del lápiz.)
+- Der Bergsteiger erreichte die **Spitze** des Mount Everest. (El alpinista alcanzó la cima del Monte Everest.)
+- Er ist an der **Spitze** seiner Karriere. (Está en el vértice de su carrera.)
+'''
+der Teil, -e B1
+Español: la parte
+Русский: часть
+English: part
+
+- Das ist ein wichtiger **Teil** des Projekts. (This is an important **part** of the project.)
+- Er hat einen großen **Teil** seines Lebens in Berlin verbracht. (He spent a large **part** of his life in Berlin.)
+- Sie hat die Prüfung zum **Teil** bestanden. (She passed the exam in **part**.)
+'''
+u. a. (unter anderem), B1
+Español: entre otros
+Русский: среди прочего
+English: among others
+
+Ejemplos de frases en alemán usando u. a.:
+
+- Er spricht u. a. Deutsch, Englisch und Französisch. (Él habla, entre otros, alemán, inglés y francés.)
+- Die Ausstellung zeigt u. a. Werke von Picasso, Dalí und Miró. (La exposición muestra, entre otros, obras de Picasso, Dalí y Miró.)
+- Sie hat u. a. einen Oscar, einen Golden Globe und einen BAFTA gewonnen. (Ella ha ganado, entre otros, un Oscar, un Globo de Oro y un BAFTA.)
+'''
+unterscheiden, B1
+Español: distinguir
+Русский: различать
+English: differentiate
+
+- Ich kann die Stimmen meiner Freunde leicht **unterscheiden**. (I can easily **differentiate** the voices of my friends.)
+- Früher konnte er Rot und Grün nicht **unterscheiden**. (He used to not be able to **distinguish** red and green.)
+- Hast du die Wäsche nach Farben **unterschieden**? (Did you **separate** the laundry by colors?)
+'''
+der Unterschied, -e B1
+Español: la diferencia
+Русский: разница
+English: the difference
+
+- Der Unterschied zwischen den beiden Ländern ist sehr groß. (The difference between the two countries is very large.)
+- Er erkannte keinen Unterschied, ob er lachte oder weinte. (He did not recognize any difference, whether he laughed or cried.)
+- Hast du einen Unterschied bemerkt, seit du hier bist? (Have you noticed a difference since you have been here?)
+'''
+unterstreichen, B1
+Español: subrayar
+Русский: подчеркивать
+English: underline
+
+- Ich unterstreiche die wichtigen Wörter im Text. (I underline the important words in the text.)
+- Er unterstrich seine Aussage mit einem Zitat. (He underlined his statement with a quote.)
+- Hast du die Antwort schon unterstrichen? (Have you already underlined the answer?)
+'''
+usw. (und so weiter), B1
+Español: etc. (et cetera)
+Русский: и т.д. (и так далее)
+English: etc. (et cetera)
+
+Frases en alemán usando usw.:
+
+- Ich mag Obst wie Äpfel, Bananen, Orangen usw. (Me gusta la fruta como manzanas, plátanos, naranjas, etc.)
+- Er hat viele Hobbys: Fußball spielen, lesen, Musik hören usw. (Él tiene muchos pasatiempos: jugar al fútbol, leer, escuchar música, etc.)
+- Sie hat mir viele Sachen erzählt: über ihre Familie, ihre Arbeit, ihre Reisepläne usw. (Ella me contó muchas cosas: sobre su familia, su trabajo, sus planes de viaje, etc.)
+'''
+der Vergleich, -e zu D B1
+Español: la comparación
+Русский: сравнение
+English: the comparison
+
+Frases en alemán usando esta palabra:
+
+- Er hat einen **Vergleich** zwischen den beiden Autos angestellt. (He made a comparison between the two cars.)
+- Im **Vergleich** zu gestern ist es heute viel kälter. (Compared to yesterday, it is much colder today.)
+- Sie haben den Streit durch einen **Vergleich** beigelegt. (They settled the dispute by a compromise.)
+'''
+vergleichen mit, D B1
+Español: comparar con
+Русский: сравнивать с
+English: compare with
+
+- Ich vergleiche meine Hausaufgaben mit denen meiner Freundin. (I compare my homework with that of my friend.)
+- Er verglich die beiden Bilder mit einem Lächeln. (He compared the two pictures with a smile.)
+- Sie haben ihre Ergebnisse mit den Erwartungen verglichen. (They compared their results with the expectations.)
+'''
+die Unterschrift, - en B1
+Español: la firma
+Русский: подпись
+English: the signature
+
+- Ich brauche deine **Unterschrift** auf diesem Formular. (I need your signature on this form.)
+- Er hat das Buch mit seiner **Unterschrift** versehen. (He signed the book with his signature.)
+- Sie hat die **Unterschrift** gefälscht. (She forged the signature.)
+'''
+erfahren B1
+Español: experimentado, experimentar
+Русский: опытный, испытывать
+English: experienced, experience
+
+Frases en alemán usando erfahren:
+
+- Ich bin sehr **erfahren** in diesem Bereich. (Soy muy experimentado en este campo.)
+- Er hat gestern die traurige Nachricht **erfahren**. (Él se enteró ayer de la triste noticia.)
+- Sie hat viel **erfahren**, als sie in Afrika war. (Ella experimentó mucho cuando estuvo en África.)
+'''
+die Sprachkenntnisse, B1
+Español: los conocimientos de idiomas
+Русский: знание языков
+English: language skills
+
+- Ich möchte meine **Sprachkenntnisse** verbessern, deshalb lerne ich Deutsch. (I want to improve my language skills, that's why I learn German.)
+- Als sie nach Deutschland kam, hatte sie schon gute **Sprachkenntnisse**. (When she came to Germany, she already had good language skills.)
+- Er hat seine **Sprachkenntnisse** im Ausland erworben. (He acquired his language skills abroad.)
+'''
+(sich) ausdrücken B1
+Español: expresarse
+Русский: выражать(ся)
+English: express (oneself)
+
+Frases en alemán usando (sich) ausdrücken:
+
+- Ich kann mich nicht gut auf Deutsch **ausdrücken**. (No puedo expresarme bien en alemán.)
+- Er **drückte** seine Meinung klar und deutlich **aus**. (Él expresó su opinión de forma clara y precisa.)
+- Sie hat sich in ihrem Brief sehr liebevoll **ausgedrückt**. (Ella se expresó muy cariñosamente en su carta.)
+'''
+das Gespräch, -e B1
+Español: la conversación
+Русский: разговор
+English: the conversation
+
+Frases en alemán usando esta palabra:
+
+- Ich habe ein **Gespräch** mit meinem Chef über meine Gehaltserhöhung. (I have a conversation with my boss about my salary increase.)
+- Er erinnerte sich nicht an das **Gespräch**, das er gestern mit ihr geführt hatte. (He did not remember the conversation he had with her yesterday.)
+- Hast du schon das **Gespräch** mit deinem Lehrer gehabt? (Have you already had the conversation with your teacher?)
+'''
+reden, B1
+Español: hablar
+Русский: говорить
+English: talk
+
+Frases en alemán usando reden:
+
+- Ich rede gerne mit dir. (Me gusta hablar contigo.)
+- Er redete gestern viel über seine Reise. (Él habló mucho ayer sobre su viaje.)
+- Hast du schon mit ihr darüber geredet? (¿Ya has hablado con ella sobre eso?)
+'''
+siezen, B1
+Español: tratar de usted
+Русский: обращаться на вы
+English: to address formally
+
+Frases en alemán usando siezen:
+
+- Ich **sieze** meinen Chef, weil er sehr streng ist. (Presente)
+- Er **siezte** mich, als er mich zum ersten Mal traf. (Präteritum)
+- Hast du ihn **gesiezt** oder geduzt? (Perfekt)
+'''
+sich unterhalten, B1
+Español: conversar, charlar
+Русский: разговаривать, беседовать
+English: talk, chat
+
+Frases en alemán usando sich unterhalten:
+
+- Ich unterhalte mich gerne mit meinen Freunden. (Me gusta conversar con mis amigos.)
+- Gestern unterhielt er sich lange mit seiner Lehrerin. (Ayer habló mucho con su profesora.)
+- Wir haben uns über das Buch unterhalten, das wir gelesen haben. (Hablamos sobre el libro que leímos.)
+'''
+die Unterhaltung, - en B1
+Español: la conversación
+Русский: разговор
+English: the conversation
+
+Frases en alemán usando esta palabra:
+
+- Ich habe eine interessante **Unterhaltung** mit meinem Lehrer geführt. (He tenido una conversación interesante con mi profesor.)
+- Gestern haben wir die ganze Nacht **Unterhaltung** gesucht. (Ayer buscamos diversión toda la noche.)
+- Er zahlt jeden Monat **Unterhaltung** für seine Kinder. (Él paga la manutención de sus hijos cada mes.)
+'''
+der Füller, - B1
+Español: la pluma
+Русский: перо
+English: the pen
+
+Frases en alemán usando der Füller:
+
+- Ich schreibe gern mit meinem Füller. (Me gusta escribir con mi pluma.)
+- Er hat mir einen Füller zum Geburtstag geschenkt. (Él me regaló una pluma para mi cumpleaños.)
+- Hast du einen Füller dabei? Ich habe meinen verloren. (¿Tienes una pluma contigo? He perdido la mía.)
+
+auflegen, B1
+Español: colgar
+Русский: повесить
+English: hang up
+
+Frases en alemán usando auflegen:
+
+- Er legt auf, bevor ich etwas sagen kann. (Él cuelga antes de que pueda decir algo.)
+- Sie hat mir gesagt, dass sie mich liebt, und dann hat sie aufgelegt. (Ella me dijo que me amaba y luego colgó.)
+- Ich habe vergessen, nach dem Gespräch aufzulegen. (Olvidé colgar después de la conversación.)
+'''
+die Telefonzelle, -n B1
+Español: la cabina telefónica
+Русский: телефонная будка
+English: the phone booth
+
+Frases en alemán usando esta palabra:
+
+- Ich habe kein Handy, also muss ich eine **Telefonzelle** benutzen. (No tengo teléfono móvil, así que tengo que usar una cabina telefónica.)
+- Er rief sie aus der **Telefonzelle** an, um ihr zu sagen, dass er sie liebte. (Él la llamó desde la cabina telefónica para decirle que la amaba.)
+- Hast du schon mal eine rote **Telefonzelle** in London gesehen? (¿Has visto alguna vez una cabina telefónica roja en Londres?)
+'''
+die Einleitung, - en B1
+Español: la introducción
+Русский: введение
+English: the introduction
+
+- Die Einleitung eines Textes soll das Thema und die Hauptfrage vorstellen.
+- In der Einleitung seiner Rede bedankte er sich bei allen Anwesenden.
+- Hast du schon die Einleitung für deine Hausarbeit geschrieben?
+'''
+der Kommentar, -e B1
+Español: el comentario
+Русский: комментарий
+English: the comment
+
+- Ich lese gerne die Kommentare unter den Videos. (Me gusta leer los comentarios debajo de los videos.)
+- Er schrieb einen langen Kommentar zu dem Artikel. (Él escribió un largo comentario sobre el artículo.)
+- Hast du meinen Kommentar gelesen? (¿Has leído mi comentario?)
+'''
+der Leser, - B1
+Español: el lector
+Русский: читатель
+English: the reader
+
+- Der Leser ist von dem Buch begeistert. (The reader is enthusiastic about the book.)
+- Als Kind war er ein eifriger Leser. (As a child, he was an avid reader.)
+- Sie hat das Buch schon gelesen. (She has already read the book.)
+'''
+die Nachricht, -en B1
+Español: el mensaje, la noticia
+Русский: сообщение, новость
+English: message, news
+
+- Ich habe eine gute Nachricht für dich: Du hast die Prüfung bestanden. (I have good news for you: You passed the exam.)
+- Er schrieb ihr jeden Tag eine Nachricht, aber sie antwortete nie. (He wrote her a message every day, but she never answered.)
+- Hast du die Nachrichten gestern gesehen? Es gab einen großen Unfall auf der Autobahn. (Did you see the news yesterday? There was a big accident on the highway.)
+'''
+die Notiz, - en B1
+Español: la nota
+Русский: записка
+English: the note
+
+- Ich habe eine **Notiz** auf dem Tisch hinterlassen. (I left a note on the table.)
+- Er schrieb ihr eine **Notiz**, in der er sich für sein Verhalten entschuldigte. (He wrote her a note in which he apologized for his behavior.)
+- Hast du die **Notiz** gelesen, die ich dir geschickt habe? (Did you read the note that I sent you?)
+'''
+die Reportage, -n B1
+Español: el reportaje
+Русский: репортаж
+English: the report
+
+Algunas frases en alemán usando esta palabra son:
+
+- Ich habe gestern eine interessante **Reportage** über die Klimakrise gesehen. (I saw an interesting report on the climate crisis yesterday.)
+- Er arbeitet als Journalist und schreibt oft **Reportagen** für verschiedene Zeitschriften. (He works as a journalist and often writes reports for different magazines.)
+- Hast du die **Reportage** über die Olympischen Spiele gelesen? Sie war sehr informativ. (Did you read the report on the Olympic Games? It was very informative.)
+'''
+verständlich, B1
+Español: comprensible
+Русский: понятный
+English: understandable
+
+- Das ist eine verständliche Frage. (That is an understandable question.)
+- Er verstand die Antwort nicht, weil sie nicht verständlich war. (He did not understand the answer because it was not understandable.)
+- Sie hat mir alles verständlich erklärt. (She explained everything to me in an understandable way.)
+'''
+die Geschichte, -n B1
+Español: la historia, las historias
+Русский: история, истории
+English: the story, the stories
+
+- Ich lese gerne spannende **Geschichten**. (I like to read exciting **stories**.)
+- Er hat mir eine lustige **Geschichte** erzählt. (He told me a funny **story**.)
+- Sie haben viele **Geschichten** gemeinsam erlebt. (They have experienced many **stories** together.)
+'''
+thematisch, B2
+Español: temático
+Русский: тематический
+English: thematic
+
+Frases en alemán usando la palabra thematisch:
+
+- Die Ausstellung zeigt thematisch geordnete Werke von verschiedenen Künstlern. (La exposición muestra obras de diferentes artistas ordenadas temáticamente.)
+- Wir haben uns thematisch mit dem Klimawandel beschäftigt. (Nos hemos ocupado temáticamente del cambio climático.)
+- Das Buch ist thematisch sehr vielfältig und spannend. (El libro es temáticamente muy variado e interesante.)
+'''
+der Themenbereich, -e B2
+Español: el ámbito temático
+Русский: тематическая область
+English: the thematic area
+
+- Der Themenbereich dieses Buches ist die Geschichte Deutschlands. (The thematic area of this book is the history of Germany.)
+- Wir haben uns für einen Themenbereich entschieden, der uns interessiert. (We have chosen a thematic area that interests us.)
+- In welchem Themenbereich möchtest du deine Abschlussarbeit schreiben? (In which thematic area do you want to write your thesis?)
+'''
+die Veröffentlichung, - en B2
+Español: la publicación
+Русский: публикация
+English: the publication
+
+- Die Veröffentlichung des neuen Romans von J.K. Rowling hat viel Aufmerksamkeit erregt. (The publication of the new novel by J.K. Rowling has attracted a lot of attention.)
+- Er veröffentlichte seine Forschungsergebnisse in einer renommierten Fachzeitschrift. (He published his research results in a prestigious academic journal.)
+- Sie hat schon mehrere Gedichtbände veröffentlicht. (She has already published several volumes of poetry.)
+'''
+sich verschaffen, B2
+Español: conseguir, obtener, procurarse
+Русский: добывать, обеспечивать, доставать
+English: to get, to obtain, to procure
+
+Ejemplos en alemán:
+
+- Er verschafft sich einen Überblick über die Situation. (Él se hace una idea de la situación.)
+- Sie verschaffte sich Zugang zu dem geheimen Archiv. (Ella consiguió acceso al archivo secreto.)
+- Er hat sich durch seine Arbeit einen guten Ruf verschafft. (Él se ha ganado una buena reputación por su trabajo.)
+'''
+versichern, B2
+Español: asegurar, garantizar
+Русский: обеспечивать, гарантировать
+English: ensure, guarantee
+
+Frases en alemán usando versichern:
+
+- Ich versichere dir, dass ich die Wahrheit sage. (Te aseguro que digo la verdad.)
+- Er hat sich gegen Diebstahl versichert. (Él se ha asegurado contra el robo.)
+- Sie hat mir versprochen, dass sie mich morgen anruft. (Ella me ha prometido que me llama mañana.)
+'''
+vervollständigen B2
+Español: completar
+Русский: дополнять
+English: complete
+
+Frases en alemán usando esta palabra:
+
+- Ich muss noch die Hausaufgaben **vervollständigen**. (Todavía tengo que completar los deberes.)
+- Er **vervollständigte** seine Sammlung mit einem seltenen Buch. (Él completó su colección con un libro raro.)
+- Hast du das Formular **vervollständigt**? (¿Has completado el formulario?)
+'''
+vorkommen, B2
+Español: ocurrir, aparecer
+Русский: происходить, встречаться
+English: occur, appear
+
+- Das kommt in der Natur sehr selten vor. (Eso ocurre muy raramente en la naturaleza.)
+- Er kam gestern zu spät zur Arbeit vor. (Él llegó ayer tarde al trabajo.)
+- Sie ist schon oft in diesem Film vorgekommen. (Ella ha aparecido muchas veces en esta película.)
+'''
+wenden, B2
+Español: girar, cambiar de dirección
+Русский: поворачивать, менять направление
+English: turn, change direction
+
+Frases en alemán usando wenden:
+
+- Er wendet das Auto nach rechts. (Él gira el coche a la derecha.)
+- Sie wandte sich an die Polizei. (Ella se dirigió a la policía.)
+- Er hat sich von seiner Familie abgewendet. (Él se ha alejado de su familia.)
+'''
+die Wendung, - en B2
+Español: la expresión, el giro
+Русский: выражение, оборот
+English: expression, turn of phrase
+
+- Er hat eine **Wendung** zum Besseren gemacht. (He made a **turn** for the better.)
+- Das ist eine typische **Wendung** aus dem Schwäbischen. (That is a typical **expression** from the Swabian dialect.)
+- Sie hat die **Wendung** "im Handumdrehen" falsch verstanden. (She misunderstood the **phrase** "in a jiffy".)
+'''
+werten B2
+Español: valorar, evaluar
+Русский: оценивать, ценить
+English: to value, to evaluate
+
+Frases en alemán usando werten:
+
+- Ich werte die Ergebnisse der Prüfung aus. (Presente: Evalúo los resultados del examen.)
+- Er wertete seine Erfahrungen als positiv. (Präteritum: Él valoró sus experiencias como positivas.)
+- Sie haben die Situation falsch gewertet. (Perfekt: Ustedes han evaluado mal la situación.)
+'''
+widmen B2
+Español: dedicar
+Русский: посвящать
+English: dedicate
+
+- Ich widme meine Zeit dem Lernen von Sprachen. (I dedicate my time to learning languages.)
+- Er widmete ihr ein Lied. (He dedicated a song to her.)
+- Sie haben ihr Leben der Wissenschaft gewidmet. (They have dedicated their lives to science.)
+'''
+die Zeitangabe, -n B2
+Español: la indicación de tiempo
+Русский: указание времени
+English: the time indication
+
+Frases en alemán usando esta palabra:
+
+- Bitte geben Sie bei der Anmeldung **die Zeitangabe** für Ihre Ankunft an. (Por favor, indique el tiempo de su llegada al registrarse.)
+- Er konnte sich nicht an **die Zeitangabe** des Verbrechens erinnern. (No podía recordar el momento del crimen.)
+- Ich habe **die Zeitangaben** in meinem Kalender überprüft. (He comprobado las indicaciones de tiempo en mi calendario.)
+'''
+der Zusammenhang, - ¨e B2
+Español: la relación, la conexión, el contexto
+Русский: связь, соотношение, контекст
+English: the relation, the connection, the context
+
+- Es gibt einen **Zusammenhang** zwischen Stress und Gesundheit. (There is a **relation** between stress and health.)
+- Wie ist der **Zusammenhang** zwischen diesen beiden Ereignissen? (What is the **connection** between these two events?)
+- Um den Text zu verstehen, muss man den **Zusammenhang** kennen. (To understand the text, one must know the **context**.)
+'''
+zusammenhängen mit, D B2
+Español: estar relacionado con
+Русский: связан с
+English: be related to
+
+Ejemplos de frases en alemán usando esta palabra:
+
+- Die Ursache des Problems hängt mit der fehlerhaften Software zusammen. (The cause of the problem is related to the faulty software.)
+- Er hing mit einer berühmten Schauspielerin zusammen, aber sie trennten sich bald. (He was related to a famous actress, but they soon broke up.)
+- Die Ergebnisse dieser Studie hängen eng mit unseren Hypothesen zusammen. (The results of this study are closely related to our hypotheses.)
+'''
+zustellen, B2
+Español: entregar, repartir, obstruir
+Русский: доставлять, разносить, загораживать
+English: deliver, distribute, obstruct
+
+Frases en alemán usando zustellen:
+
+- Der Postbote hat mir heute ein Paket zugestellt. (El cartero me entregó un paquete hoy.)
+- Die Zeitungen werden jeden Morgen an die Abonnenten zugestellt. (Los periódicos se distribuyen cada mañana a los suscriptores.)
+- Die Demonstranten haben die Straße zugestellt. (Los manifestantes han obstruido la calle.)
+'''
+frankieren, B2
+Español: franquear
+Русский: оплачивать почтовые расходы
+English: to frank
+
+- Ich muss noch die Briefe frankieren, bevor ich sie zur Post bringe. (I still have to frank the letters before I take them to the post office.)
+- Früher frankierte er seine Pakete immer mit Briefmarken, aber jetzt benutzt er eine Frankiermaschine. (He used to frank his packages with stamps, but now he uses a franking machine.)
+- Hast du die Einladungen schon frankiert und verschickt? (Did you already frank and send the invitations?)
+'''
+das Porto, -s B2
+Español: el porte
+Русский: почтовый сбор
+English: the postage
+
+- Das Porto für diesen Brief beträgt 1,55 Euro. (The postage for this letter is 1.55 euros.)
+- Er hatte das Porto nicht bezahlt und der Brief kam zurück. (He had not paid the postage and the letter came back.)
+- Hast du das Porto schon berechnet? (Have you calculated the postage yet?)
+'''
+der Sender, - B2
+Español: el canal, la emisora
+Русский: канал, станция
+English: the channel, the station
+
+- Ich schaue jeden Abend die Nachrichten auf diesem **Sender**. (I watch the news on this channel every evening.)
+- Früher gab es nur wenige **Sender**, aber jetzt gibt es Hunderte. (In the past, there were only a few channels, but now there are hundreds.)
+- Der **Sender** hat seine Frequenz geändert und jetzt kann ich ihn nicht mehr empfangen. (The station changed its frequency and now I can't receive it anymore.)
+'''
+der Stempel, - B2
+Español: el sello
+Русский: печать
+English: the stamp
+- Ich habe einen neuen Stempel für meine Briefe gekauft. (I bought a new stamp for my letters.)
+- Er stempelte die Dokumente und gab sie mir zurück. (He stamped the documents and gave them back to me.)
+- Hast du schon deine Fahrkarte gestempelt? (Have you stamped your ticket yet?)
+'''
+die Schreibmaschine, -n B2
+Español: la máquina de escribir
+Русский: пишущая машинка
+English: the typewriter
+
+- Er hat eine alte Schreibmaschine im Keller gefunden. (He found an old typewriter in the basement.)
+- Sie schrieb früher ihre Romane auf einer Schreibmaschine. (She used to write her novels on a typewriter.)
+- Hast du schon mal mit einer Schreibmaschine geschrieben? (Have you ever written with a typewriter?)
+'''
+das Porto, -s B2
+Español: el franqueo
+Русский: почтовый сбор
+English: the postage
+- Das Porto für diesen Brief beträgt 1,55 Euro. (The postage for this letter is 1.55 euros.)
+- Er hatte das Porto nicht bezahlt und der Brief kam zurück. (He had not paid the postage and the letter came back.)
+- Hast du das Porto schon berechnet? (Have you calculated the postage yet?)
+'''
+das Massenmedium, die Massenmedien, B1
+
+Español: el medio de comunicación de masas, los medios de comunicación de masas
+Русский: средство массовой информации, средства массовой информации
+English: the mass medium, the mass media
+
+- Die Massenmedien haben einen großen Einfluss auf die öffentliche Meinung. (The mass media have a great influence on public opinion.)
+- In der DDR kontrollierte die Regierung alle Massenmedien. (In the GDR, the government controlled all mass media.)
+- Er hat sein Buch über verschiedene Massenmedien beworben. (He promoted his book through various mass media.)
+'''
+Massenmedien, B2
+Español: medios de comunicación masiva
+Русский: масс-медиа
+English: mass media
+
+- Die Massenmedien haben einen großen Einfluss auf die öffentliche Meinung. (The mass media have a great influence on public opinion.)
+- Früher gab es weniger Massenmedien als heute. (In the past, there were fewer mass media than today.)
+- Hast du schon die neuesten Nachrichten aus den Massenmedien gehört? (Have you heard the latest news from the mass media?)
+'''
+die Mediennutzung, B2
+Español: el uso de los medios
+Русский: использование средств массовой информации
+English: the media usage
+
+Beispiele:
+- Die Mediennutzung ist in den letzten Jahren stark gestiegen.
+- Wie hat sich die Mediennutzung während der Pandemie verändert?
+- Ich habe eine Umfrage über die Mediennutzung von Jugendlichen gemacht.
+'''
+die Nachrichtenagentur, - en B2
+Español: la agencia de noticias
+Русский: новостное агентство
+English: the news agency
+
+- Die **Nachrichtenagentur** Reuters hat einen Bericht über die Lage in Syrien veröffentlicht.
+- Er arbeitete früher für eine große **Nachrichtenagentur** in Berlin.
+- Sie haben die Informationen von einer lokalen **Nachrichtenagentur** erhalten.
+'''
+veröffentlichen B2
+Español: publicar
+Русский: публиковать
+English: publish
+
+- Ich möchte mein Buch nächstes Jahr veröffentlichen. (I want to publish my book next year.)
+- Er veröffentlichte einen Artikel über die Klimakrise. (He published an article about the climate crisis.)
+- Hast du schon das neue Album von Rammstein gehört? Sie haben es gestern veröffentlicht. (Have you heard the new album by Rammstein? They published it yesterday.)
+'''
+der Befürworter, - B2
+Español: el partidario
+Русский: сторонник
+English: the supporter
+
+Frases en alemán usando esta palabra:
+
+- Der Befürworter der Reform argumentierte, dass sie mehr Gerechtigkeit bringen würde. (The supporter of the reform argued that it would bring more justice.)
+- Er war ein Befürworter der Monarchie und lehnte die Republik ab. (He was a supporter of the monarchy and rejected the republic.)
+- Sie hat die Petition unterschrieben, weil sie eine Befürworterin des Tierschutzes ist. (She signed the petition because she is a supporter of animal welfare.)
+'''
+einschätzen, B2
+Español: evaluar, estimar
+Русский: оценивать, судить
+English: assess, estimate
+
+Frases en alemán usando einschätzen:
+
+- Ich kann die Situation nicht gut einschätzen. (No puedo evaluar bien la situación.)
+- Er hat seine Chancen zu hoch eingeschätzt. (Él estimó sus posibilidades demasiado altas.)
+- Hast du schon deine Prüfungsergebnisse eingeschätzt? (¿Ya has evaluado tus resultados de examen?)
+'''
+der Einwurf, - ¨e B2
+Español: el saque de banda
+Русский: вбрасывание
+English: the throw-in
+
+Frases en alemán usando esta palabra:
+
+- Der Schiedsrichter pfeift ab und gibt einen Einwurf für die Heimmannschaft.
+- El árbitro pita y concede un saque de banda para el equipo local.
+- The referee blows the whistle and awards a throw-in for the home team.
+
+- Er warf den Ball mit einem langen Einwurf in den Strafraum.
+- Lanzó el balón con un saque de banda largo al área.
+- He threw the ball with a long throw-in into the box.
+
+- Sie haben den Einwurf schnell ausgeführt und den Gegner überrascht.
+- Han sacado de banda rápido y han sorprendido al rival.
+- They took the throw-in quickly and caught the opponent off guard.
+'''
+der Gegensatz, - ¨e B2
+Español: el contraste, la oposición
+Русский: контраст, противоположность
+English: contrast, opposition
+
+- Der Gegensatz zwischen Schwarz und Weiß ist sehr stark. (The contrast between black and white is very strong.)
+- Er sagte das Gegenteil von dem, was er gestern gesagt hatte. (He said the opposite of what he had said yesterday.)
+- Sie haben ihre Meinung im Gegensatz zu ihm geändert. (They have changed their opinion in opposition to him.)
+'''
+gelten (für A), B2
+Español: valer (para A)
+Русский: действовать (для A)
+English: apply (to A)
+
+Frases en alemán usando gelten (für A):
+
+- Die Regeln gelten für alle. (Las reglas valen para todos.)
+- Galt das Angebot nur für gestern? (¿El oferta solo valía para ayer?)
+- Er hat für seine Familie als Held gegolten. (Él ha valido para su familia como un héroe.)
+'''
+die Meinungsäußerung, -en B2
+Español: la expresión de opinión
+Русский: выражение мнения
+English: the expression of opinion
+
+Ejemplos:
+
+- Die Meinungsäußerung ist ein Grundrecht in einer Demokratie. (La expresión de opinión es un derecho fundamental en una democracia.)
+- Er wurde wegen seiner Meinungsäußerung verhaftet. (Fue arrestado por su expresión de opinión.)
+- Sie hat ihre Meinungsäußerung geändert, nachdem sie mehr Informationen erhalten hat. (Ella cambió su expresión de opinión después de recibir más información.)
+'''
+die Sicht, B2
+Español: la vista
+Русский: вид
+English: the view
+
+Beispiele:
+- Die Sicht aus dem Fenster ist wunderschön. (The view from the window is beautiful.)
+- Er hatte keine klare Sicht auf die Situation. (He had no clear view of the situation.)
+- Sie hat die Prüfung mit Sicht bestanden. (She passed the exam with flying colors.)
+'''
+der Standpunkt, -e B2
+Español: el punto de vista
+Русский: точка зрения
+English: the point of view
+
+- Ich verstehe deinen Standpunkt, aber ich bin anderer Meinung.
+  (I understand your point of view, but I disagree.)
+- Er erklärte seinen Standpunkt zu dem Thema sehr klar.
+  (He explained his point of view on the topic very clearly.)
+- Sie haben ihren Standpunkt geändert, nachdem sie mehr Informationen erhalten haben.
+  (They changed their point of view after they received more information.)
+'''
+Der Begriff, -e B2
+Español: el concepto
+Русский: понятие
+English: the concept
+
+- Dieser Begriff ist in der Mathematik sehr wichtig. (This concept is very important in mathematics.)
+- Er erklärte mir den Begriff der Freiheit im 18. Jahrhundert. (He explained to me the concept of freedom in the 18th century.)
+- Hast du den Begriff schon mal gehört? (Have you ever heard of the concept?)
+'''
+bezeichnen B2
+Español: designar, denominar, indicar
+Русский: обозначать, называть, указывать
+English: designate, name, indicate
+
+- Er bezeichnete sich selbst als einen guten Freund. (He called himself a good friend.)
+- Sie bezeichneten die Stadt als ihr Zuhause. (They named the city as their home.)
+- Er hat mit dem Finger auf die Tür bezeichnet. (He indicated the door with his finger.)
+'''
+die Bezeichnung, - en B2
+Español: la denominación, el término
+Русский: наименование, термин
+English: the designation, the term
+
+- Die Bezeichnung für diese Pflanze ist mir nicht bekannt. (The designation for this plant is unknown to me.)
+- Er erhielt die Bezeichnung "Held des Tages". (He received the designation "hero of the day".)
+- Wie lautet die wissenschaftliche Bezeichnung für diesen Käfer? (What is the scientific term for this beetle?)
+'''
+grammatisch, B2
+Español: gramatical
+Русский: грамматический
+English: grammatical
+
+- Dieser Satz ist **grammatisch** korrekt. (This sentence is grammatically correct.)
+- Er sprach **grammatisch** falsch, weil er die Regeln nicht kannte. (He spoke grammatically wrong, because he did not know the rules.)
+- Hast du deine Arbeit schon **grammatisch** überprüft? (Have you already checked your work grammatically?)
+'''
+sinngemäß, B2
+Español: aproximadamente, de manera aproximada
+Русский: приблизительно, смысловой
+English: approximately, in a sense
+
+Frases en alemán usando sinngemäß:
+
+- Er hat sinngemäß gesagt, dass er nicht mehr mit uns arbeiten will. (He said in a sense that he doesn't want to work with us anymore.)
+- Das ist sinngemäß das Gleiche wie das, was ich gesagt habe. (That is approximately the same as what I said.)
+- Du musst den Text nicht wörtlich übersetzen, sondern sinngemäß. (You don't have to translate the text literally, but in a sense.)
+'''
+das Stichwort, -¨er B2
+
+Español: la palabra clave
+Русский: ключевое слово
+English: the keyword
+
+- Das Stichwort für diese Lektion ist "Umwelt". (The keyword for this lesson is "environment".)
+- Er hat alle Stichwörter auf Karteikarten geschrieben. (He wrote all the keywords on index cards.)
+- Sie hat das Stichwort vergessen und musste improvisieren. (She forgot the cue and had to improvise.)
+'''
+die Devise, -n B2
+Español: el lema, la divisa
+Русский: девиз, валюта
+English: the motto, the currency
+
+- Die Devise des Pfadfinders ist "Allzeit bereit". (The motto of the scout is "Always ready".)
+- In welcher Devise möchtest du bezahlen? Euro oder Dollar? (In which currency do you want to pay? Euro or Dollar?)
+- Er lebte nach der Devise: "Lebe jeden Tag, als wäre es dein letzter." (He lived by the motto: "Live every day as if it were your last.")
+'''
+die Berichterstattung, -en B2
+Español: la cobertura
+Русский: освещение
+English: the coverage
+
+- Die Berichterstattung über die Olympischen Spiele war sehr umfangreich und informativ.
+- Die Journalisten kritisierten die Berichterstattung der Regierung über den Krieg.
+- Wie fandest du die Berichterstattung über die Oscar-Verleihung? Ich fand sie ziemlich langweilig.
+'''
+die Schlagzeile, -n B2
+Español: el titular, los titulares
+Русский: заголовок, заголовки
+English: the headline, the headlines
+
+Algunas frases en alemán usando esta palabra son:
+
+- Die Schlagzeile der Zeitung war sehr provokativ. (The headline of the newspaper was very provocative.)
+- Er hat gestern eine Schlagzeile gemacht, als er den Weltrekord brach. (He made a headline yesterday when he broke the world record.)
+- Hast du die Schlagzeilen über die neue Regierung gelesen? (Did you read the headlines about the new government?)
+'''
+die Angabe, -n B2
+Español: la indicación, el dato
+Русский: указание, данные
+English: the indication, the information
+
+Frases en alemán usando esta palabra:
+
+- Bitte geben Sie Ihre **Angaben** auf dem Formular an. (Por favor, indique sus **datos** en el formulario.)
+- Er hat keine **Angabe** über seinen Aufenthaltsort gemacht. (Él no dio ninguna **indicación** sobre su paradero.)
+- Die **Angaben** in diesem Buch sind sehr nützlich. (La **información** de este libro es muy útil.)
+'''
+angeben, B2
+Español: indicar, presumir
+Русский: указывать, хвастаться
+English: indicate, boast
+
+- Er gibt an, dass er sehr reich ist. (Él indica que es muy rico.)
+- Sie gab an, sie sei krank. (Ella indicó que estaba enferma.)
+- Er hat angegeben, dass er morgen kommt. (Él ha indicado que viene mañana.)
+
+- Er gibt immer mit seinem Auto an. (Él siempre presume de su coche.)
+- Sie gab mit ihrer Note an. (Ella presumió de su nota.)
+- Er hat mit seinem Erfolg angegeben. (Él ha presumido de su éxito.)
+'''
+anführen, B2
+Español: liderar, encabezar, dirigir
+Русский: вести, возглавлять, руководить
+English: lead, head, direct
+
+Frases en alemán usando anführen:
+
+- Er führt die Gruppe an. (Él lidera el grupo.)
+- Sie führte an, dass sie keine Zeit hatte. (Ella dijo que no tenía tiempo.)
+- Er hat die Mannschaft zum Sieg geführt. (Él ha llevado al equipo a la victoria.)
+'''
+berücksichtigen, B2
+Español: tener en cuenta, considerar
+Русский: учитывать, принимать во внимание
+English: take into account, consider
+
+Frases en alemán usando berücksichtigen:
+
+- Wir müssen alle Faktoren **berücksichtigen**, bevor wir eine Entscheidung treffen. (We have to take into account all the factors before we make a decision.)
+- Er hat meine Meinung nicht **berücksichtigt**, als er das Projekt gestartet hat. (He did not consider my opinion when he started the project.)
+- Sie hat ihre Fehler **berücksichtigt** und sich entschuldigt. (She has taken into account her mistakes and apologized.)
+'''
+eingehen auf, B2
+Español: entrar en, abordar, ocuparse de
+Русский: входить в, затрагивать, заниматься
+English: to go into, to address, to deal with
+
+- Er geht auf die Kritik nicht ein. (He does not go into the criticism.)
+- Sie ging auf seine Fragen freundlich ein. (She addressed his questions kindly.)
+- Wir müssen auf dieses Problem schnell eingehen. (We have to deal with this problem quickly.)
+'''
+festhalten, B2
+Español: sostener, agarrar, aferrarse
+Русский: держать, удерживать, придерживаться
+English: hold, retain, adhere
+
+Frases en alemán usando festhalten:
+
+- Er **hielt** das Buch **fest** in seinen Händen. (Él sostuvo el libro firmemente en sus manos.)
+- Die Polizei **hat** den Verdächtigen **festgehalten**. (La policía retuvo al sospechoso.)
+- Wir **halten** an unseren Prinzipien **fest**. (Nos adherimos a nuestros principios.)
+'''
+festlegen, B2
+Español: establecer, fijar, determinar
+Русский: устанавливать, закреплять, определять
+English: set, fix, determine
+
+Frases en alemán usando festlegen:
+
+- Wir müssen uns auf einen Termin **festlegen**. (We have to **set** a date.)
+- Er hat seine Brille auf den Tisch **gelegt**. (He **put** his glasses on the table.)
+- Sie hat **festgelegt**, dass sie morgen abreisen will. (She **determined** that she wants to leave tomorrow.)
+'''
+die Hinsicht, B2
+Español: el aspecto, la perspectiva
+Русский: отношение, аспект
+English: the respect, the aspect
+
+Frases en alemán usando esta palabra:
+
+- In dieser Hinsicht bin ich ganz deiner Meinung. (En este aspecto estoy totalmente de acuerdo contigo.)
+- Er hat sich in jeder Hinsicht verbessert. (Él ha mejorado en todos los aspectos.)
+- Sie hat mich in dieser Hinsicht sehr enttäuscht. (Ella me ha decepcionado mucho en este aspecto.)
+'''
+nachgehen, B2
+Español: seguir, perseguir, dedicarse a
+Русский: следовать, преследовать, заниматься
+English: follow, pursue, pursue
+
+Ejemplos en alemán:
+
+- Er ging seiner Leidenschaft für Musik nach und wurde ein berühmter Komponist. (He followed his passion for music and became a famous composer.)
+- Die Polizei ging dem Verdächtigen nach, aber er entkam. (The police pursued the suspect, but he escaped.)
+- Sie hat ihrem Hobby nachgegangen und viele schöne Fotos gemacht. (She pursued her hobby and took many beautiful photos.)
+'''
+der Rahmen, - B2
+Español: el marco
+Русский: рамка
+English: the frame
+
+- Der Rahmen dieses Bildes ist aus Holz. (The frame of this picture is made of wood.)
+- Er hat den Rahmen zerbrochen, als er ihn fallen ließ. (He broke the frame when he dropped it.)
+- Sie hat einen neuen Rahmen für ihr Diplom gekauft. (She bought a new frame for her diploma.)
+'''
+sogenannt, B2
+Español: llamado, supuesto
+Русский: так называемый, предполагаемый
+English: so-called, alleged
+- Das ist ein sogenannter Kugelschreiber, aber er schreibt nicht.
+- Er hat mir eine sogenannte Lösung gezeigt, die gar nicht funktioniert hat.
+- Sie hat eine sogenannte Freundin, die immer schlecht über sie redet.
+
+die Ursache, -n, B2
+Español: la causa, las causas
+Русский: причина, причины
+English: the cause, the causes
+- Die Ursache für den Unfall ist noch unklar.
+- Er hat die Ursachen seines Scheiterns analysiert.
+- Sie hat viele Ursachen für ihre Entscheidung genannt.
+'''
+verbinden, B2
+Español: conectar, unir
+Русский: соединять, связывать
+English: connect, join
+
+Frases en alemán usando verbinden:
+
+- Ich verbinde dich mit dem Kundenservice. (Te conecto con el servicio al cliente.)
+- Er verband seine Wunde mit einem Verband. (Él vendó su herida con una venda.)
+- Sie haben sich durch ihre Liebe verbunden. (Ellos se unieron por su amor.)
+'''
+die Muttersprache, -n B2
+Español: lengua materna
+Русский: родной язык
+English: mother tongue
+
+- Meine Muttersprache ist Spanisch, aber ich spreche auch Deutsch und Englisch. (My mother tongue is Spanish, but I also speak German and English.)
+- Er hat seine Muttersprache nie vergessen, obwohl er in einem anderen Land lebt. (He never forgot his mother tongue, even though he lives in another country.)
+- Sie hat viele Sprachen gelernt, aber ihre Muttersprache ist immer noch die schönste für sie. (She learned many languages, but her mother tongue is still the most beautiful for her.)
+'''
+muttersprachlich, B2
+Español: nativo/a
+Русский: родной
+English: native
+
+Frases en alemán usando muttersprachlich:
+
+- Mein Vater ist muttersprachlich Deutsch, aber meine Mutter spricht Englisch. (Mi padre es nativo de alemán, pero mi madre habla inglés.)
+- Er spricht muttersprachlich Französisch, hat aber auch gute Kenntnisse in Spanisch und Italienisch. (Él habla francés nativo, pero también tiene buenos conocimientos de español e italiano.)
+- Sie hat einen Kurs besucht, um muttersprachlich Englisch zu unterrichten. (Ella ha hecho un curso para enseñar inglés nativo.)
+'''
+der Spracherwerb, B2
+Español: la adquisición del lenguaje
+Русский: овладение языком
+English: language acquisition
+
+- Der Spracherwerb ist ein komplexer Prozess, der von vielen Faktoren abhängt. (Language acquisition is a complex process that depends on many factors.)
+- Als Kind erwarb er zwei Sprachen gleichzeitig: Deutsch und Türkisch. (As a child, he acquired two languages simultaneously: German and Turkish.)
+- Sie hat im Laufe ihres Lebens mehrere Sprachen erworben. (She has acquired several languages throughout her life.)
+'''
+die Zweitsprache, -n B2
+Español: el segundo idioma
+Русский: второй язык
+English: the second language
+
+- Ich lerne Deutsch als **Zweitsprache**. (I learn German as a second language.)
+- Er hat Englisch in der Schule als **Zweitsprache** gelernt. (He learned English in school as a second language.)
+- Sie spricht fließend Französisch, weil es ihre **Zweitsprache** ist. (She speaks fluent French, because it is her second language.)
+'''
+(sich) äußern B2
+Español: expresarse, manifestarse
+Русский: выражать(ся), заявлять
+English: express (oneself), state
+
+Frases en alemán usando (sich) äußern:
+
+- Er äußerte seine Meinung zu dem Thema. (He expressed his opinion on the topic.)
+- Sie äußerte sich nicht zu den Vorwürfen. (She did not comment on the allegations.)
+- Wie hast du dich zu dem Vorschlag geäußert? (How did you respond to the suggestion?)
+'''
+(sich) austauschen B2
+Español: intercambiar(se)
+Русский: обмениваться
+English: exchange
+
+Ejemplos:
+- Die Studenten **tauschen sich** über ihre Erfahrungen aus. (Los estudiantes intercambian sus experiencias.)
+- Er **tauschte** seinen Mantel gegen eine Decke. (Él cambió su abrigo por una manta.)
+- Sie haben ihre Telefonnummern **ausgetauscht**. (Ellos han intercambiado sus números de teléfono.)
+'''
+befürchten, B2
+Español: temer
+Русский: бояться
+English: fear
+
+- Ich **befürchte**, dass es morgen regnen wird. (I fear that it will rain tomorrow.)
+- Er **befürchtete**, dass sie ihn nicht liebte. (He feared that she did not love him.)
+- Sie hat **befürchtet**, dass er nicht kommen würde. (She feared that he would not come.)
+'''
+führen, B2
+Español: liderar, dirigir, conducir
+Русский: вести, руководить, управлять
+English: lead, guide, manage
+
+Frases en alemán usando führen:
+
+- Er führt die Gruppe durch den Wald. (Él guía al grupo por el bosque.)
+- Sie hat das Projekt erfolgreich geführt. (Ella ha liderado el proyecto con éxito.)
+- Er hat mich zum Bahnhof geführt. (Él me ha conducido a la estación de tren.)
+'''
+die Feder, -n B2
+Español: la pluma, las plumas
+Русский: перо, перья
+English: the feather, the feathers
+
+- Der Vogel verliert eine Feder. (The bird loses a feather.)
+- Er schrieb ihr einen Brief mit einer Feder. (He wrote her a letter with a feather.)
+- Sie hat eine Feder im Haar. (She has a feather in her hair.)
+'''
+der Filzstift, -e B2
+Español: el rotulador
+Русский: фломастер
+English: the felt-tip pen
+
+Frases en alemán usando esta palabra:
+
+- Ich habe einen neuen **Filzstift** gekauft, der sehr gut schreibt. (He comprado un rotulador nuevo que escribe muy bien.)
+- Er malte mit einem **Filzstift** ein Bild an die Wand. (Él pintó con un rotulador un dibujo en la pared.)
+- Hast du einen **Filzstift** benutzt, um das zu schreiben? (¿Has usado un rotulador para escribir eso?)
+'''
+der Hörer, - B2
+Español: el auricular, el receptor
+Русский: телефонная трубка, наушник
+English: the handset, the earphone
+
+Frases en alemán usando esta palabra:
+
+- Ich habe den **Hörer** abgenommen und meine Mutter hat mich begrüßt. (I picked up the **handset** and my mother greeted me.)
+- Er hat seine **Hörer** aufgesetzt und Musik gehört. (He put on his **earphones** and listened to music.)
+- Hast du den **Hörer** aufgelegt? (Did you hang up the **handset**?)
+'''
+der Anschluss, - ¨e B2
+Español: la conexión, el enlace
+Русский: подключение, присоединение
+English: connection, annexation
+Frases en alemán:
+- Ich habe keinen Anschluss an die Gruppe. (No tengo conexión con el grupo.)
+- Österreich wurde 1938 an das Deutsche Reich angeschlossen. (Austria fue anexada al Imperio Alemán en 1938.)
+- Hast du deinen Laptop an das Internet angeschlossen? (¿Has conectado tu portátil a Internet?)
+'''
+der Kontext, -e B2
+Español: el contexto
+Русский: контекст
+English: the context
+
+- Der Kontext ist wichtig, um eine Aussage zu verstehen.
+- Im Kontext der Pandemie mussten viele Menschen zu Hause bleiben.
+- Hast du den Text im Kontext gelesen oder nur einzelne Absätze?
+'''
+der Leserbrief, -e B2
+Español: la carta al director
+Русский: письмо в редакцию
+English: the letter to the editor
+
+- Ich habe einen Leserbrief an die Zeitung geschrieben, um meine Meinung zu dem Artikel über die Umwelt zu äußern.
+- Als er den Leserbrief seiner Frau las, war er sehr stolz auf sie.
+- Hast du schon den Leserbrief gelesen, den ich gestern geschickt habe? Er ist heute in der Zeitung veröffentlicht worden.
+'''
+der Ausgang, - ¨e B2
+Español: la salida
+Русский: выход
+English: the exit
+
+- Der Ausgang ist auf der linken Seite. (The exit is on the left side.)
+- Er fand keinen Ausgang aus der Situation. (He found no way out of the situation.)
+- Sie sind durch den falschen Ausgang gegangen. (They went through the wrong exit.)
+'''
+der Aspekt, -e B2
+Español: el aspecto
+Русский: аспект
+English: the aspect
+
+- Dieser Aspekt ist sehr wichtig für das Verständnis des Problems. (This aspect is very important for understanding the problem.)
+- Er erzählte die Geschichte aus seinem eigenen Aspekt. (He told the story from his own aspect.)
+- Sie haben den Aspekt der Nachhaltigkeit in ihrem Projekt berücksichtigt. (They have taken into account the aspect of sustainability in their project.)
+'''
+postlagernd, C1
+Español: a la lista de correos
+Русский: до востребования
+English: poste restante
+
+Frases en alemán usando postlagernd:
+
+- Ich habe dir einen Brief postlagernd geschickt. Du kannst ihn bei der Post abholen. (I sent you a letter poste restante. You can pick it up at the post office.)
+- Wenn du nicht weißt, wo du wohnen wirst, kannst du deine Post postlagernd erhalten. (If you don't know where you will live, you can receive your mail poste restante.)
+- Er hat seine Adresse geändert, aber er hat vergessen, mir das zu sagen. Jetzt ist mein Paket postlagernd. (He changed his address, but he forgot to tell me. Now my package is poste restante.)
