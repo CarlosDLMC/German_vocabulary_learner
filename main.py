@@ -33,8 +33,8 @@ for file in os.listdir(RESULTS_PATH):
 
     file_name = file.replace(".txt", "")
 
-    constructor = PDFConstructor(file_name)
-    for word_with_info in words_with_info:
+    constructor = PDFConstructor(file_name, len(words_with_info)-1)
+    for j, word_with_info in enumerate(words_with_info):
         lines = word_with_info.split("\n", 4)
         if len(lines) < 5:
             print_lines = '\n'.join(lines)
@@ -45,5 +45,5 @@ for file in os.listdir(RESULTS_PATH):
         russian_translation = lines[2].strip()
         english_translation = lines[3].strip()
         sentences = lines[4]
-        constructor.add_word(german_word, spanish_translation, russian_translation, english_translation, sentences)
+        constructor.add_word(j, german_word, spanish_translation, russian_translation, english_translation, sentences)
     constructor.save_file()
